@@ -1,0 +1,41 @@
+name: Import open-source Chinese fonts (one-time)
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/import-open-fonts.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download verified upstream font files and licenses
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p incoming licenses/lxgw-wenkai licenses/lxgw-marker-gothic
+          curl -fL --retry 3 -o incoming/LXGWWenKai-Regular.ttf 'https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/fonts/TTF/LXGWWenKai-Regular.ttf'
+          curl -fL --retry 3 -o incoming/LXGWMarkerGothic-Regular.ttf 'https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/fonts/ttf/LXGWMarkerGothic-Regular.ttf'
+          curl -fL --retry 3 -o licenses/lxgw-wenkai/OFL.txt 'https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/OFL.txt'
+          curl -fL --retry 3 -o licenses/lxgw-marker-gothic/OFL.txt 'https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/OFL.txt'
+          test "$(wc -c < incoming/LXGWWenKai-Regular.ttf)" -gt 1000000
+          test "$(wc -c < incoming/LXGWMarkerGothic-Regular.ttf)" -gt 1000000
+      - name: Commit fonts to incoming
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add incoming licenses
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: import LXGW WenKai and Marker Gothic with OFL licenses"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then exit 0; fi
+            sleep 3
+          done
+          exit 1
