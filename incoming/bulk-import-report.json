@@ -1,0 +1,287 @@
+{
+  "source": "https://raw.githubusercontent.com/Markjinli/free-commercial-fonts/master/download_fonts.ps1",
+  "downloaded": [
+    {
+      "font": "LXGWWenKaiGB-Regular.ttf",
+      "repo": "lxgw/LxgwWenKaiGB",
+      "license": "ofl-1.1",
+      "sha256": "87a1551d9220b5062875c7845a8ca70aa04d53e5a2108b3d1ee9d1d356ad7dbb"
+    },
+    {
+      "font": "LXGWWenKaiTC-Regular.ttf",
+      "repo": "lxgw/LxgwWenKaiTC",
+      "license": "ofl-1.1",
+      "sha256": "62305f1e66fcc53b7f6d574d178c96805072d2dfd94c27afb0248899d48730fb"
+    },
+    {
+      "font": "IBMPlexSans-Text.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "4abc4919d313b56a5e3ffdb249ed2450392a5df21478aa4e25ff23901398b1fb"
+    },
+    {
+      "font": "IBMPlexSans-SemiBoldItalic.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "147106b619423a82b40f6d64bace074ad5b786e59f48023bda69d63b1755fb82"
+    },
+    {
+      "font": "IBMPlexSans-Medium.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "331c8639d7598b2cde62a911a71db195e30cb655cd6bdf2e324a7e984955f907"
+    },
+    {
+      "font": "IBMPlexSans-TextItalic.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "622e67ffee610160f135c3636825625095cb112b83275ee88752648fad56d89c"
+    },
+    {
+      "font": "IBMPlexSans-SemiBold.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "a20caf8286023a6a7a85e40b1d2a4ae9fc3e3b1f9eda8f4c542dd4986af67bb1"
+    },
+    {
+      "font": "IBMPlexSans-MediumItalic.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "9928852bf60d82fdbbfe30eac86bcecd611e4188f0fa4d98938560659fa99c64"
+    },
+    {
+      "font": "IBMPlexSans-LightItalic.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "54ad6d58d163b6b1f850fcbab3c46a1ed6c1ec3050524abb904c076a52c6bb1a"
+    },
+    {
+      "font": "IBMPlexSans-ExtraLight.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "c13105ca8fb60874c8db103e8ff058f0dfa0e2194e20ee5c9b0f8b7dd5e1fe85"
+    },
+    {
+      "font": "IBMPlexSans-Thin.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "d2fdd87b43039f5e05c7749b6b7937837d074bbf14af2d26dba09b67abf6aca1"
+    },
+    {
+      "font": "IBMPlexSans-ThinItalic.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "e1056650d0a4511372fa44f539a65c92e2ede7fe19ff5560c05e4490275c41a8"
+    },
+    {
+      "font": "IBMPlexSans-BoldItalic.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "0e3142ba2ef31fe5c02f0c6c36424f251609cd6b73880076e21c2e81931ba2b9"
+    },
+    {
+      "font": "IBMPlexSans-Light.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "2218b5f3f1fc9d3a793343f45c3be5ee7eae9584a7a52391bb8cf2d37622b3e0"
+    },
+    {
+      "font": "IBMPlexSans-Italic.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "a9c6ef9942c49e49d11e11a6dacc0b3a087978757e9b22a06b8ac22a6400fb15"
+    },
+    {
+      "font": "IBMPlexSans-Regular.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "975dcda37d80f038dcd143c22e33ca2d97a0cc5a929aace1c749153b0fe1afa5"
+    },
+    {
+      "font": "IBMPlexSans-ExtraLightItalic.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "b8a4390ab03889949e6621f7ad635b459c0e520db70fccd833034103b6cf6d3f"
+    },
+    {
+      "font": "IBMPlexSans-Bold.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "9e6c74a889a700d707613d24548fe4ffa6bc59559a0689d2cf9e133bdcdafb2f"
+    },
+    {
+      "font": "IBMPlexSansJP-Bold.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "2cec02b59cb431672309697d964faa30f18f1b16e4c7a968b57524414636b616"
+    },
+    {
+      "font": "IBMPlexSansJP-Thin.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "82958eb1b0753e28ecf3d8594ed59ac7ca64957d62a08a2bc8b4ee3994340724"
+    },
+    {
+      "font": "IBMPlexSansJP-ExtraLight.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "c091820fb28aae532d754cca095b97eb6a7a2fbf411ec12fc355bccc5b47c180"
+    },
+    {
+      "font": "IBMPlexSansJP-Medium.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "ad2ecca35612dd6637ebbe84fd590bdd8e007957bec17f67a6f5519f64958552"
+    },
+    {
+      "font": "IBMPlexSansJP-SemiBold.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "4f6a9cf3957c407f0913cf3eb251c88cd051ff1d976f4474b39f149100443f22"
+    },
+    {
+      "font": "IBMPlexSansJP-Light.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "635ef6537c8c6611c782ef4819b4a85db3bf1ecdfee7a27ee7564432c4fe4070"
+    },
+    {
+      "font": "IBMPlexSansJP-Regular.ttf",
+      "repo": "IBM/plex",
+      "license": "ofl-1.1",
+      "sha256": "25d96fe620f12fba6cf09158807117ec13d1e7c9debff488117cf21dc8844688"
+    }
+  ],
+  "skipped": [
+    {
+      "font": "SourceHanSansSC.zip",
+      "repo": "adobe-fonts/source-han-sans",
+      "reason": "license not in approved redistribution allowlist: other"
+    },
+    {
+      "font": "SourceHanSerifSC.zip",
+      "repo": "adobe-fonts/source-han-serif",
+      "reason": "license not in approved redistribution allowlist: other"
+    },
+    {
+      "font": "SourceHanMono.ttc",
+      "repo": "adobe-fonts/source-han-mono",
+      "reason": "license not in approved redistribution allowlist: other"
+    },
+    {
+      "font": "LXGWWenKaiLite-Regular.ttf",
+      "repo": "lxgw/LxgwWenKai-Lite",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "LXGWWenKaiScreen.ttf",
+      "repo": "lxgw/LxgwWenKai-Screen",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "LXGWZhenKai-Regular.ttf",
+      "repo": "lxgw/LxgwZhenKai",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "LXGWMarkerGothic.ttf",
+      "repo": "lxgw/LxgwMarkerGothic",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "LXGWNewClearGothic-Regular.ttf",
+      "repo": "lxgw/LxgwNewClearGothic",
+      "reason": "license not in approved redistribution allowlist: other"
+    },
+    {
+      "font": "LXGWBright-Regular.ttf",
+      "repo": "lxgw/LxgwBright",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "Yozai-Regular.ttf",
+      "repo": "lxgw/yozai-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "XiaolaiSC-Regular.ttf",
+      "repo": "lxgw/kose-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "DouyinSansBold.ttf",
+      "repo": "bytedance/fonts",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "Qiji-Fallback.ttf",
+      "repo": "LingDong-/qiji-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "Qiji-Combo.ttf",
+      "repo": "LingDong-/qiji-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "GenYoGothicTW-Normal.ttf",
+      "repo": "ButTaiwan/genyog-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "GenYoMinchoTW-Regular.ttf",
+      "repo": "ButTaiwan/genyo-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "GenRyuMinchoTW-Regular.ttf",
+      "repo": "ButTaiwan/genryu-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "GenWanMinchoTW-Regular.ttf",
+      "repo": "ButTaiwan/genwan-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "GenSenRoundedTW-Regular.ttf",
+      "repo": "ButTaiwan/gensen-font",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "jf-openhuninn-2.0.ttf",
+      "repo": "justfont/open-huninn",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "DottedSongtiSquare-Regular.otf",
+      "repo": "wixette/dotted-chinese-fonts",
+      "reason": "license not in approved redistribution allowlist: gpl-2.0"
+    },
+    {
+      "font": "WenJinMincho-Regular.ttf",
+      "repo": "takushun-wu/WenJinMincho",
+      "reason": "license not in approved redistribution allowlist: other"
+    },
+    {
+      "font": "ZhudouSans-Regular.ttf",
+      "repo": "Buernia/Zhudou-Sans",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "MaokenAssortedSans-Regular.ttf",
+      "repo": "Skr-ZERO/MaokenAssortedSans",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "TaipeiSansTCBeta-Regular.ttf",
+      "repo": "AiChiKung/TaipeiSansTC",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "font": "NaniFont-Regular.ttf",
+      "repo": "max32002/NaniFont",
+      "reason": "HTTP Error 404: Not Found"
+    }
+  ]
+}
