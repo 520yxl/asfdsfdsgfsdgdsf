@@ -5,6 +5,7 @@ import json
 import os
 import re
 import shutil
+import tempfile
 import unicodedata
 from pathlib import Path
 from urllib.parse import quote
@@ -82,7 +83,11 @@ def category(family, style):
 
 def brand_for(info, rules, override):
     if override.get("brand"):
-        return safe_id(override["brand"]), override["brand"]
+        value = override["brand"]
+        for rule in rules:
+            if value in (rule["id"], rule["name"]):
+                return rule["id"], rule["name"]
+        return safe_id(value), value
     content = " ".join([info["family"], info["manufacturer"], info["full_name"]]).lower()
     matches = []
     for rule in rules:
@@ -109,7 +114,43 @@ def main():
     rules = read_json(ROOT / "metadata/brands.json", {"rules": []}).get("rules", [])
     overrides = read_json(ROOT / "metadata/overrides.json", {})
     errors = []
-    for path in sorted(INCOMING.rglob("*")):
+    sources = [p for folder in (FONTS, INCOMING) for p in folder.rglob("*")
+               if p.is_file() and p.suffix.lower() in EXTENSIONS]
+    # Re-evaluate metadata for every font, including previously archived files.
+    with tempfile.TemporaryDirectory(prefix="moxyi-stage-") as stage:
+        planned = []
+        occupied = {}
+        for index, path in enumerate(sorted(sources)):
+            try:
+                info = inspect(path)[0]
+                override = overrides.get(path.name, {})
+                brand_id, _ = brand_for(info, rules, override)
+                family_id = safe_id(override.get("family", info["family"]))
+                target = FONTS / brand_id / family_id / path.name
+                sha = digest(path)
+                if target in occupied and occupied[target] != sha:
+                    target = target.with_name(target.stem + "-" + sha[:10] + target.suffix)
+                occupied[target] = sha
+                temporary = Path(stage) / str(index)
+                shutil.copy2(path, temporary)
+                planned.append((temporary, target, sha))
+            except Exception as exc:
+                errors.append({"path": path.relative_to(ROOT).as_posix(), "error": str(exc)})
+        if not errors:
+            for temporary, target, sha in planned:
+                target.parent.mkdir(parents=True, exist_ok=True)
+                if not target.exists() or digest(target) != sha:
+                    shutil.copy2(temporary, target)
+            keep = {target for _, target, _ in planned}
+            for path in sources:
+                if path not in keep:
+                    path.unlink()
+            for folder in (FONTS, INCOMING):
+                for directory in sorted((p for p in folder.rglob("*") if p.is_dir()),
+                                        key=lambda p: len(p.parts), reverse=True):
+                    if not any(directory.iterdir()):
+                        directory.rmdir()
+    for path in []:
         if not path.is_file() or path.suffix.lower() not in EXTENSIONS:
             continue
         try:
@@ -144,10 +185,7 @@ def main():
             info = faces[0]
             override = overrides.get(path.name, {})
             brand_id, brand_name = brand_for(info, rules, override)
-            if len(relative.parts) >= 4:
-                brand_id, family_id = relative.parts[1:3]
-            else:
-                family_id = safe_id(info["family"])
+            family_id = safe_id(override.get("family", info["family"]))
             cat = override.get("category") or category(info["family"], info["style"])
             if cat not in categories:
                 cat = "其他"
