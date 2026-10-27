@@ -142,5 +142,29 @@
     "sha256": "2d73eea94ad808999d90c0000c239a84a33b09d4bc6ab6c5b8bbf1eda8a7fc8b",
     "path": "fonts/lxgw/霞鶩文楷/LXGWWenKai-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/lxgw/%E9%9C%9E%E9%B6%A9%E6%96%87%E6%A5%B7/LXGWWenKai-Regular.ttf"
+  },
+  {
+    "id": "895ce1d2fa00d5ca3bec",
+    "family": "霞鶩文楷等寬",
+    "style": "Regular",
+    "full_name": "LXGW WenKai Mono",
+    "manufacturer": "LXGW / Fontworks Inc.",
+    "brand_id": "lxgw",
+    "family_id": "霞鶩文楷等寬",
+    "category": "楷体",
+    "faces": [
+      {
+        "family": "霞鶩文楷等寬",
+        "style": "Regular",
+        "full_name": "LXGW WenKai Mono",
+        "manufacturer": "LXGW / Fontworks Inc.",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+      }
+    ],
+    "format": "ttf",
+    "size": 25957300,
+    "sha256": "895ce1d2fa00d5ca3bec0329d38e3190454f4b5fa7b4733f491c419faf9753a1",
+    "path": "fonts/lxgw/霞鶩文楷等寬/LXGWWenKaiMono-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/lxgw/%E9%9C%9E%E9%B6%A9%E6%96%87%E6%A5%B7%E7%AD%89%E5%AF%AC/LXGWWenKaiMono-Regular.ttf"
   }
 ]
