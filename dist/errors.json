@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "path": "fonts/unknown/u-aeacf6e2e1ea/汉鼎繁叠黑.TTF",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/u-aeacf6e2e1ea/汉鼎繁古印.TTF",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/u-aeacf6e2e1ea/汉鼎繁隶变.TTF",
+    "warning": "Unknown brand; needs review"
+  }
+]
