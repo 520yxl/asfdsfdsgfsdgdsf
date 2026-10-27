@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "catalog_count": 0,
+  "brand_count": 0,
+  "fonts_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/fonts.json",
+  "brands_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/brands.json",
+  "categories_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/categories.json",
+  "errors_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/errors.json"
+}
