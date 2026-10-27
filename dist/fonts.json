@@ -120,6 +120,30 @@
     "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/lxgw/lxgw-marker-gothic/LXGWMarkerGothic-Regular.ttf"
   },
   {
+    "id": "9a50e3f0f51fad60d681",
+    "family": "霞鶩文楷",
+    "style": "Light",
+    "full_name": "霞鶩文楷 Light",
+    "manufacturer": "LXGW / Fontworks Inc.",
+    "brand_id": "lxgw",
+    "family_id": "霞鶩文楷",
+    "category": "楷体",
+    "faces": [
+      {
+        "family": "霞鶩文楷",
+        "style": "Light",
+        "full_name": "霞鶩文楷 Light",
+        "manufacturer": "LXGW / Fontworks Inc.",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+      }
+    ],
+    "format": "ttf",
+    "size": 28625516,
+    "sha256": "9a50e3f0f51fad60d68152d5191bce1a495bfc4b9ceb1cee24833835511d1dca",
+    "path": "fonts/lxgw/霞鶩文楷/LXGWWenKai-Light.ttf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/lxgw/%E9%9C%9E%E9%B6%A9%E6%96%87%E6%A5%B7/LXGWWenKai-Light.ttf"
+  },
+  {
     "id": "2d73eea94ad808999d90",
     "family": "霞鶩文楷",
     "style": "Regular",
