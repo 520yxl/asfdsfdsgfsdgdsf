@@ -1,7 +1,5 @@
 name: Import curated open Chinese fonts every 10 minutes
 on:
-  schedule:
-    - cron: '*/10 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
