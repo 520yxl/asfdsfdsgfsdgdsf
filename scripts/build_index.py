@@ -20,7 +20,7 @@ def read_json(path, default):
 
 def safe_id(text):
     # Keep CJK characters readable; GitHub supports Unicode directory names.
-    cleaned = re.sub(r"[^a-z0-9\\u3400-\\u9fff]+", "-", str(text).lower()).strip("-")
+    cleaned = re.sub(r"[^a-z0-9㐀-鿿]+", "-", str(text).lower()).strip("-")
     return cleaned[:90] or ("u-" + hashlib.sha1(str(text).encode()).hexdigest()[:12])
 
 def digest(path):
@@ -44,7 +44,7 @@ def inspect(path):
                             value = record.toUnicode().strip()
                             # Some legacy fonts encode GBK bytes in name records marked as Unicode.
                             if record.platformID == 3 and record.platEncID in (1, 10):
-                                if any("\\u3400" <= ch <= "\\u9fff" for ch in value) and not any(ch in value for ch in ("汉", "鼎")):
+                                if any("㐀" <= ch <= "鿿" for ch in value) and not any(ch in value for ch in ("汉", "鼎")):
                                     try:
                                         repaired = record.string.decode("gb18030")
                                         if repaired.startswith("汉鼎"):
@@ -128,7 +128,7 @@ def main():
             if brand_id == "unknown" and path.name.startswith("汉鼎"):
                 brand_id = "handing"
             family_name = override.get("family", info["family"])
-            if path.name.startswith("汉鼎") and (family_name == "Unknown" or not any("\\u3400" <= c <= "\\u9fff" for c in family_name)):
+            if path.name.startswith("汉鼎") and (family_name == "Unknown" or not any("㐀" <= c <= "鿿" for c in family_name)):
                 family_name = path.stem
             family_id = safe_id(family_name)
             target = FONTS / brand_id / family_id / path.name
@@ -141,6 +141,17 @@ def main():
             shutil.move(str(path), str(target))
         except Exception as exc:
             errors.append({"path": path.relative_to(ROOT).as_posix(), "error": str(exc)})
+    # Migrate previously misclassified HanDing files to individual family folders.
+    old_dir = FONTS / "unknown" / "u-aeacf6e2e1ea"
+    if old_dir.exists():
+        for old in sorted(old_dir.iterdir()):
+            if old.is_file() and old.suffix.lower() in EXTENSIONS and old.name.startswith("汉鼎"):
+                new = FONTS / "handing" / safe_id(old.stem) / old.name
+                new.parent.mkdir(parents=True, exist_ok=True)
+                if not new.exists():
+                    shutil.move(str(old), str(new))
+        if not any(old_dir.iterdir()):
+            old_dir.rmdir()
     fonts, brands, hashes = [], {}, {}
     categories = {label: 0 for label in CATEGORIES}
     for path in sorted(FONTS.rglob("*")):
@@ -173,7 +184,7 @@ def main():
             brands.setdefault(brand_id, {"id": brand_id, "name": brand_name, "count": 0})["count"] += 1
             categories[cat] += 1
             family_display = override.get("family", info["family"])
-            if path.name.startswith("汉鼎") and (family_display == "Unknown" or not any("\\u3400" <= c <= "\\u9fff" for c in family_display)):
+            if path.name.startswith("汉鼎") and (family_display == "Unknown" or not any("㐀" <= c <= "鿿" for c in family_display)):
                 family_display = path.stem
             fonts.append({"id": sha[:20], "family": family_display,
                           "style": info["style"], "full_name": info["full_name"],
