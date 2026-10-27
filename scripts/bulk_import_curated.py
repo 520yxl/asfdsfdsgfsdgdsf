@@ -5,7 +5,7 @@ from fontTools.ttLib import TTFont
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 BASE=ROOT/"incoming"
 API="https://api.github.com"
-INDEX="https://raw.githubusercontent.com/Markjinli/free-commercial-fonts/main/download_fonts.ps1"
+INDEX="https://raw.githubusercontent.com/Markjinli/free-commercial-fonts/master/download_fonts.ps1"
 HEAD={"User-Agent":"curated-font-importer","Accept":"application/vnd.github+json"}
 if os.getenv("GITHUB_TOKEN"): HEAD["Authorization"]="Bearer "+os.environ["GITHUB_TOKEN"]
 def fetch(url,limit=140*1024*1024):
