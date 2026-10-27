@@ -1,5 +1,10 @@
 [
   {
+    "id": "adobe",
+    "name": "Adobe",
+    "count": 1
+  },
+  {
     "id": "unknown",
     "name": "未知品牌",
     "count": 3
