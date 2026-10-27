@@ -64,12 +64,11 @@ jobs:
             echo "Completed $name; proceeding to next font"
             echo "::endgroup::"
           }
-          import_one 'LXGWBrightGB-Regular.ttf' \
-            'https://raw.githubusercontent.com/lxgw/LxgwBright/main/LXGWBrightGB/LXGWBrightGB-Regular.ttf' \
-            'https://raw.githubusercontent.com/lxgw/LxgwBright/main/OFL.txt' 'lxgw-bright'
-          import_one 'LXGWWenKaiMono-Regular.ttf' \
-            'https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/fonts/TTF/LXGWWenKaiMono-Regular.ttf' \
-            'https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/OFL.txt' 'lxgw-wenkai'
-          import_one 'LXGWWenKai-Light.ttf' \
-            'https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/fonts/TTF/LXGWWenKai-Light.ttf' \
-            'https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/OFL.txt' 'lxgw-wenkai'
+          # Font sources discovered via Markjinli/free-commercial-fonts.
+          # Use upstream maintained font binaries and preserve their OFL files.
+          import_one 'GenYoMin2TC-R.otf' \
+            'https://raw.githubusercontent.com/ButTaiwan/genyo-font/master/otf/TC/GenYoMin2TC-R.otf' \
+            'https://raw.githubusercontent.com/ButTaiwan/genyo-font/master/SIL_Open_Font_License_1.1.txt' 'buttaiwan-genyo'
+          import_one 'GenRyuMin2TC-R.otf' \
+            'https://raw.githubusercontent.com/ButTaiwan/genryu-font/master/otf/TC/GenRyuMin2TC-R.otf' \
+            'https://raw.githubusercontent.com/ButTaiwan/genryu-font/master/SIL_Open_Font_License_1.1.txt' 'buttaiwan-genryu'
