@@ -1,9 +1,5 @@
 name: One-time curated fonts download to incoming
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/one-time-incoming.yml'
   workflow_dispatch:
 permissions:
   contents: write
