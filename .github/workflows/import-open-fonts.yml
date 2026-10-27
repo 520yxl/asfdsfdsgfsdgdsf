@@ -1,9 +1,5 @@
 name: Import curated open Chinese fonts every 10 minutes
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/import-open-fonts.yml'
   workflow_dispatch:
 permissions:
   contents: write
