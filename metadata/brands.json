@@ -1,0 +1,43 @@
+{
+  "rules": [
+    {
+      "id": "adobe",
+      "name": "Adobe",
+      "keywords": [
+        "Adobe",
+        "思源"
+      ]
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "keywords": [
+        "Google"
+      ]
+    },
+    {
+      "id": "alibaba",
+      "name": "阿里巴巴",
+      "keywords": [
+        "阿里巴巴",
+        "Alibaba"
+      ]
+    },
+    {
+      "id": "lxgw",
+      "name": "霞鹜",
+      "keywords": [
+        "霞鹜",
+        "LXGW"
+      ]
+    },
+    {
+      "id": "tencent",
+      "name": "腾讯",
+      "keywords": [
+        "腾讯",
+        "Tencent"
+      ]
+    }
+  ]
+}

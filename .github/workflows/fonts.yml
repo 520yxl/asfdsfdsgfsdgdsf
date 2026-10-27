@@ -1,0 +1,39 @@
+name: Build font index
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'incoming/**'
+      - 'fonts/**'
+      - 'metadata/**'
+      - 'scripts/**'
+      - 'requirements.txt'
+      - '.github/workflows/fonts.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: font-index-main
+  cancel-in-progress: false
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Sort fonts and build index
+        run: python scripts/build_index.py
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add incoming fonts dist
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: organize fonts and refresh index"
+            git push
+          fi
