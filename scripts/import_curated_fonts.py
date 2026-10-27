@@ -86,7 +86,7 @@ def main():
         subprocess.run([sys.executable, str(ROOT / "scripts/build_index.py")], check=True)
         progress["imported"].append(item_id)
         PROGRESS.parent.mkdir(exist_ok=True)
-        PROGRESS.write_text(json.dumps(progress, ensure_ascii=False, indent=2)+"\\n", encoding="utf-8")
+        PROGRESS.write_text(json.dumps(progress, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
         print("SUCCESS: imported and indexed one font:", filename)
         return
     print("No remaining eligible candidates. Catalog checked successfully.")
