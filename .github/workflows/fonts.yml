@@ -13,7 +13,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: font-index-main
+  group: font-repository-writes
   cancel-in-progress: false
 jobs:
   index:
@@ -46,5 +46,16 @@ jobs:
           git add incoming fonts dist licenses
           if ! git diff --cached --quiet; then
             git commit -m "chore: organize fonts and refresh index"
-            git push
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort || true
+                echo "Rebase conflict: refusing to overwrite remote changes"
+                exit 1
+              fi
+              if git push origin HEAD:main; then exit 0; fi
+              sleep 3
+            done
+            echo "Push failed after 5 attempts"
+            exit 1
           fi
