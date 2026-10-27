@@ -190,5 +190,29 @@
     "sha256": "895ce1d2fa00d5ca3bec0329d38e3190454f4b5fa7b4733f491c419faf9753a1",
     "path": "fonts/lxgw/霞鶩文楷等寬/LXGWWenKaiMono-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/lxgw/%E9%9C%9E%E9%B6%A9%E6%96%87%E6%A5%B7%E7%AD%89%E5%AF%AC/LXGWWenKaiMono-Regular.ttf"
+  },
+  {
+    "id": "585606291e7b73a4fcee",
+    "family": "GenYoMin2 TC",
+    "style": "R",
+    "full_name": "GenYoMin2 TC R",
+    "manufacturer": "",
+    "brand_id": "unknown",
+    "family_id": "genyomin2-tc",
+    "category": "其他",
+    "faces": [
+      {
+        "family": "GenYoMin2 TC",
+        "style": "R",
+        "full_name": "GenYoMin2 TC R",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      }
+    ],
+    "format": "otf",
+    "size": 16226288,
+    "sha256": "585606291e7b73a4fcee260d2da291568e1c87ce5b111e8486dee69110638c5f",
+    "path": "fonts/unknown/genyomin2-tc/GenYoMin2TC-R.otf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/unknown/genyomin2-tc/GenYoMin2TC-R.otf"
   }
 ]
