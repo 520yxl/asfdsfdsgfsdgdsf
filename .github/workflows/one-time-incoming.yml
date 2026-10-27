@@ -1,0 +1,69 @@
+name: One-time curated fonts download to incoming
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/one-time-incoming.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install fonttools
+      - name: Download eligible fonts into incoming
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import importlib.util, pathlib, tempfile, json
+          from fontTools.ttLib import TTFont
+          root=pathlib.Path('.')
+          spec=importlib.util.spec_from_file_location('font_import','scripts/import_curated_fonts.py')
+          mod=importlib.util.module_from_spec(spec);spec.loader.exec_module(mod)
+          existing={p.name for p in root.rglob('*') if p.is_file() and p.suffix.lower() in ('.ttf','.otf','.ttc')}
+          imported=[]
+          for item,source,font_url,license_url,filename in mod.CANDIDATES:
+              if filename in existing:
+                  print('SKIP duplicate',filename);continue
+              try:
+                  with tempfile.TemporaryDirectory() as td:
+                      f=pathlib.Path(td)/filename
+                      lic=pathlib.Path(td)/'OFL.txt'
+                      mod.download(font_url,f,100000)
+                      mod.download(license_url,lic,100)
+                      if b'SIL OPEN FONT LICENSE' not in lic.read_bytes().upper():
+                          raise ValueError('License not confirmed as OFL')
+                      font=TTFont(str(f),lazy=True)
+                      try:
+                          if 'name' not in font:raise ValueError('Invalid font')
+                      finally:font.close()
+                      dest=root/'incoming'/source.replace('/','-')
+                      dest.mkdir(parents=True,exist_ok=True)
+                      (dest/filename).write_bytes(f.read_bytes())
+                      (dest/'OFL.txt').write_bytes(lic.read_bytes())
+                      imported.append({'font':filename,'source':source,'license':'SIL OFL'})
+                      existing.add(filename)
+                      print('DOWNLOADED',filename)
+              except Exception as e:
+                  print('SKIP download or verification failure',filename,str(e))
+          (root/'incoming').mkdir(exist_ok=True)
+          (root/'incoming'/'one-time-import-report.json').write_text(json.dumps(imported,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Downloaded count:',len(imported))
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add incoming/
+          if git diff --cached --quiet; then echo 'No new fonts'; exit 0; fi
+          git commit -m "chore: download eligible curated fonts into incoming"
+          git pull --rebase origin main
+          git push origin HEAD:main
