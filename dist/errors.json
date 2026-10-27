@@ -1,5 +1,9 @@
 [
   {
+    "path": "fonts/unknown/genryumin2-tc/GenRyuMin2TC-R.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/genyomin2-tc/GenYoMin2TC-R.otf",
     "warning": "Unknown brand; needs review"
   }

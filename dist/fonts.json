@@ -192,6 +192,30 @@
     "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/lxgw/%E9%9C%9E%E9%B6%A9%E6%96%87%E6%A5%B7%E7%AD%89%E5%AF%AC/LXGWWenKaiMono-Regular.ttf"
   },
   {
+    "id": "8b4988af4fb8e7fea142",
+    "family": "GenRyuMin2 TC",
+    "style": "R",
+    "full_name": "GenRyuMin2 TC R",
+    "manufacturer": "",
+    "brand_id": "unknown",
+    "family_id": "genryumin2-tc",
+    "category": "其他",
+    "faces": [
+      {
+        "family": "GenRyuMin2 TC",
+        "style": "R",
+        "full_name": "GenRyuMin2 TC R",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      }
+    ],
+    "format": "otf",
+    "size": 16454556,
+    "sha256": "8b4988af4fb8e7fea14245fdd61fa309ad730cb7c79a5b861eabe84db5a16774",
+    "path": "fonts/unknown/genryumin2-tc/GenRyuMin2TC-R.otf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/unknown/genryumin2-tc/GenRyuMin2TC-R.otf"
+  },
+  {
     "id": "585606291e7b73a4fcee",
     "family": "GenYoMin2 TC",
     "style": "R",
