@@ -1,9 +1,7 @@
-name: Import Chinese fonts sequentially
+name: Import curated open Chinese fonts every 10 minutes
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/import-open-fonts.yml'
+  schedule:
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,7 +11,7 @@ concurrency:
 jobs:
   import:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,52 +21,30 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - name: Import fonts one at a time, finishing indexing before next
+      - name: Fetch curated list and import one licensed font
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          import_one() {
-            local name="$1" url="$2" license_url="$3" license_dir="$4"
-            echo "::group::Import and index $name"
-            mkdir -p incoming "licenses/$license_dir"
-            curl -fL --retry 3 --retry-delay 2 -o "incoming/$name" "$url"
-            curl -fL --retry 3 --retry-delay 2 -o "licenses/$license_dir/OFL.txt" "$license_url"
-            test "$(wc -c < "incoming/$name")" -gt 100000
-            python scripts/build_index.py
-            git add incoming fonts dist licenses
-            if git diff --cached --quiet; then
-              echo "No new files for $name"
-            else
-              git commit -m "chore: import and index $name"
-              local pushed=0
-              for attempt in 1 2 3 4 5; do
-                git fetch origin main
-                if ! git rebase origin/main; then
-                  git rebase --abort || true
-                  echo "::error::Conflict while importing $name"
-                  exit 1
-                fi
-                if git push origin HEAD:main; then
-                  pushed=1
-                  break
-                fi
-                sleep 3
-              done
-              if [ "$pushed" -ne 1 ]; then
-                echo "::error::Could not push $name"
-                exit 1
-              fi
+          python scripts/import_curated_fonts.py
+          git add incoming fonts dist licenses metadata/import-progress.json
+          if git diff --cached --quiet; then
+            echo "No eligible new fonts to import"
+            exit 0
+          fi
+          git commit -m "chore: import one curated open font and refresh index"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo "::error::Unable to safely rebase font import"
+              exit 1
             fi
-            echo "Completed $name; proceeding to next font"
-            echo "::endgroup::"
-          }
-          # Font sources discovered via Markjinli/free-commercial-fonts.
-          # Use upstream maintained font binaries and preserve their OFL files.
-          import_one 'GenYoMin2TC-R.otf' \
-            'https://raw.githubusercontent.com/ButTaiwan/genyo-font/master/otf/TC/GenYoMin2TC-R.otf' \
-            'https://raw.githubusercontent.com/ButTaiwan/genyo-font/master/SIL_Open_Font_License_1.1.txt' 'buttaiwan-genyo'
-          import_one 'GenRyuMin2TC-R.otf' \
-            'https://raw.githubusercontent.com/ButTaiwan/genryu-font/master/otf/TC/GenRyuMin2TC-R.otf' \
-            'https://raw.githubusercontent.com/ButTaiwan/genryu-font/master/SIL_Open_Font_License_1.1.txt' 'buttaiwan-genryu'
+            if git push origin HEAD:main; then
+              echo "Imported font and index committed successfully"
+              exit 0
+            fi
+            sleep 3
+          done
+          exit 1
