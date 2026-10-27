@@ -1,9 +1,5 @@
 name: Bulk import curated licensed fonts to incoming
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/bulk-import-incoming.yml'
   workflow_dispatch:
 permissions:
   contents: write
