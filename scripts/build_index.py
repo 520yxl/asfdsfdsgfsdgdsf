@@ -5,6 +5,7 @@ import json
 import os
 import re
 import shutil
+import unicodedata
 from pathlib import Path
 from urllib.parse import quote
 from fontTools.ttLib import TTFont, TTCollection
@@ -18,7 +19,8 @@ def read_json(path, default):
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else default
 
 def safe_id(text):
-    cleaned = re.sub(r"[^a-z0-9]+", "-", str(text).lower()).strip("-")
+    # Keep CJK characters readable; GitHub supports Unicode directory names.
+    cleaned = re.sub(r"[^a-z0-9\\u3400-\\u9fff]+", "-", str(text).lower()).strip("-")
     return cleaned[:90] or ("u-" + hashlib.sha1(str(text).encode()).hexdigest()[:12])
 
 def digest(path):
@@ -40,6 +42,15 @@ def inspect(path):
                     if record.nameID == name_id:
                         try:
                             value = record.toUnicode().strip()
+                            # Some legacy fonts encode GBK bytes in name records marked as Unicode.
+                            if record.platformID == 3 and record.platEncID in (1, 10):
+                                if any("\\u3400" <= ch <= "\\u9fff" for ch in value) and not any(ch in value for ch in ("汉", "鼎")):
+                                    try:
+                                        repaired = record.string.decode("gb18030")
+                                        if repaired.startswith("汉鼎"):
+                                            value = repaired
+                                    except UnicodeError:
+                                        pass
                             if value and value not in strings:
                                 strings.append(value)
                         except Exception:
@@ -114,7 +125,12 @@ def main():
             info = inspect(path)[0]
             override = overrides.get(path.name, {})
             brand_id, _ = brand_for(info, rules, override)
-            family_id = safe_id(override.get("family", info["family"]))
+            if brand_id == "unknown" and path.name.startswith("汉鼎"):
+                brand_id = "handing"
+            family_name = override.get("family", info["family"])
+            if path.name.startswith("汉鼎") and (family_name == "Unknown" or not any("\\u3400" <= c <= "\\u9fff" for c in family_name)):
+                family_name = path.stem
+            family_id = safe_id(family_name)
             target = FONTS / brand_id / family_id / path.name
             target.parent.mkdir(parents=True, exist_ok=True)
             if target.exists():
@@ -141,8 +157,12 @@ def main():
             info = faces[0]
             override = overrides.get(path.name, {})
             brand_id, brand_name = brand_for(info, rules, override)
+            if brand_id == "unknown" and path.name.startswith("汉鼎"):
+                brand_id, brand_name = "handing", "汉鼎"
             if len(relative.parts) >= 4:
                 brand_id, family_id = relative.parts[1:3]
+                if brand_id == "unknown" and path.name.startswith("汉鼎"):
+                    brand_id, family_id = "handing", safe_id(path.stem)
             else:
                 family_id = safe_id(info["family"])
             cat = override.get("category") or category(info["family"], info["style"])
@@ -152,7 +172,10 @@ def main():
                 errors.append({"path": relative.as_posix(), "warning": "Unknown brand; needs review"})
             brands.setdefault(brand_id, {"id": brand_id, "name": brand_name, "count": 0})["count"] += 1
             categories[cat] += 1
-            fonts.append({"id": sha[:20], "family": override.get("family", info["family"]),
+            family_display = override.get("family", info["family"])
+            if path.name.startswith("汉鼎") and (family_display == "Unknown" or not any("\\u3400" <= c <= "\\u9fff" for c in family_display)):
+                family_display = path.stem
+            fonts.append({"id": sha[:20], "family": family_display,
                           "style": info["style"], "full_name": info["full_name"],
                           "manufacturer": info["manufacturer"], "brand_id": brand_id,
                           "family_id": family_id, "category": cat, "faces": faces,
