@@ -1,0 +1,22 @@
+[
+  {
+    "font": "GenYoMin2TC-B.otf",
+    "source": "ButTaiwan/genyo-font",
+    "license": "SIL OFL"
+  },
+  {
+    "font": "GenRyuMin2TC-B.otf",
+    "source": "ButTaiwan/genryu-font",
+    "license": "SIL OFL"
+  },
+  {
+    "font": "LXGWBrightGB-Medium.ttf",
+    "source": "lxgw/LxgwBright",
+    "license": "SIL OFL"
+  },
+  {
+    "font": "LXGWBrightGB-Light.ttf",
+    "source": "lxgw/LxgwBright",
+    "license": "SIL OFL"
+  }
+]
