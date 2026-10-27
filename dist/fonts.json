@@ -70,5 +70,53 @@
     "sha256": "cd1c5b9c6740c570ab7289402d1af2f39437c5e095e83baf81c74d80e56a75ba",
     "path": "fonts/adobe/source-han-sans-cn/思源黑体 CN.ttf",
     "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/adobe/source-han-sans-cn/%E6%80%9D%E6%BA%90%E9%BB%91%E4%BD%93%20CN.ttf"
+  },
+  {
+    "id": "cfc0facbc10847355964",
+    "family": "LXGW Marker Gothic",
+    "style": "Regular",
+    "full_name": "LXGW Marker Gothic Regular",
+    "manufacturer": "",
+    "brand_id": "lxgw",
+    "family_id": "lxgw-marker-gothic",
+    "category": "黑体",
+    "faces": [
+      {
+        "family": "LXGW Marker Gothic",
+        "style": "Regular",
+        "full_name": "LXGW Marker Gothic Regular",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+      }
+    ],
+    "format": "ttf",
+    "size": 3190368,
+    "sha256": "cfc0facbc1084735596425f91650c0ffef2130f0853556476bdd9f59e164d382",
+    "path": "fonts/lxgw/lxgw-marker-gothic/LXGWMarkerGothic-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/lxgw/lxgw-marker-gothic/LXGWMarkerGothic-Regular.ttf"
+  },
+  {
+    "id": "2d73eea94ad808999d90",
+    "family": "霞鶩文楷",
+    "style": "Regular",
+    "full_name": "LXGW WenKai",
+    "manufacturer": "LXGW / Fontworks Inc.",
+    "brand_id": "lxgw",
+    "family_id": "霞鶩文楷",
+    "category": "楷体",
+    "faces": [
+      {
+        "family": "霞鶩文楷",
+        "style": "Regular",
+        "full_name": "LXGW WenKai",
+        "manufacturer": "LXGW / Fontworks Inc.",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+      }
+    ],
+    "format": "ttf",
+    "size": 25928940,
+    "sha256": "2d73eea94ad808999d90c0000c239a84a33b09d4bc6ab6c5b8bbf1eda8a7fc8b",
+    "path": "fonts/lxgw/霞鶩文楷/LXGWWenKai-Regular.ttf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/lxgw/%E9%9C%9E%E9%B6%A9%E6%96%87%E6%A5%B7/LXGWWenKai-Regular.ttf"
   }
 ]
