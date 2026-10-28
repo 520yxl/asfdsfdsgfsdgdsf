@@ -1,5 +1,29 @@
 [
   {
+    "id": "a1b71bc148b902818595",
+    "family": "AiDeep",
+    "style": "Bold",
+    "full_name": "AiDeep Bold",
+    "manufacturer": "É¶ÖªÓ",
+    "brand_id": "a",
+    "family_id": "aideep",
+    "category": "其他",
+    "faces": [
+      {
+        "family": "AiDeep",
+        "style": "Bold",
+        "full_name": "AiDeep Bold",
+        "manufacturer": "É¶ÖªÓ",
+        "license": ""
+      }
+    ],
+    "format": "otf",
+    "size": 22400,
+    "sha256": "a1b71bc148b902818595052716c17d1a7f1770ada3a0adbd50466285d0b3fd48",
+    "path": "fonts/a/aideep/AiDeep.otf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/a/aideep/AiDeep.otf"
+  },
+  {
     "id": "c5e47fbf82c4a34a3555",
     "family": "Possive",
     "style": "Italic",
@@ -37848,7 +37872,7 @@
     "style": "bold",
     "full_name": "Aguazyuan-bold",
     "manufacturer": "ÃŸ…œ–°¥Ùπœ",
-    "brand_id": "u-032ccd49ace9",
+    "brand_id": "u-5e527db64ce4",
     "family_id": "aguazyuan",
     "category": "其他",
     "faces": [
@@ -37863,8 +37887,8 @@
     "format": "ttf",
     "size": 30376,
     "sha256": "052470b404c99a6579d14f417fd625495649e0437bd82079f9c30cf0b0681d97",
-    "path": "fonts/u-032ccd49ace9/aguazyuan/阿瓜准圆体-bold1.0.ttf",
-    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/u-032ccd49ace9/aguazyuan/%E9%98%BF%E7%93%9C%E5%87%86%E5%9C%86%E4%BD%93-bold1.0.ttf"
+    "path": "fonts/u-5e527db64ce4/aguazyuan/阿瓜准圆体-bold1.0.ttf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/u-5e527db64ce4/aguazyuan/%E9%98%BF%E7%93%9C%E5%87%86%E5%9C%86%E4%BD%93-bold1.0.ttf"
   },
   {
     "id": "106fb45d853af1bf3aa1",
@@ -37872,7 +37896,7 @@
     "style": "light",
     "full_name": "Aguazyuan light",
     "manufacturer": "ÃŸ…œ–°¥Ùπœ",
-    "brand_id": "u-032ccd49ace9",
+    "brand_id": "u-5e527db64ce4",
     "family_id": "aguazyuan",
     "category": "其他",
     "faces": [
@@ -37887,8 +37911,8 @@
     "format": "ttf",
     "size": 31792,
     "sha256": "106fb45d853af1bf3aa114d4dff064363bad9155993e06b66f47393081476f25",
-    "path": "fonts/u-032ccd49ace9/aguazyuan/阿瓜准圆体-light1.0.ttf",
-    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/u-032ccd49ace9/aguazyuan/%E9%98%BF%E7%93%9C%E5%87%86%E5%9C%86%E4%BD%93-light1.0.ttf"
+    "path": "fonts/u-5e527db64ce4/aguazyuan/阿瓜准圆体-light1.0.ttf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/u-5e527db64ce4/aguazyuan/%E9%98%BF%E7%93%9C%E5%87%86%E5%9C%86%E4%BD%93-light1.0.ttf"
   },
   {
     "id": "3d913b6917f057faf0e7",
@@ -37896,7 +37920,7 @@
     "style": "regular",
     "full_name": "Aguazyuan-regular",
     "manufacturer": "ÃŸ…œ–°¥Ùπœ",
-    "brand_id": "u-032ccd49ace9",
+    "brand_id": "u-5e527db64ce4",
     "family_id": "aguazyuan",
     "category": "其他",
     "faces": [
@@ -37911,32 +37935,8 @@
     "format": "ttf",
     "size": 32992,
     "sha256": "3d913b6917f057faf0e77e7f7422056ad1381ee92402d46989dd6ac41d6606f6",
-    "path": "fonts/u-032ccd49ace9/aguazyuan/阿瓜准圆体-regular1.0.ttf",
-    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/u-032ccd49ace9/aguazyuan/%E9%98%BF%E7%93%9C%E5%87%86%E5%9C%86%E4%BD%93-regular1.0.ttf"
-  },
-  {
-    "id": "a1b71bc148b902818595",
-    "family": "AiDeep",
-    "style": "Bold",
-    "full_name": "AiDeep Bold",
-    "manufacturer": "É¶ÖªÓ",
-    "brand_id": "u-6bc8b90c429b",
-    "family_id": "aideep",
-    "category": "其他",
-    "faces": [
-      {
-        "family": "AiDeep",
-        "style": "Bold",
-        "full_name": "AiDeep Bold",
-        "manufacturer": "É¶ÖªÓ",
-        "license": ""
-      }
-    ],
-    "format": "otf",
-    "size": 22400,
-    "sha256": "a1b71bc148b902818595052716c17d1a7f1770ada3a0adbd50466285d0b3fd48",
-    "path": "fonts/u-6bc8b90c429b/aideep/AiDeep.otf",
-    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/u-6bc8b90c429b/aideep/AiDeep.otf"
+    "path": "fonts/u-5e527db64ce4/aguazyuan/阿瓜准圆体-regular1.0.ttf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/u-5e527db64ce4/aguazyuan/%E9%98%BF%E7%93%9C%E5%87%86%E5%9C%86%E4%BD%93-regular1.0.ttf"
   },
   {
     "id": "5d88220a290fee17f4e8",
