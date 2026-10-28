@@ -42,9 +42,11 @@ def category(classifications):
 def language_tags(languages):
     tags = set()
     for item in languages or []:
-        lang = str(item).split("_", 1)[0].replace("-", "").casefold()
+        parts = str(item).replace("-", "_").split("_")
+        lang = (parts[0] if parts else "").casefold()
+        script = (parts[1] if len(parts) > 1 else "").casefold()
         if lang in {"zh", "zho", "chi"}:
-            tags.add("zh-Hans")
+            tags.add("zh-Hant" if script in {"hant", "hans"} and script == "hant" else "zh-Hans")
         elif lang in {"ja", "jpn"}:
             tags.add("ja")
         elif lang in {"ko", "kor"}:
