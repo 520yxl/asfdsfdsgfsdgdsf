@@ -1,14 +1,5 @@
 name: Build font index
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/fonts.yml'
-      - 'scripts/**'
-      - 'requirements.txt'
-      - 'metadata/**'
-      - 'fonts/**'
-      - 'incoming/**'
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
