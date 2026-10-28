@@ -68,9 +68,48 @@ def inspect(path):
                 target = style_zh
             if target is not None and value not in target:
                 target.append(value)
+        # Record explicit name-table language IDs and infer supported scripts from cmap.
+        language_tags = set()
+        for record in name_table.names:
+            try:
+                value = record.toUnicode().strip()
+            except Exception:
+                continue
+            if not value:
+                continue
+            lang_id = getattr(record, "langID", None)
+            if lang_id == 0x0404: language_tags.add("zh-Hant")
+            elif lang_id == 0x0804: language_tags.add("zh-Hans")
+            elif lang_id == 0x0411: language_tags.add("ja")
+            elif lang_id == 0x0412: language_tags.add("ko")
+            elif lang_id == 0x0409: language_tags.add("en")
+        codepoints = set()
+        try:
+            cmap = font.getBestCmap() or {}
+            codepoints = set(cmap.keys())
+        except Exception:
+            pass
+        script_tags = []
+        if any(0x3400 <= cp <= 0x9FFF or 0x20000 <= cp <= 0x3134F for cp in codepoints):
+            script_tags.append("Han")
+        if any(0x3040 <= cp <= 0x30FF for cp in codepoints):
+            script_tags.append("Hiragana-Katakana")
+        if any(0xAC00 <= cp <= 0xD7AF for cp in codepoints):
+            script_tags.append("Hangul")
+        if any(0x0041 <= cp <= 0x024F for cp in codepoints):
+            script_tags.append("Latin")
+        if any(0x0400 <= cp <= 0x052F for cp in codepoints):
+            script_tags.append("Cyrillic")
+        if any(0x0600 <= cp <= 0x06FF for cp in codepoints):
+            script_tags.append("Arabic")
+        if any(0x0590 <= cp <= 0x05FF for cp in codepoints):
+            script_tags.append("Hebrew")
         data["family_zh"] = family_zh
         data["full_name_zh"] = full_name_zh
         data["style_zh"] = style_zh
+        data["language_tags"] = sorted(language_tags)
+        data["script_tags"] = script_tags
+        data["unicode_codepoint_count"] = len(codepoints)
         data["family"] = data["family"] or (family_zh[0] if family_zh else "Unknown")
         data["style"] = data["style"] or (style_zh[0] if style_zh else "Regular")
         return data
@@ -241,6 +280,8 @@ def main():
             fonts.append({"id": sha[:20], "family": family_display,
                           "family_zh": info.get("family_zh", []), "full_name_zh": info.get("full_name_zh", []),
                           "chinese_names": chinese_names, "searchable_names": searchable_names,
+                          "language_tags": info.get("language_tags", []), "script_tags": info.get("script_tags", []),
+                          "unicode_codepoint_count": info.get("unicode_codepoint_count", 0),
                           "style": info["style"], "full_name": info["full_name"],
                           "manufacturer": info["manufacturer"], "brand_id": brand_id,
                           "family_id": family_id, "category": cat, "faces": faces,
