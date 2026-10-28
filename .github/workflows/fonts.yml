@@ -37,6 +37,8 @@ jobs:
         run: python scripts/google_fonts_catalog.py
       - name: Merge Fontsource metadata without cloning or downloading font files
         run: python scripts/fontsource_catalog.py
+      - name: Exclude fonts unavailable for desktop design software
+        run: python scripts/filter_usable_fonts.py
       - name: Commit updated data
         shell: bash
         run: |
