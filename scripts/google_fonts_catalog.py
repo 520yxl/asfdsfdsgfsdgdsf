@@ -52,7 +52,7 @@ def main():
         if not family:
             continue
         designer = (item.get("designer") or "Google Fonts contributor").strip()
-        files = item.get("fonts") or {}
+        files = item.get("files") or item.get("fonts") or {}
         if not isinstance(files, dict):
             files = {}
         stable = hashlib.sha256(("google-fonts:" + family.casefold()).encode("utf-8")).hexdigest()
