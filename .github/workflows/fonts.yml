@@ -7,15 +7,10 @@ on:
       - 'scripts/build_index.py'
       - 'requirements.txt'
       - 'metadata/**'
+      - 'fonts/**'
+      - 'incoming/**'
   schedule:
     - cron: '0 * * * *'
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/fonts.yml'
-      - 'scripts/build_index.py'
-      - 'requirements.txt'
-      - 'metadata/**'
   workflow_dispatch:
 permissions:
   contents: write
@@ -25,7 +20,7 @@ concurrency:
 jobs:
   index:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
         with:
