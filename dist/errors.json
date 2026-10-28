@@ -1,5 +1,261 @@
 [
   {
+    "path": "incoming/Alibaba-PuHuiTi-Bold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/Alibaba-PuHuiTi-Heavy.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/Alibaba-PuHuiTi-Light.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/Alibaba-PuHuiTi-Medium.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/Alibaba-PuHuiTi-Regular.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-105-Heavy.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-115-Black.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-35-Thin.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-45-Light.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-55-Regular.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-65-Medium.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-75-SemiBold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-85-Bold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-2-95-ExtraBold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-105-Heavy.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-115-Black.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-35-Thin.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-45-Light.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-55-Regular.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-55-RegularL3.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-65-Medium.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-75-SemiBold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-85-Bold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaPuHuiTi-3-95-ExtraBold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-Black.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-Bold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-BoldItalic.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-Heavy.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-HeavyItalic.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-Italic.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-Light.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-LightItalic.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-Medium.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-MediumItalic.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSans-Regular.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansHK-45.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansHK-55.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansHK-75.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansHK-95.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansJP-Bold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansJP-Medium.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansJP-Regular.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansKR-Bold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansKR-Medium.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansKR-Regular.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansSEA-Bd.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansSEA-Md.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansSEA-Rg.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansTC-45.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansTC-55.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansTC-75.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansTC-95.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansThai-Bd.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansThai-Md.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansThai-Rg.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansViet-Bd.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansViet-Md.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlibabaSansViet-Rg.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlimamaAgileVF-Thin.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlimamaDaoLiTi.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlimamaDongFangDaKai-Regular.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlimamaFangYuanTiVF-Thin.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/AlimamaShuHeiTi-Bold.woff2",
+    "error": "No module named brotli"
+  },
+  {
+    "path": "incoming/TaoBaoMaiCaiTi-Regular.woff2",
+    "error": "No module named brotli"
+  },
+  {
     "path": "fonts/unknown/genkigothic2-tw/GenKiGothic2-B.ttc",
     "warning": "Unknown brand; needs review"
   },
