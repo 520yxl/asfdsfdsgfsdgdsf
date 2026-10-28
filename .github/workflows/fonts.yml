@@ -4,7 +4,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/fonts.yml'
-      - 'scripts/build_index.py'
+      - 'scripts/**'
       - 'requirements.txt'
       - 'metadata/**'
       - 'fonts/**'
@@ -35,6 +35,8 @@ jobs:
         run: python scripts/build_index.py
       - name: Merge Google Fonts metadata into the same index
         run: python scripts/google_fonts_catalog.py
+      - name: Merge Fontsource metadata without cloning or downloading font files
+        run: python scripts/fontsource_catalog.py
       - name: Commit updated data
         shell: bash
         run: |
