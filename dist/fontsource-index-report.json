@@ -1,0 +1,18 @@
+{
+  "source": "fontsource",
+  "upstream_count": 2103,
+  "added": 131,
+  "skipped_duplicates": 1963,
+  "metadata_errors": [
+    "material-icons",
+    "material-icons-outlined",
+    "material-icons-round",
+    "material-icons-sharp",
+    "material-icons-two-tone",
+    "material-symbols",
+    "material-symbols-outlined",
+    "material-symbols-rounded",
+    "material-symbols-sharp"
+  ],
+  "index_count": 3780
+}

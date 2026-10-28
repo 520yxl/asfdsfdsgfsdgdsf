@@ -36,7 +36,7 @@
     },
     {
       "name": "其他",
-      "count": 1733
+      "count": 1727
     },
     {
       "name": "圆体",
@@ -44,11 +44,11 @@
     },
     {
       "name": "宋体",
-      "count": 397
+      "count": 323
     },
     {
       "name": "手写体",
-      "count": 375
+      "count": 283
     },
     {
       "name": "楷体",
@@ -56,11 +56,11 @@
     },
     {
       "name": "艺术体",
-      "count": 504
+      "count": 301
     },
     {
       "name": "黑体",
-      "count": 1082
+      "count": 997
     }
   ],
   "weights": [
@@ -94,11 +94,11 @@
     },
     {
       "value": 400,
-      "label": "Variable"
+      "label": "Regular"
     },
     {
       "value": 400,
-      "label": "Regular"
+      "label": "Variable"
     },
     {
       "value": 420,
@@ -562,7 +562,7 @@
     {
       "id": "google-fonts-contributor",
       "name": "Google Fonts contributor",
-      "count": 1951
+      "count": 1491
     },
     {
       "id": "hagilda",
