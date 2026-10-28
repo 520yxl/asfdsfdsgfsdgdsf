@@ -70,7 +70,7 @@ def category(family, style):
     groups = [
         ("圆体", ["圆体", "rounded"]),
         ("楷体", ["楷", "kai"]),
-        ("宋体", ["宋", "serif", "ming"]),
+        ("宋体", ["宋", "serif", "ming", "mincho", "明体", "明朝", "song"]),
         ("书法体", ["书法", "calligraphy"]),
         ("手写体", ["手写", "handwriting"]),
         ("艺术体", ["艺术", "display"]),
