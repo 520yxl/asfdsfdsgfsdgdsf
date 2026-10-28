@@ -172,6 +172,31 @@ def main():
     merged.sort(key=lambda obj: (str(obj.get("brand_id", "")).casefold(), str(obj.get("family", "")).casefold(), str(obj.get("style", "")).casefold()))
     DIST.mkdir(exist_ok=True)
     index_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    # Rebuild shared filter options from the final merged catalog, not from a single source.
+    brand_counts = {}
+    category_counts = {}
+    for obj in merged:
+        bid = obj.get("brand_id", "unknown")
+        brand_counts[bid] = {"id": bid, "name": obj.get("brand_name", obj.get("manufacturer", bid)), "count": brand_counts.get(bid, {}).get("count", 0) + 1}
+        cat = obj.get("category", "其他")
+        category_counts[cat] = category_counts.get(cat, 0) + 1
+    weights = sorted({(obj.get("weight_class", 400), obj.get("weight_name", "Regular")) for obj in merged}, key=lambda x: x[0])
+    filters = {
+        "languages": sorted({tag for obj in merged for tag in obj.get("language_tags", [])}),
+        "scripts": sorted({tag for obj in merged for tag in obj.get("script_tags", [])}),
+        "categories": [{"name": name, "count": count} for name, count in sorted(category_counts.items())],
+        "weights": [{"value": value, "label": label} for value, label in weights],
+        "brands": sorted(brand_counts.values(), key=lambda x: x["id"]),
+        "licenses": sorted({obj.get("license_type", "unknown") for obj in merged}),
+    }
+    (DIST / "filters.json").write_text(json.dumps(filters, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    manifest_path = DIST / "manifest.json"
+    if manifest_path.exists():
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        manifest["catalog_count"] = len(merged)
+        manifest["brand_count"] = len(brand_counts)
+        manifest["fontsource_report_url"] = "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/fontsource-index-report.json"
+        manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     report = {"source": "fontsource", "upstream_count": len(fontlist), "added": added, "skipped_duplicates": duplicates, "metadata_errors": errors, "index_count": len(merged)}
     (DIST / "fontsource-index-report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(report, ensure_ascii=False))
