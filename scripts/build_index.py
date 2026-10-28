@@ -110,6 +110,26 @@ def inspect(path):
         data["language_tags"] = sorted(language_tags)
         data["script_tags"] = script_tags
         data["unicode_codepoint_count"] = len(codepoints)
+        weight_class = 400
+        try:
+            weight_class = int(font["OS/2"].usWeightClass)
+        except Exception:
+            pass
+        weight_names = [(100, "Thin"), (200, "ExtraLight"), (300, "Light"), (400, "Regular"), (500, "Medium"), (600, "SemiBold"), (700, "Bold"), (800, "ExtraBold"), (900, "Black")]
+        data["weight_class"] = weight_class
+        data["weight_name"] = min(weight_names, key=lambda item: abs(item[0] - weight_class))[1]
+        data["license_url"] = ""
+        for record in name_table.names:
+            if record.nameID == 14:
+                try:
+                    data["license_url"] = record.toUnicode().strip()
+                    if data["license_url"]:
+                        break
+                except Exception:
+                    pass
+        data["license_type"] = "unknown"
+        data["commercial_use"] = None
+        data["redistribution_allowed"] = None
         data["family"] = data["family"] or (family_zh[0] if family_zh else "Unknown")
         data["style"] = data["style"] or (style_zh[0] if style_zh else "Regular")
         return data
@@ -282,6 +302,9 @@ def main():
                           "chinese_names": chinese_names, "searchable_names": searchable_names,
                           "language_tags": info.get("language_tags", []), "script_tags": info.get("script_tags", []),
                           "unicode_codepoint_count": info.get("unicode_codepoint_count", 0),
+                          "weight_class": info.get("weight_class", 400), "weight_name": info.get("weight_name", "Regular"),
+                          "license_type": info.get("license_type", "unknown"), "license_url": info.get("license_url", ""),
+                          "commercial_use": info.get("commercial_use"), "redistribution_allowed": info.get("redistribution_allowed"),
                           "style": info["style"], "full_name": info["full_name"],
                           "manufacturer": info["manufacturer"], "brand_id": brand_id,
                           "family_id": family_id, "category": cat, "faces": faces,
@@ -294,6 +317,11 @@ def main():
     emit("fonts.json", fonts)
     emit("brands.json", sorted(brands.values(), key=lambda x: x["id"]))
     emit("categories.json", [{"name": label, "count": count} for label, count in categories.items()])
+    weights = sorted({(font.get("weight_class", 400), font.get("weight_name", "Regular")) for font in fonts})
+    languages = sorted({tag for font in fonts for tag in font.get("language_tags", [])})
+    scripts = sorted({tag for font in fonts for tag in font.get("script_tags", [])})
+    licenses = sorted({font.get("license_type", "unknown") for font in fonts})
+    emit("filters.json", {"languages": languages, "scripts": scripts, "categories": [{"name": label, "count": count} for label, count in categories.items()], "weights": [{"value": value, "label": label} for value, label in weights], "brands": sorted(brands.values(), key=lambda x: x["id"]), "licenses": licenses})
     emit("errors.json", errors)
     emit("manifest.json", {"schema_version": 1, "catalog_count": len(fonts), "brand_count": len(brands),
                            "fonts_url": raw_url(Path("dist/fonts.json")),
