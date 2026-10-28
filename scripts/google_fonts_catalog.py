@@ -113,7 +113,7 @@ def main():
         category_counts[cat] = category_counts.get(cat, 0) + 1
     weights = sorted({(obj.get("weight_class", 400), obj.get("weight_name", "Regular")) for obj in merged}, key=lambda x: x[0])
     filter_data = {"languages": sorted({tag for obj in merged for tag in obj.get("language_tags", [])}), "scripts": sorted({tag for obj in merged for tag in obj.get("script_tags", [])}), "categories": [{"name": name, "count": count} for name, count in sorted(category_counts.items())], "weights": [{"value": value, "label": label} for value, label in weights], "brands": sorted(brand_counts.values(), key=lambda x: x["id"]), "licenses": sorted({obj.get("license_type", "unknown") for obj in merged})}
-    (DIST / "filters.json").write_text(json.dumps(filter_data, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    (DIST / "filters.json").write_text(json.dumps(filter_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     merged.sort(key=lambda obj: (str(obj.get("brand_id", "")).casefold(), str(obj.get("family", "")).casefold(), str(obj.get("style", "")).casefold()))
     DIST.mkdir(exist_ok=True)
     index_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
