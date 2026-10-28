@@ -97,6 +97,12 @@ def brand_for(info, rules, override):
     if matches:
         _, key, label = sorted(matches, reverse=True)[0]
         return key, label
+    # Preserve embedded foundry/manufacturer metadata as a fallback brand.
+    manufacturer = re.sub(r"\\s+", " ", (info.get("manufacturer") or "").strip())
+    if manufacturer and manufacturer.casefold() not in {
+        "unknown", "n/a", "none", "fontforge", "fontlab", "microsoft corporation"
+    }:
+        return safe_id(manufacturer), manufacturer
     return "unknown", "未知品牌"
 
 def raw_url(path):
