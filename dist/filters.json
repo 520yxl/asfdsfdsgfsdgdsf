@@ -1,52 +1,66 @@
 {
   "languages": [
+    "ar",
+    "bn",
+    "el",
     "en",
+    "he",
+    "hi",
     "ja",
     "ko",
+    "ru",
+    "ta",
+    "th",
+    "vi",
     "zh-Hans",
     "zh-Hant"
   ],
   "scripts": [
     "Arabic",
+    "Bengali",
     "Cyrillic",
+    "Devanagari",
+    "Greek",
     "Han",
     "Hangul",
     "Hebrew",
     "Hiragana-Katakana",
-    "Latin"
+    "Latin",
+    "Tamil",
+    "Thai"
   ],
   "categories": [
     {
-      "name": "黑体",
-      "count": 359
+      "name": "书法体",
+      "count": 2
     },
     {
-      "name": "宋体",
-      "count": 46
-    },
-    {
-      "name": "楷体",
-      "count": 13
+      "name": "其他",
+      "count": 1733
     },
     {
       "name": "圆体",
       "count": 3
     },
     {
-      "name": "书法体",
-      "count": 2
+      "name": "宋体",
+      "count": 397
     },
     {
       "name": "手写体",
-      "count": 17
+      "count": 375
+    },
+    {
+      "name": "楷体",
+      "count": 13
     },
     {
       "name": "艺术体",
-      "count": 36
+      "count": 504
     },
     {
-      "name": "其他",
-      "count": 1682
+      "name": "黑体",
+      "count": 1082
     }
   ],
   "weights": [
@@ -77,6 +91,10 @@
     {
       "value": 350,
       "label": "Light"
+    },
+    {
+      "value": 400,
+      "label": "Variable"
     },
     {
       "value": 400,
@@ -118,12 +136,12 @@
   "brands": [
     {
       "id": "a",
-      "name": "É¶ÖaÓ",
+      "name": "É¶ÖªÓ",
       "count": 1
     },
     {
       "id": "adobe",
-      "name": "Adobe",
+      "name": "Adobe Systems Incorporated",
       "count": 5
     },
     {
@@ -168,7 +186,7 @@
     },
     {
       "id": "alibaba",
-      "name": "阿里巴巴",
+      "name": "Alibaba Design",
       "count": 254
     },
     {
@@ -278,7 +296,7 @@
     },
     {
       "id": "buttaiwan",
-      "name": "ButTaiwan",
+      "name": "",
       "count": 11
     },
     {
@@ -528,7 +546,7 @@
     },
     {
       "id": "genki",
-      "name": "GenKi",
+      "name": "",
       "count": 6
     },
     {
@@ -538,8 +556,13 @@
     },
     {
       "id": "google",
-      "name": "Google",
+      "name": "Google, Inc.",
       "count": 22
+    },
+    {
+      "id": "google-fonts-contributor",
+      "name": "Google Fonts contributor",
+      "count": 1951
     },
     {
       "id": "hagilda",
@@ -603,7 +626,7 @@
     },
     {
       "id": "ibm",
-      "name": "IBM",
+      "name": "Sandoll Inc.",
       "count": 39
     },
     {
@@ -728,7 +751,7 @@
     },
     {
       "id": "lingxun",
-      "name": "LIngxun",
+      "name": "Lingxun",
       "count": 3
     },
     {
@@ -743,7 +766,7 @@
     },
     {
       "id": "lxgw",
-      "name": "霞鹜",
+      "name": "LXGW / Fontworks Inc.",
       "count": 10
     },
     {
@@ -1093,7 +1116,7 @@
     },
     {
       "id": "u-5e527db64ce4",
-      "name": "ÃŸ...œ–°¥Ùπœ",
+      "name": "ÃŸ…œ–°¥Ùπœ",
       "count": 3
     },
     {
@@ -1113,7 +1136,7 @@
     },
     {
       "id": "unknown",
-      "name": "未知品牌",
+      "name": "",
       "count": 449
     },
     {

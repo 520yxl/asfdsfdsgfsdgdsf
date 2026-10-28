@@ -5,5 +5,6 @@
   "fonts_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/fonts.json",
   "brands_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/brands.json",
   "categories_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/categories.json",
-  "errors_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/errors.json"
+  "errors_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/errors.json",
+  "filters_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/filters.json"
 }
