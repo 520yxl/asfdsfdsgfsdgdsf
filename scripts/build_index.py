@@ -88,19 +88,34 @@ def brand_for(info, rules, override):
             if value in (rule["id"], rule["name"]):
                 return rule["id"], rule["name"]
         return safe_id(value), value
-    content = " ".join([info["family"], info["manufacturer"], info["full_name"]]).lower()
-    matches = []
+
+    # Brand-prefix matching first: a known foundry name at the start of the
+    # family/full name is stronger evidence than a keyword appearing anywhere.
+    family = unicodedata.normalize("NFKC", info.get("family", "")).strip().casefold()
+    full_name = unicodedata.normalize("NFKC", info.get("full_name", "")).strip().casefold()
+    manufacturer = unicodedata.normalize("NFKC", info.get("manufacturer", "")).strip()
+    prefix_matches = []
+    contains_matches = []
     for rule in rules:
         for keyword in rule.get("keywords", []):
-            if keyword.lower() in content:
-                matches.append((len(keyword), rule["id"], rule["name"]))
+            key = unicodedata.normalize("NFKC", keyword).strip().casefold()
+            if not key:
+                continue
+            if family.startswith(key) or full_name.startswith(key):
+                prefix_matches.append((len(key), rule["id"], rule["name"]))
+            elif key in family or key in full_name or key in manufacturer.casefold():
+                contains_matches.append((len(key), rule["id"], rule["name"]))
+    matches = prefix_matches or contains_matches
     if matches:
         _, key, label = sorted(matches, reverse=True)[0]
         return key, label
-    # Preserve embedded foundry/manufacturer metadata as a fallback brand.
-    manufacturer = re.sub(r"\\s+", " ", (info.get("manufacturer") or "").strip())
+
+    # Use the embedded manufacturer only as a fallback when it looks like a
+    # genuine foundry, not a font editor or operating-system vendor.
+    manufacturer = re.sub(r"\\s+", " ", manufacturer)
     if manufacturer and manufacturer.casefold() not in {
-        "unknown", "n/a", "none", "fontforge", "fontlab", "microsoft corporation"
+        "unknown", "n/a", "none", "fontforge", "fontlab",
+        "microsoft corporation", "adobe systems incorporated"
     }:
         return safe_id(manufacturer), manufacturer
     return "unknown", "未知品牌"
