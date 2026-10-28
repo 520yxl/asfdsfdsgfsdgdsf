@@ -236,7 +236,11 @@ def main():
             brands.setdefault(brand_id, {"id": brand_id, "name": brand_name, "count": 0})["count"] += 1
             categories[cat] += 1
             family_display = override.get("family", info["family"])
+            chinese_names = list(dict.fromkeys(info.get("family_zh", []) + info.get("full_name_zh", [])))
+            searchable_names = list(dict.fromkeys([family_display, info["full_name"], info["style"]] + chinese_names))
             fonts.append({"id": sha[:20], "family": family_display,
+                          "family_zh": info.get("family_zh", []), "full_name_zh": info.get("full_name_zh", []),
+                          "chinese_names": chinese_names, "searchable_names": searchable_names,
                           "style": info["style"], "full_name": info["full_name"],
                           "manufacturer": info["manufacturer"], "brand_id": brand_id,
                           "family_id": family_id, "category": cat, "faces": faces,
