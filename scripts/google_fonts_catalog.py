@@ -6,6 +6,7 @@ import hashlib
 import json
 import re
 import urllib.request
+import unicodedata
 from pathlib import Path
 from urllib.parse import quote
 
@@ -17,6 +18,10 @@ HEADERS = {"User-Agent": "MoxYi-Font-Index/1.0"}
 def safe_id(value):
     value = re.sub(r"[^a-z0-9]+", "-", value.casefold()).strip("-")
     return value or "google-fonts"
+
+def norm_name(value):
+    value = unicodedata.normalize("NFKC", str(value or "")).casefold()
+    return "".join(ch for ch in value if ch.isalnum())
 
 def category(value):
     value = (value or "").casefold()
@@ -46,10 +51,21 @@ def main():
     existing = json.loads(index_path.read_text(encoding="utf-8")) if index_path.exists() else []
     # Rebuild only our remote entries, preserving local font-file entries.
     merged = [item for item in existing if item.get("source") != "google-fonts"]
-    known = {str(item.get("family", "")).casefold() for item in merged}
+    known = set()
+    for record in merged:
+        for key in ("family", "full_name", "family_id"):
+            if record.get(key):
+                known.add(norm_name(record[key]))
+        for value in record.get("searchable_names", []) + record.get("chinese_names", []):
+            known.add(norm_name(value))
+    duplicate_count = 0
     for item in families:
         family = (item.get("family") or "").strip()
         if not family:
+            continue
+        family_key = norm_name(family)
+        if not family_key or family_key in known:
+            duplicate_count += 1
             continue
         designer = (item.get("designer") or "Google Fonts contributor").strip()
         files = item.get("files") or item.get("fonts") or {}
@@ -101,8 +117,14 @@ def main():
             "redistribution_allowed": None,
             "axes": axes,
         }
-        # Keep local records intact; remote entries remain separately identifiable.
+        # Skip duplicate aliases too, so different upstream slugs cannot add the same family twice.
+        aliases_key = {norm_name(value) for value in aliases if value}
+        if aliases_key & known:
+            duplicate_count += 1
+            continue
         merged.append(record)
+        known.update(aliases_key)
+        known.add(family_key)
     # Refresh shared filter options after merging local and remote records.
     brand_counts = {}
     category_counts = {}
@@ -117,7 +139,7 @@ def main():
     merged.sort(key=lambda obj: (str(obj.get("brand_id", "")).casefold(), str(obj.get("family", "")).casefold(), str(obj.get("style", "")).casefold()))
     DIST.mkdir(exist_ok=True)
     index_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print("Google Fonts metadata families:", len(families), "merged index records:", len(merged))
+    print("Google Fonts metadata families:", len(families), "duplicates skipped:", duplicate_count, "merged index records:", len(merged))
 
 if __name__ == "__main__":
     main()
