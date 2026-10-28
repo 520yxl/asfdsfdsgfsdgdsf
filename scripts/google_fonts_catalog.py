@@ -57,6 +57,16 @@ def main():
             files = {}
         stable = hashlib.sha256(("google-fonts:" + family.casefold()).encode("utf-8")).hexdigest()
         aliases = list(dict.fromkeys([family] + ([item.get("locales", {}).get("zh", family)] if isinstance(item.get("locales"), dict) else [])))
+        subsets = item.get("subsets", []) or []
+        subset_map = {"latin": ("Latin", "en"), "latin-ext": ("Latin",), "cyrillic": ("Cyrillic", "ru"), "cyrillic-ext": ("Cyrillic",), "greek": ("Greek", "el"), "greek-ext": ("Greek",), "vietnamese": ("Latin", "vi"), "arabic": ("Arabic", "ar"), "hebrew": ("Hebrew", "he"), "devanagari": ("Devanagari", "hi"), "bengali": ("Bengali", "bn"), "tamil": ("Tamil", "ta"), "thai": ("Thai", "th"), "japanese": ("Han", "Hiragana-Katakana", "ja"), "korean": ("Han", "Hangul", "ko"), "chinese-simplified": ("Han", "zh-Hans"), "chinese-traditional": ("Han", "zh-Hant")}
+        language_codes = {"en", "ru", "el", "vi", "ar", "he", "hi", "bn", "ta", "th", "ja", "ko", "zh-Hans", "zh-Hant"}
+        language_tags, script_tags = set(), set()
+        for subset in subsets:
+            for tag in subset_map.get(str(subset).casefold(), ()):
+                (language_tags if tag in language_codes else script_tags).add(tag)
+        axes = item.get("axes", []) or []
+        weight_axis = next((axis for axis in axes if axis.get("tag") == "wght"), None)
+        weight_range = [weight_axis.get("min"), weight_axis.get("max")] if weight_axis else [400, 400]
         record = {
             "id": stable[:20],
             "family": family,
@@ -79,11 +89,31 @@ def main():
             "chinese_names": [name for name in aliases if any(0x3400 <= ord(ch) <= 0x9fff for ch in name)],
             "searchable_names": aliases,
             "license": "See official family metadata and source project before redistribution",
-            "subsets": item.get("subsets", []),
-            "axes": item.get("axes", []),
+            "subsets": subsets,
+            "language_tags": sorted(language_tags),
+            "script_tags": sorted(script_tags),
+            "weight_class": 400,
+            "weight_name": "Variable" if weight_axis else "Regular",
+            "weight_range": weight_range,
+            "license_type": "unknown",
+            "license_url": "",
+            "commercial_use": None,
+            "redistribution_allowed": None,
+            "axes": axes,
         }
         # Keep local records intact; remote entries remain separately identifiable.
         merged.append(record)
+    # Refresh shared filter options after merging local and remote records.
+    brand_counts = {}
+    category_counts = {}
+    for obj in merged:
+        bid = obj.get("brand_id", "unknown")
+        brand_counts[bid] = {"id": bid, "name": obj.get("brand_name", obj.get("manufacturer", bid)), "count": brand_counts.get(bid, {}).get("count", 0) + 1}
+        cat = obj.get("category", "其他")
+        category_counts[cat] = category_counts.get(cat, 0) + 1
+    weights = sorted({(obj.get("weight_class", 400), obj.get("weight_name", "Regular")) for obj in merged}, key=lambda x: x[0])
+    filter_data = {"languages": sorted({tag for obj in merged for tag in obj.get("language_tags", [])}), "scripts": sorted({tag for obj in merged for tag in obj.get("script_tags", [])}), "categories": [{"name": name, "count": count} for name, count in sorted(category_counts.items())], "weights": [{"value": value, "label": label} for value, label in weights], "brands": sorted(brand_counts.values(), key=lambda x: x["id"]), "licenses": sorted({obj.get("license_type", "unknown") for obj in merged})}
+    (DIST / "filters.json").write_text(json.dumps(filter_data, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
     merged.sort(key=lambda obj: (str(obj.get("brand_id", "")).casefold(), str(obj.get("family", "")).casefold(), str(obj.get("style", "")).casefold()))
     DIST.mkdir(exist_ok=True)
     index_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
