@@ -12204,6 +12204,81 @@
     "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/alibaba/alimama-daoliti/AlimamaDaoLiTi.ttf"
   },
   {
+    "id": "e7cc85dd04dcb2ddc366",
+    "family": "Alimama DongFangDaKai",
+    "family_zh": [
+      "阿里妈妈东方大楷"
+    ],
+    "full_name_zh": [
+      "阿里妈妈东方大楷"
+    ],
+    "chinese_names": [
+      "阿里妈妈东方大楷"
+    ],
+    "searchable_names": [
+      "Alimama DongFangDaKai",
+      "Regular",
+      "阿里妈妈东方大楷"
+    ],
+    "language_tags": [
+      "en",
+      "zh-Hans"
+    ],
+    "script_tags": [
+      "Han",
+      "Latin"
+    ],
+    "unicode_codepoint_count": 7017,
+    "weight_class": 400,
+    "weight_name": "Regular",
+    "license_type": "unknown",
+    "license_url": "",
+    "commercial_use": null,
+    "redistribution_allowed": null,
+    "style": "Regular",
+    "full_name": "Alimama DongFangDaKai",
+    "manufacturer": "Alibaba Design",
+    "brand_id": "alibaba",
+    "family_id": "alimama-dongfangdakai",
+    "category": "楷体",
+    "faces": [
+      {
+        "family": "Alimama DongFangDaKai",
+        "style": "Regular",
+        "full_name": "Alimama DongFangDaKai",
+        "manufacturer": "Alibaba Design",
+        "license": "",
+        "family_zh": [
+          "阿里妈妈东方大楷"
+        ],
+        "full_name_zh": [
+          "阿里妈妈东方大楷"
+        ],
+        "style_zh": [],
+        "language_tags": [
+          "en",
+          "zh-Hans"
+        ],
+        "script_tags": [
+          "Han",
+          "Latin"
+        ],
+        "unicode_codepoint_count": 7017,
+        "weight_class": 400,
+        "weight_name": "Regular",
+        "license_url": "",
+        "license_type": "unknown",
+        "commercial_use": null,
+        "redistribution_allowed": null
+      }
+    ],
+    "format": "otf",
+    "size": 3811020,
+    "sha256": "e7cc85dd04dcb2ddc36625171f18408ac231d032e921b5e2e3ffee995404abae",
+    "path": "fonts/alibaba/alimama-dongfangdakai/AlimamaDongFangDaKai-Regular-e7cc85dd04.otf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/alibaba/alimama-dongfangdakai/AlimamaDongFangDaKai-Regular-e7cc85dd04.otf"
+  },
+  {
     "id": "880f35510a7679119a63",
     "family": "Alimama DongFangDaKai",
     "family_zh": [
@@ -12352,6 +12427,81 @@
     "sha256": "43cf72cc77355fc17f8d148de871435f0beae1aacf3127076c498d3374c46598",
     "path": "fonts/alibaba/alimama-dongfangdakai/AlimamaDongFangDaKai-Regular.ttf",
     "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/alibaba/alimama-dongfangdakai/AlimamaDongFangDaKai-Regular.ttf"
+  },
+  {
+    "id": "b0b8c4c057af7dbc6ccb",
+    "family": "Alimama FangYuanTi VF",
+    "family_zh": [
+      "阿里妈妈方圆体 VF"
+    ],
+    "full_name_zh": [
+      "阿里妈妈方圆体 VF"
+    ],
+    "chinese_names": [
+      "阿里妈妈方圆体 VF"
+    ],
+    "searchable_names": [
+      "Alimama FangYuanTi VF",
+      "Thin",
+      "阿里妈妈方圆体 VF"
+    ],
+    "language_tags": [
+      "en",
+      "zh-Hans"
+    ],
+    "script_tags": [
+      "Han",
+      "Latin"
+    ],
+    "unicode_codepoint_count": 7017,
+    "weight_class": 400,
+    "weight_name": "Regular",
+    "license_type": "unknown",
+    "license_url": "",
+    "commercial_use": null,
+    "redistribution_allowed": null,
+    "style": "Thin",
+    "full_name": "Alimama FangYuanTi VF",
+    "manufacturer": "Alibaba Design",
+    "brand_id": "alibaba",
+    "family_id": "alimama-fangyuanti-vf",
+    "category": "其他",
+    "faces": [
+      {
+        "family": "Alimama FangYuanTi VF",
+        "style": "Thin",
+        "full_name": "Alimama FangYuanTi VF",
+        "manufacturer": "Alibaba Design",
+        "license": "",
+        "family_zh": [
+          "阿里妈妈方圆体 VF"
+        ],
+        "full_name_zh": [
+          "阿里妈妈方圆体 VF"
+        ],
+        "style_zh": [],
+        "language_tags": [
+          "en",
+          "zh-Hans"
+        ],
+        "script_tags": [
+          "Han",
+          "Latin"
+        ],
+        "unicode_codepoint_count": 7017,
+        "weight_class": 400,
+        "weight_name": "Regular",
+        "license_url": "",
+        "license_type": "unknown",
+        "commercial_use": null,
+        "redistribution_allowed": null
+      }
+    ],
+    "format": "ttf",
+    "size": 7402152,
+    "sha256": "b0b8c4c057af7dbc6ccb52a3ad00138fed41d1ad37d4f4a666b6cd431c913d94",
+    "path": "fonts/alibaba/alimama-fangyuanti-vf/AlimamaFangYuanTiVF-Thin-b0b8c4c057.ttf",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/alibaba/alimama-fangyuanti-vf/AlimamaFangYuanTiVF-Thin-b0b8c4c057.ttf"
   },
   {
     "id": "c73d546e2a75f4184944",
