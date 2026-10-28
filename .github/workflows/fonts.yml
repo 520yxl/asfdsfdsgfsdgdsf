@@ -1,9 +1,5 @@
 name: Build font index
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/fonts.yml'
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
@@ -14,7 +10,6 @@ concurrency:
   cancel-in-progress: false
 jobs:
   index:
-    if: github.event_name != 'push' || github.event.head_commit.message == 'ci: one-time rebuild after index fixes'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
