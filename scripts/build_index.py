@@ -327,7 +327,7 @@ def main():
                            "fonts_url": raw_url(Path("dist/fonts.json")),
                            "brands_url": raw_url(Path("dist/brands.json")),
                            "categories_url": raw_url(Path("dist/categories.json")),
-                           "errors_url": raw_url(Path("dist/errors.json"))})
+                           "errors_url": raw_url(Path("dist/errors.json")), "filters_url": raw_url(Path("dist/filters.json"))})
     print(f"Indexed {len(fonts)} font files, {len(brands)} brands, {len(errors)} warnings/errors")
 
 if __name__ == "__main__":
