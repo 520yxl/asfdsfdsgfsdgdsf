@@ -50,8 +50,29 @@ def inspect(path):
                 if strings:
                     break
             data[key] = strings[0] if strings else ""
-        data["family"] = data["family"] or "Unknown"
-        data["style"] = data["style"] or "Regular"
+        # Collect Chinese localized names so the frontend can search them.
+        family_zh, full_name_zh, style_zh = [], [], []
+        for record in name_table.names:
+            try:
+                value = record.toUnicode().strip()
+            except Exception:
+                continue
+            if not value or not any(0x3400 <= ord(ch) <= 0x9fff for ch in value):
+                continue
+            target = None
+            if record.nameID in (1, 16):
+                target = family_zh
+            elif record.nameID in (4, 6):
+                target = full_name_zh
+            elif record.nameID in (2, 17):
+                target = style_zh
+            if target is not None and value not in target:
+                target.append(value)
+        data["family_zh"] = family_zh
+        data["full_name_zh"] = full_name_zh
+        data["style_zh"] = style_zh
+        data["family"] = data["family"] or (family_zh[0] if family_zh else "Unknown")
+        data["style"] = data["style"] or (style_zh[0] if style_zh else "Regular")
         return data
     if path.suffix.lower() in {".ttc", ".otc"}:
         collection = TTCollection(str(path), lazy=True)
