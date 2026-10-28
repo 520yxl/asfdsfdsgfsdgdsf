@@ -3,10 +3,10 @@ on:
   push:
     branches: [main]
     paths:
+      - '.github/workflows/fonts.yml'
       - 'scripts/build_index.py'
       - 'requirements.txt'
       - 'metadata/**'
-      - '.github/workflows/fonts.yml'
   schedule:
     - cron: '0 * * * *'
   push:
