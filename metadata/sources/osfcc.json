@@ -1,0 +1,2751 @@
+{
+  "schema_version": 1,
+  "source": {
+    "id": "osfcc",
+    "repository": "DrXie/OSFCC",
+    "branch": "master",
+    "source_file": "README.md",
+    "source_url": "https://github.com/DrXie/OSFCC",
+    "records": 99
+  },
+  "records": [
+    {
+      "id": "osfcc-0001",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 1,
+      "font_family": "思源字体",
+      "developer": "Adobe",
+      "font_name": "思源黑体",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "思源黑体",
+          "url": "https://github.com/adobe-fonts/source-han-sans"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0002",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 2,
+      "font_family": "思源字体",
+      "developer": "Adobe",
+      "font_name": "思源宋体",
+      "style": "宋",
+      "weight_count": "7",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "思源宋体",
+          "url": "https://github.com/adobe-fonts/source-han-serif"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0003",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 3,
+      "font_family": "思源字体",
+      "developer": "Adobe",
+      "font_name": "思源等宽",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "思源等宽",
+          "url": "https://github.com/adobe-fonts/source-han-mono"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0004",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 4,
+      "font_family": "台北黑体",
+      "developer": "瀚字铸造",
+      "font_name": "台北黑体",
+      "style": "黑",
+      "weight_count": "3",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "台北黑体",
+          "url": "https://sites.google.com/view/jtfoundry/zh-tw"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0005",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 5,
+      "font_family": "昭明黑体",
+      "developer": "Tamcy",
+      "font_name": "昭明黑体",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "昭明黑体",
+          "url": "https://tamcy.github.io/chiron-sans-hk/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0006",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 6,
+      "font_family": "Sarasa",
+      "developer": "Belleve Invis",
+      "font_name": "更纱黑体",
+      "style": "黑",
+      "weight_count": "5",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "Belleve Invis",
+          "url": "https://github.com/be5invis"
+        },
+        {
+          "text": "更纱黑体",
+          "url": "https://github.com/be5invis/Sarasa-Gothic"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0007",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 7,
+      "font_family": "有爱字体",
+      "developer": "Nowar Typeface",
+      "font_name": "有爱黑体",
+      "style": "黑",
+      "weight_count": "5",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "有爱黑体",
+          "url": "https://github.com/nowar-fonts/Nowar-Sans"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0008",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 8,
+      "font_family": "有爱字体",
+      "developer": "Nowar Typeface",
+      "font_name": "有爱锐方",
+      "style": "黑",
+      "weight_count": "5",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "有爱锐方",
+          "url": "https://github.com/nowar-fonts/Nowar-CnC"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0009",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 9,
+      "font_family": "有爱字体",
+      "developer": "Nowar Typeface",
+      "font_name": "有爱圆体",
+      "style": "圆",
+      "weight_count": "4",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "有爱圆体",
+          "url": "https://github.com/nowar-fonts/Nowar-Rounded"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0010",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 10,
+      "font_family": "有爱字体",
+      "developer": "Nowar Typeface",
+      "font_name": "有爱新黑",
+      "style": "黑",
+      "weight_count": "4",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "有爱新黑",
+          "url": "https://github.com/nowar-fonts/Nowar-Neo-Sans"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0011",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 11,
+      "font_family": "ButTaiwan",
+      "developer": "ButTaiwan",
+      "font_name": "源样明体",
+      "style": "宋",
+      "weight_count": "7",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "ButTaiwan",
+          "url": "https://github.com/ButTaiwan"
+        },
+        {
+          "text": "源样明体",
+          "url": "https://github.com/ButTaiwan/genyo-font"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0012",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 12,
+      "font_family": "ButTaiwan",
+      "developer": "ButTaiwan",
+      "font_name": "源流明体",
+      "style": "宋",
+      "weight_count": "7",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "ButTaiwan",
+          "url": "https://github.com/ButTaiwan"
+        },
+        {
+          "text": "源流明体",
+          "url": "https://github.com/ButTaiwan/genryu-font"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0013",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 13,
+      "font_family": "ButTaiwan",
+      "developer": "ButTaiwan",
+      "font_name": "源云明体",
+      "style": "宋",
+      "weight_count": "4",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "ButTaiwan",
+          "url": "https://github.com/ButTaiwan"
+        },
+        {
+          "text": "源云明体",
+          "url": "https://github.com/ButTaiwan/genwan-font"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0014",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 14,
+      "font_family": "ButTaiwan",
+      "developer": "ButTaiwan",
+      "font_name": "源样黑体",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "ButTaiwan",
+          "url": "https://github.com/ButTaiwan"
+        },
+        {
+          "text": "源样黑体",
+          "url": "https://github.com/ButTaiwan/genyog-font"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0015",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 15,
+      "font_family": "ButTaiwan",
+      "developer": "ButTaiwan",
+      "font_name": "源石黑体",
+      "style": "黑",
+      "weight_count": "4",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "ButTaiwan",
+          "url": "https://github.com/ButTaiwan"
+        },
+        {
+          "text": "源石黑体",
+          "url": "https://github.com/ButTaiwan/genseki-font"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0016",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 16,
+      "font_family": "ButTaiwan",
+      "developer": "ButTaiwan",
+      "font_name": "源泉圆体",
+      "style": "圆",
+      "weight_count": "7",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "ButTaiwan",
+          "url": "https://github.com/ButTaiwan"
+        },
+        {
+          "text": "源泉圆体",
+          "url": "https://github.com/ButTaiwan/gensen-font"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0017",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 17,
+      "font_family": "简体中文完整字体包",
+      "developer": "Magisk-Modules-Grave",
+      "font_name": "NotoSerif+",
+      "style": "宋",
+      "weight_count": "2",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": false,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "简体中文完整字体包",
+          "url": "https://github.com/Magisk-Modules-Grave/chinesesimplified-font-completion"
+        },
+        {
+          "text": "Magisk-Modules-Grave",
+          "url": "https://github.com/Magisk-Modules-Grave"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0018",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 18,
+      "font_family": "简体中文完整字体包",
+      "developer": "Magisk-Modules-Grave",
+      "font_name": "Roboto+",
+      "style": "黑",
+      "weight_count": "6",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": false,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "简体中文完整字体包",
+          "url": "https://github.com/Magisk-Modules-Grave/chinesesimplified-font-completion"
+        },
+        {
+          "text": "Magisk-Modules-Grave",
+          "url": "https://github.com/Magisk-Modules-Grave"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0019",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 19,
+      "font_family": "简体中文完整字体包",
+      "developer": "Magisk-Modules-Grave",
+      "font_name": "Roboto Condensed+",
+      "style": "黑",
+      "weight_count": "4",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": false,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "简体中文完整字体包",
+          "url": "https://github.com/Magisk-Modules-Grave/chinesesimplified-font-completion"
+        },
+        {
+          "text": "Magisk-Modules-Grave",
+          "url": "https://github.com/Magisk-Modules-Grave"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0020",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 20,
+      "font_family": "花园明朝体",
+      "developer": "GlyphWiki",
+      "font_name": "花园明朝体",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "Hanazono Font License & SIL Open Font License, Version 1.1",
+      "license_url": "http://glyphwiki.org/wiki/Group:%E8%8A%B1%E5%9C%92%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-LICENSE",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "花园明朝体",
+          "url": "http://fonts.jp/hanazono/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0021",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 21,
+      "font_family": "GNU Unifont",
+      "developer": "GNU Unifont",
+      "font_name": "GNU Unifont",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "http://unifoundry.com/LICENSE.txt",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "GNU Unifont",
+          "url": "http://unifoundry.com/unifont/index.html"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0022",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 22,
+      "font_family": "文泉驿",
+      "developer": "「文泉驿」开发小组",
+      "font_name": "文泉驿微米黑",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "GNU GPLv3 & Apache 2.0",
+      "license_url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "文泉驿微米黑",
+          "url": "http://wenq.org/wqy2/index.cgi?MicroHei"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0023",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 23,
+      "font_family": "文泉驿",
+      "developer": "「文泉驿」开发小组",
+      "font_name": "文泉驿正黑",
+      "style": "",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "文泉驿正黑",
+          "url": "http://wenq.org/wqy2/index.cgi?ZenHei"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0024",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 24,
+      "font_family": "文泉驿",
+      "developer": "「文泉驿」开发小组",
+      "font_name": "文泉驿点阵正黑",
+      "style": "",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "文泉驿点阵正黑",
+          "url": "http://wenq.org/wqy2/index.cgi?ZenHei"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0025",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 25,
+      "font_family": "文泉驿",
+      "developer": "「文泉驿」开发小组",
+      "font_name": "文泉驿等宽正黑",
+      "style": "",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "文泉驿等宽正黑",
+          "url": "http://wenq.org/enindex.cgi?ZenHei#nightly_build_NB"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0026",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 26,
+      "font_family": "文泉驿",
+      "developer": "「文泉驿」开发小组",
+      "font_name": "文泉驿点阵宋",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "文泉驿点阵宋",
+          "url": "http://wenq.org/wqy2/index.cgi?BitmapSong"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0027",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 27,
+      "font_family": "文泉驿",
+      "developer": "「文泉驿」开发小组",
+      "font_name": "文泉驿Unibit",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "文泉驿Unibit",
+          "url": "http://wenq.org/enindex.cgi?Unibit"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0028",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 28,
+      "font_family": "Droid",
+      "developer": "Google",
+      "font_name": "Droid Sans Fallback",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "Apache 2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "Droid Sans Fallback",
+          "url": "https://github.com/jenskutilek/free-fonts/blob/master/Droid/Droid%20Sans%20Fallback/DroidSansFallback.ttf?raw=true"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0029",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 29,
+      "font_family": "CJKUnifonts",
+      "developer": "Arne Götje",
+      "font_name": "AR PL UMing",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "Arphic Public License (free)",
+      "license_url": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "CJKUnifonts",
+          "url": "https://www.freedesktop.org/wiki/Software/CJKUnifonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0030",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 30,
+      "font_family": "CJKUnifonts",
+      "developer": "Arne Götje",
+      "font_name": "AR PL UKai",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "Arphic Public License (free)",
+      "license_url": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "CJKUnifonts",
+          "url": "https://www.freedesktop.org/wiki/Software/CJKUnifonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0031",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 31,
+      "font_family": "CNS11643中文标准交换码全字库",
+      "developer": "教育部",
+      "font_name": "全字库楷体",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "Open Government Data License, version 1.0",
+      "license_url": "https://data.gov.tw/license#eng",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "CNS11643中文标准交换码全字库",
+          "url": "https://data.gov.tw/dataset/5961"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0032",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 32,
+      "font_family": "CNS11643中文标准交换码全字库",
+      "developer": "教育部",
+      "font_name": "全字库宋体",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "Open Government Data License, version 1.0",
+      "license_url": "https://data.gov.tw/license#eng",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "CNS11643中文标准交换码全字库",
+          "url": "https://data.gov.tw/dataset/5961"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0033",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 33,
+      "font_family": "CNS11643中文标准交换码全字库",
+      "developer": "教育部",
+      "font_name": "全字库说文解字字形",
+      "style": "篆",
+      "weight_count": "1",
+      "license": "CC BY-NC-SA 3.0 TW",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/tw/deed.en",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "CNS11643中文标准交换码全字库",
+          "url": "https://data.gov.tw/dataset/5961"
+        },
+        {
+          "text": "全字库说文解字字形",
+          "url": "http://www.cns11643.gov.tw/AIDB/download.do?name=%E5%AD%97%E5%9E%8B%E4%B8%8B%E8%BC%89"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0034",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 34,
+      "font_family": "教育部标准字体",
+      "developer": "教育部",
+      "font_name": "教育部标准楷书",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "CC-BY-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "教育部标准字体",
+          "url": "https://github.com/Jiehong/TW-fonts"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0035",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 35,
+      "font_family": "教育部标准字体",
+      "developer": "教育部",
+      "font_name": "教育部标准宋体",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "CC-BY-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "教育部标准字体",
+          "url": "https://github.com/Jiehong/TW-fonts"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0036",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 36,
+      "font_family": "IPA",
+      "developer": "IPA 独立行政法人情報処理推進機構",
+      "font_name": "IPAex明朝",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "IPA Font License Agreement V1.0",
+      "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "IPA",
+          "url": "http://ipafont.ipa.go.jp/#jp"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0037",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 37,
+      "font_family": "IPA",
+      "developer": "IPA 独立行政法人情報処理推進機構",
+      "font_name": "IPAexゴシック",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "IPA Font License Agreement V1.0",
+      "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "IPA",
+          "url": "http://ipafont.ipa.go.jp/#jp"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0038",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 38,
+      "font_family": "jf open 粉圆",
+      "developer": "justfont",
+      "font_name": "jf open 粉圆",
+      "style": "圆",
+      "weight_count": "1",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "jf open 粉圆",
+          "url": "https://github.com/justfont/open-huninn-font"
+        },
+        {
+          "text": "justfont",
+          "url": "https://justfont.com/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0039",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 39,
+      "font_family": "I.字坊",
+      "developer": "I.字坊",
+      "font_name": "I.明体",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "IPA Font License Agreement V1.0",
+      "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "I.字坊",
+          "url": "https://github.com/ichitenfont"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0040",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 40,
+      "font_family": "I.字坊",
+      "developer": "I.字坊",
+      "font_name": "I.颜体",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "GNU GPLv2+",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "I.字坊",
+          "url": "https://github.com/ichitenfont"
+        },
+        {
+          "text": "I.颜体",
+          "url": "http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0041",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 41,
+      "font_family": "I.字坊",
+      "developer": "I.字坊",
+      "font_name": "I.钢笔鹤体",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv2+",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "I.字坊",
+          "url": "https://github.com/ichitenfont"
+        },
+        {
+          "text": "I.钢笔鹤体",
+          "url": "http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0042",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 42,
+      "font_family": "瀨戸フォント",
+      "developer": "瀬戸のぞみ",
+      "font_name": "瀨戸フォント",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "瀨戸フォント",
+          "url": "https://osdn.net/projects/setofont/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0043",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 43,
+      "font_family": "cwTeX",
+      "developer": "L10n Taiwan",
+      "font_name": "cwTeX中明体",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "GNU GPLv2+ & SIL Open Font License, Version 1.1",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "L10n Taiwan",
+          "url": "http://l10n.tw/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0044",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 44,
+      "font_family": "cwTeX",
+      "developer": "L10n Taiwan",
+      "font_name": "cwTeX中楷体",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "GNU GPLv2+ & SIL Open Font License, Version 1.1",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "L10n Taiwan",
+          "url": "http://l10n.tw/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0045",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 45,
+      "font_family": "cwTeX",
+      "developer": "L10n Taiwan",
+      "font_name": "cwTeX中圆体",
+      "style": "圆",
+      "weight_count": "1",
+      "license": "GNU GPLv2+ & SIL Open Font License, Version 1.1",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "L10n Taiwan",
+          "url": "http://l10n.tw/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0046",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 46,
+      "font_family": "cwTeX",
+      "developer": "L10n Taiwan",
+      "font_name": "cwTeX中仿宋",
+      "style": "仿",
+      "weight_count": "1",
+      "license": "GNU GPLv2+ & SIL Open Font License, Version 1.1",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "L10n Taiwan",
+          "url": "http://l10n.tw/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0047",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 47,
+      "font_family": "cwTeX",
+      "developer": "L10n Taiwan",
+      "font_name": "cwTeX粗黑体",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "GNU GPLv2+ & SIL Open Font License, Version 1.1",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "L10n Taiwan",
+          "url": "http://l10n.tw/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0048",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 48,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗超明体",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0049",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 49,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗特明体标准",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0050",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 50,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗细新宋简体",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0051",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 51,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗特黑体",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0052",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 52,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗细黑体",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0053",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 53,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗粗黑体实阴",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0054",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 54,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗仿宋标准",
+      "style": "仿",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0055",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 55,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗颜楷体",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0056",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 56,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗中魏碑简体",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0057",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 57,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗标楷体空心",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0058",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 58,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗粗圆体双空",
+      "style": "圆",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0059",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 59,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗粗钢体标准",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0060",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 60,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗钢笔行楷",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0061",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 61,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗超黑俏皮动物",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0062",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 62,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗波浪体",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0063",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 63,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗波卡体空阴",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0064",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 64,
+      "font_family": "王汉宗自由字体",
+      "developer": "王汉宗",
+      "font_name": "王汉宗海报体半天水",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv2",
+      "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "王汉宗自由字体",
+          "url": "https://code.google.com/archive/p/wangfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0065",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 65,
+      "font_family": "文鼎开放字体",
+      "developer": "文鼎",
+      "font_name": "AR PL BaoSong2GBK",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "Arphic Public License (non-commercial)",
+      "license_url": "https://web.archive.org/web/20110707164354/http://www.arphic.com/tw/download/public_license.rar",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0066",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 66,
+      "font_family": "文鼎开放字体",
+      "developer": "文鼎",
+      "font_name": "AR PL MingU20-L",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "Arphic Public License (non-commercial)",
+      "license_url": "https://web.archive.org/web/20110707164354/http://www.arphic.com/tw/download/public_license.rar",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0067",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 67,
+      "font_family": "文鼎开放字体",
+      "developer": "文鼎",
+      "font_name": "AR PL Mingti2L Big5",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "Arphic Public License (free)",
+      "license_url": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0068",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 68,
+      "font_family": "文鼎开放字体",
+      "developer": "文鼎",
+      "font_name": "AR PL SungtiL GB",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "Arphic Public License (free)",
+      "license_url": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": false,
+        "ja": false,
+        "ko": false
+      },
+      "links": [],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0069",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 69,
+      "font_family": "文鼎开放字体",
+      "developer": "文鼎",
+      "font_name": "AR PL KaitiM Big5",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "Arphic Public License (free)",
+      "license_url": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0070",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 70,
+      "font_family": "文鼎开放字体",
+      "developer": "文鼎",
+      "font_name": "AR PL KaitiM GB",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "Arphic Public License (free)",
+      "license_url": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": false,
+        "ja": false,
+        "ko": false
+      },
+      "links": [],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0071",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 71,
+      "font_family": "自由香港字型",
+      "developer": "香港自由字型",
+      "font_name": "自由香港楷书",
+      "style": "楷",
+      "weight_count": "1",
+      "license": "CC-BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": false
+      },
+      "links": [],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0072",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 72,
+      "font_family": "M+Fonts",
+      "developer": "森下浩司",
+      "font_name": "M+ P Type-1",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "M+Fonts License",
+      "license_url": "http://mplus-fonts.osdn.jp/about.html#license",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "M+Fonts",
+          "url": "http://mplus-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0073",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 73,
+      "font_family": "M+Fonts",
+      "developer": "森下浩司",
+      "font_name": "M+ P Type-2",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "M+Fonts License",
+      "license_url": "http://mplus-fonts.osdn.jp/about.html#license",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "M+Fonts",
+          "url": "http://mplus-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0074",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 74,
+      "font_family": "M+Fonts",
+      "developer": "森下浩司",
+      "font_name": "M+ C Type-1",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "M+Fonts License",
+      "license_url": "http://mplus-fonts.osdn.jp/about.html#license",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "M+Fonts",
+          "url": "http://mplus-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0075",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 75,
+      "font_family": "M+Fonts",
+      "developer": "森下浩司",
+      "font_name": "M+ C Type-2",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "M+Fonts License",
+      "license_url": "http://mplus-fonts.osdn.jp/about.html#license",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "M+Fonts",
+          "url": "http://mplus-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0076",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 76,
+      "font_family": "M+Fonts",
+      "developer": "森下浩司",
+      "font_name": "M+ M Type-1",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "M+Fonts License",
+      "license_url": "http://mplus-fonts.osdn.jp/about.html#license",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "M+Fonts",
+          "url": "http://mplus-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0077",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 77,
+      "font_family": "M+Fonts",
+      "developer": "森下浩司",
+      "font_name": "M+ M Type-2",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "M+Fonts License",
+      "license_url": "http://mplus-fonts.osdn.jp/about.html#license",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "M+Fonts",
+          "url": "http://mplus-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0078",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 78,
+      "font_family": "M+Fonts",
+      "developer": "森下浩司",
+      "font_name": "M+ MN Type-1",
+      "style": "黑",
+      "weight_count": "7",
+      "license": "M+Fonts License",
+      "license_url": "http://mplus-fonts.osdn.jp/about.html#license",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "M+Fonts",
+          "url": "http://mplus-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0079",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 79,
+      "font_family": "851",
+      "developer": "8:51:22 pm",
+      "font_name": "851ゴチカクット",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "自由修改分发，可商用，保留著作权",
+      "license_url": "",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "851",
+          "url": "https://pm85122.onamae.jp/85122font.html"
+        },
+        {
+          "text": "851ゴチカクット",
+          "url": "https://pm85122.onamae.jp/851Gkktt.html"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0080",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 80,
+      "font_family": "851",
+      "developer": "8:51:22 pm",
+      "font_name": "851手書き雑フォント",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "自由修改分发，可商用，保留著作权",
+      "license_url": "",
+      "languages": {
+        "zh_cn": true,
+        "zh_tw": true,
+        "ja": true,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "851",
+          "url": "https://pm85122.onamae.jp/85122font.html"
+        },
+        {
+          "text": "851手書き雑フォント",
+          "url": "https://pm85122.onamae.jp/851fontpage.html"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0081",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 81,
+      "font_family": "851",
+      "developer": "8:51:22 pm",
+      "font_name": "851チカラヅヨク",
+      "style": "艺",
+      "weight_count": "2",
+      "license": "自由修改分发，可商用，保留著作权",
+      "license_url": "",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "851",
+          "url": "https://pm85122.onamae.jp/85122font.html"
+        },
+        {
+          "text": "851チカラヅヨク",
+          "url": "https://pm85122.onamae.jp/851ch-dz.html"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0082",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 82,
+      "font_family": "851",
+      "developer": "8:51:22 pm",
+      "font_name": "851チカラヨワク",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "自由修改分发，可商用，保留著作权",
+      "license_url": "",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "851",
+          "url": "https://pm85122.onamae.jp/85122font.html"
+        },
+        {
+          "text": "851チカラヨワク",
+          "url": "https://pm85122.onamae.jp/851ch-yw.html"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0083",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 83,
+      "font_family": "851",
+      "developer": "8:51:22 pm",
+      "font_name": "851テガキカクット",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "自由修改分发，可商用，保留著作权",
+      "license_url": "",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "851",
+          "url": "https://pm85122.onamae.jp/85122font.html"
+        },
+        {
+          "text": "851テガキカクット",
+          "url": "https://pm85122.onamae.jp/851H_kktt.html"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0084",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 84,
+      "font_family": "851",
+      "developer": "8:51:22 pm",
+      "font_name": "851マカポップ",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "自由修改分发，可商用，保留著作权",
+      "license_url": "",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "851",
+          "url": "https://pm85122.onamae.jp/85122font.html"
+        },
+        {
+          "text": "851マカポップ",
+          "url": "https://pm85122.onamae.jp/851mkpop.html"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0085",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 85,
+      "font_family": "851",
+      "developer": "8:51:22 pm",
+      "font_name": "851マカポップ",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "自由修改分发，可商用，保留著作权",
+      "license_url": "",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "851",
+          "url": "https://pm85122.onamae.jp/85122font.html"
+        },
+        {
+          "text": "851マカポップ",
+          "url": "https://pm85122.onamae.jp/851mkpop.html"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0086",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 86,
+      "font_family": "Kazesawa",
+      "developer": "kazesawa",
+      "font_name": "Kazesawa",
+      "style": "黑",
+      "weight_count": "6",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "Kazesawa",
+          "url": "https://kazesawa.github.io/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0087",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 87,
+      "font_family": "FLOP DESIGN",
+      "developer": "FLOP DESIGN",
+      "font_name": "装甲明朝",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "SIL Open Font License, Version 1.1",
+      "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "FLOP DESIGN",
+          "url": "https://www.flopdesign.com/"
+        },
+        {
+          "text": "装甲明朝",
+          "url": "https://flopdesign.com/blog/font/5228/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0088",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 88,
+      "font_family": "Sazanami",
+      "developer": "狩野宏樹",
+      "font_name": "Sazanami ゴシック",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "BSD",
+      "license_url": "",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "Sazanami",
+          "url": "https://ja.osdn.net/projects/efont/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0089",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 89,
+      "font_family": "Sazanami",
+      "developer": "狩野宏樹",
+      "font_name": "Sazanami 明朝",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "BSD",
+      "license_url": "",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "Sazanami",
+          "url": "https://ja.osdn.net/projects/efont/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0090",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 90,
+      "font_family": "Un Fonts",
+      "developer": "wkpark, Jungshik Shin, 김도현",
+      "font_name": "UnBatang",
+      "style": "宋",
+      "weight_count": "2",
+      "license": "GNU GPLv3",
+      "license_url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "Un Fonts",
+          "url": "http://kldp.net/unfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0091",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 91,
+      "font_family": "Un Fonts",
+      "developer": "wkpark, Jungshik Shin, 김도현",
+      "font_name": "UnDotum",
+      "style": "黑",
+      "weight_count": "2",
+      "license": "GNU GPLv3",
+      "license_url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "Un Fonts",
+          "url": "http://kldp.net/unfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0092",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 92,
+      "font_family": "Un Fonts",
+      "developer": "wkpark, Jungshik Shin, 김도현",
+      "font_name": "UnShinmun",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "GNU GPLv3",
+      "license_url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "Un Fonts",
+          "url": "http://kldp.net/unfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0093",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 93,
+      "font_family": "Un Fonts",
+      "developer": "wkpark, Jungshik Shin, 김도현",
+      "font_name": "UnYetgul",
+      "style": "隶",
+      "weight_count": "1",
+      "license": "GNU GPLv3",
+      "license_url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "Un Fonts",
+          "url": "http://kldp.net/unfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0094",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 94,
+      "font_family": "Un Fonts",
+      "developer": "wkpark, Jungshik Shin, 김도현",
+      "font_name": "UnGungseo",
+      "style": "艺",
+      "weight_count": "1",
+      "license": "GNU GPLv3",
+      "license_url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": true,
+        "ja": false,
+        "ko": true
+      },
+      "links": [
+        {
+          "text": "Un Fonts",
+          "url": "http://kldp.net/unfonts/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0095",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 95,
+      "font_family": "Sazanami",
+      "developer": "mishio",
+      "font_name": "さわらびゴシック",
+      "style": "黑",
+      "weight_count": "1",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/deed.ja",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "Sazanami",
+          "url": "http://sawarabi-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0096",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 96,
+      "font_family": "Sazanami",
+      "developer": "mishio",
+      "font_name": "さわらび明朝",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/deed.ja",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "Sazanami",
+          "url": "http://sawarabi-fonts.osdn.jp/"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0097",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 97,
+      "font_family": "Typing Art开源字体",
+      "developer": "中井良尚",
+      "font_name": "こころ明朝体",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "IPA Font License Agreement V1.0",
+      "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "中井良尚",
+          "url": "https://twitter.com/typingart"
+        },
+        {
+          "text": "こころ明朝体",
+          "url": "http://typingart.net/?p=46"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0098",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 98,
+      "font_family": "Typing Art开源字体",
+      "developer": "中井良尚",
+      "font_name": "はんなり明朝",
+      "style": "宋",
+      "weight_count": "1",
+      "license": "IPA Font License Agreement V1.0",
+      "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "中井良尚",
+          "url": "https://twitter.com/typingart"
+        },
+        {
+          "text": "はんなり明朝",
+          "url": "http://typingart.net/?p=44"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "osfcc-0099",
+      "source": "osfcc",
+      "source_name": "OSFCC 中文开源字体集",
+      "source_url": "https://github.com/DrXie/OSFCC",
+      "source_row": 99,
+      "font_family": "Typing Art开源字体",
+      "developer": "中井良尚",
+      "font_name": "こども丸ゴシック",
+      "style": "艺",
+      "weight_count": "2",
+      "license": "IPA Font License Agreement V1.0",
+      "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp",
+      "languages": {
+        "zh_cn": false,
+        "zh_tw": false,
+        "ja": true,
+        "ko": false
+      },
+      "links": [
+        {
+          "text": "中井良尚",
+          "url": "https://twitter.com/typingart"
+        },
+        {
+          "text": "こども丸ゴシック",
+          "url": "http://typingart.net/?p=51"
+        }
+      ],
+      "status": "metadata_imported_license_review_required"
+    }
+  ]
+}
