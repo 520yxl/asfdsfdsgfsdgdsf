@@ -1,10 +1,50 @@
 [
   {
+    "path": "fonts/unknown/genkigothic2-tw/GenKiGothic2-B.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genkigothic2-tw/GenKiGothic2-EL.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genkigothic2-tw/GenKiGothic2-H.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/genryumin2-tc/GenRyuMin2TC-B.otf",
     "warning": "Unknown brand; needs review"
   },
   {
     "path": "fonts/unknown/genryumin2-tc/GenRyuMin2TC-R.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genyogothic2-tw/GenYoGothic2-B.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genyogothic2-tw/GenYoGothic2-EL.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genyogothic2-tw/GenYoGothic2-H.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genyogothic2-tw/GenYoGothic2-L.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genyogothic2-tw/GenYoGothic2-M.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genyogothic2-tw/GenYoGothic2-N.ttc",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/genyogothic2-tw/GenYoGothic2-R.ttc",
     "warning": "Unknown brand; needs review"
   },
   {
