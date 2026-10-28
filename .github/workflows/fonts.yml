@@ -1,14 +1,7 @@
 name: Build font index
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'incoming/**'
-      - 'fonts/**'
-      - 'metadata/**'
-      - 'scripts/**'
-      - 'requirements.txt'
-      - '.github/workflows/fonts.yml'
+  schedule:
+    - cron: '0 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -26,17 +19,6 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - name: Seed open-source fonts once
-        shell: bash
-        run: |
-          set -euo pipefail
-          if [ ! -f licenses/lxgw-wenkai/OFL.txt ]; then
-            mkdir -p incoming licenses/lxgw-wenkai licenses/lxgw-marker-gothic
-            curl -fL --retry 3 -o incoming/LXGWWenKai-Regular.ttf 'https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/fonts/TTF/LXGWWenKai-Regular.ttf'
-            curl -fL --retry 3 -o incoming/LXGWMarkerGothic-Regular.ttf 'https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/fonts/ttf/LXGWMarkerGothic-Regular.ttf'
-            curl -fL --retry 3 -o licenses/lxgw-wenkai/OFL.txt 'https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/OFL.txt'
-            curl -fL --retry 3 -o licenses/lxgw-marker-gothic/OFL.txt 'https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/OFL.txt'
-          fi
       - name: Sort fonts and build index
         run: python scripts/build_index.py
       - name: Commit updated data
