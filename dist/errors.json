@@ -14,5 +14,97 @@
   {
     "path": "fonts/unknown/genyomin2-tc/GenYoMin2TC-R.otf",
     "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-Bold.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-BoldItalic.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-ExtraLight.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-ExtraLightItalic.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-Italic.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-Light.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-LightItalic.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-Medium.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-MediumItalic.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-SemiBold.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-SemiBoldItalic.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-Text.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-TextItalic.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-Thin.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans/IBMPlexSans-ThinItalic.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans-jp/IBMPlexSansJP-Bold.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans-jp/IBMPlexSansJP-ExtraLight.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans-jp/IBMPlexSansJP-Light.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans-jp/IBMPlexSansJP-Medium.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans-jp/IBMPlexSansJP-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans-jp/IBMPlexSansJP-SemiBold.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ibm-plex-sans-jp/IBMPlexSansJP-Thin.ttf",
+    "warning": "Unknown brand; needs review"
   }
 ]
