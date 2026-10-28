@@ -15,7 +15,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: font-index-main
+  group: font-index-main-v2
   cancel-in-progress: false
 jobs:
   index:
