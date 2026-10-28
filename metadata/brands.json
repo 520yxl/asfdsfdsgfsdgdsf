@@ -12,7 +12,9 @@
       "id": "google",
       "name": "Google",
       "keywords": [
-        "Google"
+        "Google",
+        "Noto Sans",
+        "Noto Serif"
       ]
     },
     {
@@ -20,7 +22,9 @@
       "name": "阿里巴巴",
       "keywords": [
         "阿里巴巴",
-        "Alibaba"
+        "Alibaba",
+        "Alimama",
+        "阿里普惠体"
       ]
     },
     {
@@ -37,6 +41,31 @@
       "keywords": [
         "腾讯",
         "Tencent"
+      ]
+    },
+    {
+      "id": "buttaiwan",
+      "name": "ButTaiwan",
+      "keywords": [
+        "ButTaiwan",
+        "GenRyu",
+        "GenYo"
+      ]
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "keywords": [
+        "IBM",
+        "Plex Sans"
+      ]
+    },
+    {
+      "id": "genki",
+      "name": "GenKi",
+      "keywords": [
+        "GenKiGothic",
+        "GenKi Gothic"
       ]
     }
   ]
