@@ -7,7 +7,7 @@
   {
     "id": "adobe",
     "name": "Adobe Systems Incorporated",
-    "count": 5
+    "count": 10
   },
   {
     "id": "aidian-fonts",
@@ -32,6 +32,11 @@
   {
     "id": "alexander-kalachev-alexey-maslov-jovanny-lemonad",
     "name": "Alexander Kalachev, Alexey Maslov, Jovanny Lemonad",
+    "count": 1
+  },
+  {
+    "id": "alexander-tseng",
+    "name": "Alexander Tseng",
     "count": 1
   },
   {
@@ -120,6 +125,11 @@
     "count": 18
   },
   {
+    "id": "atelieranchor",
+    "name": "atelierAnchor",
+    "count": 1
+  },
+  {
     "id": "balsamiq-srl",
     "name": "Balsamiq SRL",
     "count": 4
@@ -132,7 +142,7 @@
   {
     "id": "beijing-tsanger-character-technology-co-ltd",
     "name": "Beijing Tsanger Character Technology Co., Ltd.",
-    "count": 5
+    "count": 10
   },
   {
     "id": "black-foundry",
@@ -290,9 +300,19 @@
     "count": 18
   },
   {
+    "id": "do-font-cpbyes",
+    "name": "Do-Font & CPBYes",
+    "count": 1
+  },
+  {
     "id": "dot-colon",
     "name": "dot colon",
     "count": 7
+  },
+  {
+    "id": "droit-vision-敬",
+    "name": "Droit Vision\n敬",
+    "count": 3
   },
   {
     "id": "duarte-pinto",
@@ -358,6 +378,11 @@
     "id": "f0n7-com",
     "name": "f0n7.com",
     "count": 18
+  },
+  {
+    "id": "fi",
+    "name": "±±æ©±±¥Û∑Ω’˝µÁ◊””–œﬁπ´Àæ",
+    "count": 1
   },
   {
     "id": "florian-karsten",
@@ -437,7 +462,7 @@
   {
     "id": "hanchan-type",
     "name": "Hanchan Type",
-    "count": 6
+    "count": 7
   },
   {
     "id": "hanmeihutong-xiamen-technology-co-ltd",
@@ -525,6 +550,11 @@
     "count": 1
   },
   {
+    "id": "jialun-company-bangfont",
+    "name": "Jialun Company;Bangfont",
+    "count": 1
+  },
+  {
     "id": "jm-sole",
     "name": "JM Sole",
     "count": 5
@@ -588,6 +618,16 @@
     "id": "keussel-studio",
     "name": "Keussel Studio",
     "count": 2
+  },
+  {
+    "id": "keynoteart",
+    "name": "Keynoteart",
+    "count": 4
+  },
+  {
+    "id": "keynoteart-x-qiuyeppt",
+    "name": "Keynoteart x QiuYePPT",
+    "count": 1
   },
   {
     "id": "kief-type-foundry-accademia-di-belle-arti-di-urbino",
@@ -680,6 +720,11 @@
     "count": 1
   },
   {
+    "id": "myil",
+    "name": "MYIL",
+    "count": 3
+  },
+  {
     "id": "nan",
     "name": "NaN",
     "count": 6
@@ -688,6 +733,11 @@
     "id": "nan-hubert-fischer",
     "name": "NaN, Hubert & Fischer",
     "count": 3
+  },
+  {
+    "id": "nanofont",
+    "name": "NANOFONT",
+    "count": 2
   },
   {
     "id": "natalia-raices",
@@ -717,6 +767,11 @@
   {
     "id": "no-125-design-warehouse",
     "name": "No.125 Design warehouse",
+    "count": 1
+  },
+  {
+    "id": "o",
+    "name": "ÉÏº£ôÈ",
     "count": 1
   },
   {
@@ -800,6 +855,16 @@
     "count": 18
   },
   {
+    "id": "ramage",
+    "name": "Ramage",
+    "count": 1
+  },
+  {
+    "id": "ramega",
+    "name": "Ramega",
+    "count": 1
+  },
+  {
     "id": "raoul-audouin",
     "name": "Raoul Audouin",
     "count": 2
@@ -855,14 +920,39 @@
     "count": 1
   },
   {
+    "id": "sanji",
+    "name": "SANJI",
+    "count": 1
+  },
+  {
     "id": "saurabh-sharma",
     "name": "Saurabh Sharma",
+    "count": 1
+  },
+  {
+    "id": "shanghai-pintu-network-technology-co-ltd",
+    "name": "Shanghai PinTu Network Technology Co.,Ltd.",
+    "count": 4
+  },
+  {
+    "id": "shanghai-zihun-network-technology-co-ltd",
+    "name": "Shanghai ZiHun Network Technology Co.,Ltd.",
+    "count": 1
+  },
+  {
+    "id": "shanghai-zoomlacms-co-ltd",
+    "name": "Shanghai ZoomlaCMS co.,LTD",
     "count": 1
   },
   {
     "id": "sil-international",
     "name": "SIL International",
     "count": 8
+  },
+  {
+    "id": "slidefont",
+    "name": "SlideFont",
+    "count": 1
   },
   {
     "id": "sol-matas",
@@ -902,6 +992,11 @@
   {
     "id": "studiognu",
     "name": "StudioGnu",
+    "count": 1
+  },
+  {
+    "id": "sucaijishi-com",
+    "name": "sucaijishi.com",
     "count": 1
   },
   {
@@ -975,9 +1070,34 @@
     "count": 2
   },
   {
+    "id": "u-20cbc476bb16",
+    "name": "ìÖÂÒ",
+    "count": 1
+  },
+  {
+    "id": "u-5bab61eb5317",
+    "name": "?",
+    "count": 2
+  },
+  {
     "id": "u-5e527db64ce4",
     "name": "ÃŸ…œ–°¥Ùπœ",
     "count": 3
+  },
+  {
+    "id": "u-958e190c5bd8",
+    "name": "ÔÆ",
+    "count": 1
+  },
+  {
+    "id": "u-bf2957508fb8",
+    "name": "___",
+    "count": 2
+  },
+  {
+    "id": "u-ce363b864494",
+    "name": "ÅÓ",
+    "count": 1
   },
   {
     "id": "u-ef84a0eec437",
@@ -997,7 +1117,7 @@
   {
     "id": "unknown",
     "name": "",
-    "count": 447
+    "count": 536
   },
   {
     "id": "vectro-type-foundry",
@@ -1040,9 +1160,14 @@
     "count": 23
   },
   {
+    "id": "yang-shuang",
+    "name": "YANG SHUANG",
+    "count": 1
+  },
+  {
     "id": "yefont",
     "name": "YEFONT",
-    "count": 3
+    "count": 5
   },
   {
     "id": "yellow-type-foundry",
@@ -1052,6 +1177,11 @@
   {
     "id": "yoondesign-inc",
     "name": "YoonDesign Inc.",
+    "count": 1
+  },
+  {
+    "id": "youshe-design-team",
+    "name": "YouShe Design Team",
     "count": 1
   },
   {
@@ -1065,8 +1195,103 @@
     "count": 1
   },
   {
+    "id": "zcool",
+    "name": "ZCOOL",
+    "count": 1
+  },
+  {
+    "id": "zhengqingke",
+    "name": "zhengqingke",
+    "count": 1
+  },
+  {
+    "id": "zhongqi",
+    "name": "ZhongQi",
+    "count": 2
+  },
+  {
+    "id": "zizhiqu",
+    "name": "ZiZhiQu",
+    "count": 1
+  },
+  {
+    "id": "zojitype",
+    "name": "Zojitype",
+    "count": 5
+  },
+  {
+    "id": "zqk",
+    "name": "zqk",
+    "count": 1
+  },
+  {
+    "id": "云峰字库",
+    "name": "云峰字库",
+    "count": 1
+  },
+  {
     "id": "刹那仮想",
     "name": "刹那仮想",
+    "count": 1
+  },
+  {
+    "id": "北京北大方正电子有限公司",
+    "name": "北京北大方正电子有限公司",
+    "count": 3
+  },
+  {
+    "id": "品如设计",
+    "name": "品如设计",
+    "count": 1
+  },
+  {
+    "id": "奇文云海-设计顾问",
+    "name": "奇文云海 设计顾问",
+    "count": 4
+  },
+  {
+    "id": "寒蝉字型",
+    "name": "寒蝉字型",
+    "count": 3
+  },
+  {
+    "id": "山东兵克字库设计有限公司",
+    "name": "山东兵克字库设计有限公司",
+    "count": 1
+  },
+  {
+    "id": "平方造字",
+    "name": "平方造字",
+    "count": 20
+  },
+  {
+    "id": "广州思城创意科技有限公司",
+    "name": "广州思城创意科技有限公司",
+    "count": 1
+  },
+  {
+    "id": "成都美尔贝科技股份有限公司",
+    "name": "成都美尔贝科技股份有限公司",
+    "count": 1
+  },
+  {
+    "id": "日照字语字乐文化传播有限公司",
+    "name": "日照字语字乐文化传播有限公司",
+    "count": 1
+  },
+  {
+    "id": "深圳文道信息科技有限公司",
+    "name": "深圳文道信息科技有限公司",
+    "count": 1
+  },
+  {
+    "id": "特里字藝",
+    "name": "特里字藝",
+    "count": 2
+  },
+  {
+    "id": "蓝色共鸣",
+    "name": "蓝色共鸣",
     "count": 1
   }
 ]

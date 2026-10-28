@@ -61482,64 +61482,6 @@
     "exclusion_reason": "Metadata-only record without a verified downloadable desktop font file"
   },
   {
-    "id": "61c986edc8578bbcab2a",
-    "family": "Liu Jian Mao Cao",
-    "style": "Regular",
-    "full_name": "Liu Jian Mao Cao",
-    "manufacturer": "Google Fonts contributor",
-    "brand_id": "google-fonts-contributor",
-    "brand_name": "Google Fonts contributor",
-    "family_id": "liu-jian-mao-cao",
-    "category": "手写体",
-    "faces": [],
-    "format": "remote",
-    "size": 0,
-    "sha256": "61c986edc8578bbcab2a2f718c8117350af6cd51ccec566804f89e8fd39f2f15",
-    "path": "google-fonts/Liu%20Jian%20Mao%20Cao",
-    "download_url": "",
-    "source": "google-fonts",
-    "source_url": "https://fonts.google.com/specimen/Liu%20Jian%20Mao%20Cao",
-    "official_files": {
-      "400": {
-        "thickness": null,
-        "slant": null,
-        "width": null,
-        "lineHeight": 1.0
-      }
-    },
-    "chinese_names": [],
-    "searchable_names": [
-      "Liu Jian Mao Cao"
-    ],
-    "license": "See official family metadata and source project before redistribution",
-    "subsets": [
-      "menu",
-      "chinese-simplified",
-      "latin"
-    ],
-    "language_tags": [
-      "en",
-      "zh-Hans"
-    ],
-    "script_tags": [
-      "Han",
-      "Latin"
-    ],
-    "weight_class": 400,
-    "weight_name": "Regular",
-    "weight_range": [
-      400,
-      400
-    ],
-    "license_type": "unknown",
-    "license_url": "",
-    "commercial_use": null,
-    "redistribution_allowed": null,
-    "axes": [],
-    "usable_in_desktop": false,
-    "exclusion_reason": "Metadata-only record without a verified downloadable desktop font file"
-  },
-  {
     "id": "ff3402e50f3ef444f548",
     "family": "Livvic",
     "style": "Regular",
@@ -128100,64 +128042,6 @@
     "exclusion_reason": "Metadata-only record without a verified downloadable desktop font file"
   },
   {
-    "id": "6866e254362b0bff9556",
-    "family": "ZCOOL KuaiLe",
-    "style": "Regular",
-    "full_name": "ZCOOL KuaiLe",
-    "manufacturer": "Google Fonts contributor",
-    "brand_id": "google-fonts-contributor",
-    "brand_name": "Google Fonts contributor",
-    "family_id": "zcool-kuaile",
-    "category": "黑体",
-    "faces": [],
-    "format": "remote",
-    "size": 0,
-    "sha256": "6866e254362b0bff9556a8582322d3efa6dfc5f9d610f628d92ec63653560f88",
-    "path": "google-fonts/ZCOOL%20KuaiLe",
-    "download_url": "",
-    "source": "google-fonts",
-    "source_url": "https://fonts.google.com/specimen/ZCOOL%20KuaiLe",
-    "official_files": {
-      "400": {
-        "thickness": null,
-        "slant": null,
-        "width": null,
-        "lineHeight": 1.0
-      }
-    },
-    "chinese_names": [],
-    "searchable_names": [
-      "ZCOOL KuaiLe"
-    ],
-    "license": "See official family metadata and source project before redistribution",
-    "subsets": [
-      "menu",
-      "chinese-simplified",
-      "latin"
-    ],
-    "language_tags": [
-      "en",
-      "zh-Hans"
-    ],
-    "script_tags": [
-      "Han",
-      "Latin"
-    ],
-    "weight_class": 400,
-    "weight_name": "Regular",
-    "weight_range": [
-      400,
-      400
-    ],
-    "license_type": "unknown",
-    "license_url": "",
-    "commercial_use": null,
-    "redistribution_allowed": null,
-    "axes": [],
-    "usable_in_desktop": false,
-    "exclusion_reason": "Metadata-only record without a verified downloadable desktop font file"
-  },
-  {
     "id": "34f0389c4c4e3cadc6eb",
     "family": "ZCOOL QingKe HuangYou",
     "style": "Regular",
@@ -128983,64 +128867,6 @@
       "en"
     ],
     "script_tags": [
-      "Latin"
-    ],
-    "weight_class": 400,
-    "weight_name": "Regular",
-    "weight_range": [
-      400,
-      400
-    ],
-    "license_type": "unknown",
-    "license_url": "",
-    "commercial_use": null,
-    "redistribution_allowed": null,
-    "axes": [],
-    "usable_in_desktop": false,
-    "exclusion_reason": "Metadata-only record without a verified downloadable desktop font file"
-  },
-  {
-    "id": "77be6034f5e9e91eb85f",
-    "family": "Zhi Mang Xing",
-    "style": "Regular",
-    "full_name": "Zhi Mang Xing",
-    "manufacturer": "Google Fonts contributor",
-    "brand_id": "google-fonts-contributor",
-    "brand_name": "Google Fonts contributor",
-    "family_id": "zhi-mang-xing",
-    "category": "手写体",
-    "faces": [],
-    "format": "remote",
-    "size": 0,
-    "sha256": "77be6034f5e9e91eb85fd96b82978fb0e5ea57b9f3ed64c3903bc455340dabb2",
-    "path": "google-fonts/Zhi%20Mang%20Xing",
-    "download_url": "",
-    "source": "google-fonts",
-    "source_url": "https://fonts.google.com/specimen/Zhi%20Mang%20Xing",
-    "official_files": {
-      "400": {
-        "thickness": null,
-        "slant": null,
-        "width": null,
-        "lineHeight": 1.0
-      }
-    },
-    "chinese_names": [],
-    "searchable_names": [
-      "Zhi Mang Xing"
-    ],
-    "license": "See official family metadata and source project before redistribution",
-    "subsets": [
-      "menu",
-      "chinese-simplified",
-      "latin"
-    ],
-    "language_tags": [
-      "en",
-      "zh-Hans"
-    ],
-    "script_tags": [
-      "Han",
       "Latin"
     ],
     "weight_class": 400,

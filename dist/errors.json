@@ -12,6 +12,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/3/清松手写体3.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/3d-isometric/3DIsometric-Black.otf",
     "warning": "Unknown brand; needs review"
   },
@@ -528,6 +532,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/fontqu-smile/字制区喜脉喜欢体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/format-1452/Format_1452.otf",
     "warning": "Unknown brand; needs review"
   },
@@ -684,6 +692,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/hanzi-pinyin-font/Hanzi-Pinyin-Font.top.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/help-me/HelpMe.otf",
     "warning": "Unknown brand; needs review"
   },
@@ -693,6 +705,34 @@
   },
   {
     "path": "fonts/unknown/hooskai-chamfered-square/HooskaiChamferedSquare.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/huiwen-fangsong/汇文仿宋v1.001.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/huiwen-hkhei/汇文港黑v1.001.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/huiwen-mincho/汇文明朝体.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/huiwen-zhengkai/汇文正楷v1.001.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/huxiaobo-nanshenti2-0/胡晓波男神体2.0.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/huxiaobo-saobaoti2-0/胡晓波骚包体2.0.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/huxiaobo-zhenshuaiti2-0/胡晓波真帅体2.0.otf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -748,6 +788,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/jasonhandwriting1/清松手写体1.ttf",
+    "warning": "Duplicate of fonts/unknown/jasonhandwriting1/JasonHandwriting1.ttf"
+  },
+  {
     "path": "fonts/unknown/jasonhandwriting3/JasonHandwriting3.ttf",
     "warning": "Unknown brand; needs review"
   },
@@ -760,7 +804,15 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/jasonhandwriting4/清松手写体4.ttf",
+    "warning": "Duplicate of fonts/unknown/jasonhandwriting4/JasonHandwriting4.ttf"
+  },
+  {
     "path": "fonts/unknown/jasonhandwriting5/JasonHandwriting5.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/jasonhandwriting5/清松手写体5.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -780,8 +832,16 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/jasonhandwriting6/清松手写体6.ttf",
+    "warning": "Duplicate of fonts/unknown/jasonhandwriting6/JasonHandwriting6.ttf"
+  },
+  {
     "path": "fonts/unknown/jasonhandwriting6p/JasonHandwriting6p.ttf",
     "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/jasonhandwriting6p/清松手写体6p.ttf",
+    "warning": "Duplicate of fonts/unknown/jasonhandwriting6p/JasonHandwriting6p.ttf"
   },
   {
     "path": "fonts/unknown/jasonhandwriting7/JasonHandwriting7.ttf",
@@ -860,6 +920,26 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/jiangchengjianrenhei/江城尖刃黑.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/jiangchenglvdonghei/江城律动黑.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/jiangchenglvdongsong/江城律动宋.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/jiangchenglvdongyuan/江城律动圆.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/jingfeng-zskss/JFZSKSealScript_V3.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/jomhuria/Jomhuria-Regular.ttf",
     "warning": "Unknown brand; needs review"
   },
@@ -924,7 +1004,15 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/kinghwa-oldsong/京華老宋体2.0.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/koulen/Koulen-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/kunminghaiouti/昆明海鸥体.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -944,6 +1032,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/langkejianghulianmeng/浪课江湖联盟简体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/league-script-thin/LeagueScriptNumberOne.otf",
     "warning": "Unknown brand; needs review"
   },
@@ -953,6 +1045,10 @@
   },
   {
     "path": "fonts/unknown/lemon/Lemon-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/lianmengqiyilushuaizhengruiheiti/联盟起艺卢帅正锐黑体.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -992,6 +1088,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/liuhuankatongshoushu/刘欢卡通手书2.0.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/ll-mgothicmottle/LLMGothic-Regular.ttf",
     "warning": "Unknown brand; needs review"
   },
@@ -1013,6 +1113,10 @@
   },
   {
     "path": "fonts/unknown/megrim/Megrim-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/mengshen-handwritten/Mengshen-Handwritten.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1052,7 +1156,19 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/muyao-softbrush/Muyao-Softbrush.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/muyaopleased/沐瑶随心手写体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/nanxiangbangbang/nanxiangbangbang.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/nanxiyoumosong/南西油墨宋.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1204,6 +1320,22 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/pangmenzhengdao-cu6-0/庞门正道粗书体6.0.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/pangmenzhengdao-xixian/庞门正道细线体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/pangmenzhengdaobiaotitimianfeiban-4/庞门正道标题体免费版.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/pangzhengui-pmzd/庞门正道真贵楷体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/pelicula/Pelicula.otf",
     "warning": "Unknown brand; needs review"
   },
@@ -1345,6 +1477,10 @@
   },
   {
     "path": "fonts/unknown/purple-purse/PurplePurse-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/quanhengduliang/QuanHengDuLiang-OTF.otf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1500,7 +1636,19 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/shoushuti/手书体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/six-caps/SixCaps-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/sjsanjililiangtijian-cu/三极力量体简-粗.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/sjxingkai-c/三极行楷简体-粗.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1533,6 +1681,18 @@
   },
   {
     "path": "fonts/unknown/sriracha/Sriracha-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/starlovemarker/宅在家麦克笔.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/starlovepencil/宅在家自动笔.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/starlovesweety/宅在家粉條甜.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1577,6 +1737,10 @@
   },
   {
     "path": "fonts/unknown/story-script/StoryScript-Regular.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/sucaijishikangkangti/素材集市康康体3.0.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1728,6 +1892,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/wenxin-xile-font/文心喜乐体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/workear-font/WorkearFont-Regular-TTF.ttf",
     "warning": "Unknown brand; needs review"
   },
@@ -1748,6 +1916,42 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/xianerti/贤二体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/xiangcui-kesong/香萃刻宋.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/xiangcui-wave-sans/香萃自在舒畅黑.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/xiangcuichaoxisong/香萃潮汐宋 W40.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/xiangcuichaoxisongw15/香萃潮汐宋W15.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/xiangcuidazijitiw15/香萃打字机体 W15.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/xiangcuidazijitiw35/香萃打字机体 W35.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/xiangcuidazijitiw40/香萃打字机体 W40.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/xiangcuizerohei/REAL-XIANGCUI-ZEROHEI.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/xiaoheigungunti/xiaoheigungunti-Bold.otf",
     "warning": "Unknown brand; needs review"
   },
@@ -1756,11 +1960,71 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/yelihangjiulinkatong/叶利航九龄卡通.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/yellowtail/Yellowtail-Regular.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
     "path": "fonts/unknown/yesteryear/Yesteryear-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/youshebiaotihei/优设标题黑.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/youshebiaotiyuan/优设标题圆.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/youshehaoshenti/优设好身体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/yrdzst/杨任东竹石体-Bold.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/yrdzst/杨任东竹石体-Extralight.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/yrdzst/杨任东竹石体-Heavy.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/yrdzst/杨任东竹石体-Light.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/yrdzst/杨任东竹石体-Medium.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/yrdzst/杨任东竹石体-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/yrdzst/杨任东竹石体-Semibold.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/yunfengchongqingbangbangti/云峰字库重庆山城棒棒体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/zcool-gdh/站酷高端黑修订151105.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/zcool-kuhei/站酷酷黑体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/zcoolwenyiti/站酷文艺体.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1780,7 +2044,95 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/ziticqnananti/字体传奇南安体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ziticqtezhanti/字体传奇特战体-免费商用.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/ziticqxuejiahei/字体传奇雪家黑-粉丝免费.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/zqkfreefont/ZQKfreefont.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/三极泼墨体/三极泼墨体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/临海体/临海隶书.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/云峰飞云体/云峰飞云体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/今年也要加油鸭/今年也要加油鸭.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/南西初夏宋/南西初夏宋-简繁.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/南西新圆体/南西新圆体-简繁.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/叶根友守中曲画/叶根友守中曲画.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/叶根友微典/叶根友微典.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/叶根友微禅云/叶根友微禅云.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/叶根友锐劲体/叶根友锐劲体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/寒蝉团圆体/ChillReunion_Round.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/寒蝉团圆体/ChillReunion_Sans.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/寒蟬龍藏楷書/ChillLongCangKaiShu_Bold.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/寒蟬龍藏楷書/ChillLongCangKaiShu_ExtraBold.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/寒蟬龍藏楷書/ChillLongCangKaiShu_Medium.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/寒蟬龍藏楷書/ChillLongCangKaiShu_Regular.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/平方刘昂乐天体/平方刘昂乐天体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/平方赖江湖怀古体/平方赖江湖怀古体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/平方赖江湖琅琊体/平方赖江湖琅琊体.ttf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1792,7 +2144,31 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/未来圆sc/Light.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/未来圆sc/Medium.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/未来圆sc/Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/栗壳坚坚体/栗壳坚坚体-Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/清松手寫體2/JasonHandwriting2.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/清松手寫體2/清松手写体2.ttf",
+    "warning": "Duplicate of fonts/unknown/清松手寫體2/JasonHandwriting2.ttf"
+  },
+  {
+    "path": "fonts/unknown/温州鹿城瓯韵体/温州鹿城瓯韵体.ttf",
     "warning": "Unknown brand; needs review"
   }
 ]

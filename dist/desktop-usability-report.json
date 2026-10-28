@@ -1,8 +1,8 @@
 {
-  "desktop_usable_count": 2032,
-  "excluded_count": 1750,
+  "desktop_usable_count": 2224,
+  "excluded_count": 1747,
   "excluded_woff_count": 128,
-  "excluded_metadata_only_count": 1622,
+  "excluded_metadata_only_count": 1619,
   "supported_formats": [
     "otc",
     "otf",
