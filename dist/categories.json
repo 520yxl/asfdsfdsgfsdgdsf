@@ -1,34 +1,34 @@
 [
   {
-    "name": "黑体",
-    "count": 359
+    "name": "书法体",
+    "count": 2
   },
   {
-    "name": "宋体",
-    "count": 46
-  },
-  {
-    "name": "楷体",
-    "count": 13
+    "name": "其他",
+    "count": 1626
   },
   {
     "name": "圆体",
     "count": 3
   },
   {
-    "name": "书法体",
-    "count": 2
+    "name": "宋体",
+    "count": 46
   },
   {
     "name": "手写体",
     "count": 17
   },
   {
+    "name": "楷体",
+    "count": 11
+  },
+  {
     "name": "艺术体",
     "count": 36
   },
   {
-    "name": "其他",
-    "count": 1682
+    "name": "黑体",
+    "count": 289
   }
 ]

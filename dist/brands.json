@@ -1,12 +1,12 @@
 [
   {
     "id": "a",
-    "name": "É¶ÖaÓ",
+    "name": "É¶ÖªÓ",
     "count": 1
   },
   {
     "id": "adobe",
-    "name": "Adobe",
+    "name": "Adobe Systems Incorporated",
     "count": 5
   },
   {
@@ -51,8 +51,8 @@
   },
   {
     "id": "alibaba",
-    "name": "阿里巴巴",
-    "count": 254
+    "name": "Alibaba Design",
+    "count": 128
   },
   {
     "id": "ana-paula-megda",
@@ -161,7 +161,7 @@
   },
   {
     "id": "buttaiwan",
-    "name": "ButTaiwan",
+    "name": "",
     "count": 11
   },
   {
@@ -411,7 +411,7 @@
   },
   {
     "id": "genki",
-    "name": "GenKi",
+    "name": "",
     "count": 6
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "id": "google",
-    "name": "Google",
+    "name": "Google, Inc.",
     "count": 22
   },
   {
@@ -486,7 +486,7 @@
   },
   {
     "id": "ibm",
-    "name": "IBM",
+    "name": "Sandoll Inc.",
     "count": 39
   },
   {
@@ -611,7 +611,7 @@
   },
   {
     "id": "lingxun",
-    "name": "LIngxun",
+    "name": "Lingxun",
     "count": 3
   },
   {
@@ -626,7 +626,7 @@
   },
   {
     "id": "lxgw",
-    "name": "霞鹜",
+    "name": "LXGW / Fontworks Inc.",
     "count": 10
   },
   {
@@ -976,7 +976,7 @@
   },
   {
     "id": "u-5e527db64ce4",
-    "name": "ÃŸ...œ–°¥Ùπœ",
+    "name": "ÃŸ…œ–°¥Ùπœ",
     "count": 3
   },
   {
@@ -996,8 +996,8 @@
   },
   {
     "id": "unknown",
-    "name": "未知品牌",
-    "count": 449
+    "name": "",
+    "count": 447
   },
   {
     "id": "vectro-type-foundry",

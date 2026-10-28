@@ -1,33 +1,19 @@
 {
   "languages": [
-    "ar",
-    "bn",
-    "el",
     "en",
-    "he",
-    "hi",
     "ja",
     "ko",
-    "ru",
-    "ta",
-    "th",
-    "vi",
     "zh-Hans",
     "zh-Hant"
   ],
   "scripts": [
     "Arabic",
-    "Bengali",
     "Cyrillic",
-    "Devanagari",
-    "Greek",
     "Han",
     "Hangul",
     "Hebrew",
     "Hiragana-Katakana",
-    "Latin",
-    "Tamil",
-    "Thai"
+    "Latin"
   ],
   "categories": [
     {
@@ -36,7 +22,7 @@
     },
     {
       "name": "其他",
-      "count": 1727
+      "count": 1626
     },
     {
       "name": "圆体",
@@ -44,23 +30,23 @@
     },
     {
       "name": "宋体",
-      "count": 323
+      "count": 46
     },
     {
       "name": "手写体",
-      "count": 283
+      "count": 17
     },
     {
       "name": "楷体",
-      "count": 13
+      "count": 11
     },
     {
       "name": "艺术体",
-      "count": 301
+      "count": 36
     },
     {
       "name": "黑体",
-      "count": 997
+      "count": 289
     }
   ],
   "weights": [
@@ -95,10 +81,6 @@
     {
       "value": 400,
       "label": "Regular"
-    },
-    {
-      "value": 400,
-      "label": "Variable"
     },
     {
       "value": 420,
@@ -187,7 +169,7 @@
     {
       "id": "alibaba",
       "name": "Alibaba Design",
-      "count": 254
+      "count": 128
     },
     {
       "id": "ana-paula-megda",
@@ -558,11 +540,6 @@
       "id": "google",
       "name": "Google, Inc.",
       "count": 22
-    },
-    {
-      "id": "google-fonts-contributor",
-      "name": "Google Fonts contributor",
-      "count": 1491
     },
     {
       "id": "hagilda",
@@ -1137,7 +1114,7 @@
     {
       "id": "unknown",
       "name": "",
-      "count": 449
+      "count": 447
     },
     {
       "id": "vectro-type-foundry",
