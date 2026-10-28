@@ -1,0 +1,1988 @@
+{
+  "schema_version": 1,
+  "source": {
+    "id": "chinese-webfont",
+    "repository": "KonghaYao/chinese-free-web-font-storage",
+    "branch": "branch",
+    "source_file": "index.json",
+    "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+    "records": 80
+  },
+  "records": [
+    {
+      "id": "chinese-webfont-bwckkt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "bwckkt",
+      "font_name": "白无常可可体",
+      "css_entries": [
+        {
+          "repository_path": "packages/bwckkt/dist/白无常可可体-Regular/result.css",
+          "css_family": "BWCKKT",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/bwckkt/dist/白无常可可体-Light/result.css",
+          "css_family": "BWCKKT",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/bwckkt/dist/白无常可可体-Bold/result.css",
+          "css_family": "BWCKKT",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/bwckkt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-cubic",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "cubic",
+      "font_name": "Cubic",
+      "css_entries": [
+        {
+          "repository_path": "packages/cubic/dist/Cubic/result.css",
+          "css_family": "Cubic 11",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/cubic",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-dyzgt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "dyzgt",
+      "font_name": "斗鱼追光体",
+      "css_entries": [
+        {
+          "repository_path": "packages/dyzgt/dist/斗鱼追光体/result.css",
+          "css_family": "DOUYU Font",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/dyzgt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-hwmct",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "hwmct",
+      "font_name": "汇文明朝体",
+      "css_entries": [
+        {
+          "repository_path": "packages/hwmct/dist/汇文明朝体/result.css",
+          "css_family": "Huiwen-mincho",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/hwmct",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-jxzk",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "jxzk",
+      "font_name": "江西拙楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/jxzk/dist/江西拙楷/result.css",
+          "css_family": "jiangxizhuokai",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/jxzk",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-lxgwwenkai",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "lxgwwenkai",
+      "font_name": "霞鹜文楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/lxgwwenkai/dist/LXGWWenKai-Regular/result.css",
+          "css_family": "LXGW WenKai",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/lxgwwenkai/dist/LXGWWenKai-Light/result.css",
+          "css_family": "LXGW WenKai Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/lxgwwenkai/dist/LXGWWenKai-Bold/result.css",
+          "css_family": "LXGW WenKai",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/lxgwwenkai",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-qtbfsxt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "qtbfsxt",
+      "font_name": "千图笔锋手写体",
+      "css_entries": [
+        {
+          "repository_path": "packages/qtbfsxt/dist/千图笔锋手写体/result.css",
+          "css_family": "qiantubifengshouxieti",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/qtbfsxt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-ysbth",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "ysbth",
+      "font_name": "优设标题黑",
+      "css_entries": [
+        {
+          "repository_path": "packages/ysbth/dist/优设标题黑/result.css",
+          "css_family": "YouSheBiaoTiHei",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/ysbth",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-zlmyz",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "zlmyz",
+      "font_name": "逐浪萌芽字",
+      "css_entries": [
+        {
+          "repository_path": "packages/zlmyz/dist/逐浪萌芽字/result.css",
+          "css_family": "ZoomlaMengyas-A080",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/zlmyz",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-zqzmxs",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "zqzmxs",
+      "font_name": "钟齐志莽行书",
+      "css_entries": [
+        {
+          "repository_path": "packages/zqzmxs/dist/钟齐志莽行书/result.css",
+          "css_family": "Zhi Mang Xing",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/zqzmxs",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-sft",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "sft",
+      "font_name": "随峰体",
+      "css_entries": [
+        {
+          "repository_path": "packages/sft/dist/随峰体/result.css",
+          "css_family": "The Peak Font 隨峰體 Beta",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/sft",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-rmjzqpybxs",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "rmjzqpybxs",
+      "font_name": "瑞美加张清平硬笔行书",
+      "css_entries": [
+        {
+          "repository_path": "packages/rmjzqpybxs/dist/瑞美加张清平硬笔行书/result.css",
+          "css_family": "瑞美加张清平硬笔行书",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/rmjzqpybxs",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-hlxsjt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "hlxsjt",
+      "font_name": "鸿雷行书简体",
+      "css_entries": [
+        {
+          "repository_path": "packages/hlxsjt/dist/鸿雷行书简体/result.css",
+          "css_family": "hongleixingshu",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/hlxsjt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-dyh",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "dyh",
+      "font_name": "得意黑",
+      "css_entries": [
+        {
+          "repository_path": "packages/dyh/dist/SmileySans-Oblique/result.css",
+          "css_family": "Smiley Sans Oblique",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/dyh",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-mksjh",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "mksjh",
+      "font_name": "猫啃什锦黑",
+      "css_entries": [
+        {
+          "repository_path": "packages/mksjh/dist/MaokenAssortedSans/result.css",
+          "css_family": "MaokenAssortedSans",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/mksjh",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-tjl",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "tjl",
+      "font_name": "铁蒺藜体",
+      "css_entries": [
+        {
+          "repository_path": "packages/tjl/dist/Tiejili_Regular/result.css",
+          "css_family": "Tiejili",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/tjl",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-ysyrxk",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "ysyrxk",
+      "font_name": "演示悠然小楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/ysyrxk/dist/slideyouran-Regular2_0/result.css",
+          "css_family": "slideyouran",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/ysyrxk",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-bxzlzt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "bxzlzt",
+      "font_name": "标小智龙珠体",
+      "css_entries": [
+        {
+          "repository_path": "packages/bxzlzt/dist/标小智龙珠体/result.css",
+          "css_family": "LogoSC LongZhuTi",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/bxzlzt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-yzklct",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "yzklct",
+      "font_name": "有字库龙藏体",
+      "css_entries": [
+        {
+          "repository_path": "packages/yzklct/dist/有字库龙藏体/result.css",
+          "css_family": "Long Cang",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/yzklct",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-zhbtt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "zhbtt",
+      "font_name": "字魂扁桃体",
+      "css_entries": [
+        {
+          "repository_path": "packages/zhbtt/dist/字魂扁桃体/result.css",
+          "css_family": "zihunbiantaoti",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/zhbtt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-mkzyt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "mkzyt",
+      "font_name": "猫啃珠圆体",
+      "css_entries": [
+        {
+          "repository_path": "packages/mkzyt/dist/猫啃珠圆体/result.css",
+          "css_family": "MaokenZhuyuanTi",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/mkzyt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-syst",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "syst",
+      "font_name": "思源宋体",
+      "css_entries": [
+        {
+          "repository_path": "packages/syst/dist/SourceHanSerifCN/result.css",
+          "css_family": "Source Han Serif CN VF",
+          "style": "normal",
+          "weight": "250 900",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/syst",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-ysfxt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "ysfxt",
+      "font_name": "演示佛系体",
+      "css_entries": [
+        {
+          "repository_path": "packages/ysfxt/dist/Slidefu-Regular/result.css",
+          "css_family": "Slidefu",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/ysfxt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-jhlst",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "jhlst",
+      "font_name": "京華老宋体",
+      "css_entries": [
+        {
+          "repository_path": "packages/jhlst/dist/京華老宋体v2_002/result.css",
+          "css_family": "KingHwa_OldSong",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/jhlst/dist/京華老宋体v1_007/result.css",
+          "css_family": "KingHwa_OldSong",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/jhlst",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-jpdzt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "jpdzt",
+      "font_name": "精品點陣體",
+      "css_entries": [
+        {
+          "repository_path": "packages/jpdzt/dist/BoutiqueBitmap9x9_1_6/result.css",
+          "css_family": "BoutiqueBitmap9x9 1.6 R",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/jpdzt/dist/BoutiqueBitmap7x7_1_6/result.css",
+          "css_family": "BoutiqueBitmap7x7 1.6",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/jpdzt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-yidianyan",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "yidianyan",
+      "font_name": "一点颜",
+      "css_entries": [
+        {
+          "repository_path": "packages/yidianyan/dist/yidianyan/result.css",
+          "css_family": "I.Ngaan",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/yidianyan",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-xuandongkaishu",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "xuandongkaishu",
+      "font_name": "玄冬楷书",
+      "css_entries": [
+        {
+          "repository_path": "packages/xuandongkaishu/dist/XuandongKaishu/result.css",
+          "css_family": "XuandongKaishu",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/xuandongkaishu",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-cezkzdbs",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "cezkzdbs",
+      "font_name": "仓耳周珂正大榜书",
+      "css_entries": [
+        {
+          "repository_path": "packages/cezkzdbs/dist/仓耳周珂正大榜书/result.css",
+          "css_family": "TsangerZhoukeZhengdabangshu",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/cezkzdbs",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-dymh",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "dymh",
+      "font_name": "抖音美好体",
+      "css_entries": [
+        {
+          "repository_path": "packages/dymh/dist/DouyinSansBold/result.css",
+          "css_family": "Douyin Sans",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/dymh",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-hldqjt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "hldqjt",
+      "font_name": "黄令东齐伋体",
+      "css_entries": [
+        {
+          "repository_path": "packages/hldqjt/dist/qiji-fallback/result.css",
+          "css_family": "QIJIFALLBACK",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/hldqjt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-hyqzp",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "hyqzp",
+      "font_name": "黄引齐招牌体",
+      "css_entries": [
+        {
+          "repository_path": "packages/hyqzp/dist/黄引齐招牌体/result.css",
+          "css_family": "huangyinqi zhaopai",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/hyqzp",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-jnjj",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "jnjj",
+      "font_name": "荆南俊俊体",
+      "css_entries": [
+        {
+          "repository_path": "packages/jnjj/dist/JUNJUN/result.css",
+          "css_family": "荆南俊俊体",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/jnjj",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-rzjkxzdmh",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "rzjkxzdmh",
+      "font_name": "润植家康熙字典美化体",
+      "css_entries": [
+        {
+          "repository_path": "packages/rzjkxzdmh/dist/nzgrKangxi/result.css",
+          "css_family": "nzgrKangxi",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/rzjkxzdmh",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-rzjryzzk",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "rzjryzzk",
+      "font_name": "润植家如印奏章楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/rzjryzzk/dist/nzgrRuYinZouZhangKai/result.css",
+          "css_family": "nzgrRuYinZouZhangKai",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/rzjryzzk",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-scjssh",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "scjssh",
+      "font_name": "素材集市社会体",
+      "css_entries": [
+        {
+          "repository_path": "packages/scjssh/dist/素材集市社会体/result.css",
+          "css_family": "SuCaiJiShi-SheHuiTi",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/scjssh",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-stmdxf",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "stmdxf",
+      "font_name": "摄图摩登小方体",
+      "css_entries": [
+        {
+          "repository_path": "packages/stmdxf/dist/摄图摩登小方体/result.css",
+          "css_family": "shetumodengxiaofangti",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/stmdxf",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-zjmc",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "zjmc",
+      "font_name": "装甲明朝体",
+      "css_entries": [
+        {
+          "repository_path": "packages/zjmc/dist/装甲明朝体/result.css",
+          "css_family": "SoukouMincho",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/zjmc",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-zkxw",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "zkxw",
+      "font_name": "站酷小薇",
+      "css_entries": [
+        {
+          "repository_path": "packages/zkxw/dist/站酷小薇LOGO体_猫啃网/result.css",
+          "css_family": "xiaowei",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/zkxw",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-mzxst",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "mzxst",
+      "font_name": "目哉像素体",
+      "css_entries": [
+        {
+          "repository_path": "packages/mzxst/dist/MZPXorig/result.css",
+          "css_family": "MuzaiPixel",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/mzxst/dist/MZPXflat/result.css",
+          "css_family": "MuzaiPixel",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/mzxst",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-qxs",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "qxs",
+      "font_name": "全小素",
+      "css_entries": [
+        {
+          "repository_path": "packages/qxs/dist/quan/result.css",
+          "css_family": "QuanPixel 8px",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/qxs",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-sypxzs",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "sypxzs",
+      "font_name": "思源屏显臻宋",
+      "css_entries": [
+        {
+          "repository_path": "packages/sypxzs/dist/思源屏显臻宋/result.css",
+          "css_family": "Source Han Serif CN for Display",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/sypxzs",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-pmzdxxt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "pmzdxxt",
+      "font_name": "旁门正道细线条",
+      "css_entries": [
+        {
+          "repository_path": "packages/pmzdxxt/dist/庞门正道细线体/result.css",
+          "css_family": "PangMenZhengDao-XiXian",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/pmzdxxt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-syftjkt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "syftjkt",
+      "font_name": "鲨鱼菲特健康体",
+      "css_entries": [
+        {
+          "repository_path": "packages/syftjkt/dist/优设鲨鱼菲特健康体/result.css",
+          "css_family": "YouSheShaYuFeiTeJianKangTi",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/syftjkt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-xiaolai",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "xiaolai",
+      "font_name": "小赖体",
+      "css_entries": [
+        {
+          "repository_path": "packages/xiaolai/dist/Xiaolai/result.css",
+          "css_family": "Xiaolai SC",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/xiaolai",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-yozai",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "yozai",
+      "font_name": "悠哉",
+      "css_entries": [
+        {
+          "repository_path": "packages/yozai/dist/Yozai-Regular/result.css",
+          "css_family": "Yozai",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/yozai/dist/Yozai-Medium/result.css",
+          "css_family": "Yozai Medium",
+          "style": "normal",
+          "weight": "500",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/yozai/dist/Yozai-Light/result.css",
+          "css_family": "Yozai Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/yozai/dist/Yozai-Bold/result.css",
+          "css_family": "Yozai",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/yozai",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-lxgwmanhei",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "lxgwmanhei",
+      "font_name": "霞鹜漫黑",
+      "css_entries": [
+        {
+          "repository_path": "packages/lxgwmanhei/dist/LXGWMarkerGothic/result.css",
+          "css_family": "LXGW Marker Gothic",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/lxgwmanhei",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-mkwtyt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "mkwtyt",
+      "font_name": "猫啃网糖圆体",
+      "css_entries": [
+        {
+          "repository_path": "packages/mkwtyt/dist/MaoKenTangYuan/result.css",
+          "css_family": "MaoKenTangYuan (beta)",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/mkwtyt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-zqfs",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "zqfs",
+      "font_name": "朱雀仿宋",
+      "css_entries": [
+        {
+          "repository_path": "packages/zqfs/dist/ZhuqueFangsong-Regular/result.css",
+          "css_family": "Zhuque Fangsong (technical preview)",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/zqfs",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-hqzmt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "hqzmt",
+      "font_name": "韩契在民体",
+      "css_entries": [
+        {
+          "repository_path": "packages/hqzmt/dist/Hangeuljaemin4-Regular/result.css",
+          "css_family": "Hangeuljaemin4.0",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/hqzmt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-kksjt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "kksjt",
+      "font_name": "快看世界体",
+      "css_entries": [
+        {
+          "repository_path": "packages/kksjt/dist/kuaikanshijieti20231213/result.css",
+          "css_family": "快看世界体",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/kksjt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-yfxy",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "yfxy",
+      "font_name": "余繁新语",
+      "css_entries": [
+        {
+          "repository_path": "packages/yfxy/dist/YuFanXinYu-Regular/result.css",
+          "css_family": "YuFanXinYu",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/yfxy/dist/YuFanXinYu-Medium/result.css",
+          "css_family": "YuFanXinYu-Medium",
+          "style": "normal",
+          "weight": "500",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/yfxy/dist/YuFanXinYu-Light/result.css",
+          "css_family": "YuFanXinYu-Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/yfxy/dist/YuFanXinYu-Bold/result.css",
+          "css_family": "YuFanXinYu",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/yfxy",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-yzgcxst",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "yzgcxst",
+      "font_name": "也字工厂小石头",
+      "css_entries": [
+        {
+          "repository_path": "packages/yzgcxst/dist/也字工厂小石头/result.css",
+          "css_family": "YEFONTXiaoShiTou",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/yzgcxst",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-fbdzt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "fbdzt",
+      "font_name": "飞波正点体",
+      "css_entries": [
+        {
+          "repository_path": "packages/fbdzt/dist/飞波正点体V2_1/result.css",
+          "css_family": "Feibo Zheng Dots",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/fbdzt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-cef",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "cef",
+      "font_name": "CEF Fonts CJK",
+      "css_entries": [
+        {
+          "repository_path": "packages/cef/dist/CEFFontsCJKMono-Regular/result.css",
+          "css_family": "CEF Fonts CJK Mono",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/cef/dist/CEFFontsCJK-Regular/result.css",
+          "css_family": "CEF Fonts CJK",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/cef",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-fhst",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "fhst",
+      "font_name": "飞花宋体",
+      "css_entries": [
+        {
+          "repository_path": "packages/fhst/dist/飞花宋体/result.css",
+          "css_family": "FlyFlowerSong",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/fhst",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-pfljhlyt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "pfljhlyt",
+      "font_name": "平方赖江湖琅琊体",
+      "css_entries": [
+        {
+          "repository_path": "packages/pfljhlyt/dist/平方赖江湖琅琊体/result.css",
+          "css_family": "平方赖江湖琅琊体",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/pfljhlyt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-pfgzt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "pfgzt",
+      "font_name": "平方公子体",
+      "css_entries": [
+        {
+          "repository_path": "packages/pfgzt/dist/平方公子体/result.css",
+          "css_family": "PING FANG GONG ZI TI",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/pfgzt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-pfljhfyt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "pfljhfyt",
+      "font_name": "平方赖江湖飞扬体",
+      "css_entries": [
+        {
+          "repository_path": "packages/pfljhfyt/dist/PingFangLaiJiangHuFeiYangTi-2/result.css",
+          "css_family": "平方赖江湖飞扬体",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/pfljhfyt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-pfmmd",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "pfmmd",
+      "font_name": "平方萌萌哒",
+      "css_entries": [
+        {
+          "repository_path": "packages/pfmmd/dist/平方萌萌哒/result.css",
+          "css_family": "PING FANG MENG MNEG DA",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/pfmmd",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-ysbzt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "ysbzt",
+      "font_name": "峄山碑篆体",
+      "css_entries": [
+        {
+          "repository_path": "packages/ysbzt/dist/峄山碑篆体/result.css",
+          "css_family": "峄山碑篆体",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/ysbzt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-zzqxmxht",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "zzqxmxht",
+      "font_name": "字制区喜脉喜欢体",
+      "css_entries": [
+        {
+          "repository_path": "packages/zzqxmxht/dist/字制区喜脉喜欢体/result.css",
+          "css_family": "FontQu Smile 常规",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/zzqxmxht",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-blbbsxt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "blbbsxt",
+      "font_name": "白路棒棒手写体",
+      "css_entries": [
+        {
+          "repository_path": "packages/blbbsxt/dist/白路棒棒手写体/result.css",
+          "css_family": "bailubangbangshouxieti",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/blbbsxt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-cqscbbt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "cqscbbt",
+      "font_name": "重庆山城棒棒体",
+      "css_entries": [
+        {
+          "repository_path": "packages/cqscbbt/dist/YunFengZiKuZhongQingShanChengBangBangTi-2/result.css",
+          "css_family": "YunFengchongqingbangbangti",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/cqscbbt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-crgkk",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "crgkk",
+      "font_name": "程荣光刻楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/crgkk/dist/程荣光刻楷/result.css",
+          "css_family": "chengrongguangke",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/crgkk",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-lxgwwenkaibright",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "lxgwwenkaibright",
+      "font_name": "霞鹜文楷 Bright",
+      "css_entries": [
+        {
+          "repository_path": "packages/lxgwwenkaibright/dist/LXGWBright-SemiLightItalic/result.css",
+          "css_family": "LXGW Bright SemiLight",
+          "style": "italic",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/lxgwwenkaibright/dist/LXGWBright-SemiLight/result.css",
+          "css_family": "LXGW Bright SemiLight",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/lxgwwenkaibright/dist/LXGWBright-Regular/result.css",
+          "css_family": "LXGW Bright",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/lxgwwenkaibright/dist/LXGWBright-MediumItalic/result.css",
+          "css_family": "LXGW Bright Medium",
+          "style": "italic",
+          "weight": "500",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/lxgwwenkaibright/dist/LXGWBright-Medium/result.css",
+          "css_family": "LXGW Bright Medium",
+          "style": "normal",
+          "weight": "500",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/lxgwwenkaibright/dist/LXGWBright-Italic/result.css",
+          "css_family": "LXGW Bright",
+          "style": "italic",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/lxgwwenkaibright",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-yqt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "yqt",
+      "font_name": "游趣体",
+      "css_entries": [
+        {
+          "repository_path": "packages/yqt/dist/ChildFunSans-Demo/result.css",
+          "css_family": "Child Fun Sans Demo",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/yqt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-hcqyt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "hcqyt",
+      "font_name": "寒蝉全圆体",
+      "css_entries": [
+        {
+          "repository_path": "packages/hcqyt/dist/ChillRoundFRegular/result.css",
+          "css_family": "寒蝉全圆体",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/hcqyt/dist/ChillRoundFBold/result.css",
+          "css_family": "寒蝉全圆体 Bold",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/hcqyt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-jyhpws",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "jyhpws",
+      "font_name": "极影毁片文宋",
+      "css_entries": [
+        {
+          "repository_path": "packages/jyhpws/dist/极影毁片文宋/result.css",
+          "css_family": "极影毁片文宋 Medium",
+          "style": "normal",
+          "weight": "500",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/jyhpws",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-lywkpmydb",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "lywkpmydb",
+      "font_name": "霞鹜文楷屏幕阅读版",
+      "css_entries": [
+        {
+          "repository_path": "packages/lywkpmydb/dist/LXGWWenKaiScreen/result.css",
+          "css_family": "LXGW WenKai Screen",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/lywkpmydb/dist/LXGWWenKaiMonoScreen/result.css",
+          "css_family": "LXGW WenKai Mono Screen",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/lywkpmydb",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-maple-mono-cn",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "maple-mono-cn",
+      "font_name": "Maple Mono",
+      "css_entries": [
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-ThinItalic/result.css",
+          "css_family": "Maple Mono CN Thin",
+          "style": "italic",
+          "weight": "100",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-Thin/result.css",
+          "css_family": "Maple Mono CN Thin",
+          "style": "normal",
+          "weight": "100",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-SemiBoldItalic/result.css",
+          "css_family": "Maple Mono CN SemiBold",
+          "style": "italic",
+          "weight": "600",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-SemiBold/result.css",
+          "css_family": "Maple Mono CN SemiBold",
+          "style": "normal",
+          "weight": "600",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-Regular/result.css",
+          "css_family": "Maple Mono CN",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-MediumItalic/result.css",
+          "css_family": "Maple Mono CN Medium",
+          "style": "italic",
+          "weight": "500",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-Medium/result.css",
+          "css_family": "Maple Mono CN Medium",
+          "style": "normal",
+          "weight": "500",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-LightItalic/result.css",
+          "css_family": "Maple Mono CN Light",
+          "style": "italic",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-Light/result.css",
+          "css_family": "Maple Mono CN Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-Italic/result.css",
+          "css_family": "Maple Mono CN",
+          "style": "italic",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-ExtraLightItalic/result.css",
+          "css_family": "Maple Mono CN ExtraLight",
+          "style": "italic",
+          "weight": "200",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-ExtraLight/result.css",
+          "css_family": "Maple Mono CN ExtraLight",
+          "style": "normal",
+          "weight": "200",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-ExtraBoldItalic/result.css",
+          "css_family": "Maple Mono CN ExtraBold",
+          "style": "italic",
+          "weight": "800",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-ExtraBold/result.css",
+          "css_family": "Maple Mono CN ExtraBold",
+          "style": "normal",
+          "weight": "800",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-BoldItalic/result.css",
+          "css_family": "Maple Mono CN",
+          "style": "italic",
+          "weight": "700",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/maple-mono-cn/dist/MapleMono-CN-Bold/result.css",
+          "css_family": "Maple Mono CN",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/maple-mono-cn",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-moon-stars-kai",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "moon-stars-kai",
+      "font_name": "月星楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiTHW-Regular/result.css",
+          "css_family": "Moon Stars Kai T HW",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiTHW-Light/result.css",
+          "css_family": "Moon Stars Kai T HW Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiTHW-Bold/result.css",
+          "css_family": "Moon Stars Kai T HW",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiT-Regular/result.css",
+          "css_family": "Moon Stars Kai T",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiT-Light/result.css",
+          "css_family": "Moon Stars Kai T Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiT-Bold/result.css",
+          "css_family": "Moon Stars Kai T",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiHW-Regular/result.css",
+          "css_family": "Moon Stars Kai HW",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiHW-Light/result.css",
+          "css_family": "Moon Stars Kai HW Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKaiHW-Bold/result.css",
+          "css_family": "Moon Stars Kai HW",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKai-Regular/result.css",
+          "css_family": "Moon Stars Kai",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKai-Light/result.css",
+          "css_family": "Moon Stars Kai Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/moon-stars-kai/dist/MoonStarsKai-Bold/result.css",
+          "css_family": "Moon Stars Kai",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/moon-stars-kai",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-GuanKiapTsingKhai",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "GuanKiapTsingKhai",
+      "font_name": "原俠正楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai/result.css",
+          "css_family": "GuanKiapTsingKhai",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-W/result.css",
+          "css_family": "GuanKiapTsingKhai-W",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-W-90/result.css",
+          "css_family": "GuanKiapTsingKhai-W-90",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-TW/result.css",
+          "css_family": "GuanKiapTsingKhai-TW",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-TW-90/result.css",
+          "css_family": "GuanKiapTsingKhai-TW-90",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-T/result.css",
+          "css_family": "GuanKiapTsingKhai-T",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-T-90/result.css",
+          "css_family": "GuanKiapTsingKhai-T-90",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-S/result.css",
+          "css_family": "GuanKiapTsingKhai-S",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-S-90/result.css",
+          "css_family": "GuanKiapTsingKhai-S-90",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/GuanKiapTsingKhai/dist/GuanKiapTsingKhai-90/result.css",
+          "css_family": "GuanKiapTsingKhai-90",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/GuanKiapTsingKhai",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-XiaoheSimplify",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "XiaoheSimplify",
+      "font_name": "小合简化体",
+      "css_entries": [
+        {
+          "repository_path": "packages/XiaoheSimplify/dist/XiaoheSimplifySerif-VF/result.css",
+          "css_family": "Xiaohe Simplify Serif VF",
+          "style": "normal",
+          "weight": "250 900",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/XiaoheSimplify/dist/XiaoheSimplifySans-VF/result.css",
+          "css_family": "Xiaohe Simplify Sans VF",
+          "style": "normal",
+          "weight": "250 900",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/XiaoheSimplify",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-the-write-right-font",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "the-write-right-font",
+      "font_name": "就是不錯字",
+      "css_entries": [
+        {
+          "repository_path": "packages/the-write-right-font/dist/the-write-right-font-2023_0401/result.css",
+          "css_family": "The Write Right Font",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/the-write-right-font",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-ToneOZ-Pinyin-WenKai",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "ToneOZ-Pinyin-WenKai",
+      "font_name": "澳声通拼音文楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/ToneOZ-Pinyin-WenKai/dist/ToneOZ-Pinyin-WenKai-Regular/result.css",
+          "css_family": "ToneOZ-Pinyin-WenKai-Regular",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/ToneOZ-Pinyin-WenKai/dist/ToneOZ-Pinyin-WenKai-Light/result.css",
+          "css_family": "ToneOZ-Pinyin-WenKai-Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/ToneOZ-Pinyin-WenKai/dist/ToneOZ-Pinyin-WenKai-Bold/result.css",
+          "css_family": "ToneOZ-Pinyin-WenKai-Medium",
+          "style": "normal",
+          "weight": "500",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/ToneOZ-Pinyin-WenKai",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-ToneOZ-Pinyin-Kai",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "ToneOZ-Pinyin-Kai",
+      "font_name": "拼音鼎楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/ToneOZ-Pinyin-Kai/dist/ToneOZ-PinyinW-Kai-Simplified/result.css",
+          "css_family": "ToneOZ-PinyinW-Kai-Simplified",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/ToneOZ-Pinyin-Kai/dist/ToneOZ-Pinyin-Kai-Simplified/result.css",
+          "css_family": "ToneOZ-Pinyin-Kai-Simplified",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/ToneOZ-Pinyin-Kai",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-ToneOZ-RadicalZ-Kai",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "ToneOZ-RadicalZ-Kai",
+      "font_name": "注音多音字型庫楷",
+      "css_entries": [
+        {
+          "repository_path": "packages/ToneOZ-RadicalZ-Kai/dist/ToneOZ-RadicalZ-KaiTraditional/result.css",
+          "css_family": "ToneOZ-RadicalZ-KaiTraditional",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/ToneOZ-RadicalZ-Kai",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-ToneOZ-Tsuipita",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "ToneOZ-Tsuipita",
+      "font_name": "曉聲通秋茄",
+      "css_entries": [
+        {
+          "repository_path": "packages/ToneOZ-Tsuipita/dist/ToneOZ-Zhuyin-Tsuipita-TC/result.css",
+          "css_family": "ToneOZ-Zhuyin-Tsuipita-TC",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/ToneOZ-Tsuipita/dist/ToneOZ-YinPZ-Tsuipita-TC/result.css",
+          "css_family": "ToneOZ-YinPZ-Tsuipita-TC",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/ToneOZ-Tsuipita/dist/ToneOZ-Tsuipita-TC/result.css",
+          "css_family": "ToneOZ-Tsuipita-TC",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/ToneOZ-Tsuipita/dist/ToneOZ-Pinyin-Tsuipita-TC/result.css",
+          "css_family": "ToneOZ-Pinyin-Tsuipita-TC",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/ToneOZ-Tsuipita",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-stdgt",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "stdgt",
+      "font_name": "上图东观体",
+      "css_entries": [
+        {
+          "repository_path": "packages/stdgt/dist/上图东观体-细体/result.css",
+          "css_family": "STDongGuanTi Light",
+          "style": "normal",
+          "weight": "300",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/stdgt/dist/上图东观体-粗体/result.css",
+          "css_family": "STDongGuanTi Bld",
+          "style": "normal",
+          "weight": "700",
+          "display": "swap"
+        },
+        {
+          "repository_path": "packages/stdgt/dist/上图东观体-常规/result.css",
+          "css_family": "STDongGuanTi",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/stdgt",
+      "status": "metadata_imported_license_review_required"
+    },
+    {
+      "id": "chinese-webfont-LxgwNeoZhiSong",
+      "source": "chinese-webfont",
+      "source_name": "中文网字计划",
+      "source_url": "https://github.com/KonghaYao/chinese-free-web-font-storage",
+      "upstream_key": "LxgwNeoZhiSong",
+      "font_name": "霞鹜新致宋",
+      "css_entries": [
+        {
+          "repository_path": "packages/LxgwNeoZhiSong/dist/LXGWNeoZhiSong/result.css",
+          "css_family": "LXGW Neo ZhiSong",
+          "style": "normal",
+          "weight": "400",
+          "display": "swap"
+        }
+      ],
+      "upstream_directory": "https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch/packages/LxgwNeoZhiSong",
+      "status": "metadata_imported_license_review_required"
+    }
+  ]
+}
