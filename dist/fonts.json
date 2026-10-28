@@ -475,6 +475,141 @@
     "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/unknown/genkigothic2-tw/GenKiGothic2-H.ttc"
   },
   {
+    "id": "a03bd7c3f2ef7c553b37",
+    "family": "GenKiGothic2 TW",
+    "style": "L",
+    "full_name": "GenKiGothic2 TW L",
+    "manufacturer": "",
+    "brand_id": "unknown",
+    "family_id": "genkigothic2-tw",
+    "category": "黑体",
+    "faces": [
+      {
+        "family": "GenKiGothic2 TW",
+        "style": "L",
+        "full_name": "GenKiGothic2 TW L",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 TC",
+        "style": "L",
+        "full_name": "GenKiGothic2 TC L",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 JP",
+        "style": "L",
+        "full_name": "GenKiGothic2 JP L",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 PJP",
+        "style": "L",
+        "full_name": "GenKiGothic2 PJP L",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      }
+    ],
+    "format": "ttc",
+    "size": 11422448,
+    "sha256": "a03bd7c3f2ef7c553b37f98aa30f7e587257584a15f56ebbeb1a5de4b046f9fc",
+    "path": "fonts/unknown/genkigothic2-tw/GenKiGothic2-L.ttc",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/unknown/genkigothic2-tw/GenKiGothic2-L.ttc"
+  },
+  {
+    "id": "cd3c710c0af120085b00",
+    "family": "GenKiGothic2 TW",
+    "style": "M",
+    "full_name": "GenKiGothic2 TW M",
+    "manufacturer": "",
+    "brand_id": "unknown",
+    "family_id": "genkigothic2-tw",
+    "category": "黑体",
+    "faces": [
+      {
+        "family": "GenKiGothic2 TW",
+        "style": "M",
+        "full_name": "GenKiGothic2 TW M",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 TC",
+        "style": "M",
+        "full_name": "GenKiGothic2 TC M",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 JP",
+        "style": "M",
+        "full_name": "GenKiGothic2 JP M",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 PJP",
+        "style": "M",
+        "full_name": "GenKiGothic2 PJP M",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      }
+    ],
+    "format": "ttc",
+    "size": 11229100,
+    "sha256": "cd3c710c0af120085b00a534c486e4eda49b8395091e23563309fc33ea797d8f",
+    "path": "fonts/unknown/genkigothic2-tw/GenKiGothic2-M.ttc",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/unknown/genkigothic2-tw/GenKiGothic2-M.ttc"
+  },
+  {
+    "id": "33869c070511a10f7678",
+    "family": "GenKiGothic2 TW",
+    "style": "R",
+    "full_name": "GenKiGothic2 TW R",
+    "manufacturer": "",
+    "brand_id": "unknown",
+    "family_id": "genkigothic2-tw",
+    "category": "黑体",
+    "faces": [
+      {
+        "family": "GenKiGothic2 TW",
+        "style": "R",
+        "full_name": "GenKiGothic2 TW R",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 TC",
+        "style": "R",
+        "full_name": "GenKiGothic2 TC R",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 JP",
+        "style": "R",
+        "full_name": "GenKiGothic2 JP R",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      },
+      {
+        "family": "GenKiGothic2 PJP",
+        "style": "R",
+        "full_name": "GenKiGothic2 PJP R",
+        "manufacturer": "",
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+      }
+    ],
+    "format": "ttc",
+    "size": 11291656,
+    "sha256": "33869c070511a10f7678cd937559d9867aa5a56dd1a77854727fdf198db1d3af",
+    "path": "fonts/unknown/genkigothic2-tw/GenKiGothic2-R.ttc",
+    "download_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/fonts/unknown/genkigothic2-tw/GenKiGothic2-R.ttc"
+  },
+  {
     "id": "ba2277d569d51e9d2ff6",
     "family": "GenRyuMin2 TC",
     "style": "B",
