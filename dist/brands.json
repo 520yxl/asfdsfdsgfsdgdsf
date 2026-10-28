@@ -2,7 +2,32 @@
   {
     "id": "adobe",
     "name": "Adobe",
-    "count": 3
+    "count": 5
+  },
+  {
+    "id": "alibaba",
+    "name": "阿里巴巴",
+    "count": 254
+  },
+  {
+    "id": "buttaiwan",
+    "name": "ButTaiwan",
+    "count": 11
+  },
+  {
+    "id": "genki",
+    "name": "GenKi",
+    "count": 6
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "count": 22
+  },
+  {
+    "id": "ibm",
+    "name": "IBM",
+    "count": 39
   },
   {
     "id": "lxgw",
@@ -12,6 +37,6 @@
   {
     "id": "unknown",
     "name": "未知品牌",
-    "count": 40
+    "count": 1811
   }
 ]
