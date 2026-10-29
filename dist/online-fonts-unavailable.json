@@ -44105,6 +44105,7 @@
     "license": "See official family metadata and source project before redistribution",
     "subsets": [
       "menu",
+      "arabic",
       "armenian",
       "bengali",
       "canadian-aboriginal",
@@ -44118,6 +44119,7 @@
       "gujarati",
       "gurmukhi",
       "hebrew",
+      "kannada",
       "khmer",
       "lao",
       "latin",
@@ -44132,6 +44134,7 @@
       "vietnamese"
     ],
     "language_tags": [
+      "ar",
       "bn",
       "el",
       "en",
@@ -44143,6 +44146,7 @@
       "vi"
     ],
     "script_tags": [
+      "Arabic",
       "Bengali",
       "Cyrillic",
       "Devanagari",
