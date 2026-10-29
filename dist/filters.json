@@ -22,7 +22,7 @@
     },
     {
       "name": "其他",
-      "count": 1787
+      "count": 1818
     },
     {
       "name": "圆体",
@@ -30,7 +30,7 @@
     },
     {
       "name": "宋体",
-      "count": 68
+      "count": 73
     },
     {
       "name": "手写体",
@@ -38,7 +38,7 @@
     },
     {
       "name": "楷体",
-      "count": 26
+      "count": 34
     },
     {
       "name": "艺术体",
@@ -46,7 +46,7 @@
     },
     {
       "name": "黑体",
-      "count": 310
+      "count": 312
     }
   ],
   "weights": [
@@ -123,13 +123,13 @@
     },
     {
       "id": "adobe",
-      "name": "Adobe Systems Incorporated",
-      "count": 10
+      "name": "Adobe",
+      "count": 11
     },
     {
       "id": "aidian-fonts",
       "name": "Aidian Fonts",
-      "count": 1
+      "count": 3
     },
     {
       "id": "alejandro-inler",
@@ -174,7 +174,7 @@
     {
       "id": "alibaba",
       "name": "Alibaba Design",
-      "count": 130
+      "count": 131
     },
     {
       "id": "ana-paula-megda",
@@ -245,6 +245,11 @@
       "id": "atelieranchor",
       "name": "atelierAnchor",
       "count": 1
+    },
+    {
+      "id": "bailu-font",
+      "name": "bailu-font",
+      "count": 4
     },
     {
       "id": "balsamiq-srl",
@@ -337,6 +342,11 @@
       "count": 1
     },
     {
+      "id": "cjkfonts-io",
+      "name": "cjkfonts.io",
+      "count": 1
+    },
+    {
       "id": "claus-eggers-s-rensen",
       "name": "Claus Eggers Sørensen",
       "count": 6
@@ -355,6 +365,11 @@
       "id": "commercial-type",
       "name": "Commercial Type",
       "count": 18
+    },
+    {
+      "id": "copyright-c-2025-thoms-liu",
+      "name": "Copyright (c) 2025 Thoms Liu",
+      "count": 1
     },
     {
       "id": "craig-rozynski",
@@ -582,6 +597,11 @@
       "count": 7
     },
     {
+      "id": "hanghzou-huoshi",
+      "name": "hanghzou huoshi",
+      "count": 1
+    },
+    {
       "id": "hanmeihutong-xiamen-technology-co-ltd",
       "name": "HanMeiHutong (XiaMen) Technology Co.Ltd.",
       "count": 2
@@ -590,6 +610,11 @@
       "id": "hanyi-fonts",
       "name": "Hanyi Fonts",
       "count": 8
+    },
+    {
+      "id": "hanzi-type-archaeo",
+      "name": "Hanzi Type Archaeo",
+      "count": 1
     },
     {
       "id": "honglei-design",
@@ -677,6 +702,11 @@
       "count": 1
     },
     {
+      "id": "jeffreyx-gmail-com-cjkfonts-io",
+      "name": "jeffreyx@gmail.com, cjkFonts.io",
+      "count": 1
+    },
+    {
       "id": "jialun-company-bangfont",
       "name": "Jialun Company;Bangfont",
       "count": 1
@@ -749,7 +779,7 @@
     {
       "id": "keynoteart",
       "name": "Keynoteart",
-      "count": 4
+      "count": 5
     },
     {
       "id": "keynoteart-x-qiuyeppt",
@@ -775,6 +805,11 @@
       "id": "lafontype",
       "name": "Lafontype",
       "count": 18
+    },
+    {
+      "id": "lbk",
+      "name": "LBK",
+      "count": 3
     },
     {
       "id": "lingxun",
@@ -965,6 +1000,11 @@
       "id": "paula-nazal-daniel-hern-ndez",
       "name": "Paula Nazal, Daniel Hernández",
       "count": 1
+    },
+    {
+      "id": "positype",
+      "name": "Positype",
+      "count": 2
     },
     {
       "id": "production-type",
@@ -1162,6 +1202,11 @@
       "count": 4
     },
     {
+      "id": "toneoz",
+      "name": "ToneOZ",
+      "count": 8
+    },
+    {
       "id": "tribby-type",
       "name": "Tribby Type",
       "count": 54
@@ -1199,6 +1244,11 @@
     {
       "id": "u-20cbc476bb16",
       "name": "ìÖÂÒ",
+      "count": 1
+    },
+    {
+      "id": "u-3b93fd2d045d",
+      "name": "????",
       "count": 1
     },
     {
@@ -1244,7 +1294,7 @@
     {
       "id": "unknown",
       "name": "",
-      "count": 544
+      "count": 558
     },
     {
       "id": "vectro-type-foundry",
@@ -1355,6 +1405,11 @@
       "id": "云峰字库",
       "name": "云峰字库",
       "count": 1
+    },
+    {
+      "id": "余繁",
+      "name": "余繁",
+      "count": 4
     },
     {
       "id": "刹那仮想",
