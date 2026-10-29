@@ -6,7 +6,8 @@
       "keywords": [
         "Adobe",
         "思源"
-      ]
+      ],
+      "name_zh": "Adobe"
     },
     {
       "id": "google",
@@ -15,7 +16,8 @@
         "Google",
         "Noto Sans",
         "Noto Serif"
-      ]
+      ],
+      "name_zh": "谷歌"
     },
     {
       "id": "alibaba",
@@ -25,7 +27,8 @@
         "Alibaba",
         "Alimama",
         "阿里普惠体"
-      ]
+      ],
+      "name_zh": "阿里巴巴"
     },
     {
       "id": "lxgw",
@@ -33,7 +36,8 @@
       "keywords": [
         "霞鹜",
         "LXGW"
-      ]
+      ],
+      "name_zh": "霞鹜"
     },
     {
       "id": "tencent",
@@ -41,7 +45,8 @@
       "keywords": [
         "腾讯",
         "Tencent"
-      ]
+      ],
+      "name_zh": "腾讯"
     },
     {
       "id": "buttaiwan",
@@ -50,7 +55,8 @@
         "ButTaiwan",
         "GenRyu",
         "GenYo"
-      ]
+      ],
+      "name_zh": "台湾字型"
     },
     {
       "id": "ibm",
@@ -58,7 +64,8 @@
       "keywords": [
         "IBM",
         "Plex Sans"
-      ]
+      ],
+      "name_zh": "IBM"
     },
     {
       "id": "genki",
@@ -66,7 +73,8 @@
       "keywords": [
         "GenKiGothic",
         "GenKi Gothic"
-      ]
+      ],
+      "name_zh": "源泉"
     }
   ]
 }
