@@ -166,7 +166,7 @@ def brand_for(info, rules, override):
         value = override["brand"]
         for rule in rules:
             if value in (rule["id"], rule["name"]):
-                return rule["id"], rule["name"]
+                return rule["id"], rule.get("name_zh") or rule["name"]
         return safe_id(value), value
 
     # Brand-prefix matching first: a known foundry name at the start of the
@@ -182,9 +182,9 @@ def brand_for(info, rules, override):
             if not key:
                 continue
             if family.startswith(key) or full_name.startswith(key):
-                prefix_matches.append((len(key), rule["id"], rule["name"]))
+                prefix_matches.append((len(key), rule["id"], rule.get("name_zh") or rule["name"]))
             elif key in family or key in full_name or key in manufacturer.casefold():
-                contains_matches.append((len(key), rule["id"], rule["name"]))
+                contains_matches.append((len(key), rule["id"], rule.get("name_zh") or rule["name"]))
     matches = prefix_matches or contains_matches
     if matches:
         _, key, label = sorted(matches, reverse=True)[0]
