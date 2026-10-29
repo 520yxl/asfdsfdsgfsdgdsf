@@ -211,8 +211,8 @@
   },
   {
     "id": "chill-type",
-    "name": "Chill type",
-    "count": 4
+    "name": "Chill Type",
+    "count": 5
   },
   {
     "id": "chilltype",
@@ -473,6 +473,16 @@
     "id": "hanyi-fonts",
     "name": "Hanyi Fonts",
     "count": 8
+  },
+  {
+    "id": "honglei-design",
+    "name": "HongLei Design",
+    "count": 1
+  },
+  {
+    "id": "houzun",
+    "name": "Houzun",
+    "count": 1
   },
   {
     "id": "http-jjllnn-fr",
@@ -952,7 +962,7 @@
   {
     "id": "slidefont",
     "name": "SlideFont",
-    "count": 1
+    "count": 2
   },
   {
     "id": "sol-matas",
@@ -1117,7 +1127,7 @@
   {
     "id": "unknown",
     "name": "",
-    "count": 536
+    "count": 544
   },
   {
     "id": "vectro-type-foundry",
@@ -1272,6 +1282,11 @@
   {
     "id": "成都美尔贝科技股份有限公司",
     "name": "成都美尔贝科技股份有限公司",
+    "count": 1
+  },
+  {
+    "id": "文徵字库",
+    "name": "文徵字库",
     "count": 1
   },
   {

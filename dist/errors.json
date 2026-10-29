@@ -232,6 +232,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/chill-k-sans/寒蝉宽黑体.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/chomsky/Chomsky.otf",
     "warning": "Unknown brand; needs review"
   },
@@ -701,6 +705,18 @@
   },
   {
     "path": "fonts/unknown/homework-font/Homework font 粗.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/hongleibanshu/鸿雷板书简体-正式版.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/hongleixingshu/鸿雷行书简体.otf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/hongleizhuoshu/鸿雷拙书简体.otf",
     "warning": "Unknown brand; needs review"
   },
   {
@@ -1872,6 +1888,10 @@
     "warning": "Unknown brand; needs review"
   },
   {
+    "path": "fonts/unknown/u-7a11ec461428/龚帆免费体2.0.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
     "path": "fonts/unknown/uncial-antiqua/UncialAntiqua-Regular.ttf",
     "warning": "Unknown brand; needs review"
   },
@@ -2169,6 +2189,18 @@
   },
   {
     "path": "fonts/unknown/温州鹿城瓯韵体/温州鹿城瓯韵体.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/程荣光刻楷/程荣光刻楷.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/荷塘月色手写体/荷塘月色手写体+Regular.ttf",
+    "warning": "Unknown brand; needs review"
+  },
+  {
+    "path": "fonts/unknown/飞波正点体/飞波正点体.otf",
     "warning": "Unknown brand; needs review"
   }
 ]

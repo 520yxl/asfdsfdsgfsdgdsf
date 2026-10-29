@@ -22,7 +22,7 @@
     },
     {
       "name": "其他",
-      "count": 1759
+      "count": 1767
     },
     {
       "name": "圆体",
@@ -30,15 +30,15 @@
     },
     {
       "name": "宋体",
-      "count": 67
+      "count": 68
     },
     {
       "name": "手写体",
-      "count": 19
+      "count": 20
     },
     {
       "name": "楷体",
-      "count": 24
+      "count": 26
     },
     {
       "name": "艺术体",
@@ -46,7 +46,7 @@
     },
     {
       "name": "黑体",
-      "count": 309
+      "count": 310
     }
   ],
   "weights": [
@@ -328,8 +328,8 @@
     },
     {
       "id": "chill-type",
-      "name": "Chill type",
-      "count": 4
+      "name": "Chill Type",
+      "count": 5
     },
     {
       "id": "chilltype",
@@ -590,6 +590,16 @@
       "id": "hanyi-fonts",
       "name": "Hanyi Fonts",
       "count": 8
+    },
+    {
+      "id": "honglei-design",
+      "name": "HongLei Design",
+      "count": 1
+    },
+    {
+      "id": "houzun",
+      "name": "Houzun",
+      "count": 1
     },
     {
       "id": "http-jjllnn-fr",
@@ -1069,7 +1079,7 @@
     {
       "id": "slidefont",
       "name": "SlideFont",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sol-matas",
@@ -1234,7 +1244,7 @@
     {
       "id": "unknown",
       "name": "",
-      "count": 536
+      "count": 544
     },
     {
       "id": "vectro-type-foundry",
@@ -1389,6 +1399,11 @@
     {
       "id": "成都美尔贝科技股份有限公司",
       "name": "成都美尔贝科技股份有限公司",
+      "count": 1
+    },
+    {
+      "id": "文徵字库",
+      "name": "文徵字库",
       "count": 1
     },
     {
