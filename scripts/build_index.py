@@ -225,9 +225,10 @@ def main():
             try:
                 info = inspect(path)[0]
                 override = overrides.get(path.name, {})
-                brand_id, _ = brand_for(info, rules, override)
+                brand_id, brand_name = brand_for(info, rules, override)
                 family_id = safe_id(override.get("family", info["family"]))
-                target = FONTS / brand_id / family_id / path.name
+                brand_folder = safe_id(brand_name)
+                target = FONTS / brand_folder / family_id / path.name
                 sha = digest(path)
                 if target in occupied and occupied[target] != sha:
                     target = target.with_name(target.stem + "-" + sha[:10] + target.suffix)
@@ -257,10 +258,11 @@ def main():
         try:
             info = inspect(path)[0]
             override = overrides.get(path.name, {})
-            brand_id, _ = brand_for(info, rules, override)
+            brand_id, brand_name = brand_for(info, rules, override)
             family_name = override.get("family", info["family"])
             family_id = safe_id(family_name)
-            target = FONTS / brand_id / family_id / path.name
+            brand_folder = safe_id(brand_name)
+            target = FONTS / brand_folder / family_id / path.name
             target.parent.mkdir(parents=True, exist_ok=True)
             if target.exists():
                 if digest(target) == digest(path):
