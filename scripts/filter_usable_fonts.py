@@ -2,6 +2,7 @@
 """Keep only fonts that can be applied in desktop design software in dist/fonts.json."""
 import json
 from pathlib import Path
+from taxonomy import enrich, filter_indexes
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -45,15 +46,19 @@ def main():
     emit("brands.json", sorted(brands.values(), key=lambda x: x["id"]))
     emit("categories.json", [{"name": name, "count": count} for name, count in sorted(categories.items())])
     weights = sorted({(font.get("weight_class", 400), font.get("weight_name", "Regular")) for font in usable})
+    taxonomy_indexes = filter_indexes(usable)
     filters = {
-        "languages": sorted({tag for font in usable for tag in font.get("language_tags", [])}),
-        "scripts": sorted({tag for font in usable for tag in font.get("script_tags", [])}),
+        "regions": taxonomy_indexes["regions"],
+        "languages": taxonomy_indexes["languages"],
+        "scripts": taxonomy_indexes["scripts"],
         "categories": [{"name": name, "count": count} for name, count in sorted(categories.items())],
         "weights": [{"value": value, "label": label} for value, label in weights],
         "brands": sorted(brands.values(), key=lambda x: x["id"]),
         "licenses": sorted({font.get("license_type", "unknown") for font in usable}),
     }
     emit("filters.json", filters)
+    for key in ("regions", "languages", "scripts"):
+        emit(key + ".json", taxonomy_indexes[key])
     manifest_path = DIST / "manifest.json"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {"schema_version": 1}
     manifest["catalog_count"] = len(usable)
