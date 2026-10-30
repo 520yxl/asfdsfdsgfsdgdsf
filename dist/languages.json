@@ -1,0 +1,27 @@
+[
+  {
+    "code": "ja",
+    "name": "日语",
+    "count": 21
+  },
+  {
+    "code": "zh-Hans",
+    "name": "简体中文",
+    "count": 384
+  },
+  {
+    "code": "zh-Hant",
+    "name": "繁体中文",
+    "count": 74
+  },
+  {
+    "code": "en",
+    "name": "英语",
+    "count": 2303
+  },
+  {
+    "code": "ko",
+    "name": "韩语",
+    "count": 7
+  }
+]

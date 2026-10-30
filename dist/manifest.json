@@ -7,6 +7,9 @@
   "categories_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/categories.json",
   "errors_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/errors.json",
   "filters_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/filters.json",
+  "regions_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/regions.json",
+  "languages_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/languages.json",
+  "scripts_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/scripts.json",
   "fontsource_report_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/fontsource-index-report.json",
   "excluded_unusable_count": 1748,
   "unavailable_fonts_url": "https://raw.githubusercontent.com/520yxl/asfdsfdsgfsdgdsf/main/dist/online-fonts-unavailable.json"

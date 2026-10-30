@@ -1,0 +1,37 @@
+[
+  {
+    "code": "Hebrew",
+    "name": "希伯来字母",
+    "count": 81
+  },
+  {
+    "code": "Latin",
+    "name": "拉丁字母",
+    "count": 2294
+  },
+  {
+    "code": "Hiragana-Katakana",
+    "name": "日文假名",
+    "count": 260
+  },
+  {
+    "code": "Han",
+    "name": "汉字",
+    "count": 473
+  },
+  {
+    "code": "Cyrillic",
+    "name": "西里尔字母",
+    "count": 767
+  },
+  {
+    "code": "Arabic",
+    "name": "阿拉伯字母",
+    "count": 70
+  },
+  {
+    "code": "Hangul",
+    "name": "韩文",
+    "count": 46
+  }
+]
