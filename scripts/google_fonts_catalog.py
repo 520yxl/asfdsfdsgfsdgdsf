@@ -8,6 +8,7 @@ import re
 import urllib.request
 import unicodedata
 from pathlib import Path
+from taxonomy import enrich, filter_indexes
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -122,6 +123,7 @@ def main():
         if aliases_key & known:
             duplicate_count += 1
             continue
+        record = enrich(record, languages=record.get("language_tags", []), regions=item.get("region_tags", item.get("regions", [])), scripts=record.get("script_tags", []))
         merged.append(record)
         known.update(aliases_key)
         known.add(family_key)
@@ -134,7 +136,8 @@ def main():
         cat = obj.get("category", "其他")
         category_counts[cat] = category_counts.get(cat, 0) + 1
     weights = sorted({(obj.get("weight_class", 400), obj.get("weight_name", "Regular")) for obj in merged}, key=lambda x: x[0])
-    filter_data = {"languages": sorted({tag for obj in merged for tag in obj.get("language_tags", [])}), "scripts": sorted({tag for obj in merged for tag in obj.get("script_tags", [])}), "categories": [{"name": name, "count": count} for name, count in sorted(category_counts.items())], "weights": [{"value": value, "label": label} for value, label in weights], "brands": sorted(brand_counts.values(), key=lambda x: x["id"]), "licenses": sorted({obj.get("license_type", "unknown") for obj in merged})}
+    taxonomy_indexes = filter_indexes(merged)
+    filter_data = {"regions": taxonomy_indexes["regions"], "languages": taxonomy_indexes["languages"], "scripts": taxonomy_indexes["scripts"], "categories": [{"name": name, "count": count} for name, count in sorted(category_counts.items())], "weights": [{"value": value, "label": label} for value, label in weights], "brands": sorted(brand_counts.values(), key=lambda x: x["id"]), "licenses": sorted({obj.get("license_type", "unknown") for obj in merged})}
     (DIST / "filters.json").write_text(json.dumps(filter_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     merged.sort(key=lambda obj: (str(obj.get("brand_id", "")).casefold(), str(obj.get("family", "")).casefold(), str(obj.get("style", "")).casefold()))
     DIST.mkdir(exist_ok=True)
