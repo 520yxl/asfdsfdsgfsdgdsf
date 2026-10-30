@@ -10,6 +10,7 @@ import unicodedata
 from pathlib import Path
 from urllib.parse import quote
 from fontTools.ttLib import TTFont, TTCollection
+from taxonomy import enrich, filter_indexes
 
 ROOT = Path(__file__).resolve().parents[1]
 FONTS, INCOMING, DIST = (ROOT / folder for folder in ("fonts", "incoming", "dist"))
@@ -299,7 +300,7 @@ def main():
             family_display = override.get("family", info["family"])
             chinese_names = list(dict.fromkeys(info.get("family_zh", []) + info.get("full_name_zh", [])))
             searchable_names = list(dict.fromkeys([family_display, info["full_name"], info["style"]] + chinese_names))
-            fonts.append({"id": sha[:20], "family": family_display,
+            font_record = {"id": sha[:20], "family": family_display,
                           "family_zh": info.get("family_zh", []), "full_name_zh": info.get("full_name_zh", []),
                           "chinese_names": chinese_names, "searchable_names": searchable_names,
                           "language_tags": info.get("language_tags", []), "script_tags": info.get("script_tags", []),
@@ -312,7 +313,8 @@ def main():
                           "family_id": family_id, "category": cat, "faces": faces,
                           "format": path.suffix.lower()[1:], "size": path.stat().st_size,
                           "sha256": sha, "path": relative.as_posix(),
-                          "download_url": raw_url(relative)})
+                          "download_url": raw_url(relative)}
+            fonts.append(enrich(font_record, regions=override.get("region_tags", override.get("regions", []))))
         except Exception as exc:
             errors.append({"path": relative.as_posix(), "error": str(exc)})
     fonts.sort(key=lambda obj: (obj["brand_id"], obj["family"].casefold(), obj["style"].casefold()))
@@ -323,7 +325,11 @@ def main():
     languages = sorted({tag for font in fonts for tag in font.get("language_tags", [])})
     scripts = sorted({tag for font in fonts for tag in font.get("script_tags", [])})
     licenses = sorted({font.get("license_type", "unknown") for font in fonts})
-    emit("filters.json", {"languages": languages, "scripts": scripts, "categories": [{"name": label, "count": count} for label, count in categories.items()], "weights": [{"value": value, "label": label} for value, label in weights], "brands": sorted(brands.values(), key=lambda x: x["id"]), "licenses": licenses})
+    taxonomy_indexes = filter_indexes(fonts)
+    emit("regions.json", taxonomy_indexes["regions"])
+    emit("languages.json", taxonomy_indexes["languages"])
+    emit("scripts.json", taxonomy_indexes["scripts"])
+    emit("filters.json", {"regions": taxonomy_indexes["regions"], "languages": taxonomy_indexes["languages"], "scripts": taxonomy_indexes["scripts"], "categories": [{"name": label, "count": count} for label, count in categories.items()], "weights": [{"value": value, "label": label} for value, label in weights], "brands": sorted(brands.values(), key=lambda x: x["id"]), "licenses": licenses})
     emit("errors.json", errors)
     emit("manifest.json", {"schema_version": 1, "catalog_count": len(fonts), "brand_count": len(brands),
                            "fonts_url": raw_url(Path("dist/fonts.json")),
