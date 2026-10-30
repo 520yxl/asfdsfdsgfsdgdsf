@@ -8,6 +8,7 @@ import unicodedata
 import urllib.error
 import urllib.request
 from pathlib import Path
+from taxonomy import enrich, filter_indexes
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -164,6 +165,7 @@ def main():
             "weight_range": [next((axis.get("min") for axis in (meta.get("axes") or []) if axis.get("tag") == "wght"), 400),
                              next((axis.get("max") for axis in (meta.get("axes") or []) if axis.get("tag") == "wght"), 400)],
         }
+        record = enrich(record, languages=languages, regions=meta.get("region_tags", meta.get("regions", [])), scripts=record.get("script_tags", []))
         merged.append(record)
         seen.update({norm(family), norm(slug), norm(slug.replace("-", " "))})
         added += 1
@@ -181,9 +183,11 @@ def main():
         cat = obj.get("category", "其他")
         category_counts[cat] = category_counts.get(cat, 0) + 1
     weights = sorted({(obj.get("weight_class", 400), obj.get("weight_name", "Regular")) for obj in merged}, key=lambda x: x[0])
+    taxonomy_indexes = filter_indexes(merged)
     filters = {
-        "languages": sorted({tag for obj in merged for tag in obj.get("language_tags", [])}),
-        "scripts": sorted({tag for obj in merged for tag in obj.get("script_tags", [])}),
+        "regions": taxonomy_indexes["regions"],
+        "languages": taxonomy_indexes["languages"],
+        "scripts": taxonomy_indexes["scripts"],
         "categories": [{"name": name, "count": count} for name, count in sorted(category_counts.items())],
         "weights": [{"value": value, "label": label} for value, label in weights],
         "brands": sorted(brand_counts.values(), key=lambda x: x["id"]),
