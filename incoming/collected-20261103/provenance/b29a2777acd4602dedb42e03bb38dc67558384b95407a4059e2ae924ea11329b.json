@@ -1,0 +1,23 @@
+{
+  "font": "incoming/MartianMono-NrxLt-b29a2777acd4.ttf",
+  "sha256": "b29a2777acd4602dedb42e03bb38dc67558384b95407a4059e2ae924ea11329b",
+  "size": 106116,
+  "names": [
+    "Martian Mono",
+    "Martian Mono Nr xLt",
+    "MartianMono-NrxLt"
+  ],
+  "sources": [
+    {
+      "repository": "evilmartians/mono",
+      "license_url": "https://raw.githubusercontent.com/evilmartians/mono/v1.1.0/OFL.txt",
+      "file_url": "https://github.com/evilmartians/mono/releases/download/v1.1.0/martian-mono-1.1.0-ttf.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c969fc4340b9ef3d-README.txt",
+    "incoming/collected-20261103/licenses/f5bcced33346e939-OFL.txt",
+    "incoming/collected-20261103/licenses/fc9f4370def7ec77-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

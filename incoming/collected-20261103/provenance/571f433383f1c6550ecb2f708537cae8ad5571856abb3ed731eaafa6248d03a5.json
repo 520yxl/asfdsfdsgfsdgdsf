@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MPLUS3VF-571f433383f1.ttf",
+  "sha256": "571f433383f1c6550ecb2f708537cae8ad5571856abb3ed731eaafa6248d03a5",
+  "size": 259008,
+  "names": [
+    "M PLUS 3",
+    "M PLUS 3 Thin",
+    "MPLUS3-Thin"
+  ],
+  "sources": [
+    {
+      "repository": "coz-m/MPLUS_FONTS",
+      "license_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/04971e3fcee60b24-OFL.txt",
+    "incoming/collected-20261103/licenses/6cfd1f3933e630e7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

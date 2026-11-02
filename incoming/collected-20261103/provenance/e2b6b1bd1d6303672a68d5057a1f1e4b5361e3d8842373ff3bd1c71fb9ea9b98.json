@@ -1,0 +1,21 @@
+{
+  "font": "incoming/edukai-5.1_20251208-e2b6b1bd1d63.ttf",
+  "sha256": "e2b6b1bd1d6303672a68d5057a1f1e4b5361e3d8842373ff3bd1c71fb9ea9b98",
+  "size": 15820064,
+  "names": [
+    "TW-MOE-Std-Kai",
+    "教育部标准楷书",
+    "教育部標準楷書"
+  ],
+  "sources": [
+    {
+      "repository": "Jiehong/TW-fonts",
+      "file_url": "https://github.com/Jiehong/TW-fonts/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f030927ded782cfd-README.md",
+    "incoming/collected-20261103/licenses/ae12dd1095837f8b-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

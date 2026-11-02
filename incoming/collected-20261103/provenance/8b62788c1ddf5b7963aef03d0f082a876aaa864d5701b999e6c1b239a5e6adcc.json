@@ -1,0 +1,22 @@
+{
+  "font": "incoming/LanternMingB-8b62788c1ddf.ttf",
+  "sha256": "8b62788c1ddf5b7963aef03d0f082a876aaa864d5701b999e6c1b239a5e6adcc",
+  "size": 25414560,
+  "names": [
+    "LanternMingB",
+    "LanternMingB Regular",
+    "LanternMingB-Regular",
+    "上元明朝B",
+    "上元明朝B Regular"
+  ],
+  "sources": [
+    {
+      "repository": "GuiWonder/LanternMing",
+      "file_url": "https://github.com/GuiWonder/LanternMing/releases/download/1.04/LanternMing.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5fa23b9cdccfab4b-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

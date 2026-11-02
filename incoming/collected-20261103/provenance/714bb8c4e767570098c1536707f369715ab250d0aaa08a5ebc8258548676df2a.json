@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MPLUSU-SemiBold-714bb8c4e767.otf",
+  "sha256": "714bb8c4e767570098c1536707f369715ab250d0aaa08a5ebc8258548676df2a",
+  "size": 1289520,
+  "names": [
+    "M PLUS U",
+    "M PLUS U SemiBold",
+    "MPLUSU-SemiBold"
+  ],
+  "sources": [
+    {
+      "repository": "coz-m/MPLUS_FONTS",
+      "license_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/04971e3fcee60b24-OFL.txt",
+    "incoming/collected-20261103/licenses/6cfd1f3933e630e7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

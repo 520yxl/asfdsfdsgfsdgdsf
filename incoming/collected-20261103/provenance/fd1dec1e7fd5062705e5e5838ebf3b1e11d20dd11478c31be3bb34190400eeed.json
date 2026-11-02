@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MPLUSCodeLatin[wdth,wght]-fd1dec1e7fd5.ttf",
+  "sha256": "fd1dec1e7fd5062705e5e5838ebf3b1e11d20dd11478c31be3bb34190400eeed",
+  "size": 133076,
+  "names": [
+    "M PLUS Code Latin",
+    "M PLUS Code Latin Regular",
+    "MPLUSCodeLatin-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "coz-m/MPLUS_FONTS",
+      "license_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/04971e3fcee60b24-OFL.txt",
+    "incoming/collected-20261103/licenses/6cfd1f3933e630e7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

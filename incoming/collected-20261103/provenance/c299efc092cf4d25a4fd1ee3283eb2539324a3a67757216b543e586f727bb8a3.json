@@ -1,0 +1,21 @@
+{
+  "font": "incoming/CommitMono-700-Regular-c299efc092cf.ttf",
+  "sha256": "c299efc092cf4d25a4fd1ee3283eb2539324a3a67757216b543e586f727bb8a3",
+  "size": 384828,
+  "names": [
+    "CommitMono",
+    "CommitMono Bold",
+    "CommitMono-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "eigilnikolajsen/commit-mono",
+      "license_url": "https://github.com/eigilnikolajsen/commit-mono/releases/download/v1.143/CommitMono-1.143.zip",
+      "file_url": "https://github.com/eigilnikolajsen/commit-mono/releases/download/v1.143/CommitMono-1.143.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2e2dc93770781908-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

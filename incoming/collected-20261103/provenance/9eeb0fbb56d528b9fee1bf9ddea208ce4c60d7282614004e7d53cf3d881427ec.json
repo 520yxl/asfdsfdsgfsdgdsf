@@ -1,0 +1,20 @@
+{
+  "font": "incoming/eduSong_Unicode-9eeb0fbb56d5.ttf",
+  "sha256": "9eeb0fbb56d528b9fee1bf9ddea208ce4c60d7282614004e7d53cf3d881427ec",
+  "size": 20964848,
+  "names": [
+    "MOESongUN",
+    "教育部標準宋體UN"
+  ],
+  "sources": [
+    {
+      "repository": "Jiehong/TW-fonts",
+      "file_url": "https://github.com/Jiehong/TW-fonts/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f030927ded782cfd-README.md",
+    "incoming/collected-20261103/licenses/ae12dd1095837f8b-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

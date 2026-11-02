@@ -1,0 +1,29 @@
+{
+  "font": "incoming/cwTeXQMingZH-Medium-522f40b5ca57.ttf",
+  "sha256": "522f40b5ca57ffe738d17ea90b32c52178e919cd51dae343fc80cb55fc95ca68",
+  "size": 10159640,
+  "names": [
+    "cwTeX Q MingZH",
+    "cwTeX Q MingZH Medium",
+    "cwTeXQMingZH-Medium"
+  ],
+  "sources": [
+    {
+      "repository": "l10n-tw/cwtex-q-fonts-TTFs",
+      "license_url": "https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/345f059339189d5a-copying.txt",
+    "incoming/collected-20261103/licenses/80095de08434ff6f-license.txt",
+    "incoming/collected-20261103/licenses/447b81ac1c034e0f-OFL.txt",
+    "incoming/collected-20261103/licenses/1cd185e9fcef578f-copying.txt",
+    "incoming/collected-20261103/licenses/ccdf63c223d75458-license.txt",
+    "incoming/collected-20261103/licenses/bb9fadb53eebcf6a-readme-en-utf8.txt",
+    "incoming/collected-20261103/licenses/234c8581339a088d-readme-zh-utf8.txt",
+    "incoming/collected-20261103/licenses/ecabd1ecf4054b93-readme.html",
+    "incoming/collected-20261103/licenses/bf838c690e845ef4-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

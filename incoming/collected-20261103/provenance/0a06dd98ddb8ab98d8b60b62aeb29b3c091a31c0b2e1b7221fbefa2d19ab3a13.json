@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MPLUSCodeLatin50-Medium-0a06dd98ddb8.ttf",
+  "sha256": "0a06dd98ddb8ab98d8b60b62aeb29b3c091a31c0b2e1b7221fbefa2d19ab3a13",
+  "size": 54892,
+  "names": [
+    "M PLUS Code Latin 50",
+    "M PLUS Code Latin 50 Medium",
+    "MPLUSCodeLatin50-Medium"
+  ],
+  "sources": [
+    {
+      "repository": "coz-m/MPLUS_FONTS",
+      "license_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/04971e3fcee60b24-OFL.txt",
+    "incoming/collected-20261103/licenses/6cfd1f3933e630e7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

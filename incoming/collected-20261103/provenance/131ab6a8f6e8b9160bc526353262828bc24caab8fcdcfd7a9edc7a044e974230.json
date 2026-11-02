@@ -1,0 +1,20 @@
+{
+  "font": "incoming/IntelOneMono-Regular-131ab6a8f6e8.ttf",
+  "sha256": "131ab6a8f6e8b9160bc526353262828bc24caab8fcdcfd7a9edc7a044e974230",
+  "size": 125928,
+  "names": [
+    "Intel One Mono",
+    "IntelOneMono-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "intel/intel-one-mono",
+      "license_url": "https://github.com/intel/intel-one-mono/releases/download/V1.4.0/ttf.zip",
+      "file_url": "https://github.com/intel/intel-one-mono/releases/download/V1.4.0/ttf.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b2e40cca7371339-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
