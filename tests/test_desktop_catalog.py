@@ -13,6 +13,23 @@ from filter_usable_fonts import usable_font
 
 
 class DesktopCatalogTests(unittest.TestCase):
+    def test_brand_prefix_language_and_english_boundaries(self):
+        rules = [
+            {'id': 'founder', 'name': '方正', 'keywords': ['方正', 'Founder'], 'abbreviations': ['FZ']},
+            {'id': 'adobe', 'name': 'Adobe', 'keywords': ['Adobe']},
+            {'id': 'hanyi', 'name': '汉仪', 'keywords': ['汉仪', 'Hanyi'], 'abbreviations': ['HY']},
+        ]
+        def match(name, zh=None, maker=''):
+            return build_index.brand_for({'family': name, 'family_zh': zh or [], 'manufacturer': maker}, rules, {})[0]
+        self.assertEqual(match('Adobe Example', ['方正书宋']), 'founder')
+        self.assertEqual(match('FZShuSong'), 'founder')
+        self.assertEqual(match('HYQiHei'), 'hanyi')
+        self.assertEqual(match('hanyi-QiHei'), 'hanyi')
+        for name in ('Hydrogen', 'hymn', 'NotAdobe', 'Founderish', '普通黑体'):
+            self.assertEqual(match(name), 'unknown')
+        self.assertEqual(match('Example', maker='Adobe Systems Incorporated'), 'adobe')
+        self.assertEqual(match('Example', maker='FontForge'), 'unknown')
+
     def test_complete_unicode_chinese_name_precedes_truncated_mac_name(self):
         from fontTools.ttLib import TTFont, newTable
         from fontTools.ttLib.tables._n_a_m_e import NameRecord
