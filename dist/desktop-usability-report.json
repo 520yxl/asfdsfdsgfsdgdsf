@@ -1,12 +1,10 @@
 {
-  "desktop_usable_count": 2303,
-  "excluded_count": 1748,
-  "excluded_woff_count": 128,
-  "excluded_metadata_only_count": 1620,
+  "desktop_usable_count": 6560,
+  "excluded_count": 0,
+  "excluded_woff_count": 0,
+  "excluded_metadata_only_count": 0,
   "supported_formats": [
-    "otc",
     "otf",
-    "ttc",
     "ttf"
   ],
   "note": "Excluded entries are retained in online-fonts-unavailable.json for audit, not shown as installable desktop fonts."
