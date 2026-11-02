@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MPLUS1-Bold-5a1b05df3543.ttf",
+  "sha256": "5a1b05df35435f8172e351be8b1057df3973ed3d046d8e4fc8937984ec9556d1",
+  "size": 1762804,
+  "names": [
+    "M PLUS 1",
+    "M PLUS 1 Bold",
+    "MPLUS1-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "coz-m/MPLUS_FONTS",
+      "license_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/04971e3fcee60b24-OFL.txt",
+    "incoming/collected-20261103/licenses/6cfd1f3933e630e7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

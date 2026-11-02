@@ -1,0 +1,21 @@
+{
+  "font": "incoming/jf-openhuninn-2.1-9d5bf4932d31.ttf",
+  "sha256": "9d5bf4932d31fe94c18cd8cfddc98bc1b14ce10f4e354c682179db290a99c825",
+  "size": 4911464,
+  "names": [
+    "jf open 粉圓 2.1",
+    "jf-openhuninn-2.1"
+  ],
+  "sources": [
+    {
+      "repository": "justfont/open-huninn-font",
+      "license_url": "https://raw.githubusercontent.com/justfont/open-huninn-font/v2.1/LICENSE",
+      "file_url": "https://github.com/justfont/open-huninn-font/releases/download/v2.1/jf-openhuninn-2.1.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/9410d4d4f64ff5ea-LICENSE",
+    "incoming/collected-20261103/licenses/a11f1ebf5128e973-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

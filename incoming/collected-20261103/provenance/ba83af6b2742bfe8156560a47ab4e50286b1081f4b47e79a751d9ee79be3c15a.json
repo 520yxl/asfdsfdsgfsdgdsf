@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MPLUS2-ExtraLight-ba83af6b2742.ttf",
+  "sha256": "ba83af6b2742bfe8156560a47ab4e50286b1081f4b47e79a751d9ee79be3c15a",
+  "size": 1797332,
+  "names": [
+    "M PLUS 2",
+    "M PLUS 2 ExtraLight",
+    "MPLUS2-ExtraLight"
+  ],
+  "sources": [
+    {
+      "repository": "coz-m/MPLUS_FONTS",
+      "license_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/04971e3fcee60b24-OFL.txt",
+    "incoming/collected-20261103/licenses/6cfd1f3933e630e7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

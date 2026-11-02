@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceCodeVF-Italic-39d0d0ed66fc.ttf",
+  "sha256": "39d0d0ed66fc2da632dd60d863b4d5534bb398c26b2a4f054fa5975d30405896",
+  "size": 175080,
+  "names": [
+    "SourceCodeVF",
+    "SourceCodeVF Italic",
+    "SourceCodeVF-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7c940e28a5388e9b-LICENSE.md",
+    "incoming/collected-20261103/licenses/394851e68e92135a-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

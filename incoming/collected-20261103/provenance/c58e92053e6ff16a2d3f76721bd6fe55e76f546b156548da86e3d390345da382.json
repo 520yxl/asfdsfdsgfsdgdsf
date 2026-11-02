@@ -1,0 +1,23 @@
+{
+  "font": "incoming/SourceCodePro-ExtraLightIt-c58e92053e6f.otf",
+  "sha256": "c58e92053e6ff16a2d3f76721bd6fe55e76f546b156548da86e3d390345da382",
+  "size": 106204,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro ExtraLight",
+    "Source Code Pro ExtraLight Italic",
+    "SourceCodePro-ExtraLightIt"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7c940e28a5388e9b-LICENSE.md",
+    "incoming/collected-20261103/licenses/394851e68e92135a-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

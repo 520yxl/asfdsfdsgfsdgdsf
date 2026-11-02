@@ -1,0 +1,26 @@
+{
+  "font": "incoming/ZhudouSans-Light-9b2f1fbe0373.ttf",
+  "sha256": "9b2f1fbe0373486153ae7bdc1e9f3794bbeb4a31e10b0849131f61e341eefb12",
+  "size": 30980,
+  "names": [
+    "Zhudou Sans",
+    "Zhudou Sans Light",
+    "ZhudouSans-Light",
+    "煮豆黑体",
+    "煮豆黑体 Light",
+    "煮豆黑體",
+    "煮豆黑體 Light"
+  ],
+  "sources": [
+    {
+      "repository": "Buernia/Zhudou-Sans",
+      "license_url": "https://raw.githubusercontent.com/Buernia/Zhudou-Sans/v2.000/LICENSE",
+      "file_url": "https://github.com/Buernia/Zhudou-Sans/releases/download/v2.000/Zhudou.Sans.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bd85c8585aefbe8b-LICENSE",
+    "incoming/collected-20261103/licenses/d76d57553adf9357-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

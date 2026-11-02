@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MPLUS1-Regular-6403485c9b4b.ttf",
+  "sha256": "6403485c9b4bcbe4cd2859b283d2df8416c2b9a663d40abc7da07676bf547678",
+  "size": 1776780,
+  "names": [
+    "M PLUS 1",
+    "M PLUS 1 Regular",
+    "MPLUS1-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "coz-m/MPLUS_FONTS",
+      "license_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/04971e3fcee60b24-OFL.txt",
+    "incoming/collected-20261103/licenses/6cfd1f3933e630e7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

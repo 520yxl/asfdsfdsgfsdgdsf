@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MPLUS2-Thin-5931f1730f69.otf",
+  "sha256": "5931f1730f6902c807ff47f18daec147b40396e70b2f73d84bc8b7d1201e0adc",
+  "size": 1100880,
+  "names": [
+    "M PLUS 2",
+    "M PLUS 2 Thin",
+    "MPLUS2-Thin"
+  ],
+  "sources": [
+    {
+      "repository": "coz-m/MPLUS_FONTS",
+      "license_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/coz-m/MPLUS_FONTS/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/04971e3fcee60b24-OFL.txt",
+    "incoming/collected-20261103/licenses/6cfd1f3933e630e7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

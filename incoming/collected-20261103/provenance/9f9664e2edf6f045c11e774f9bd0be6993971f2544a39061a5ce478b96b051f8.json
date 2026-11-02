@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceCodePro-Regular-9f9664e2edf6.otf",
+  "sha256": "9f9664e2edf6f045c11e774f9bd0be6993971f2544a39061a5ce478b96b051f8",
+  "size": 131128,
+  "names": [
+    "Source Code Pro",
+    "SourceCodePro-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7c940e28a5388e9b-LICENSE.md",
+    "incoming/collected-20261103/licenses/394851e68e92135a-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

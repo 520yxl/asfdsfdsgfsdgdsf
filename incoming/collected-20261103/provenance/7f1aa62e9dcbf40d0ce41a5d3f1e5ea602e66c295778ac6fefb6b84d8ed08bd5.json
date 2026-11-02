@@ -1,0 +1,23 @@
+{
+  "font": "incoming/Iansui-Regular-7f1aa62e9dcb.ttf",
+  "sha256": "7f1aa62e9dcbf40d0ce41a5d3f1e5ea602e66c295778ac6fefb6b84d8ed08bd5",
+  "size": 9447424,
+  "names": [
+    "Iansui",
+    "Iansui Regular",
+    "Iansui-Regular",
+    "芫荽",
+    "芫荽 Regular"
+  ],
+  "sources": [
+    {
+      "repository": "ButTaiwan/iansui",
+      "license_url": "https://github.com/ButTaiwan/iansui/releases/download/v1.020/iansui.zip",
+      "file_url": "https://github.com/ButTaiwan/iansui/releases/download/v1.020/iansui.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5d6d9d02d598daa2-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

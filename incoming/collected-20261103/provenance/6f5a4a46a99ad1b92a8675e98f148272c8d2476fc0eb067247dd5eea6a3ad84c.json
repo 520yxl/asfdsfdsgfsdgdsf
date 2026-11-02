@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceCodePro-Bold-6f5a4a46a99a.otf",
+  "sha256": "6f5a4a46a99ad1b92a8675e98f148272c8d2476fc0eb067247dd5eea6a3ad84c",
+  "size": 134020,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Bold",
+    "SourceCodePro-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7c940e28a5388e9b-LICENSE.md",
+    "incoming/collected-20261103/licenses/394851e68e92135a-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

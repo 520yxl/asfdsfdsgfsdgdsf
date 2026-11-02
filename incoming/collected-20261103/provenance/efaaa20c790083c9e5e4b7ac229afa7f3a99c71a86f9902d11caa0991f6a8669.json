@@ -1,0 +1,62 @@
+{
+  "font": "incoming/ARHei-efaaa20c7900.ttf",
+  "sha256": "efaaa20c790083c9e5e4b7ac229afa7f3a99c71a86f9902d11caa0991f6a8669",
+  "size": 9872892,
+  "names": [
+    "Nowar Grotesk CN",
+    "Nowar Grotesk CN CyR Romaja Cn",
+    "Nowar Grotesk CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "Nowar Linéale CN",
+    "Nowar Linéale CN CyR Romaja Cn",
+    "Nowar Linéale CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "Nowar Palo CN",
+    "Nowar Palo CN CyR Romaja Cn",
+    "Nowar Palo CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "Nowar Sans CN",
+    "Nowar Sans CN CyR Romaja Cn",
+    "Nowar Sans CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "Nowar Sem CN",
+    "Nowar Sem CN CyR Romaja Cn",
+    "Nowar Sem CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "Nowar Senza CN",
+    "Nowar Senza CN CyR Romaja Cn",
+    "Nowar Senza CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "NowarSans-d9d752d439c35f046a187c783c831c8827eb7de7",
+    "Νοωαρ Σανς CN",
+    "Νοωαρ Σανς CN CyR Romaja Cn",
+    "Νοωαρ Σανς CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "Новар Гротеск CN",
+    "Новар Гротеск CN CyR Romaja Cn",
+    "Новар Гротеск CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "有愛 고딕 CN",
+    "有愛 고딕 CN CyR Romaja Cn",
+    "有愛 고딕 CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "有愛角ゴシック CN",
+    "有愛角ゴシック CN CyR Romaja Cn",
+    "有愛角ゴシック CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "有愛黑體 CN",
+    "有愛黑體 CN CyR Romaja Cn",
+    "有愛黑體 CN Cyrillic-Romanisation Romaja Condensed Bold",
+    "有爱黑体 CN",
+    "有爱黑体 CN CyR Romaja Cn",
+    "有爱黑体 CN Cyrillic-Romanisation Romaja Condensed Bold"
+  ],
+  "sources": [
+    {
+      "repository": "nowar-fonts/Nowar-Sans",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Sans/releases/download/v1.0.1-xlang/NowarSans-Romaja.CyR-700-1.0.1.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Sans/releases/download/v1.0.1-xlang/NowarSans-Pinyin.Romaja.CyR-700-1.0.1.7z"
+    },
+    {
+      "repository": "nowar-fonts/Nowar-Sans",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Sans/releases/download/v1.0.1-xlang/NowarSans-Romaja.CyR-700-1.0.1.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Sans/releases/download/v1.0.1-xlang/NowarSans-Romaja.CyR-700-1.0.1.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cb2ffb5b6e6cef98-LICENSE.txt",
+    "incoming/collected-20261103/licenses/8ebb43924a794868-LICENSE.txt",
+    "incoming/collected-20261103/licenses/5a9db9d02d376fe9-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

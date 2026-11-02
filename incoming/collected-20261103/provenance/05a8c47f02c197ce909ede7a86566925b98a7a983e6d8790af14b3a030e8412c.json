@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceCodeVF-Upright-05a8c47f02c1.otf",
+  "sha256": "05a8c47f02c197ce909ede7a86566925b98a7a983e6d8790af14b3a030e8412c",
+  "size": 150744,
+  "names": [
+    "SourceCodeVF",
+    "SourceCodeVF-ExtraLight"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7c940e28a5388e9b-LICENSE.md",
+    "incoming/collected-20261103/licenses/394851e68e92135a-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,26 @@
+{
+  "font": "incoming/ZhudouSans-Medium-4607018df1f2.ttf",
+  "sha256": "4607018df1f288422f3d0a7f9baca7eec4b22cd02b5d3005a66ffe1510789cd2",
+  "size": 31048,
+  "names": [
+    "Zhudou Sans",
+    "Zhudou Sans Medium",
+    "ZhudouSans-Medium",
+    "煮豆黑体",
+    "煮豆黑体 Medium",
+    "煮豆黑體",
+    "煮豆黑體 Medium"
+  ],
+  "sources": [
+    {
+      "repository": "Buernia/Zhudou-Sans",
+      "license_url": "https://raw.githubusercontent.com/Buernia/Zhudou-Sans/v2.000/LICENSE",
+      "file_url": "https://github.com/Buernia/Zhudou-Sans/releases/download/v2.000/Zhudou.Sans.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bd85c8585aefbe8b-LICENSE",
+    "incoming/collected-20261103/licenses/d76d57553adf9357-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
