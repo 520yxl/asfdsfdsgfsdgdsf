@@ -1,0 +1,21 @@
+{
+  "font": "incoming/AlbertSans-Bold-90e014da8a40.ttf",
+  "sha256": "90e014da8a40fbfefa9a2d4ebe36da3ef63e060ad47a81459578add1ed3f093e",
+  "size": 47428,
+  "names": [
+    "Albert Sans",
+    "Albert Sans Bold",
+    "AlbertSans-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Albert+Sans",
+      "file_url": "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_rI32TxAj1g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/61d999abe5423729-OFL.txt",
+    "incoming/collected-20261103/licenses/e85db03213a537ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

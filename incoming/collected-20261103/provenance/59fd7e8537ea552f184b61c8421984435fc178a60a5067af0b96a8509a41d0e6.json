@@ -1,0 +1,21 @@
+{
+  "font": "incoming/AlbertSans-Black-59fd7e8537ea.ttf",
+  "sha256": "59fd7e8537ea552f184b61c8421984435fc178a60a5067af0b96a8509a41d0e6",
+  "size": 47508,
+  "names": [
+    "Albert Sans",
+    "Albert Sans Black",
+    "AlbertSans-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Albert+Sans",
+      "file_url": "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApT_rI32TxAj1g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/61d999abe5423729-OFL.txt",
+    "incoming/collected-20261103/licenses/e85db03213a537ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

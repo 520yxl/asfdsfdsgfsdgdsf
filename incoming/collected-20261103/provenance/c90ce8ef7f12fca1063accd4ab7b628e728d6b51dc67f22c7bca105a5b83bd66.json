@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Alegreya-SemiBoldItalic-c90ce8ef7f12.ttf",
+  "sha256": "c90ce8ef7f12fca1063accd4ab7b628e728d6b51dc67f22c7bca105a5b83bd66",
+  "size": 255764,
+  "names": [
+    "Alegreya",
+    "Alegreya SemiBold",
+    "Alegreya SemiBold Italic",
+    "Alegreya-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alegreya",
+      "file_url": "https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uKqmkySFr9V9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a4c3c43504f23a4f-OFL.txt",
+    "incoming/collected-20261103/licenses/831a8c5b36b45d8d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_SemiExpanded-Regular-2a1ea05c1219.ttf",
+  "sha256": "2a1ea05c121950afca263d550e3cf148a81c4eda851a5a66f36be828fc4391b2",
+  "size": 119952,
+  "names": [
+    "Archivo SemiExpanded",
+    "Archivo SemiExpanded Regular",
+    "ArchivoSemiExpanded-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8fsJaRE-NWIDdgffTTNDNp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

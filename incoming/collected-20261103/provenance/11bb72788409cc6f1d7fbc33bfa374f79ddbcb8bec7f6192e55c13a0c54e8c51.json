@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo_SemiExpanded-BlackItalic-11bb72788409.ttf",
+  "sha256": "11bb72788409cc6f1d7fbc33bfa374f79ddbcb8bec7f6192e55c13a0c54e8c51",
+  "size": 133740,
+  "names": [
+    "Archivo SemiExpanded",
+    "Archivo SemiExpanded Black",
+    "Archivo SemiExpanded Black Italic",
+    "ArchivoSemiExpanded-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8k3YIRyOSVz60_PG_HAotBdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

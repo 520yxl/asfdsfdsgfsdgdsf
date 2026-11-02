@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Alegreya-Italic-41568ea72a05.ttf",
+  "sha256": "41568ea72a05e2719ca5fb36c164a39f91b25b4a0eb0dbaf7a227f2b592251b4",
+  "size": 254692,
+  "names": [
+    "Alegreya",
+    "Alegreya Italic",
+    "Alegreya-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alegreya",
+      "file_url": "https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv6qmkySFr9V9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a4c3c43504f23a4f-OFL.txt",
+    "incoming/collected-20261103/licenses/831a8c5b36b45d8d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

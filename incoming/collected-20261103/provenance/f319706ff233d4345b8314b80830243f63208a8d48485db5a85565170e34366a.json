@@ -1,0 +1,21 @@
+{
+  "font": "incoming/AlbertSans-Medium-f319706ff233.ttf",
+  "sha256": "f319706ff233d4345b8314b80830243f63208a8d48485db5a85565170e34366a",
+  "size": 47492,
+  "names": [
+    "Albert Sans",
+    "Albert Sans Medium",
+    "AlbertSans-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Albert+Sans",
+      "file_url": "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZP_rI32TxAj1g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/61d999abe5423729-OFL.txt",
+    "incoming/collected-20261103/licenses/e85db03213a537ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

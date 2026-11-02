@@ -1,0 +1,22 @@
+{
+  "font": "incoming/AlbertSans-SemiBoldItalic-aa53fa4610c6.ttf",
+  "sha256": "aa53fa4610c642a1e354ba6c2223c6ed223d1e232903eeb480d299348f7a1bfa",
+  "size": 52940,
+  "names": [
+    "Albert Sans",
+    "Albert Sans SemiBold",
+    "Albert Sans SemiBold Italic",
+    "AlbertSans-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Albert+Sans",
+      "file_url": "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6IfybRUz1r5t.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/61d999abe5423729-OFL.txt",
+    "incoming/collected-20261103/licenses/e85db03213a537ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

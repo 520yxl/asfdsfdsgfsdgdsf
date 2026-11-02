@@ -1,0 +1,18 @@
+{
+  "font": "incoming/CommitMonoV143-VF-98de9a901163.ttf",
+  "sha256": "98de9a901163a769812c3cf2f1b86d63a98a9ced6720d747aa6652688407c34f",
+  "size": 280548,
+  "names": [
+    "CommitMonoV143",
+    "CommitMonoV143 ExtLt",
+    "CommitMonoV143 Extra Light",
+    "CommitMonoV143-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://commitmono.com"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

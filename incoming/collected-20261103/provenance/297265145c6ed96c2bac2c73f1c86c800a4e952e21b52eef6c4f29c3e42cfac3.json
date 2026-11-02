@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_SemiCondensed-Medium-297265145c6e.ttf",
+  "sha256": "297265145c6ed96c2bac2c73f1c86c800a4e952e21b52eef6c4f29c3e42cfac3",
+  "size": 120860,
+  "names": [
+    "Archivo SemiCondensed",
+    "Archivo SemiCondensed Medium",
+    "ArchivoSemiCondensed-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q9RsJaRE-NWIDdgffTTBjNp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

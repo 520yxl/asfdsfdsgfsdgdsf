@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Alegreya-Regular-79ded2d9fbb4.ttf",
+  "sha256": "79ded2d9fbb43f5086ce1cd82f199e6ae9819c0974e626fa2042c2bc8081f478",
+  "size": 255968,
+  "names": [
+    "Alegreya",
+    "Alegreya Regular",
+    "Alegreya-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alegreya",
+      "file_url": "https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hUI_KCisSGVrw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a4c3c43504f23a4f-OFL.txt",
+    "incoming/collected-20261103/licenses/831a8c5b36b45d8d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

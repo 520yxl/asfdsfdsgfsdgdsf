@@ -1,0 +1,21 @@
+{
+  "font": "incoming/AlbertSans-ExtraBold-567bf00cce89.ttf",
+  "sha256": "567bf00cce89e77fa050b11287b5c70e37e3e9ccf080a31a71edb6ae2c01307c",
+  "size": 47536,
+  "names": [
+    "Albert Sans",
+    "Albert Sans ExtraBold",
+    "AlbertSans-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Albert+Sans",
+      "file_url": "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5T_rI32TxAj1g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/61d999abe5423729-OFL.txt",
+    "incoming/collected-20261103/licenses/e85db03213a537ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Alegreya-BlackItalic-61058d368e2e.ttf",
+  "sha256": "61058d368e2e4941a312d272003614a99ca6e202499e668407f0f809f89b4cc7",
+  "size": 257496,
+  "names": [
+    "Alegreya",
+    "Alegreya Black",
+    "Alegreya Black Italic",
+    "Alegreya-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alegreya",
+      "file_url": "https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuKqmkySFr9V9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a4c3c43504f23a4f-OFL.txt",
+    "incoming/collected-20261103/licenses/831a8c5b36b45d8d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

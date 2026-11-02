@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_SemiCondensed-Italic-81a3aa1d6ce8.ttf",
+  "sha256": "81a3aa1d6ce836c7a23081c75365c1aa97396e4cb99cb25cf100ca2b562dc5e7",
+  "size": 131976,
+  "names": [
+    "Archivo SemiCondensed",
+    "Archivo SemiCondensed Italic",
+    "ArchivoSemiCondensed-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8gPYIRyOSVz60_PG_HCBsxdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

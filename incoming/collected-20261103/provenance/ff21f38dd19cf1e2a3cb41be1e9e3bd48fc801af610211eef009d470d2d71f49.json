@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Alegreya-ExtraBoldItalic-ff21f38dd19c.ttf",
+  "sha256": "ff21f38dd19cf1e2a3cb41be1e9e3bd48fc801af610211eef009d470d2d71f49",
+  "size": 258108,
+  "names": [
+    "Alegreya",
+    "Alegreya ExtraBold",
+    "Alegreya ExtraBold Italic",
+    "Alegreya-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alegreya",
+      "file_url": "https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguKqmkySFr9V9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a4c3c43504f23a4f-OFL.txt",
+    "incoming/collected-20261103/licenses/831a8c5b36b45d8d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

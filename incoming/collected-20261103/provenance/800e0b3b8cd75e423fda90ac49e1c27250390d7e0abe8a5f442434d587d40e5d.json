@@ -1,0 +1,22 @@
+{
+  "font": "incoming/AlbertSans-ExtraLightItalic-800e0b3b8cd7.ttf",
+  "sha256": "800e0b3b8cd75e423fda90ac49e1c27250390d7e0abe8a5f442434d587d40e5d",
+  "size": 53048,
+  "names": [
+    "Albert Sans",
+    "Albert Sans ExtraLight",
+    "Albert Sans ExtraLight Italic",
+    "AlbertSans-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Albert+Sans",
+      "file_url": "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX74fybRUz1r5t.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/61d999abe5423729-OFL.txt",
+    "incoming/collected-20261103/licenses/e85db03213a537ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Alegreya-Bold-d0b327ccf364.ttf",
+  "sha256": "d0b327ccf3641d24c114af030d16646694b948dc29de781a608e3469d1de957d",
+  "size": 258648,
+  "names": [
+    "Alegreya",
+    "Alegreya Bold",
+    "Alegreya-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alegreya",
+      "file_url": "https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERII_KCisSGVrw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a4c3c43504f23a4f-OFL.txt",
+    "incoming/collected-20261103/licenses/831a8c5b36b45d8d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

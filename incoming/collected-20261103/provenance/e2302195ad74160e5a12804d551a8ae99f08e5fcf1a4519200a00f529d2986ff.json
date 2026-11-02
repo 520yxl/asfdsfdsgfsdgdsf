@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_SemiExpanded-BoldItalic-e2302195ad74.ttf",
+  "sha256": "e2302195ad74160e5a12804d551a8ae99f08e5fcf1a4519200a00f529d2986ff",
+  "size": 133904,
+  "names": [
+    "Archivo SemiExpanded",
+    "Archivo SemiExpanded Bold Italic",
+    "ArchivoSemiExpanded-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8k3YIRyOSVz60_PG_HBmtBdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Alegreya-Medium-8cedbdcf3d41.ttf",
+  "sha256": "8cedbdcf3d41a29a81b3fc164b24d5d893f84cf5bb8e2f1c504978eaaf4497ec",
+  "size": 257520,
+  "names": [
+    "Alegreya",
+    "Alegreya Medium",
+    "Alegreya-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alegreya",
+      "file_url": "https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBUI_KCisSGVrw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a4c3c43504f23a4f-OFL.txt",
+    "incoming/collected-20261103/licenses/831a8c5b36b45d8d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

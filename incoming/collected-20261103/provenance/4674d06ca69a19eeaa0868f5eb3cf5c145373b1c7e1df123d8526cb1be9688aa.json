@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo_SemiExpanded-LightItalic-4674d06ca69a.ttf",
+  "sha256": "4674d06ca69a19eeaa0868f5eb3cf5c145373b1c7e1df123d8526cb1be9688aa",
+  "size": 132604,
+  "names": [
+    "Archivo SemiExpanded",
+    "Archivo SemiExpanded Light",
+    "Archivo SemiExpanded Light Italic",
+    "ArchivoSemiExpanded-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8k3YIRyOSVz60_PG_HDfsxdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

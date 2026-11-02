@@ -1,0 +1,22 @@
+{
+  "font": "incoming/AlbertSans-ThinItalic-e0ae0740770e.ttf",
+  "sha256": "e0ae0740770e09147eabcad1a078d719f3a911d7f3fb3cee4c5f614d05190be5",
+  "size": 53004,
+  "names": [
+    "Albert Sans",
+    "Albert Sans Thin",
+    "Albert Sans Thin Italic",
+    "AlbertSans-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Albert+Sans",
+      "file_url": "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX7ofybRUz1r5t.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/61d999abe5423729-OFL.txt",
+    "incoming/collected-20261103/licenses/e85db03213a537ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
