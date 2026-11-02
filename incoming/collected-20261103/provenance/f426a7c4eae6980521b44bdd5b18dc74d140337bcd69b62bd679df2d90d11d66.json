@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MovementV-f426a7c4eae6.ttf",
+  "sha256": "f426a7c4eae6980521b44bdd5b18dc74d140337bcd69b62bd679df2d90d11d66",
+  "size": 64876,
+  "names": [
+    "Movement",
+    "Movement Regular",
+    "Movement-Regular"
+  ],
+  "sources": [
+    {
+      "page_url": "https://nmtype.com/movement/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,17 @@
+{
+  "font": "incoming/Movement-IndirectThin-ac5125220a1e.otf",
+  "sha256": "ac5125220a1e9625a4ed6dce1cb5088d3991280306a1745588d64683264a1c5a",
+  "size": 16980,
+  "names": [
+    "Movement",
+    "Movement Indirect Thin",
+    "Movement-IndirectThin"
+  ],
+  "sources": [
+    {
+      "page_url": "https://nmtype.com/movement/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/LINESeedJP_OTF_Eb-e04966a0a58d.otf",
+  "sha256": "e04966a0a58dd152f9d1e3688362d0706c31ee37af8d4c0995d7200792817875",
+  "size": 4106768,
+  "names": [
+    "LINE Seed JP_OTF",
+    "LINE Seed JP_OTF ExtraBold",
+    "LINESeedJP_OTF-ExtraBold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://seed.line.me/index_jp.html"
+    },
+    {
+      "page_url": "https://seed.line.me/index_kr.html"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8aa3e80c0d02c9f9-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

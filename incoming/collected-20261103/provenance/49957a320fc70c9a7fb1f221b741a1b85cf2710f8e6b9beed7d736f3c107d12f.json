@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothic-ExtraLight-49957a320fc7.ttf",
+  "sha256": "49957a320fc70c9a7fb1f221b741a1b85cf2710f8e6b9beed7d736f3c107d12f",
+  "size": 10006892,
+  "names": [
+    "Gen Jyuu Gothic",
+    "Gen Jyuu Gothic ExtraLight",
+    "GenJyuuGothic-ExtraLight",
+    "源柔ゴシック",
+    "源柔ゴシック ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

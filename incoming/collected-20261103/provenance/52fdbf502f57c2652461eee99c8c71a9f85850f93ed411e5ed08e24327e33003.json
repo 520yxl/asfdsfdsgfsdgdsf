@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LINESeedKR-Rg-52fdbf502f57.ttf",
+  "sha256": "52fdbf502f57c2652461eee99c8c71a9f85850f93ed411e5ed08e24327e33003",
+  "size": 3422600,
+  "names": [
+    "LINE Seed Sans KR",
+    "LINE Seed Sans KR Regular",
+    "LINESeedSansKR-Regular"
+  ],
+  "sources": [
+    {
+      "page_url": "https://seed.line.me/index_jp.html"
+    },
+    {
+      "page_url": "https://seed.line.me/index_kr.html"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

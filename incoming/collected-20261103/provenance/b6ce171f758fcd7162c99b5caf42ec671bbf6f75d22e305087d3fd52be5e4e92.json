@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LINESeedSans_He-b6ce171f758f.ttf",
+  "sha256": "b6ce171f758fcd7162c99b5caf42ec671bbf6f75d22e305087d3fd52be5e4e92",
+  "size": 59352,
+  "names": [
+    "LINE Seed Sans",
+    "LINE Seed Sans Heavy",
+    "LINESeedSans-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://seed.line.me/index_jp.html"
+    },
+    {
+      "page_url": "https://seed.line.me/index_kr.html"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

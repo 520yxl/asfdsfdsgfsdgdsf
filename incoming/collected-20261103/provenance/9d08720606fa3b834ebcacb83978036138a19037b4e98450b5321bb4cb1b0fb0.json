@@ -1,0 +1,19 @@
+{
+  "font": "incoming/LINESeedSans_A_Rg-9d08720606fa.ttf",
+  "sha256": "9d08720606fa3b834ebcacb83978036138a19037b4e98450b5321bb4cb1b0fb0",
+  "size": 35484,
+  "names": [
+    "LINE Seed Sans App",
+    "LINESeedSansApp-Regular"
+  ],
+  "sources": [
+    {
+      "page_url": "https://seed.line.me/index_jp.html"
+    },
+    {
+      "page_url": "https://seed.line.me/index_kr.html"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

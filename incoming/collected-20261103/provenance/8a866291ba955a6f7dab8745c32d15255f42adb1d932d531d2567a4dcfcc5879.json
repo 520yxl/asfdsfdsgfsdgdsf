@@ -1,0 +1,22 @@
+{
+  "font": "incoming/LINESeedJP_A_TTF_Bd-8a866291ba95.ttf",
+  "sha256": "8a866291ba955a6f7dab8745c32d15255f42adb1d932d531d2567a4dcfcc5879",
+  "size": 3524924,
+  "names": [
+    "LINE Seed JP App_TTF",
+    "LINE Seed JP App_TTF Bold",
+    "LINESeedJPApp_TTF-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://seed.line.me/index_jp.html"
+    },
+    {
+      "page_url": "https://seed.line.me/index_kr.html"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8aa3e80c0d02c9f9-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothic-Heavy-e1e677d1adbd.ttf",
+  "sha256": "e1e677d1adbdec6378bf25f964cfa032abe946e26d9fe491ead3e861d44ef69a",
+  "size": 11966228,
+  "names": [
+    "Gen Jyuu Gothic",
+    "Gen Jyuu Gothic Heavy",
+    "GenJyuuGothic-Heavy",
+    "源柔ゴシック",
+    "源柔ゴシック Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

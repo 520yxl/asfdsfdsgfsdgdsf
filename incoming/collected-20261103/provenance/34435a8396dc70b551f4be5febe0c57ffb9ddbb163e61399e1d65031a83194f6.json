@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothic-Light-34435a8396dc.ttf",
+  "sha256": "34435a8396dc70b551f4be5febe0c57ffb9ddbb163e61399e1d65031a83194f6",
+  "size": 10387336,
+  "names": [
+    "Gen Jyuu Gothic",
+    "Gen Jyuu Gothic Light",
+    "GenJyuuGothic-Light",
+    "源柔ゴシック",
+    "源柔ゴシック Light"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

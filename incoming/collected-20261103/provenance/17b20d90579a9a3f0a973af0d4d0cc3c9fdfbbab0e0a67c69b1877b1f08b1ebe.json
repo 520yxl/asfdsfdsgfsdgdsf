@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothic-Bold-17b20d90579a.ttf",
+  "sha256": "17b20d90579a9a3f0a973af0d4d0cc3c9fdfbbab0e0a67c69b1877b1f08b1ebe",
+  "size": 11578604,
+  "names": [
+    "Gen Jyuu Gothic",
+    "Gen Jyuu Gothic Bold",
+    "GenJyuuGothic-Bold",
+    "源柔ゴシック",
+    "源柔ゴシック Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,17 @@
+{
+  "font": "incoming/Movement-DirectBlack-e00820800e83.otf",
+  "sha256": "e00820800e830ee4548bbf7295983937a5abecc9157880ba119e35bb92d9966d",
+  "size": 15848,
+  "names": [
+    "Movement",
+    "Movement Direct Black",
+    "Movement-DirectBlack"
+  ],
+  "sources": [
+    {
+      "page_url": "https://nmtype.com/movement/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
