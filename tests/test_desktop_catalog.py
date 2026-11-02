@@ -13,6 +13,26 @@ from filter_usable_fonts import usable_font
 
 
 class DesktopCatalogTests(unittest.TestCase):
+    def test_complete_unicode_chinese_name_precedes_truncated_mac_name(self):
+        from fontTools.ttLib import TTFont, newTable
+        from fontTools.ttLib.tables._n_a_m_e import NameRecord
+        font = TTFont()
+        font['name'] = newTable('name')
+        font['name'].names = []
+        for platform, encoding, language, name in ((1, 25, 33, '站'), (3, 1, 2052, '站酷高端黑')):
+            record = NameRecord()
+            record.nameID, record.platformID, record.platEncID, record.langID = 1, platform, encoding, language
+            record.string = name.encode('gb2312' if platform == 1 else 'utf-16-be')
+            font['name'].names.append(record)
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / 'fixture.ttf'
+            font.save(path)
+            info = build_index.inspect(path)[0]
+        self.assertEqual(info['family_zh'][0], '站酷高端黑')
+        rules = [{'id': 'zcool', 'name': '站酷', 'keywords': ['站酷', 'ZCOOL']}]
+        self.assertEqual(build_index.brand_for({**info, 'family': 'unrelated', 'full_name': ''}, rules, {}), ('zcool', '站酷'))
+        self.assertEqual(build_index.category(info['family_zh'][0], 'Regular'), '黑体')
+
     def test_formats_and_paths(self):
         base = {"format": "ttf", "path": "fonts/品牌/font.ttf", "size": 100, "sha256": "a" * 64}
         self.assertTrue(usable_font(base))
