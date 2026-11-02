@@ -1,0 +1,21 @@
+{
+  "font": "incoming/ZillaSlab-BoldItalic-5947009be032.otf",
+  "sha256": "5947009be0320de8480d5708296eecdd1e3f3c9ddf7413a2319502a253cd8397",
+  "size": 113456,
+  "names": [
+    "Zilla Slab",
+    "Zilla Slab Bold Italic",
+    "ZillaSlab-BoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/zilla-slab",
+      "license_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip",
+      "file_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3cbf579238e4eacd-LICENSE"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,25 @@
+{
+  "font": "incoming/WenJinMinchoCP3-Regular-e6ffa360a061.ttf",
+  "sha256": "e6ffa360a0615c214dd8efca475e97d5cb78b2d7bdaa5d07b2052cd0b48ef57c",
+  "size": 6050268,
+  "names": [
+    "WenJin Mincho C Plane 3",
+    "WenJinMinchoCP3-Regular",
+    "文津宋体C 第3平面",
+    "文津宋體C 第3平面",
+    "文津明朝C 第3平面",
+    "문진(文津) 명조 C 평면 3"
+  ],
+  "sources": [
+    {
+      "repository": "takushun-wu/WenJinMincho",
+      "license_url": "https://raw.githubusercontent.com/takushun-wu/WenJinMincho/v2.100/LICENSE.md",
+      "file_url": "https://github.com/takushun-wu/WenJinMincho/releases/download/v2.100/WenJinMinchoC-TTF.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/27dcc8f8bc3ff3d9-LICENSE.md",
+    "incoming/collected-20261103/licenses/0ac181fa2042ee81-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

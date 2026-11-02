@@ -1,0 +1,23 @@
+{
+  "font": "incoming/FiraSansCondensed-TwoItalic-289e8b9394a8.otf",
+  "sha256": "289e8b9394a85d51b17d6c2b090483f3cbf3bb3181646a42d6033efcffaf03f8",
+  "size": 86268,
+  "names": [
+    "Fira Sans Condensed",
+    "Fira Sans Condensed Two",
+    "Fira Sans Condensed Two Italic",
+    "FiraSansCondensed-TwoItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

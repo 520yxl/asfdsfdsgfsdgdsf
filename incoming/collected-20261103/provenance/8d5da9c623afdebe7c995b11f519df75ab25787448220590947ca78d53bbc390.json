@@ -1,0 +1,21 @@
+{
+  "font": "incoming/ZillaSlab-Light-8d5da9c623af.otf",
+  "sha256": "8d5da9c623afdebe7c995b11f519df75ab25787448220590947ca78d53bbc390",
+  "size": 109116,
+  "names": [
+    "Zilla Slab",
+    "Zilla Slab Light",
+    "ZillaSlab-Light"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/zilla-slab",
+      "license_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip",
+      "file_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3cbf579238e4eacd-LICENSE"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

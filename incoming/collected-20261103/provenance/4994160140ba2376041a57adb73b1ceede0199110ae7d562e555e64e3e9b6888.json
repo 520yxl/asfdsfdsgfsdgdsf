@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SpoqaHanSansNeo-Bold-4994160140ba.ttf",
+  "sha256": "4994160140ba2376041a57adb73b1ceede0199110ae7d562e555e64e3e9b6888",
+  "size": 499900,
+  "names": [
+    "Spoqa Han Sans Neo",
+    "Spoqa Han Sans Neo Bold",
+    "SpoqaHanSansNeo-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "spoqa/spoqa-han-sans",
+      "license_url": "https://github.com/spoqa/spoqa-han-sans/releases/download/v3.3.0/SpoqaHanSansNeo_TTF_subset.zip",
+      "file_url": "https://github.com/spoqa/spoqa-han-sans/releases/download/v3.3.0/SpoqaHanSansNeo_TTF_subset.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/279753543734e7a1-LICENSE"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

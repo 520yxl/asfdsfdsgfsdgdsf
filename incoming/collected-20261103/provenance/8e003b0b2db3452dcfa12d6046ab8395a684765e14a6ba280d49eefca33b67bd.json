@@ -1,0 +1,22 @@
+{
+  "font": "incoming/AgaveNerdFontPropo-Regular-8e003b0b2db3.ttf",
+  "sha256": "8e003b0b2db3452dcfa12d6046ab8395a684765e14a6ba280d49eefca33b67bd",
+  "size": 2734512,
+  "names": [
+    "Agave Nerd Font Propo",
+    "Agave Nerd Font Propo Regular",
+    "AgaveNFP-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "ryanoasis/nerd-fonts",
+      "license_url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.1/Agave.zip",
+      "file_url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.1/Agave.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/9814d6629c8a81da-LICENSE",
+    "incoming/collected-20261103/licenses/7d98a99b00869233-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

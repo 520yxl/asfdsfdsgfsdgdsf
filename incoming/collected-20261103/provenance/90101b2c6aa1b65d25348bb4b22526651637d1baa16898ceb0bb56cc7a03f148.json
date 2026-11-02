@@ -1,0 +1,22 @@
+{
+  "font": "incoming/ZillaSlab-SemiBoldItalic-90101b2c6aa1.otf",
+  "sha256": "90101b2c6aa1b65d25348bb4b22526651637d1baa16898ceb0bb56cc7a03f148",
+  "size": 114100,
+  "names": [
+    "Zilla Slab",
+    "Zilla Slab SemiBold",
+    "Zilla Slab SemiBold Italic",
+    "ZillaSlab-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/zilla-slab",
+      "license_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip",
+      "file_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3cbf579238e4eacd-LICENSE"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

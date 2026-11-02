@@ -1,0 +1,21 @@
+{
+  "font": "incoming/ZillaSlabHighlight-Bold-e6653c7e0299.ttf",
+  "sha256": "e6653c7e0299c1cae5e7fe21157267ade56dd301b36cda073c407299b82548f4",
+  "size": 271656,
+  "names": [
+    "Zilla Slab Highlight",
+    "Zilla Slab Highlight Bold",
+    "ZillaSlabHighlight-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/zilla-slab",
+      "license_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip",
+      "file_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3cbf579238e4eacd-LICENSE"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/ZillaSlab-MediumItalic-de6be2985329.ttf",
+  "sha256": "de6be2985329891035a3b3863a325a82a918a2018650c3b43fa5c4ae14815f58",
+  "size": 276812,
+  "names": [
+    "Zilla Slab",
+    "Zilla Slab Medium",
+    "Zilla Slab Medium Italic",
+    "ZillaSlab-MediumItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/zilla-slab",
+      "license_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip",
+      "file_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3cbf579238e4eacd-LICENSE"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

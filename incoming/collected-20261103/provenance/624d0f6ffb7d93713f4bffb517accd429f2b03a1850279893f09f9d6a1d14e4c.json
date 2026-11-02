@@ -1,0 +1,23 @@
+{
+  "font": "incoming/FiraSans-EightItalic-624d0f6ffb7d.ttf",
+  "sha256": "624d0f6ffb7d93713f4bffb517accd429f2b03a1850279893f09f9d6a1d14e4c",
+  "size": 398736,
+  "names": [
+    "Fira Sans",
+    "Fira Sans Eight",
+    "Fira Sans Eight Italic",
+    "FiraSans-EightItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

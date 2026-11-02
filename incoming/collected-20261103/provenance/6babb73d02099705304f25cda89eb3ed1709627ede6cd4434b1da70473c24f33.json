@@ -1,0 +1,23 @@
+{
+  "font": "incoming/FiraSansCondensed-HairItalic-6babb73d0209.otf",
+  "sha256": "6babb73d02099705304f25cda89eb3ed1709627ede6cd4434b1da70473c24f33",
+  "size": 88364,
+  "names": [
+    "Fira Sans Condensed",
+    "Fira Sans Condensed Hair",
+    "Fira Sans Condensed Hair Italic",
+    "FiraSansCondensed-HairItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

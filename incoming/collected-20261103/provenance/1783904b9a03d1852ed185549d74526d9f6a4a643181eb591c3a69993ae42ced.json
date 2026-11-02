@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraMono-Regular-1783904b9a03.otf",
+  "sha256": "1783904b9a03d1852ed185549d74526d9f6a4a643181eb591c3a69993ae42ced",
+  "size": 125712,
+  "names": [
+    "Fira Mono",
+    "FiraMono-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

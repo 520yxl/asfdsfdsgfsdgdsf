@@ -1,0 +1,26 @@
+{
+  "font": "incoming/MaoKenTangYuan-beta0.12-20210702-ea4e2e85cc49.ttf",
+  "sha256": "ea4e2e85cc49ed7a0ea9f2347a9c5e6e9c3ea1a1c9130280796cceb77e0dc800",
+  "size": 2881764,
+  "names": [
+    "MaoKenTan",
+    "MaoKenTang",
+    "MaoKenTangYuan (beta)",
+    "MaoKenTangYuan-beta",
+    "猫啃网糖圆",
+    "猫啃网糖圆体",
+    "猫啃网糖圆体 (测试版)",
+    "猫啃网糖圆体-测试版"
+  ],
+  "sources": [
+    {
+      "repository": "NightFurySL2001/TangYuan-font",
+      "license_url": "https://github.com/NightFurySL2001/TangYuan-font/releases/download/v0.12beta/MaoKenTangYuan-beta0.12-20210702.zip",
+      "file_url": "https://github.com/NightFurySL2001/TangYuan-font/releases/download/v0.12beta/MaoKenTangYuan-beta0.12-20210702.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/9d2362d6fc06f1e8-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

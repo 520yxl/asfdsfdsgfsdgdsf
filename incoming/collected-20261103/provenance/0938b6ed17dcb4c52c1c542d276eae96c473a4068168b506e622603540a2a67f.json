@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZillaSlabHighlight-Regular-0938b6ed17dc.otf",
+  "sha256": "0938b6ed17dcb4c52c1c542d276eae96c473a4068168b506e622603540a2a67f",
+  "size": 79228,
+  "names": [
+    "Zilla Slab Highlight",
+    "ZillaSlabHighlight-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/zilla-slab",
+      "license_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip",
+      "file_url": "https://github.com/mozilla/zilla-slab/releases/download/v1.002/Zilla-Slab-Fonts-v1.002.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3cbf579238e4eacd-LICENSE"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

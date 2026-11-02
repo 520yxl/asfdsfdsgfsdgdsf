@@ -1,0 +1,23 @@
+{
+  "font": "incoming/FiraSans-SemiBoldItalic-19e9952926ac.otf",
+  "sha256": "19e9952926acaac777b8128d66963976541a98d42cddd21f27f6c6363f0d27cd",
+  "size": 311844,
+  "names": [
+    "Fira Sans",
+    "Fira Sans SemiBold",
+    "Fira Sans SemiBold Italic",
+    "FiraSans-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

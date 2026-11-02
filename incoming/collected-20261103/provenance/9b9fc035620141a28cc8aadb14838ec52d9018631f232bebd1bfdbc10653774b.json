@@ -1,0 +1,22 @@
+{
+  "font": "incoming/FiraSans-Four-9b9fc0356201.otf",
+  "sha256": "9b9fc035620141a28cc8aadb14838ec52d9018631f232bebd1bfdbc10653774b",
+  "size": 298704,
+  "names": [
+    "Fira Sans",
+    "Fira Sans Four",
+    "FiraSans-Four"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

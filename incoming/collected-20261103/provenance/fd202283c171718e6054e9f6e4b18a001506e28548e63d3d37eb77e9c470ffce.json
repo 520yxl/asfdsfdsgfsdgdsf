@@ -1,0 +1,22 @@
+{
+  "font": "incoming/FiraSansCondensed-Eight-fd202283c171.otf",
+  "sha256": "fd202283c171718e6054e9f6e4b18a001506e28548e63d3d37eb77e9c470ffce",
+  "size": 86376,
+  "names": [
+    "Fira Sans Condensed",
+    "Fira Sans Condensed Eight",
+    "FiraSansCondensed-Eight"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
