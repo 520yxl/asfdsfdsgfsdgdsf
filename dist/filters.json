@@ -71,23 +71,23 @@
     },
     {
       "name": "其他",
-      "count": 7697
+      "count": 7649
     },
     {
       "name": "圆体",
-      "count": 31
+      "count": 51
     },
     {
       "name": "宋体",
-      "count": 462
+      "count": 471
     },
     {
       "name": "手写体",
-      "count": 20
+      "count": 30
     },
     {
       "name": "楷体",
-      "count": 117
+      "count": 122
     },
     {
       "name": "艺术体",
@@ -95,7 +95,7 @@
     },
     {
       "name": "黑体",
-      "count": 2208
+      "count": 2212
     }
   ],
   "weights": [
@@ -2335,11 +2335,6 @@
       "count": 50
     },
     {
-      "id": "o",
-      "name": "ÉÏº£ôÈ",
-      "count": 1
-    },
-    {
       "id": "octavio-pardo",
       "name": "Octavio Pardo",
       "count": 1
@@ -3222,7 +3217,7 @@
     {
       "id": "unknown",
       "name": "",
-      "count": 1272
+      "count": 1269
     },
     {
       "id": "vectro-type-foundry",
@@ -3387,7 +3382,7 @@
     {
       "id": "zcool",
       "name": "ZCOOL",
-      "count": 7
+      "count": 12
     },
     {
       "id": "zesstype",
@@ -3423,11 +3418,6 @@
       "id": "zojitype",
       "name": "Zojitype",
       "count": 5
-    },
-    {
-      "id": "zqk",
-      "name": "zqk",
-      "count": 1
     },
     {
       "id": "云峰字库",

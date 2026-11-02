@@ -2085,11 +2085,6 @@
     "count": 50
   },
   {
-    "id": "o",
-    "name": "ÉÏº£ôÈ",
-    "count": 1
-  },
-  {
     "id": "octavio-pardo",
     "name": "Octavio Pardo",
     "count": 1
@@ -2972,7 +2967,7 @@
   {
     "id": "unknown",
     "name": "",
-    "count": 1272
+    "count": 1269
   },
   {
     "id": "vectro-type-foundry",
@@ -3137,7 +3132,7 @@
   {
     "id": "zcool",
     "name": "ZCOOL",
-    "count": 7
+    "count": 12
   },
   {
     "id": "zesstype",
@@ -3173,11 +3168,6 @@
     "id": "zojitype",
     "name": "Zojitype",
     "count": 5
-  },
-  {
-    "id": "zqk",
-    "name": "zqk",
-    "count": 1
   },
   {
     "id": "云峰字库",
