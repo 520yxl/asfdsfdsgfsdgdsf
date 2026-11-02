@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothic-P-Medium-1eab40548f05.ttf",
+  "sha256": "1eab40548f05ac8333d5cc122b27102cb3ba18dc7c00b7482364d813648e460e",
+  "size": 11203124,
+  "names": [
+    "Gen Jyuu Gothic P",
+    "Gen Jyuu Gothic P Medium",
+    "GenJyuuGothic-P-Medium",
+    "源柔ゴシックP",
+    "源柔ゴシックP Medium"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

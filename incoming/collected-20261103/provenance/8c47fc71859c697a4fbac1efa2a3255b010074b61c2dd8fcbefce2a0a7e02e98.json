@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothicL-Monospace-Bold-8c47fc71859c.ttf",
+  "sha256": "8c47fc71859c697a4fbac1efa2a3255b010074b61c2dd8fcbefce2a0a7e02e98",
+  "size": 11217308,
+  "names": [
+    "Gen Jyuu Gothic L Monospace",
+    "Gen Jyuu Gothic L Monospace Bold",
+    "GenJyuuGothicL-Monospace-Bold",
+    "源柔ゴシックL等幅",
+    "源柔ゴシックL等幅 Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

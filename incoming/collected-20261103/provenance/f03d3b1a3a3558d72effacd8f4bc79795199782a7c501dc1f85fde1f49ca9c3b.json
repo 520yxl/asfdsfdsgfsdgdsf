@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothic-Monospace-Regular-f03d3b1a3a35.ttf",
+  "sha256": "f03d3b1a3a3558d72effacd8f4bc79795199782a7c501dc1f85fde1f49ca9c3b",
+  "size": 10544252,
+  "names": [
+    "Gen Jyuu Gothic Monospace",
+    "Gen Jyuu Gothic Monospace Regular",
+    "GenJyuuGothic-Monospace-Regular",
+    "源柔ゴシック等幅",
+    "源柔ゴシック等幅 Regular"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
