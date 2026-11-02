@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansThai-Demibold-b6b998a1d52f.otf",
+  "sha256": "b6b998a1d52fdd3866a6785dac4b6213d5914146bda38cf4bef27fcce2ba0bab",
+  "size": 30032,
+  "names": [
+    "MiSans Thai",
+    "MiSans Thai Demibold",
+    "MiSansThai-Demibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

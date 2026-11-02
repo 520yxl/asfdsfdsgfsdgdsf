@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MisansTC-Heavy-782ced501b2e.ttf",
+  "sha256": "782ced501b2eff957dbd6fa9cb95827b744fd1eb0186b8535e0129257c3e25d5",
+  "size": 3951888,
+  "names": [
+    "MiSans TC",
+    "MiSans TC Heavy",
+    "MiSansTC-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

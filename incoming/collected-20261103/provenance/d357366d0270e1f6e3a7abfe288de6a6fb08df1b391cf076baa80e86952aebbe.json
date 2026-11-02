@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansThai-ExtraLight-d357366d0270.otf",
+  "sha256": "d357366d0270e1f6e3a7abfe288de6a6fb08df1b391cf076baa80e86952aebbe",
+  "size": 29372,
+  "names": [
+    "MiSans Thai",
+    "MiSans Thai ExtraLight",
+    "MiSansThai-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

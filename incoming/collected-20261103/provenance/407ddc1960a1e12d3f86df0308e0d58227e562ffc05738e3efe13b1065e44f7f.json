@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansThai-Medium-407ddc1960a1.ttf",
+  "sha256": "407ddc1960a1e12d3f86df0308e0d58227e562ffc05738e3efe13b1065e44f7f",
+  "size": 45260,
+  "names": [
+    "MiSans Thai",
+    "MiSans Thai Medium",
+    "MiSansThai-Medium"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

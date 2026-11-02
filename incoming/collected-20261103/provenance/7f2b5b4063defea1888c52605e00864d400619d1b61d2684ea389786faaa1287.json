@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansTibetan-ExtraLight-7f2b5b4063de.otf",
+  "sha256": "7f2b5b4063defea1888c52605e00864d400619d1b61d2684ea389786faaa1287",
+  "size": 567944,
+  "names": [
+    "MiSans Tibetan",
+    "MiSans Tibetan ExtraLight",
+    "MiSansTibetan-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

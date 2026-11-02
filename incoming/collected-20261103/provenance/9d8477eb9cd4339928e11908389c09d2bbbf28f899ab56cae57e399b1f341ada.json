@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansThai-Semibold-9d8477eb9cd4.ttf",
+  "sha256": "9d8477eb9cd4339928e11908389c09d2bbbf28f899ab56cae57e399b1f341ada",
+  "size": 46108,
+  "names": [
+    "MiSans Thai",
+    "MiSans Thai Semibold",
+    "MiSansThai-Semibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

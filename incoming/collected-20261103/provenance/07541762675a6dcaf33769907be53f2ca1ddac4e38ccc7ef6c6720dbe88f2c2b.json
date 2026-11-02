@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansTibetan-Bold-07541762675a.otf",
+  "sha256": "07541762675a6dcaf33769907be53f2ca1ddac4e38ccc7ef6c6720dbe88f2c2b",
+  "size": 561280,
+  "names": [
+    "MiSans Tibetan",
+    "MiSans Tibetan Bold",
+    "MiSansTibetan-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

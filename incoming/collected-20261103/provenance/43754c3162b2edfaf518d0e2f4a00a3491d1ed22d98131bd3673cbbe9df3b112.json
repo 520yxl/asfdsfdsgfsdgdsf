@@ -1,0 +1,19 @@
+{
+  "font": "incoming/unifont_csur-18.0.01-43754c3162b2.otf",
+  "sha256": "43754c3162b2edfaf518d0e2f4a00a3491d1ed22d98131bd3673cbbe9df3b112",
+  "size": 678624,
+  "names": [
+    "Unifont CSUR",
+    "UnifontCSUR"
+  ],
+  "sources": [
+    {
+      "page_url": "http://unifoundry.com/unifont/index.html"
+    },
+    {
+      "page_url": "https://unifoundry.com/unifont/index.html"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

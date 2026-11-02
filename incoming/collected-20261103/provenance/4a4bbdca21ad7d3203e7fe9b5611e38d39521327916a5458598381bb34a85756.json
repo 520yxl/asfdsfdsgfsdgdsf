@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MisansTC-Demibold-4a4bbdca21ad.otf",
+  "sha256": "4a4bbdca21ad7d3203e7fe9b5611e38d39521327916a5458598381bb34a85756",
+  "size": 3213928,
+  "names": [
+    "MiSans TC",
+    "MiSans TC Demibold",
+    "MiSansTC-Demibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansTibetanVF-e7616c1b76b9.ttf",
+  "sha256": "e7616c1b76b98affda2be5d79e10ca6ce9d4278ab414beca5b8b258672369888",
+  "size": 1317876,
+  "names": [
+    "MiSans MiSans Tibetan VF",
+    "MiSans Tibetan VF",
+    "MiSansTibetanVF"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,18 @@
+{
+  "font": "incoming/unifont-18.0.01-88d0a14d4aa9.otf",
+  "sha256": "88d0a14d4aa9a96419720b39ba5da921a59560d76d4ec7d523acc06ed85cd3c2",
+  "size": 5320148,
+  "names": [
+    "Unifont"
+  ],
+  "sources": [
+    {
+      "page_url": "http://unifoundry.com/unifont/index.html"
+    },
+    {
+      "page_url": "https://unifoundry.com/unifont/index.html"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

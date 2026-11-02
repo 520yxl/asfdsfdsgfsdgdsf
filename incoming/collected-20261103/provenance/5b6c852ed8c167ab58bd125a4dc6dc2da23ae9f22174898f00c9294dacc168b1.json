@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansTibetan-Heavy-5b6c852ed8c1.otf",
+  "sha256": "5b6c852ed8c167ab58bd125a4dc6dc2da23ae9f22174898f00c9294dacc168b1",
+  "size": 560140,
+  "names": [
+    "MiSans Tibetan",
+    "MiSans Tibetan Heavy",
+    "MiSansTibetan-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

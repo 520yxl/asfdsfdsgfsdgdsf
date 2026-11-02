@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MisansTC-ExtraLight-cf67062cef2a.ttf",
+  "sha256": "cf67062cef2a50f040a3b2ab9c747f827267bd03b617cb50c9584b09f2e98c69",
+  "size": 4089452,
+  "names": [
+    "MiSans TC",
+    "MiSans TC ExtraLight",
+    "MiSansTC-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

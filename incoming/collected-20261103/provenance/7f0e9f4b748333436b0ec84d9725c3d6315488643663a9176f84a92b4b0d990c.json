@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MisansTC-Medium-7f0e9f4b7483.otf",
+  "sha256": "7f0e9f4b748333436b0ec84d9725c3d6315488643663a9176f84a92b4b0d990c",
+  "size": 3224016,
+  "names": [
+    "MiSans TC",
+    "MiSans TC Medium",
+    "MiSansTC-Medium"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansThai-Normal-aa3ba362462b.otf",
+  "sha256": "aa3ba362462bc5b694261177cd14e155c0aa769cf6b7e8fe9b48080ffc2979a5",
+  "size": 29536,
+  "names": [
+    "MiSans Thai",
+    "MiSans Thai Normal",
+    "MiSansThai-Normal"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

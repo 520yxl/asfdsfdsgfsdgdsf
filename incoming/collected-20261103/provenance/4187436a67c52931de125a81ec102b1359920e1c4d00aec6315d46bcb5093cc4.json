@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansTibetan-Semibold-4187436a67c5.ttf",
+  "sha256": "4187436a67c52931de125a81ec102b1359920e1c4d00aec6315d46bcb5093cc4",
+  "size": 472388,
+  "names": [
+    "MiSans Tibetan",
+    "MiSans Tibetan Semibold",
+    "MiSansTibetan-Semibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

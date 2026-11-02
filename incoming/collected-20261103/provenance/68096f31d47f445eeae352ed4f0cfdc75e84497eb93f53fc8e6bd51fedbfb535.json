@@ -1,0 +1,16 @@
+{
+  "font": "incoming/MisansTC-Regular-68096f31d47f.otf",
+  "sha256": "68096f31d47f445eeae352ed4f0cfdc75e84497eb93f53fc8e6bd51fedbfb535",
+  "size": 3231004,
+  "names": [
+    "MiSans TC",
+    "MiSansTC"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

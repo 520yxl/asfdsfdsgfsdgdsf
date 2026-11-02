@@ -1,0 +1,18 @@
+{
+  "font": "incoming/unifont_jp-18.0.01-b411e78488d8.otf",
+  "sha256": "b411e78488d861f6b41fba514381123abb01ba7adeac8d0df8801a61891a14d3",
+  "size": 5250304,
+  "names": [
+    "Unifont-JP"
+  ],
+  "sources": [
+    {
+      "page_url": "http://unifoundry.com/unifont/index.html"
+    },
+    {
+      "page_url": "https://unifoundry.com/unifont/index.html"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

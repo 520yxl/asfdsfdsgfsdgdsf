@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansThai-Bold-73dfe07c8fef.ttf",
+  "sha256": "73dfe07c8fef4456e9b05433c1d85a3115ea8e44927f69aa5314f00a2acc12d1",
+  "size": 46076,
+  "names": [
+    "MiSans Thai",
+    "MiSans Thai Bold",
+    "MiSansThai-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

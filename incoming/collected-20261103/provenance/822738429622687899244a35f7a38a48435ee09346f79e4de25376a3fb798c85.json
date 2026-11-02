@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MisansTC-Bold-822738429622.ttf",
+  "sha256": "822738429622687899244a35f7a38a48435ee09346f79e4de25376a3fb798c85",
+  "size": 3962868,
+  "names": [
+    "MiSans TC",
+    "MiSans TC Bold",
+    "MiSansTC-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

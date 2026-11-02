@@ -1,0 +1,16 @@
+{
+  "font": "incoming/MiSansThaiVF-45583126c50e.ttf",
+  "sha256": "45583126c50e745ddc27d0001cfa47f504803b75f72d57b694876fc7803af865",
+  "size": 55192,
+  "names": [
+    "MiSans Thai VF",
+    "MiSansThaiVF"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

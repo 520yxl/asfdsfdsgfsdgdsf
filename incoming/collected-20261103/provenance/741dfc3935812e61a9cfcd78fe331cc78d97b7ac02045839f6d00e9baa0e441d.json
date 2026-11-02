@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansThai-Heavy-741dfc393581.otf",
+  "sha256": "741dfc3935812e61a9cfcd78fe331cc78d97b7ac02045839f6d00e9baa0e441d",
+  "size": 30420,
+  "names": [
+    "MiSans Thai",
+    "MiSans Thai Heavy",
+    "MiSansThai-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

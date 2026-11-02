@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansThai-Thin-73855ceff82a.ttf",
+  "sha256": "73855ceff82a1d5fc932b0420aa4b0b89f3847efdc03d6a001f71b4c7cfd1e34",
+  "size": 43756,
+  "names": [
+    "MiSans Thai",
+    "MiSans Thai Thin",
+    "MiSansThai-Thin"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
