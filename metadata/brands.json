@@ -75,6 +75,15 @@
         "GenKi Gothic"
       ],
       "name_zh": "源泉"
+    },
+    {
+      "id": "zcool",
+      "name": "站酷",
+      "name_zh": "站酷",
+      "keywords": [
+        "站酷",
+        "ZCOOL"
+      ]
     }
   ]
 }
