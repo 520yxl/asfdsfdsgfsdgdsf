@@ -1,0 +1,29 @@
+[
+  {
+    "source_relative_path": "全量收集/官网补充/nmtype.com-8cdc7397/字体及许可/Movement/Movement_licence.pdf",
+    "repository_path": "incoming/collected-20261103/licenses/04f3211823171ac7-Movement_licence.pdf",
+    "font_sha256": [
+      "e00820800e830ee4548bbf7295983937a5abecc9157880ba119e35bb92d9966d",
+      "616ae35a26a202ad2f4f8c52aad56ee3cdb531ac58f46c5b109449ca1f3aab8d",
+      "726e9a003baef0dfc84a4455001e4d9342519caa4f8187060f817efa47efb108",
+      "ac5125220a1e9625a4ed6dce1cb5088d3991280306a1745588d64683264a1c5a",
+      "f426a7c4eae6980521b44bdd5b18dc74d140337bcd69b62bd679df2d90d11d66"
+    ]
+  },
+  {
+    "source_relative_path": "全量收集/官网补充/fonts.cafe24.com-0f7c01e4/字体及许可/Cafe24DongdongLight_v3.0/Cafe24DongdongLight_v3.0/License-Dongdong Light.pdf",
+    "repository_path": "incoming/collected-20261103/licenses/1bd7c2a8e658543b-License-Dongdong_Light.pdf",
+    "font_sha256": [
+      "e60b260daf0e4915b67db51cf1eac66c850dc8756ed46cd6961a90df6a05a064",
+      "542e5298893e7b043047c208953e1f908bba99c05e444f572022717e2e6c5bbb"
+    ]
+  },
+  {
+    "source_relative_path": "全量收集/官网补充/fonts.cafe24.com-0f7c01e4/字体及许可/Cafe24Danjunghae-v2.0/Cafe24Danjunghae-v2.0/License-Danjunghae.pdf",
+    "repository_path": "incoming/collected-20261103/licenses/c4822e4af38f1fc7-License-Danjunghae.pdf",
+    "font_sha256": [
+      "ac0b718e6cb5c9da4020b0d8235bfa25b4787ef56c4c1dad26c1e2fc5e1dc646",
+      "9ae10a66b2ef8633319a984b926aa46faa9e5edf04eb2a20026c15cd4ad7e550"
+    ]
+  }
+]
