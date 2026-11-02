@@ -1,0 +1,21 @@
+{
+  "font": "incoming/WorkSans-ExtraLight-37c80300298b.ttf",
+  "sha256": "37c80300298bd266dccc87a397947c4409f46c3b1ce39dbc70ca0211b38a468e",
+  "size": 188588,
+  "names": [
+    "Work Sans",
+    "Work Sans ExtraLight",
+    "WorkSans-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Work+Sans",
+      "file_url": "https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXNigDp6_cOyA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cbf7d16d28e8ebd6-OFL.txt",
+    "incoming/collected-20261103/licenses/a19390b142d8cf0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

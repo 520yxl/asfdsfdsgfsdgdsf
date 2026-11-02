@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceSerif4_48pt-ExtraLightItalic-1229138d402f.ttf",
+  "sha256": "1229138d402f0d87a1da433c2f580ac5a528a2d6ea09cec7cf62dbc819a25817",
+  "size": 208016,
+  "names": [
+    "Source Serif 4 48pt",
+    "Source Serif 4 48pt ExtraLight",
+    "Source Serif 4 48pt ExtraLight Italic",
+    "SourceSerif448pt-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Serif+4",
+      "file_url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_0SGD2QYxoUKIkn98pxl9dC84DrjXEXw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt",
+    "incoming/collected-20261103/licenses/2b33c2176d89e6b0-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

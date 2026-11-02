@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZillaSlab-Italic-7ecb7db334f0.ttf",
+  "sha256": "7ecb7db334f0576012dcdbfaf9238514887b39f49160229490a0dfdc8a03a315",
+  "size": 252876,
+  "names": [
+    "Zilla Slab",
+    "Zilla Slab Italic",
+    "ZillaSlab-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zilla+Slab",
+      "file_url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa4ZfeM_74wlPZtksIFaj86-F6NVlFqdA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d6112c720a1b138f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/WorkSans-Regular-e67985a843df.ttf",
+  "sha256": "e67985a843df0d3cdee51a3d0f329eb1774a344ad9ff0c9ab923751f1577e2a4",
+  "size": 188916,
+  "names": [
+    "Work Sans",
+    "Work Sans Regular",
+    "WorkSans-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Work+Sans",
+      "file_url": "https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNigDp6_cOyA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cbf7d16d28e8ebd6-OFL.txt",
+    "incoming/collected-20261103/licenses/a19390b142d8cf0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

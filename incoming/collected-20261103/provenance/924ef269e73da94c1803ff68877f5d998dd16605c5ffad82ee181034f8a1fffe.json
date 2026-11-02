@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Tinos-Regular-924ef269e73d.ttf",
+  "sha256": "924ef269e73da94c1803ff68877f5d998dd16605c5ffad82ee181034f8a1fffe",
+  "size": 508752,
+  "names": [
+    "Tinos",
+    "Tinos Regular",
+    "Tinos-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Tinos",
+      "file_url": "https://fonts.gstatic.com/s/tinos/v26/buE4poGnedXvwgX8dGVh8TI-.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

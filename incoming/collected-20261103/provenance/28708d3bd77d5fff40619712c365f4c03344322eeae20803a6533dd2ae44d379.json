@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Urbanist-SemiBold-28708d3bd77d.ttf",
+  "sha256": "28708d3bd77d5fff40619712c365f4c03344322eeae20803a6533dd2ae44d379",
+  "size": 42736,
+  "names": [
+    "Urbanist",
+    "Urbanist SemiBold",
+    "Urbanist-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Urbanist",
+      "file_url": "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFpOrS8SlKw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/44acfbad5b523afe-OFL.txt",
+    "incoming/collected-20261103/licenses/ed41361b34900146-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

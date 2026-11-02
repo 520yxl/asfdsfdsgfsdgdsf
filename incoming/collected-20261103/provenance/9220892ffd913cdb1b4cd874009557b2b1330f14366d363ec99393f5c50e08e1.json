@@ -1,0 +1,21 @@
+{
+  "font": "incoming/WorkSans-SemiBold-9220892ffd91.ttf",
+  "sha256": "9220892ffd913cdb1b4cd874009557b2b1330f14366d363ec99393f5c50e08e1",
+  "size": 191016,
+  "names": [
+    "Work Sans",
+    "Work Sans SemiBold",
+    "WorkSans-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Work+Sans",
+      "file_url": "https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQNigDp6_cOyA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cbf7d16d28e8ebd6-OFL.txt",
+    "incoming/collected-20261103/licenses/a19390b142d8cf0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

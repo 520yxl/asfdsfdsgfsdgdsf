@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZillaSlab-SemiBold-72fda394fe16.ttf",
+  "sha256": "72fda394fe1655eb4ee1ce1cc13b92a76ab6d9c53dda3ff106314f46cf3a6399",
+  "size": 245152,
+  "names": [
+    "Zilla Slab",
+    "Zilla Slab SemiBold",
+    "ZillaSlab-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zilla+Slab",
+      "file_url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYuUe2HSjWlhzbaw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d6112c720a1b138f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

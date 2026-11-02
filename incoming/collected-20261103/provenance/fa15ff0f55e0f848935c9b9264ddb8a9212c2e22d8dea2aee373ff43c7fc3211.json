@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZenMaruGothic-Medium-fa15ff0f55e0.ttf",
+  "sha256": "fa15ff0f55e0f848935c9b9264ddb8a9212c2e22d8dea2aee373ff43c7fc3211",
+  "size": 3810920,
+  "names": [
+    "Zen Maru Gothic",
+    "Zen Maru Gothic Medium",
+    "ZenMaruGothic-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zen+Maru+Gothic",
+      "file_url": "https://fonts.gstatic.com/s/zenmarugothic/v20/o-0XIpIxzW5b-RxT-6A8jWAtCp-cGWtCPJqa_ajlvw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/833c5b0666532b29-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

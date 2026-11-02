@@ -1,0 +1,20 @@
+{
+  "font": "incoming/YujiSyuku-Regular-881a876b179f.ttf",
+  "sha256": "881a876b179ff4930a08fbba624a8cd04ddf4a4ef5dfa679deca36033a0f1ad3",
+  "size": 8376120,
+  "names": [
+    "Yuji Syuku",
+    "Yuji Syuku Regular",
+    "YujiSyuku-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Yuji+Syuku",
+      "file_url": "https://fonts.gstatic.com/s/yujisyuku/v9/BngNUXdTV3vO6Lw5ApOPqPfgwqiA-Rk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d0b9797821b527bc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceSans3-MediumItalic-076a41a5bd08.ttf",
+  "sha256": "076a41a5bd08f5dce65b47028c8fdd13662f8a656931c1e35e8e2f0e7dfdfc3f",
+  "size": 236988,
+  "names": [
+    "Source Sans 3",
+    "Source Sans 3 Medium",
+    "Source Sans 3 Medium Italic",
+    "SourceSans3-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Sans+3",
+      "file_url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqItO9C4Ym4fB3Ts.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/afa580dd7080cacd-OFL.txt",
+    "incoming/collected-20261103/licenses/e896deaf0077885f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

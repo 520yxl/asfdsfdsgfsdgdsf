@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceSerif4_48pt-BlackItalic-7cc946648da7.ttf",
+  "sha256": "7cc946648da73068291a3c3a427902504d0d1d9615619f69b23f3173be703e50",
+  "size": 208016,
+  "names": [
+    "Source Serif 4 48pt",
+    "Source Serif 4 48pt Black",
+    "Source Serif 4 48pt Black Italic",
+    "SourceSerif448pt-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Serif+4",
+      "file_url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_0SGD2QYxoUKIkn98p71hdC84DrjXEXw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt",
+    "incoming/collected-20261103/licenses/2b33c2176d89e6b0-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/VictorMono-SemiBoldItalic-ddbca192ce06.ttf",
+  "sha256": "ddbca192ce06f58a0c26a219750b1c3dd1415887284f2c9e3e3486b589ea0c67",
+  "size": 165300,
+  "names": [
+    "Victor Mono",
+    "Victor Mono SemiBold",
+    "Victor Mono SemiBold Italic",
+    "VictorMono-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Victor+Mono",
+      "file_url": "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaKdUMtba8p.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7016294faa9db82c-OFL.txt",
+    "incoming/collected-20261103/licenses/3dfc27f0a266f353-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

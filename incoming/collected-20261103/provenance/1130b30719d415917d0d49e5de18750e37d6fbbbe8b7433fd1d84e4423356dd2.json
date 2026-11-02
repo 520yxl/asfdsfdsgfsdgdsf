@@ -1,0 +1,18 @@
+{
+  "font": "incoming/UbuntuMono-Bold-1130b30719d4.ttf",
+  "sha256": "1130b30719d415917d0d49e5de18750e37d6fbbbe8b7433fd1d84e4423356dd2",
+  "size": 174860,
+  "names": [
+    "Ubuntu Mono",
+    "Ubuntu Mono Bold",
+    "UbuntuMono-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Ubuntu+Mono",
+      "file_url": "https://fonts.gstatic.com/s/ubuntumono/v19/KFO-CneDtsqEr0keqCMhbC-BL-Hyv4xGemO1.ttf"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

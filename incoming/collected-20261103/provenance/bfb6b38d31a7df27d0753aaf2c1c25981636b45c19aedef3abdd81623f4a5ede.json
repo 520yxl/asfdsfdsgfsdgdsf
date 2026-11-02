@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Urbanist-ExtraBoldItalic-bfb6b38d31a7.ttf",
+  "sha256": "bfb6b38d31a7df27d0753aaf2c1c25981636b45c19aedef3abdd81623f4a5ede",
+  "size": 44204,
+  "names": [
+    "Urbanist",
+    "Urbanist ExtraBold",
+    "Urbanist ExtraBold Italic",
+    "Urbanist-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Urbanist",
+      "file_url": "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113UpmvacG1K4S1.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/44acfbad5b523afe-OFL.txt",
+    "incoming/collected-20261103/licenses/ed41361b34900146-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

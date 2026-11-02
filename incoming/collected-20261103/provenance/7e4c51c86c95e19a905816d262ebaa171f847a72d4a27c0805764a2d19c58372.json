@@ -1,0 +1,20 @@
+{
+  "font": "incoming/YujiMai-Regular-7e4c51c86c95.ttf",
+  "sha256": "7e4c51c86c95e19a905816d262ebaa171f847a72d4a27c0805764a2d19c58372",
+  "size": 8438824,
+  "names": [
+    "Yuji Mai",
+    "Yuji Mai Regular",
+    "YujiMai-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Yuji+Mai",
+      "file_url": "https://fonts.gstatic.com/s/yujimai/v9/ZgNQjPxdJ7DEHrS0gC38hmHmNpCO.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d0b9797821b527bc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

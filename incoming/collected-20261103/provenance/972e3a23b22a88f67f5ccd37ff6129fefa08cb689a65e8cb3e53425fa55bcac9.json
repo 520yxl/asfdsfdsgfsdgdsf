@@ -1,0 +1,20 @@
+{
+  "font": "incoming/YuseiMagic-Regular-972e3a23b22a.ttf",
+  "sha256": "972e3a23b22a88f67f5ccd37ff6129fefa08cb689a65e8cb3e53425fa55bcac9",
+  "size": 3134812,
+  "names": [
+    "Yusei Magic",
+    "Yusei Magic Regular",
+    "YuseiMagic-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Yusei+Magic",
+      "file_url": "https://fonts.gstatic.com/s/yuseimagic/v17/yYLt0hbAyuCmoo5wlhPkpjHR-tdfcIT_.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4d5a0752439c366b-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

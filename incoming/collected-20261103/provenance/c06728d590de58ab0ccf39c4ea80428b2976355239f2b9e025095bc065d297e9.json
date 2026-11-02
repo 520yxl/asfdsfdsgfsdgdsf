@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Urbanist-Bold-c06728d590de.ttf",
+  "sha256": "c06728d590de58ab0ccf39c4ea80428b2976355239f2b9e025095bc065d297e9",
+  "size": 42632,
+  "names": [
+    "Urbanist",
+    "Urbanist Bold",
+    "Urbanist-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Urbanist",
+      "file_url": "https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFpOrS8SlKw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/44acfbad5b523afe-OFL.txt",
+    "incoming/collected-20261103/licenses/ed41361b34900146-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

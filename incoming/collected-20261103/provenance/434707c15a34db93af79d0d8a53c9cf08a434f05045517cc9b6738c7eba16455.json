@@ -1,0 +1,21 @@
+{
+  "font": "incoming/VictorMono-Regular-434707c15a34.ttf",
+  "sha256": "434707c15a34db93af79d0d8a53c9cf08a434f05045517cc9b6738c7eba16455",
+  "size": 135236,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Regular",
+    "VictorMono-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Victor+Mono",
+      "file_url": "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NhNyOV0Y9bQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7016294faa9db82c-OFL.txt",
+    "incoming/collected-20261103/licenses/3dfc27f0a266f353-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

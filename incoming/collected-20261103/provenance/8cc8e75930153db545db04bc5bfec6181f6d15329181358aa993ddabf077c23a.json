@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceCodePro-Medium-8cc8e7593015.ttf",
+  "sha256": "8cc8e75930153db545db04bc5bfec6181f6d15329181358aa993ddabf077c23a",
+  "size": 133384,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Medium",
+    "SourceCodePro-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Code+Pro",
+      "file_url": "https://fonts.gstatic.com/s/sourcecodepro/v32/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DP6QhM5hTXUcdJg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0528f6ec47d96cb1-OFL.txt",
+    "incoming/collected-20261103/licenses/8c9536f382f75eac-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

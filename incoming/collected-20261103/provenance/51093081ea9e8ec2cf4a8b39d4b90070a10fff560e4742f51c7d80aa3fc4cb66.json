@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceCodePro-Black-51093081ea9e.ttf",
+  "sha256": "51093081ea9e8ec2cf4a8b39d4b90070a10fff560e4742f51c7d80aa3fc4cb66",
+  "size": 132952,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Black",
+    "SourceCodePro-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Code+Pro",
+      "file_url": "https://fonts.gstatic.com/s/sourcecodepro/v32/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DGWXhM5hTXUcdJg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0528f6ec47d96cb1-OFL.txt",
+    "incoming/collected-20261103/licenses/8c9536f382f75eac-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

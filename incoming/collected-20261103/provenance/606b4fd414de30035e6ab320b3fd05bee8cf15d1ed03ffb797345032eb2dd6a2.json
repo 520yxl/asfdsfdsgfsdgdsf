@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SplineSans-Bold-606b4fd414de.ttf",
+  "sha256": "606b4fd414de30035e6ab320b3fd05bee8cf15d1ed03ffb797345032eb2dd6a2",
+  "size": 55728,
+  "names": [
+    "Spline Sans",
+    "Spline Sans Bold",
+    "SplineSans-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Spline+Sans",
+      "file_url": "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YEtvlUfE2kw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/496fb7051c58016f-OFL.txt",
+    "incoming/collected-20261103/licenses/470ecb13bad5d19c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

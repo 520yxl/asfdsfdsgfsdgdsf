@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceSerif4-MediumItalic-be9efb7f9de1.ttf",
+  "sha256": "be9efb7f9de14ff305082f64ffe108c5e42c9ec5e2ddc67e6424419647db7b8a",
+  "size": 208360,
+  "names": [
+    "Source Serif 4",
+    "Source Serif 4 Medium",
+    "Source Serif 4 Medium Italic",
+    "SourceSerif4-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Serif+4",
+      "file_url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pdF9dC84DrjXEXw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt",
+    "incoming/collected-20261103/licenses/2b33c2176d89e6b0-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

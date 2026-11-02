@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceSerif4_18pt-Italic-ac9be74ed9af.ttf",
+  "sha256": "ac9be74ed9af1132e619d23a6d5cdd1f963673a66379927f4938b4cda06a603d",
+  "size": 208200,
+  "names": [
+    "Source Serif 4 18pt",
+    "Source Serif 4 18pt Italic",
+    "SourceSerif418pt-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Serif+4",
+      "file_url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb8kS2D2QYxoUKIkn98pRl9dC84DrjXEXw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt",
+    "incoming/collected-20261103/licenses/2b33c2176d89e6b0-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

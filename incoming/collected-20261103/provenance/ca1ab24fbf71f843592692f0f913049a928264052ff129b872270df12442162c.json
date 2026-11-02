@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZenKakuGothicAntique-Bold-ca1ab24fbf71.ttf",
+  "sha256": "ca1ab24fbf71f843592692f0f913049a928264052ff129b872270df12442162c",
+  "size": 2324452,
+  "names": [
+    "Zen Kaku Gothic Antique",
+    "Zen Kaku Gothic Antique Bold",
+    "ZenKakuGothicAntique-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zen+Kaku+Gothic+Antique",
+      "file_url": "https://fonts.gstatic.com/s/zenkakugothicantique/v19/6qLVKYkHvh-nlUpKPAdoVFBtfxDzIn1eCzpB22cc8jarWJtyZyGU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f49ba28f2d07c926-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

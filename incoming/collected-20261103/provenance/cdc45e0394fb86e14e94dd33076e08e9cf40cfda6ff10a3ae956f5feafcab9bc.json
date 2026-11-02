@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceCodePro-LightItalic-cdc45e0394fb.ttf",
+  "sha256": "cdc45e0394fb86e14e94dd33076e08e9cf40cfda6ff10a3ae956f5feafcab9bc",
+  "size": 112160,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Light",
+    "Source Code Pro Light Italic",
+    "SourceCodePro-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Code+Pro",
+      "file_url": "https://fonts.gstatic.com/s/sourcecodepro/v32/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTMo1rSVcZZJiGpw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0528f6ec47d96cb1-OFL.txt",
+    "incoming/collected-20261103/licenses/8c9536f382f75eac-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

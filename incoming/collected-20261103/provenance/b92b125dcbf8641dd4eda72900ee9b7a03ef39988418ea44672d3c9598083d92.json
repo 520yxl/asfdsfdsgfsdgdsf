@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZCOOLQingKeHuangYou-Regular-b92b125dcbf8.ttf",
+  "sha256": "b92b125dcbf8641dd4eda72900ee9b7a03ef39988418ea44672d3c9598083d92",
+  "size": 8312296,
+  "names": [
+    "ZCOOL QingKe HuangYou",
+    "ZCOOL QingKe HuangYou Regular",
+    "ZCOOLQingKeHuangYou-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=ZCOOL+QingKe+HuangYou",
+      "file_url": "https://fonts.gstatic.com/s/zcoolqingkehuangyou/v16/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mRIi_28c8bHWA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/be2b399ff034143c-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

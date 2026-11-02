@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Sunflower-Medium-16543c176e88.ttf",
+  "sha256": "16543c176e88aa746aaadd04b5a030232e2a6a505ab4bc409d382d2b36babc8a",
+  "size": 765812,
+  "names": [
+    "Sunflower",
+    "Sunflower Medium",
+    "Sunflower-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Sunflower",
+      "file_url": "https://fonts.gstatic.com/s/sunflower/v19/RWmPoKeF8fUjqIj7Vc-0sMbiqYsGBGBzCw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/54a275e1cd99250d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

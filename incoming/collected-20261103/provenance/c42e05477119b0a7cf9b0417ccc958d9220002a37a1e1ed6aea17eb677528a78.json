@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Urbanist-ThinItalic-c42e05477119.ttf",
+  "sha256": "c42e05477119b0a7cf9b0417ccc958d9220002a37a1e1ed6aea17eb677528a78",
+  "size": 43864,
+  "names": [
+    "Urbanist",
+    "Urbanist Thin",
+    "Urbanist Thin Italic",
+    "Urbanist-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Urbanist",
+      "file_url": "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VJmvacG1K4S1.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/44acfbad5b523afe-OFL.txt",
+    "incoming/collected-20261103/licenses/ed41361b34900146-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

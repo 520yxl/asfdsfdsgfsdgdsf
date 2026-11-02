@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZenMaruGothic-Black-80e8bf5787a5.ttf",
+  "sha256": "80e8bf5787a5b66bd3cef2f54d1d1f00033c2560fab4a55749709bc4709eb573",
+  "size": 3710260,
+  "names": [
+    "Zen Maru Gothic",
+    "Zen Maru Gothic Black",
+    "ZenMaruGothic-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zen+Maru+Gothic",
+      "file_url": "https://fonts.gstatic.com/s/zenmarugothic/v20/o-0XIpIxzW5b-RxT-6A8jWAtCp-caW9CPJqa_ajlvw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/833c5b0666532b29-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZCOOLKuaiLe-Regular-bc218a547914.ttf",
+  "sha256": "bc218a547914684c036e0e141bdc60fd94e5fbe22eb84e1f4d1859875fc2415b",
+  "size": 1514968,
+  "names": [
+    "ZCOOL KuaiLe",
+    "ZCOOL KuaiLe Regular",
+    "ZCOOLKuaiLe-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=ZCOOL+KuaiLe",
+      "file_url": "https://fonts.gstatic.com/s/zcoolkuaile/v22/tssqApdaRQokwFjFJjvM6h2WpozzoXhC2g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c00f2f87534f0cca-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

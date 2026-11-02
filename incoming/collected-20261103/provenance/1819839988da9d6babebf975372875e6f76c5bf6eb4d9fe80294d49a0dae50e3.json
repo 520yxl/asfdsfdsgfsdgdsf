@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZenKakuGothicNew-Light-1819839988da.ttf",
+  "sha256": "1819839988da9d6babebf975372875e6f76c5bf6eb4d9fe80294d49a0dae50e3",
+  "size": 2180948,
+  "names": [
+    "Zen Kaku Gothic New",
+    "Zen Kaku Gothic New Light",
+    "ZenKakuGothicNew-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zen+Kaku+Gothic+New",
+      "file_url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqpdKaWTSTGlMyd8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f49ba28f2d07c926-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceSans3-ExtraLight-97a17543514b.ttf",
+  "sha256": "97a17543514bbc5a6971b214f5b6461889e8dfd9007165092e1396e2de88b531",
+  "size": 375236,
+  "names": [
+    "Source Sans 3",
+    "Source Sans 3 ExtraLight",
+    "SourceSans3-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Sans+3",
+      "file_url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw461EN_io6npfB.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/afa580dd7080cacd-OFL.txt",
+    "incoming/collected-20261103/licenses/e896deaf0077885f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

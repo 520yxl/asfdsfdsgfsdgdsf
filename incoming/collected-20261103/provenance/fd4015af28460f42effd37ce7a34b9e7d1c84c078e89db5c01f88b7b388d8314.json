@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SchibstedGrotesk-Bold-fd4015af2846.ttf",
+  "sha256": "fd4015af28460f42effd37ce7a34b9e7d1c84c078e89db5c01f88b7b388d8314",
+  "size": 101156,
+  "names": [
+    "Schibsted Grotesk",
+    "Schibsted Grotesk Bold",
+    "SchibstedGrotesk-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Schibsted+Grotesk",
+      "file_url": "https://fonts.gstatic.com/s/schibstedgrotesk/v7/JqzK5SSPQuCQF3t8uOwiUL-taUTtarVKQ9vZ6pJJWlMNxcYAT8JuXFGVOQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a41d9286d201c7f8-OFL.txt",
+    "incoming/collected-20261103/licenses/4db33d1ca859d156-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

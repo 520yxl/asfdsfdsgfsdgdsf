@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceCodePro-MediumItalic-c3512013974a.ttf",
+  "sha256": "c3512013974a2ab4b2f7e387df387124dfc527261f725462486346afabd3d6b4",
+  "size": 111920,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Medium",
+    "Source Code Pro Medium Italic",
+    "SourceCodePro-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Code+Pro",
+      "file_url": "https://fonts.gstatic.com/s/sourcecodepro/v32/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTXo1rSVcZZJiGpw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0528f6ec47d96cb1-OFL.txt",
+    "incoming/collected-20261103/licenses/8c9536f382f75eac-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Vollkorn-VariableFont_wght-f708968b4d10.ttf",
+  "sha256": "f708968b4d10158415512d669c9276a412cfff86eecd578baa0f192bddc0ac43",
+  "size": 558812,
+  "names": [
+    "Vollkorn",
+    "Vollkorn Regular",
+    "Vollkorn-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Vollkorn",
+      "file_url": "https://fonts.gstatic.com/s/vollkorn/v30/0yb9GDoxxrvAnPhYGykuYkw2rQg1.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6e8a067ac899decf-OFL.txt",
+    "incoming/collected-20261103/licenses/271602b008ae475d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

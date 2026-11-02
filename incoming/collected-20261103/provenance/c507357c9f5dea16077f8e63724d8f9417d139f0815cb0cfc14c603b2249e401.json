@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceSerif4-Light-c507357c9f5d.ttf",
+  "sha256": "c507357c9f5dea16077f8e63724d8f9417d139f0815cb0cfc14c603b2249e401",
+  "size": 329884,
+  "names": [
+    "Source Serif 4",
+    "Source Serif 4 Light",
+    "SourceSerif4-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Serif+4",
+      "file_url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjiklqrhxXD-wGvjU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt",
+    "incoming/collected-20261103/licenses/2b33c2176d89e6b0-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

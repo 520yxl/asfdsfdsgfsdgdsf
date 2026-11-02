@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceCodePro-BlackItalic-74eb9d5afe14.ttf",
+  "sha256": "74eb9d5afe145e038b9d252c28faafbfc14b260bf77cad3a9b4df991352eebb5",
+  "size": 111672,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Black",
+    "Source Code Pro Black Italic",
+    "SourceCodePro-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Code+Pro",
+      "file_url": "https://fonts.gstatic.com/s/sourcecodepro/v32/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTxYprSVcZZJiGpw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0528f6ec47d96cb1-OFL.txt",
+    "incoming/collected-20261103/licenses/8c9536f382f75eac-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

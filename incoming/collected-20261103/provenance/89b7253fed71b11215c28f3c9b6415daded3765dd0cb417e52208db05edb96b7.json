@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZenKurenaido-Regular-89b7253fed71.ttf",
+  "sha256": "89b7253fed71b11215c28f3c9b6415daded3765dd0cb417e52208db05edb96b7",
+  "size": 4303064,
+  "names": [
+    "Zen Kurenaido",
+    "Zen Kurenaido Regular",
+    "ZenKurenaido-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zen+Kurenaido",
+      "file_url": "https://fonts.gstatic.com/s/zenkurenaido/v20/3XFsEr0515BK2u6UUptu_gWJZfz22PRLd0U.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/696601a27a8ce80c-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

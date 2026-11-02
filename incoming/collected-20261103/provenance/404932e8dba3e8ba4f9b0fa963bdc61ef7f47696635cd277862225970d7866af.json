@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SplineSans-SemiBold-404932e8dba3.ttf",
+  "sha256": "404932e8dba3e8ba4f9b0fa963bdc61ef7f47696635cd277862225970d7866af",
+  "size": 55688,
+  "names": [
+    "Spline Sans",
+    "Spline Sans SemiBold",
+    "SplineSans-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Spline+Sans",
+      "file_url": "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YEtvlUfE2kw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/496fb7051c58016f-OFL.txt",
+    "incoming/collected-20261103/licenses/470ecb13bad5d19c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

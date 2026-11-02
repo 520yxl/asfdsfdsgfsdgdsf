@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Tangerine-Bold-5150c3cf3017.ttf",
+  "sha256": "5150c3cf3017431a1d34ced89cdd3575e9786859072413fdec6bcb0adee04270",
+  "size": 64428,
+  "names": [
+    "Tangerine",
+    "Tangerine Bold",
+    "Tangerine-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Tangerine",
+      "file_url": "https://fonts.gstatic.com/s/tangerine/v18/Iurd6Y5j_oScZZow4VO5srNpjJtM6G0t9w.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6ff6380d50471d26-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

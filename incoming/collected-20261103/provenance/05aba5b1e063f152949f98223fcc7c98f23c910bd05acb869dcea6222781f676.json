@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Tangerine-Regular-05aba5b1e063.ttf",
+  "sha256": "05aba5b1e063f152949f98223fcc7c98f23c910bd05acb869dcea6222781f676",
+  "size": 59584,
+  "names": [
+    "Tangerine",
+    "Tangerine Regular",
+    "Tangerine-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Tangerine",
+      "file_url": "https://fonts.gstatic.com/s/tangerine/v18/IurY6Y5j_oScZZow4VOBDpxNhLBQ4Q.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6ff6380d50471d26-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

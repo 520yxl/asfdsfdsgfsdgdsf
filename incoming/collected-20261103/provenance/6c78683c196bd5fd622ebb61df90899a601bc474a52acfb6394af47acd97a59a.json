@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Rubik-ExtraBold-6c78683c196b.ttf",
+  "sha256": "6c78683c196bd5fd622ebb61df90899a601bc474a52acfb6394af47acd97a59a",
+  "size": 208212,
+  "names": [
+    "Rubik",
+    "Rubik ExtraBold",
+    "Rubik-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Rubik",
+      "file_url": "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UE80V4bVkA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cf1103789cb26d1f-OFL.txt",
+    "incoming/collected-20261103/licenses/83fa7242c5a955e5-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

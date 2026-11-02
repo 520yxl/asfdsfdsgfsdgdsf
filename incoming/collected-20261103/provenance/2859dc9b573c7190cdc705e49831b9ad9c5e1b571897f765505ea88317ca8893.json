@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceCodePro-SemiBold-2859dc9b573c.ttf",
+  "sha256": "2859dc9b573c7190cdc705e49831b9ad9c5e1b571897f765505ea88317ca8893",
+  "size": 133348,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro SemiBold",
+    "SourceCodePro-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Code+Pro",
+      "file_url": "https://fonts.gstatic.com/s/sourcecodepro/v32/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DBKXhM5hTXUcdJg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0528f6ec47d96cb1-OFL.txt",
+    "incoming/collected-20261103/licenses/8c9536f382f75eac-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

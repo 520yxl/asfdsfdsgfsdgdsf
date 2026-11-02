@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceSans3-SemiBoldItalic-4bf87ac9b29c.ttf",
+  "sha256": "4bf87ac9b29c7fc4431311967a7f8188e252f213f61c47ac8ef90b9609c3875f",
+  "size": 237164,
+  "names": [
+    "Source Sans 3",
+    "Source Sans 3 SemiBold",
+    "Source Sans 3 SemiBold Italic",
+    "SourceSans3-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Sans+3",
+      "file_url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqGdJ9C4Ym4fB3Ts.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/afa580dd7080cacd-OFL.txt",
+    "incoming/collected-20261103/licenses/e896deaf0077885f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

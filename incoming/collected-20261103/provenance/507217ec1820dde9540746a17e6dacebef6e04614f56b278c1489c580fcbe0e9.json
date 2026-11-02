@@ -1,0 +1,21 @@
+{
+  "font": "incoming/VictorMono-VariableFont_wght-507217ec1820.ttf",
+  "sha256": "507217ec1820dde9540746a17e6dacebef6e04614f56b278c1489c580fcbe0e9",
+  "size": 192904,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Thin",
+    "VictorMono-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Victor+Mono",
+      "file_url": "https://fonts.gstatic.com/s/victormono/v5/Yq6Q-LGQWyfv-LGy7lEO08ZavRQkSKZH.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7016294faa9db82c-OFL.txt",
+    "incoming/collected-20261103/licenses/3dfc27f0a266f353-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

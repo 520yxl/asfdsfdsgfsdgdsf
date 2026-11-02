@@ -1,0 +1,21 @@
+{
+  "font": "incoming/WorkSans-Italic-VariableFont_wght-8182fd9ecab2.ttf",
+  "sha256": "8182fd9ecab2fad9f7d2e715debaa02f96210cd0824311bfe398554b00dc3809",
+  "size": 335056,
+  "names": [
+    "Work Sans",
+    "Work Sans Italic",
+    "WorkSans-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Work+Sans",
+      "file_url": "https://fonts.gstatic.com/s/worksans/v24/QGYqz_wNahGAdqQ43Rh_eaDstfxA4OD3.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cbf7d16d28e8ebd6-OFL.txt",
+    "incoming/collected-20261103/licenses/a19390b142d8cf0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Tinos-Italic-4a52de5bcf70.ttf",
+  "sha256": "4a52de5bcf70e37bd71949f8a85302b75795a1943aedffbbee4f2db7744e1c81",
+  "size": 549824,
+  "names": [
+    "Tinos",
+    "Tinos Italic",
+    "Tinos-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Tinos",
+      "file_url": "https://fonts.gstatic.com/s/tinos/v26/buE2poGnedXvwjX-fmFD9CI-4NU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

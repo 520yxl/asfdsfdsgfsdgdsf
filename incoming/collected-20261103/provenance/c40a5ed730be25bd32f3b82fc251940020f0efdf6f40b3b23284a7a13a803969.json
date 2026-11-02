@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SchibstedGrotesk-BlackItalic-c40a5ed730be.ttf",
+  "sha256": "c40a5ed730be25bd32f3b82fc251940020f0efdf6f40b3b23284a7a13a803969",
+  "size": 103536,
+  "names": [
+    "Schibsted Grotesk",
+    "Schibsted Grotesk Black",
+    "Schibsted Grotesk Black Italic",
+    "SchibstedGrotesk-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Schibsted+Grotesk",
+      "file_url": "https://fonts.gstatic.com/s/schibstedgrotesk/v7/JqzI5SSPQuCQF3t8uOwiUL-taUTtap9DcSQBg_nT9FQY6oJBC8hqflSFOTXs.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a41d9286d201c7f8-OFL.txt",
+    "incoming/collected-20261103/licenses/4db33d1ca859d156-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Vollkorn-Italic-cfdd559444b9.ttf",
+  "sha256": "cfdd559444b994a74777fa80d62f51420b22cfc484dcacc3c7ca18b1950ce74f",
+  "size": 266044,
+  "names": [
+    "Vollkorn",
+    "Vollkorn Italic",
+    "Vollkorn-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Vollkorn",
+      "file_url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWmmZM7Xq34g9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6e8a067ac899decf-OFL.txt",
+    "incoming/collected-20261103/licenses/271602b008ae475d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

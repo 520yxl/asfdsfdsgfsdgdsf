@@ -1,0 +1,21 @@
+{
+  "font": "incoming/VictorMono-BoldItalic-68c1414f1802.ttf",
+  "sha256": "68c1414f1802e68699d292c8569b581c7182c5d20780aab2d095e872458980dd",
+  "size": 165008,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Bold Italic",
+    "VictorMono-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Victor+Mono",
+      "file_url": "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaKdUMtba8p.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7016294faa9db82c-OFL.txt",
+    "incoming/collected-20261103/licenses/3dfc27f0a266f353-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

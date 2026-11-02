@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Urbanist-BlackItalic-7347f5162a0c.ttf",
+  "sha256": "7347f5162a0c57d62400370d0a8eecbd5073d8e1b91f9e0fde1c30a34d968e0b",
+  "size": 44080,
+  "names": [
+    "Urbanist",
+    "Urbanist Black",
+    "Urbanist Black Italic",
+    "Urbanist-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Urbanist",
+      "file_url": "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUpmvacG1K4S1.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/44acfbad5b523afe-OFL.txt",
+    "incoming/collected-20261103/licenses/ed41361b34900146-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

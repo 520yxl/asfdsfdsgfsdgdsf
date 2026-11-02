@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SpaceGrotesk-SemiBold-279a5d22b8ab.ttf",
+  "sha256": "279a5d22b8ab377f41706af566610667db3941b069b50187b98af09ca3b08f91",
+  "size": 86572,
+  "names": [
+    "Space Grotesk",
+    "Space Grotesk SemiBold",
+    "SpaceGrotesk-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Space+Grotesk",
+      "file_url": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42VksjNsFjTDJK.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/affffd05ab62669c-OFL.txt",
+    "incoming/collected-20261103/licenses/eecb80c684342eca-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

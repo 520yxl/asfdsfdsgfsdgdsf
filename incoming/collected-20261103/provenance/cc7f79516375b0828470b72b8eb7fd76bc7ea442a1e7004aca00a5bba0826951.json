@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceSerif4_36pt-LightItalic-cc7f79516375.ttf",
+  "sha256": "cc7f79516375b0828470b72b8eb7fd76bc7ea442a1e7004aca00a5bba0826951",
+  "size": 208156,
+  "names": [
+    "Source Serif 4 36pt",
+    "Source Serif 4 36pt Light",
+    "Source Serif 4 36pt Light Italic",
+    "SourceSerif436pt-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Serif+4",
+      "file_url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb-kSGD2QYxoUKIkn98pGF9dC84DrjXEXw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt",
+    "incoming/collected-20261103/licenses/2b33c2176d89e6b0-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

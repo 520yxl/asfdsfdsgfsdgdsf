@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZillaSlab-Bold-ec5a3ec1bccc.ttf",
+  "sha256": "ec5a3ec1bccca134e1cf0de2bdbd8f88b35c0756ad3997460a55f6da6c07bbf4",
+  "size": 248052,
+  "names": [
+    "Zilla Slab",
+    "Zilla Slab Bold",
+    "ZillaSlab-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zilla+Slab",
+      "file_url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYoEf2HSjWlhzbaw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d6112c720a1b138f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

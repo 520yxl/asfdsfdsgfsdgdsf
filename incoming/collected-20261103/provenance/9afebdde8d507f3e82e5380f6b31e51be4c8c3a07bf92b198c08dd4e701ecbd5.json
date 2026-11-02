@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Vollkorn-SemiBold-9afebdde8d50.ttf",
+  "sha256": "9afebdde8d507f3e82e5380f6b31e51be4c8c3a07bf92b198c08dd4e701ecbd5",
+  "size": 346520,
+  "names": [
+    "Vollkorn",
+    "Vollkorn SemiBold",
+    "Vollkorn-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Vollkorn",
+      "file_url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27nauGWOdEbD63w.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6e8a067ac899decf-OFL.txt",
+    "incoming/collected-20261103/licenses/271602b008ae475d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

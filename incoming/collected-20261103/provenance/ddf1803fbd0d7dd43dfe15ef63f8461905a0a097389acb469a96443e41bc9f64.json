@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZenMaruGothic-Light-ddf1803fbd0d.ttf",
+  "sha256": "ddf1803fbd0d7dd43dfe15ef63f8461905a0a097389acb469a96443e41bc9f64",
+  "size": 3723328,
+  "names": [
+    "Zen Maru Gothic",
+    "Zen Maru Gothic Light",
+    "ZenMaruGothic-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zen+Maru+Gothic",
+      "file_url": "https://fonts.gstatic.com/s/zenmarugothic/v20/o-0XIpIxzW5b-RxT-6A8jWAtCp-cQWpCPJqa_ajlvw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/833c5b0666532b29-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ZenOldMincho-Regular-86316e2f4dfc.ttf",
+  "sha256": "86316e2f4dfc4ae6d506575c0ab1662eabf3b4211f1047db3a5b19b7030b08a7",
+  "size": 5442488,
+  "names": [
+    "Zen Old Mincho",
+    "Zen Old Mincho Regular",
+    "ZenOldMincho-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Zen+Old+Mincho",
+      "file_url": "https://fonts.gstatic.com/s/zenoldmincho/v14/tss0ApVaYytLwxTqcxfMyBveyYb3g31S2s8p.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/58a6a4040c183b3d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

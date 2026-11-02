@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Urbanist-MediumItalic-fdd1d309a325.ttf",
+  "sha256": "fdd1d309a32553e72ff6e9b6622cf0ce4140b515ea3a63e49c2273b142afe1ae",
+  "size": 44076,
+  "names": [
+    "Urbanist",
+    "Urbanist Medium",
+    "Urbanist Medium Italic",
+    "Urbanist-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Urbanist",
+      "file_url": "https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVZmvacG1K4S1.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/44acfbad5b523afe-OFL.txt",
+    "incoming/collected-20261103/licenses/ed41361b34900146-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

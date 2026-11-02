@@ -1,0 +1,20 @@
+{
+  "font": "incoming/YeonSung-Regular-df1a5c03c656.ttf",
+  "sha256": "df1a5c03c656027937eb17f7686ef988dc5727653921688772264ea49977de32",
+  "size": 2490124,
+  "names": [
+    "Yeon Sung",
+    "Yeon Sung Regular",
+    "YeonSung-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Yeon+Sung",
+      "file_url": "https://fonts.gstatic.com/s/yeonsung/v22/QldMNTpbohAGtsJvUn6xSVNazqx2xg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/22eecbd45cbdaedd-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

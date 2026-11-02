@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SchibstedGrotesk-SemiBoldItalic-d53d592299a8.ttf",
+  "sha256": "d53d592299a8ff6a523d5632f5b53a2b09610b40c4626512b7ea03407c452190",
+  "size": 103500,
+  "names": [
+    "Schibsted Grotesk",
+    "Schibsted Grotesk SemiBold",
+    "Schibsted Grotesk SemiBold Italic",
+    "SchibstedGrotesk-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Schibsted+Grotesk",
+      "file_url": "https://fonts.gstatic.com/s/schibstedgrotesk/v7/JqzI5SSPQuCQF3t8uOwiUL-taUTtap9DcSQBg_nT9FQY6oI2C8hqflSFOTXs.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a41d9286d201c7f8-OFL.txt",
+    "incoming/collected-20261103/licenses/4db33d1ca859d156-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

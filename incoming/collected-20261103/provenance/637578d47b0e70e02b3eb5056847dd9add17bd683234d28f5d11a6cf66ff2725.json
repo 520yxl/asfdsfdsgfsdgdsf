@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SpaceGrotesk-Regular-637578d47b0e.ttf",
+  "sha256": "637578d47b0e70e02b3eb5056847dd9add17bd683234d28f5d11a6cf66ff2725",
+  "size": 86588,
+  "names": [
+    "Space Grotesk",
+    "Space Grotesk Regular",
+    "SpaceGrotesk-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Space+Grotesk",
+      "file_url": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsjNsFjTDJK.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/affffd05ab62669c-OFL.txt",
+    "incoming/collected-20261103/licenses/eecb80c684342eca-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

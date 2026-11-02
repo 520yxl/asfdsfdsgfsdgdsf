@@ -1,0 +1,20 @@
+{
+  "font": "incoming/TrainOne-Regular-9288137b4826.ttf",
+  "sha256": "9288137b482633315f1b575bc8f3cfa1f2d7e7fd77e7e9a089495e72ce147f27",
+  "size": 2132280,
+  "names": [
+    "Train One",
+    "Train One Regular",
+    "TrainOne-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Train+One",
+      "file_url": "https://fonts.gstatic.com/s/trainone/v17/gyB-hwkiNtc6KnxUVjWHOqbZRY7JVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c07f9377a250a853-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
