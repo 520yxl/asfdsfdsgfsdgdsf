@@ -1,0 +1,32 @@
+{
+  "font": "incoming/ARKai_T-1367db339b03.ttf",
+  "sha256": "1367db339b038b005efa208a3f3bd0c417f9d8a3f1127e7a4df01c15876cfd3e",
+  "size": 15910412,
+  "names": [
+    "Nowar C² Warcraft GB18030 Roleplaying",
+    "Nowar C² Warcraft GB18030 Roleplaying Bold",
+    "Nowar C² Warcraft GB18030 Roleplaying; keep hinted, like DFKaiShu",
+    "Nowar-C&C-Warcraft-GB18030-Roleplaying-Bold",
+    "有愛鋭方ウォークラフト GB18030 Roleplaying",
+    "有愛鋭方ウォークラフト GB18030 Roleplaying Bold",
+    "有愛魔獸銳方 GB18030 Roleplaying",
+    "有愛魔獸銳方 GB18030 Roleplaying Bold",
+    "有愛魔獸鋭方 GB18030 Roleplaying",
+    "有愛魔獸鋭方 GB18030 Roleplaying Bold",
+    "有爱魔兽锐方 GB18030 Roleplaying",
+    "有爱魔兽锐方 GB18030 Roleplaying Bold"
+  ],
+  "sources": [
+    {
+      "repository": "nowar-fonts/Nowar-CnC",
+      "license_url": "https://github.com/nowar-fonts/Nowar-CnC/releases/download/v0.2.1/NowarCnC-TW-700-0.2.1.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-CnC/releases/download/v0.2.1/NowarCnC-GB.RP-700-0.2.1.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1e001293dac1de48-LICENSE.txt",
+    "incoming/collected-20261103/licenses/1e374e77c56ee3dc-LICENSE.txt",
+    "incoming/collected-20261103/licenses/90d55eba8c3add39-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

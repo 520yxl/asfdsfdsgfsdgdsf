@@ -1,0 +1,34 @@
+{
+  "font": "incoming/blei00d-217b2e248238.ttf",
+  "sha256": "217b2e248238579f99dbd0c062e7ebfa59fe339783c34a23f598f3232c18c515",
+  "size": 21755152,
+  "names": [
+    "Nowar C² Warcraft HK",
+    "Nowar C² Warcraft HK Bold",
+    "Nowar C² Warcraft HK; keep hinted, like DFKaiShu",
+    "Nowar-C&C-Warcraft-HK-Bold",
+    "有愛鋭方ウォークラフト HK",
+    "有愛鋭方ウォークラフト HK Bold",
+    "有愛魔獸銳方 HK",
+    "有愛魔獸銳方 HK Bold",
+    "有愛魔獸鋭方 HK",
+    "有愛魔獸鋭方 HK Bold",
+    "有愛예방 워크래프트 HK",
+    "有愛예방 워크래프트 HK Bold",
+    "有爱魔兽锐方 HK",
+    "有爱魔兽锐方 HK Bold"
+  ],
+  "sources": [
+    {
+      "repository": "nowar-fonts/Nowar-CnC",
+      "license_url": "https://github.com/nowar-fonts/Nowar-CnC/releases/download/v0.2.1/NowarCnC-TW-700-0.2.1.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-CnC/releases/download/v0.2.1/NowarCnC-HK-700-0.2.1.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1e001293dac1de48-LICENSE.txt",
+    "incoming/collected-20261103/licenses/1e374e77c56ee3dc-LICENSE.txt",
+    "incoming/collected-20261103/licenses/90d55eba8c3add39-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
