@@ -1,0 +1,18 @@
+{
+  "font": "incoming/GenYoMin2TW-L-b0261b3056be.otf",
+  "sha256": "b0261b3056befc9a5f75b948f27942d5c745ccacbda6c3d7407327960a758ce2",
+  "size": 16190908,
+  "names": [
+    "GenYoMin2 TW",
+    "GenYoMin2 TW L",
+    "GenYoMin2TW-L",
+    "源樣明體月",
+    "源樣明體月 L"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt",
+    "incoming/collected-20261103/licenses/e01dc6855b15f736-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

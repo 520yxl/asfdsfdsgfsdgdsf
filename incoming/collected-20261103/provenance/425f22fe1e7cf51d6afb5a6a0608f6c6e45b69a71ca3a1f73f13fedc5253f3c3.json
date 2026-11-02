@@ -1,0 +1,18 @@
+{
+  "font": "incoming/GenYoGothic2TW-R-425f22fe1e7c.otf",
+  "sha256": "425f22fe1e7cf51d6afb5a6a0608f6c6e45b69a71ca3a1f73f13fedc5253f3c3",
+  "size": 10753852,
+  "names": [
+    "GenYoGothic2 TW",
+    "GenYoGothic2 TW R",
+    "GenYoGothic2TW-R",
+    "源樣黑體月",
+    "源樣黑體月 R"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt",
+    "incoming/collected-20261103/licenses/07b534cf1a6896df-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
