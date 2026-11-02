@@ -1,0 +1,23 @@
+{
+  "font": "incoming/FiraSans-ExtraBoldItalic-fa5351fb0d91.ttf",
+  "sha256": "fa5351fb0d913fb6b62c649b74220a3dc730d748c9b01713aaa17a39c126f16e",
+  "size": 456844,
+  "names": [
+    "Fira Sans",
+    "Fira Sans ExtraBold",
+    "Fira Sans ExtraBold Italic",
+    "FiraSans-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

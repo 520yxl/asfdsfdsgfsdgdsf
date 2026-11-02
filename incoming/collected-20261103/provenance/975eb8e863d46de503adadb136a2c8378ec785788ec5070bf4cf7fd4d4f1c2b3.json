@@ -1,0 +1,24 @@
+{
+  "font": "incoming/NaniFont-ExtraLight-975eb8e863d4.ttf",
+  "sha256": "975eb8e863d46de503adadb136a2c8378ec785788ec5070bf4cf7fd4d4f1c2b3",
+  "size": 19006632,
+  "names": [
+    "NaniFont",
+    "NaniFont ExtraLight",
+    "NaniFont-ExtraLight",
+    "何某手寫",
+    "何某手寫-ExtraLight"
+  ],
+  "sources": [
+    {
+      "repository": "max32002/nanifont",
+      "license_url": "https://github.com/max32002/nanifont/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/max32002/nanifont/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5663967fc5d2cf86-README.md",
+    "incoming/collected-20261103/licenses/94e77aa15093a81f-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

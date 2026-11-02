@@ -1,0 +1,23 @@
+{
+  "font": "incoming/FiraSans-HeavyItalic-4220fa31f2f5.ttf",
+  "sha256": "4220fa31f2f542c8cdd501e72bcf5ba0f8c5061448c37c2777f5fd4a04a41b6d",
+  "size": 467704,
+  "names": [
+    "Fira Sans",
+    "Fira Sans Heavy",
+    "Fira Sans Heavy Italic",
+    "FiraSans-HeavyItalic"
+  ],
+  "sources": [
+    {
+      "repository": "mozilla/Fira",
+      "license_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/mozilla/Fira/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/99bfb7c1e845b79d-LICENSE",
+    "incoming/collected-20261103/licenses/5151ecd8ef1811a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

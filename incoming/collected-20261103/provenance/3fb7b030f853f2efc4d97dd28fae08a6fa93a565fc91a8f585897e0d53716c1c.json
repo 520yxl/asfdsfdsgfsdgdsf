@@ -1,0 +1,24 @@
+{
+  "font": "incoming/NaniFont-Regular-3fb7b030f853.ttf",
+  "sha256": "3fb7b030f853f2efc4d97dd28fae08a6fa93a565fc91a8f585897e0d53716c1c",
+  "size": 17799572,
+  "names": [
+    "NaniFont",
+    "NaniFont Regular",
+    "NaniFont-Regular",
+    "何某手寫",
+    "何某手寫-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "max32002/nanifont",
+      "license_url": "https://github.com/max32002/nanifont/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/max32002/nanifont/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5663967fc5d2cf86-README.md",
+    "incoming/collected-20261103/licenses/94e77aa15093a81f-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MantouSans-Regular-9ffe52b861b1.ttf",
+  "sha256": "9ffe52b861b1b5f175c4aadf25dfcb95aff949e956f658b3072b1e2c6ff714bc",
+  "size": 2747592,
+  "names": [
+    "Mantou Sans",
+    "MantouSans",
+    "饅頭黑體"
+  ],
+  "sources": [
+    {
+      "repository": "mant0u0/MantouSans",
+      "license_url": "https://github.com/mant0u0/MantouSans/archive/refs/heads/main.zip",
+      "file_url": "https://github.com/mant0u0/MantouSans/archive/refs/heads/main.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/71e50a7b7739c113-OFL.txt",
+    "incoming/collected-20261103/licenses/c1ae7da9a74896a4-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
