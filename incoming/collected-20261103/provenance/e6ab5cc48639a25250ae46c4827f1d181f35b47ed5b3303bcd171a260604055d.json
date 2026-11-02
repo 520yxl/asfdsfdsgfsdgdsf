@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-Thin-e6ab5cc48639.otf",
+  "sha256": "e6ab5cc48639a25250ae46c4827f1d181f35b47ed5b3303bcd171a260604055d",
+  "size": 158204,
+  "names": [
+    "Geist",
+    "Geist Thin",
+    "Geist-Thin"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

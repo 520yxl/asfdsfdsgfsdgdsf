@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-BoldItalic-52284558b078.otf",
+  "sha256": "52284558b078a911f35c7eaed559e3f11583dec71e3e9458b803dcbc0f7c988e",
+  "size": 168096,
+  "names": [
+    "Geist",
+    "Geist Bold Italic",
+    "Geist-BoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

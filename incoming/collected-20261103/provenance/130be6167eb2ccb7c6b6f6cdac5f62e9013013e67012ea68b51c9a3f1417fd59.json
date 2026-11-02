@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistMono-SemiBold-130be6167eb2.otf",
+  "sha256": "130be6167eb2ccb7c6b6f6cdac5f62e9013013e67012ea68b51c9a3f1417fd59",
+  "size": 177224,
+  "names": [
+    "Geist Mono",
+    "Geist Mono SemiBold",
+    "GeistMono-SemiBold"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

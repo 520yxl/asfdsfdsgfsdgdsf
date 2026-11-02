@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GeistMono-SemiBoldItalic-d892f2a5bc54.ttf",
+  "sha256": "d892f2a5bc546ae196580dee2213689b841fbe2c37c00c65339018d602f1e77d",
+  "size": 156584,
+  "names": [
+    "Geist Mono",
+    "Geist Mono SemiBold",
+    "Geist Mono SemiBold Italic",
+    "GeistMono-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistPixel-Square-c1fbf7316997.ttf",
+  "sha256": "c1fbf7316997c1749857708998958e8ca0343416b3f8d2c7156d634a9520e997",
+  "size": 94764,
+  "names": [
+    "Geist Pixel",
+    "Geist Pixel Square",
+    "GeistPixel-Square"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

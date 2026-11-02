@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistMono-Thin-360bfbbe7d7e.otf",
+  "sha256": "360bfbbe7d7e9fc1702fc12ead955c8baf7bad236a2a340f6c41e2884eb758c8",
+  "size": 172508,
+  "names": [
+    "Geist Mono",
+    "Geist Mono Thin",
+    "GeistMono-Thin"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

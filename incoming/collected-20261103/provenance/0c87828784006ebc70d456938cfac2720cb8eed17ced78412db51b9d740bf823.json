@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Geist-SemiBoldItalic-0c8782878400.ttf",
+  "sha256": "0c87828784006ebc70d456938cfac2720cb8eed17ced78412db51b9d740bf823",
+  "size": 130844,
+  "names": [
+    "Geist",
+    "Geist SemiBold",
+    "Geist SemiBold Italic",
+    "Geist-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

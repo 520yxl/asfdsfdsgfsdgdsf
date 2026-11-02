@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-Medium-e68c64f8af78.ttf",
+  "sha256": "e68c64f8af7889c1ddd5dfc82648f812e0985124be4b5b929ae5dc90b50a3be9",
+  "size": 127660,
+  "names": [
+    "Geist",
+    "Geist Medium",
+    "Geist-Medium"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Geist-MediumItalic-703d3760dc28.ttf",
+  "sha256": "703d3760dc283a2fa324fc325ae622ffd5d812ed9e73bbcdf659325b91d2a214",
+  "size": 129908,
+  "names": [
+    "Geist",
+    "Geist Medium",
+    "Geist Medium Italic",
+    "Geist-MediumItalic"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

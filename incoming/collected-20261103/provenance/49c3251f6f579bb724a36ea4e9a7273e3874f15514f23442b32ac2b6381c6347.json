@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistPixel[ELSH]-49c3251f6f57.ttf",
+  "sha256": "49c3251f6f579bb724a36ea4e9a7273e3874f15514f23442b32ac2b6381c6347",
+  "size": 3657104,
+  "names": [
+    "Geist Pixel",
+    "Geist Pixel Regular",
+    "GeistPixel-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

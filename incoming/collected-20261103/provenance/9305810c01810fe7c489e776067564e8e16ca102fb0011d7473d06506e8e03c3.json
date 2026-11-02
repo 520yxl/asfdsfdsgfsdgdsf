@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-ExtraBold-9305810c0181.otf",
+  "sha256": "9305810c01810fe7c489e776067564e8e16ca102fb0011d7473d06506e8e03c3",
+  "size": 167728,
+  "names": [
+    "Geist",
+    "Geist ExtraBold",
+    "Geist-ExtraBold"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

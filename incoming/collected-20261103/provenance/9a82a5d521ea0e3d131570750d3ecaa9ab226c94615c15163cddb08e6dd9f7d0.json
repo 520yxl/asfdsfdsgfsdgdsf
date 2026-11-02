@@ -1,0 +1,24 @@
+{
+  "font": "incoming/DottedSongtiDiamondRegular-9a82a5d521ea.otf",
+  "sha256": "9a82a5d521ea0e3d131570750d3ecaa9ab226c94615c15163cddb08e6dd9f7d0",
+  "size": 8042216,
+  "names": [
+    "Dotted Songti Diamond",
+    "Dotted Songti Diamond Regular",
+    "DottedSongtiDiamondRegular"
+  ],
+  "sources": [
+    {
+      "repository": "wixette/dotted-chinese-fonts",
+      "license_url": "https://raw.githubusercontent.com/wixette/dotted-chinese-fonts/v0.1/LICENSE",
+      "file_url": "https://github.com/wixette/dotted-chinese-fonts/releases/download/v0.1/dotted_songti_v_0_1.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8177f97513213526-LICENSE",
+    "incoming/collected-20261103/licenses/c080f6359219c88d-README.md",
+    "incoming/collected-20261103/licenses/189b1af95d661151-LICENSE",
+    "incoming/collected-20261103/licenses/eb93d6474886fcb1-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

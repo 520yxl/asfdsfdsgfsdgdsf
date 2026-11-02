@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-Bold-b8251e793f34.otf",
+  "sha256": "b8251e793f34addbaa7bca6be5d1e7379d98b5a79bf9fff7d92bde49841f7aa4",
+  "size": 166516,
+  "names": [
+    "Geist",
+    "Geist Bold",
+    "Geist-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

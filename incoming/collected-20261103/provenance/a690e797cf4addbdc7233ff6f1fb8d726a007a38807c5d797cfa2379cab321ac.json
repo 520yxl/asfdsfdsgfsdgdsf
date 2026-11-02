@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-SemiBold-a690e797cf4a.ttf",
+  "sha256": "a690e797cf4addbdc7233ff6f1fb8d726a007a38807c5d797cfa2379cab321ac",
+  "size": 127872,
+  "names": [
+    "Geist",
+    "Geist SemiBold",
+    "Geist-SemiBold"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

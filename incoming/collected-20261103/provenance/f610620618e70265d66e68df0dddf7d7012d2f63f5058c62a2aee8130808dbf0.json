@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistPixel-Circle-f610620618e7.otf",
+  "sha256": "f610620618e70265d66e68df0dddf7d7012d2f63f5058c62a2aee8130808dbf0",
+  "size": 1284064,
+  "names": [
+    "Geist Pixel",
+    "Geist Pixel Circle",
+    "GeistPixel-Circle"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

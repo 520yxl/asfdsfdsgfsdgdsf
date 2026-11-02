@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-ExtraLight-6543c927cde9.otf",
+  "sha256": "6543c927cde98facf2a854a627ffe92112b29d497bfe27f0f755f783be30094c",
+  "size": 160476,
+  "names": [
+    "Geist",
+    "Geist ExtraLight",
+    "Geist-ExtraLight"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

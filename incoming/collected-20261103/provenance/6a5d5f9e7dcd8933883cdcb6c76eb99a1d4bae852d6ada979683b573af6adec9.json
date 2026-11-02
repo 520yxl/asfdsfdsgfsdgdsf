@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-Regular-6a5d5f9e7dcd.ttf",
+  "sha256": "6a5d5f9e7dcd8933883cdcb6c76eb99a1d4bae852d6ada979683b573af6adec9",
+  "size": 126048,
+  "names": [
+    "Geist",
+    "Geist Regular",
+    "Geist-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

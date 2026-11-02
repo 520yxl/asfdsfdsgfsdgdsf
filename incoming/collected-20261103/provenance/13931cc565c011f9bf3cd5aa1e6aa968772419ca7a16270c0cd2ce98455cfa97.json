@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistMono-ExtraBold-13931cc565c0.otf",
+  "sha256": "13931cc565c011f9bf3cd5aa1e6aa968772419ca7a16270c0cd2ce98455cfa97",
+  "size": 180604,
+  "names": [
+    "Geist Mono",
+    "Geist Mono ExtraBold",
+    "GeistMono-ExtraBold"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

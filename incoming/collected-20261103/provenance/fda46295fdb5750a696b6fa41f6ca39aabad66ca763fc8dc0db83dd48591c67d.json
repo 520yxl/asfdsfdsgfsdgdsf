@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistPixel-Line-fda46295fdb5.otf",
+  "sha256": "fda46295fdb5750a696b6fa41f6ca39aabad66ca763fc8dc0db83dd48591c67d",
+  "size": 283984,
+  "names": [
+    "Geist Pixel",
+    "Geist Pixel Line",
+    "GeistPixel-Line"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

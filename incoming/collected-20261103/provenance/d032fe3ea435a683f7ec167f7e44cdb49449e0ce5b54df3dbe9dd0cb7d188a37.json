@@ -1,0 +1,23 @@
+{
+  "font": "incoming/ChillLongCangKai_Medium-d032fe3ea435.otf",
+  "sha256": "d032fe3ea435a683f7ec167f7e44cdb49449e0ce5b54df3dbe9dd0cb7d188a37",
+  "size": 3650356,
+  "names": [
+    "ChillLongCangKai_Medium",
+    "寒蝉龙藏楷书",
+    "寒蝉龙藏楷书 Medium",
+    "寒蟬龍藏楷書",
+    "寒蟬龍藏楷書 Medium"
+  ],
+  "sources": [
+    {
+      "repository": "Warren2060/ChillCalligraphy",
+      "license_url": "https://github.com/Warren2060/ChillCalligraphy/releases/download/LongCangv3.52/ChillLongCangKai_v3.520.zip",
+      "file_url": "https://github.com/Warren2060/ChillCalligraphy/releases/download/LongCangv3.52/ChillLongCangKai_v3.520.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/62d8d7001739ab17-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

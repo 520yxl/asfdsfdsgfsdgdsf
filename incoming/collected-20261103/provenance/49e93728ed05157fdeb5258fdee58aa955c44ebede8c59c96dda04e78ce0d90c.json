@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistPixel-Grid-49e93728ed05.ttf",
+  "sha256": "49e93728ed05157fdeb5258fdee58aa955c44ebede8c59c96dda04e78ce0d90c",
+  "size": 196564,
+  "names": [
+    "Geist Pixel",
+    "Geist Pixel Grid",
+    "GeistPixel-Grid"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

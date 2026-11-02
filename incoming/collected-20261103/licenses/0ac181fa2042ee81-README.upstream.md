@@ -1,0 +1,118 @@
+[Click to read English readme file](./README-en.md)
+
+# 文津宋体
+一套以[思源宋体](https://github.com/adobe-fonts/source-han-serif)及[修改版Kage引擎](https://github.com/ge9/kage-engine-2/)生成的汉字为主进行二次开发的大字符集宋体字库，字形主要以中国大陆地区字形标准呈现。
+
+> [!CAUTION]
+>
+> 到v2.000版本（2025年下半年）发布之后，本字体的Gitee存储库将继续进行更新。
+
+## 简介
+文津宋体是一套以思源宋体及其衍生版本、利用GlyphWiki数据和修改版Kage引擎生成的汉字为主进行二次开发的大字符集宋体字体套装，实现Unicode定义的汉字和表意文字异体数据库（IVD）注册的字形全覆盖，其中Unicode汉字字形主要以中国大陆地区字形标准呈现。该字体系列采用OFL协议，任何个人与团体均可免费商用。
+
+当今免费商用乃至开源的汉字大字符集字体相对较少，而且可免费商用的宋体大字符集字体几乎没有按照中国大陆字形标准。因此，如果您在选用可免费商用的宋体大字符集字体，文津宋体不失为一个较好的选择。
+
+除此之外，文津宋体还支持多种拼音和注音系统，并配备了多种OpenType特性可供自由调用，主要包括字形标准切换、拼音/注音变种符号支持、注音符号竖排支持、带标字符的正确定位、标点挤压等。
+
+**在使用文津宋体字体套装之前，为充分使用该字体套装提供的功能以及避免潜在的问题，请您务必阅读使用手册。**
+
+[点击查看图文介绍](./INTRODUCE.md)
+
+## 使用手册
+[点击以查看完整版使用手册的PDF文件](doc/manual.pdf)
+
+## 字体授权
+本字体以[SIL Open Font License（SIL开源字型授权）1.1 版本](https://openfontlicense.org/open-font-license-official-text/)授权形式发布。**任何个人、企业、团队等对本字体进行使用、复制、修改、分发等任意用途即视为您已完全阅读、充分理解并同意SIL Open Font License授权协议，并保证不作出任何异议。** 当您违反SIL Open Font License授权协议任意一条条款时，您对本字体的使用、修改和分发授权将自动终止。
+
+[点击阅读SIL Open Font License授权协议（英文版）](LICENSE.md)
+
+[点击阅读SIL Open Font License授权协议（中文翻译版）](LICENSE-zh.md)
+
+[点击阅读SIL Open Font License授权协议的常见问题合集（英文版）](https://openfontlicense.org/ofl-faq/)
+
+### 您可以：
+- 任何个人、团体、组织及企业可免费进行商业目的和非商业目的排版、印刷、设计等使用，无需支付费用、事先告知作者、标明来源信息或征得作者许可；
+- 对字体文件进行自由分发，或将其嵌入、捆绑到任何软件或设备中，同时该软件或设备可被商业分发或销售；
+- 对字体文件进行修改、扩充和格式转换，但如果您要分发或发表二次修改的衍生字体作品，**必须满足如下条件**：
+    - **必须继续以SIL Open Font License 1.1的授权形式**发布，且不得在OFL的基础上加入任何额外的授权限制；
+    - **不得使用本字体的保留名称（Reserved Font Names）及其他语言的翻译形式：WenJin Mincho、<span lang="zh-Hans">文津宋体</span>、<span lang="zh-Hant">文津宋體</span>、<span lang="ja">文津明朝</span>、<span lang="ko">문진(文津) 명조</span>**。这意味着，如果您修改了字形、字距或大幅删减了字符并作为独立字体重新发布，您必须为您的衍生字体重新命名；
+    - **WebFont子集化特例**：如果您仅为了网页端渲染优化（WebFont）的目的而对本字体进行子集化（Subsetting）或格式转换（如WOFF/WOFF2），且不将其作为可安装的桌面字体文件提供给公众下载，您可以作为特例继续使用本字体的保留名称；
+    - 完整保留本字体提供的许可证（`LICENSE.md`）中的版权声明。
+
+### 您不可以：
+- 将本字体文件及其衍生版本**单独**售卖（但可以与其他软件捆绑售卖）；
+- 将本字体文件或其修改后的衍生字体以非SIL Open Font License授权协议发布（即传染性开源）；
+- 在未经明确书面许可的情况下，使用原始作者的名称或保留字体名称来推广、认可或宣传您的衍生字体作品。
+
+### 免责与声明
+- 作者不行使、未能及时行使或未充分行使SIL Open Font License授权协议所享有的合法权利，不应被视为放弃该权利，也不影响作者在将来行使该权利；
+- **本字体为免费商用字体，凡是需要付费购买字体文件本身，或者需办理特殊权限来获得该字体的行为，都是诈骗行为，谨防上当受骗；**
+- **免责声明**：本字体软件按“原样（AS IS）”提供，不提供任何明示或暗示的保证（包括但不限于适销性、特定用途适用性和不侵权的保证）。在任何情况下，作者均不对因使用或无法使用本字体软件而产生的任何直接、间接、偶然或特殊的损害承担法律责任；
+- 本字体不包含任何政治意图、隐喻及目的。用户使用本字体排版所生成的任何文字内容、造成的系统安全问题或违反地方法律法规的行为，均属用户个人行为，作者概不负责。
+
+## 其他内容（点击以查看）
+**[文津宋体字形标准切换字符表](doc/cvtable.pdf)**
+
+**[文津宋体支持的异体字序列表](doc/ivdcharts.pdf)**
+
+**[更新日志](CHANGELOG.md)**
+
+**[常见问题](FAQ.md)**
+
+**[相关字体和资源](RELATED.md)**
+
+**[打赏捐助者名单](DONATER.md)**
+
+## 有关字体格式…
+> [!CAUTION]
+>
+> 2026年2月16日起，缩窄间距版（C版）和Windows GDI兼容版（W版）将不再更新，在此之前发布的C版和W版即为最后一个版本。恳请使用C版和W版的用户尽快更新替换成标准版本，尽量使用较新版本的软件，同时保持字体版本最新。作者在此为您带来的不便深表歉意。
+>
+> 如果您在替换标准版本存在困难（如新版软件存在不兼容的困扰），可自行对标准版字体文件进行适当改动，以符合您的需求。注意改作版本仍需遵守字体附带的协议（如OFL字体的改作版仍必须选择OFL协议）。
+
+- 本字体分为标准版OTF`otf/WenJinMinchoP#-Regular.otf`（PostScript曲线）、标准版TTF`ttf/WenJinMinchoP#-Regular.ttf`（TrueType曲线）、缩窄间距版TTF版本`ttf/WenJinMinchoCP#-Regular.ttf`以及Windows GDI兼容版TTF版本`ttf/WenJinMinchoWP#-Regular.ttf`。用户可根据实际情况任选其一安装；
+- 每个版本又分为TTC/OTC整合包版本和三个单独的TTF/OTF字体文件版本，用户仅需选择其一安装即可。
+
+### 版本选择建议：
+- Windows系统建议选择TTF版本安装，若您经常使用Adobe设计软件，可选择OTF版本（OTF版本字体文件在Microsoft Office中无法嵌入字体，同时其自带的导出PDF功能无法转化成可复制的文字）；
+- macOS/iOS/Linux/BSD/Android等（类）Unix系统建议选择OTF版本安装；
+- 此外还提供了缩窄间距版TTF版本（字体/压缩包文件名带有“C”的版本）。在Microsoft Word等环境下行间不会出现太多空白（默认情况下，效果与“等线”、“宋体”等字体相仿）。
+- 如果您在Windows系统中主要使用基于Windows GDI环境的应用程序（如Word 2010、BabelStone Pad），发现引号会被显示为西文形式，在Word 2010中左引号会位于左侧，且空出一段空白；再或者某些标点显示为西文形式（变宽，而不是中文全角形式），可选择Windows GDI兼容版（行间距参数与缩窄间距版相同）。**其他情况或非Windows系统不建议选择**（只有Uniscribe塑形引擎存在上述问题；DirectWrite、HarfBuzz等不存在此问题）
+
+## 问题反馈与联系方式
+如您在使用文津宋体时遇到问题，请详细阅读本使用手册的正文部分以及“常见问题”一章（见使用手册）、已知问题合集以及GitHub、Gitee存储库的issue分区，避免重复以及无效提问，否则作者有权不予处理。
+
+> [!WARNING]
+>
+> 下面的GіtΗub链接在跳转前，请确保域名是“**g i t h u b . c o m**”（去掉字符间空格），本人无“重庆开源共创”旗下的GitCode平台账号，**从未主动且从未授权第三方**在GitCode等类似平台上创建存储库。<font color="red">**严禁GitCode等代码托管平台在未经作者本人书面许可的情况下私自搬运本字体以及与之关联的SuperHan字体项目，否则作者将追究法律责任。作者无需为因以上行为对代码托管平台等第三方造成的损害承担任何责任。强烈建议用户从作者本人提供的官方渠道下载。**</font>
+### 本项目地址
+- **【更新首发】GіtΗub：https://github.com/takushun-wu/WenJinMincho**<br>**（请确保上面的是GіtΗub链接）**
+- Gitee<font color="red">**（v2.000之后正常更新）**</font>：https://gitee.com/takushun/WenJinMincho
+- 百度网盘（仅提供字体文件与手册，包含历史版本，建议选择最新版本下载）：https://pan.baidu.com/s/1w98fMLCg3Zs9Ke0NabCJ3A?pwd=sffa
+#### 其他免费字体下载网站（有可能会更新滞后）
+- 猫啃网：https://www.maoken.com/freefonts/25129.html
+- 100font.com：https://www.100font.com/thread-919.htm
+- 字库星球：https://www.mfonts.cn/
+### 联系方式
+- 代码托管平台
+    * GіtΗub：https://github.com/takushun-wu/<br>**（请确保上面的是GіtΗub链接）**
+    * Gitee：https://gitee.com/takushun/
+- 邮箱
+    * junny_2016ⓐqq●com
+    * takushunwuⓐgmail●com
+    * takushun-wuⓐoutlook●com
+- QQ群聊：[Takufont字体交流群（1053373658）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0DEVVK0a4vQI0UK6W3p2Qm6elbNevf7T&authKey=5%2FxCGTevBX9SVkyH5LGMVvnZBZmSts4jreeWMGX5U%2F%2BubcDcYrchA0BOsOWsG3Se&noverify=0&group_code=1053373658)
+- QQ：②❽③❸⑨❹④❻①❸（添加好友请备注“**文津宋体问题反馈**”，暂不接受字体定制请求）
+#### 若通过下面的联系方式联系，我可能无法及时回复。
+- 哔哩哔哩：https://space.bilibili.com/156861970
+- 知乎：[点此查看知乎个人主页](https://www.zhihu.com/people/wu-zhuo-jun-78)
+- 小红书：[点此查看小红书个人主页](https://www.xiaohongshu.com/user/profile/674b1b38000000001d02ed26)
+- 𝕏（推特）：[@TakushunWu](https://x.com/TakushunWu)
+
+## 打赏支持
+![微信支付&支付宝](pic/donate.png)
+### 打赏捐助前的注意事项
+- 打赏捐助前请务必仔细检查付款账户（支付宝&微信用户名：**takushun**，若有改动会在第一时间更正），我们无法承担您受骗的损失。
+- 上述付款账户为**唯一正式**受捐账户。若您发现本页面的账户信息与二维码/链接所提供的付款账户不符，请立刻对其进行举报，必要时可协助相关司法机关。
+- 打赏捐助后如愿意，可留言写明您的捐款时间和金额，感谢您的支持。同时，您作为捐助者，有权选择是否在公开页面上写入您的信息（如昵称、个人空间主页等）。
+- **打赏捐助款项一经转账，恕不退还，请慎重考虑决定。（未成年人请取得其法定监护人的许可后方可捐助）** 打赏捐助费用的使用解释权归作者本人（takushun）所有，**不接受任何形式的监督**。

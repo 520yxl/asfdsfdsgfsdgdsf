@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Geist-ThinItalic-a8df05e29465.otf",
+  "sha256": "a8df05e2946508771e42e5800843404e91b09a28c2e8a5e85c68420af0f0263e",
+  "size": 160488,
+  "names": [
+    "Geist",
+    "Geist Thin",
+    "Geist Thin Italic",
+    "Geist-ThinItalic"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

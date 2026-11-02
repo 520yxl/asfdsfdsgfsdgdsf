@@ -1,0 +1,26 @@
+{
+  "font": "incoming/LXGWWenKaiTC-Light-9bee950ff833.ttf",
+  "sha256": "9bee950ff833892b823e5cec273ebe1cfe2342dd11cb81d9ba2085c5f5a5c551",
+  "size": 15668880,
+  "names": [
+    "LXGW WenKai TC",
+    "LXGW WenKai TC Light",
+    "LXGWWenKaiTC-Light",
+    "霞鶩文楷 TC",
+    "霞鶩文楷 TC Light",
+    "霞鹜文楷 TC",
+    "霞鹜文楷 TC Light"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwWenKaiTC",
+      "license_url": "https://raw.githubusercontent.com/lxgw/LxgwWenKaiTC/v1.530/OFL.txt",
+      "file_url": "https://github.com/lxgw/LxgwWenkaiTC/releases/download/v1.530/LXGWWenKaiTC-Light.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bddc513c614c5b38-OFL.txt",
+    "incoming/collected-20261103/licenses/b525e4be4dc5f2c9-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

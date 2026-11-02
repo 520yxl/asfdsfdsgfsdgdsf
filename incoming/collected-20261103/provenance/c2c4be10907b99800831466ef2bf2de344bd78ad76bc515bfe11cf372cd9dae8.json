@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-Black-c2c4be10907b.ttf",
+  "sha256": "c2c4be10907b99800831466ef2bf2de344bd78ad76bc515bfe11cf372cd9dae8",
+  "size": 130508,
+  "names": [
+    "Geist",
+    "Geist Black",
+    "Geist-Black"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

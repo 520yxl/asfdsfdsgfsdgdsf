@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistPixel-Triangle-b5d5be07fdb2.otf",
+  "sha256": "b5d5be07fdb246b73ccc2d623e86a449425e4f98e238a3eea4f50b430af7121d",
+  "size": 391076,
+  "names": [
+    "Geist Pixel",
+    "Geist Pixel Triangle",
+    "GeistPixel-Triangle"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SportingGrotesque-Bold-89062bda689c.otf",
+  "sha256": "89062bda689cd1e1c2a564baeca6713106a8235d205f9f196a9ab05916bd0309",
+  "size": 30068,
+  "names": [
+    "Sporting Grotesque",
+    "Sporting Grotesque Bold",
+    "SportingGrotesque-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "velvetyne/Sporting-Grotesque",
+      "license_url": "https://github.com/velvetyne/Sporting-Grotesque/archive/refs/heads/main.zip",
+      "file_url": "https://github.com/velvetyne/Sporting-Grotesque/archive/refs/heads/main.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1e9e59efac76fab6-LICENSE.txt",
+    "incoming/collected-20261103/licenses/6ffc8ba0fca3f167-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

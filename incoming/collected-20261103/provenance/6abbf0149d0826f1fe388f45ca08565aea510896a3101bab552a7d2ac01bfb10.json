@@ -1,0 +1,22 @@
+{
+  "font": "incoming/MaokenAssortedSans-Lite-6abbf0149d08.otf",
+  "sha256": "6abbf0149d0826f1fe388f45ca08565aea510896a3101bab552a7d2ac01bfb10",
+  "size": 6191856,
+  "names": [
+    "MaokenAssortedSans-Lite",
+    "猫啃什锦黑-轻量版",
+    "猫啃什锦黑-轻量版 常规"
+  ],
+  "sources": [
+    {
+      "repository": "Skr-ZERO/MaokenAssortedSans",
+      "license_url": "https://raw.githubusercontent.com/maoken-fonts/MaokenAssortedSans/v1.70/OFL.txt",
+      "file_url": "https://github.com/maoken-fonts/MaokenAssortedSans/releases/download/v1.70/MaokenAssortedSans-Lite.otf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b3e442840d7abe7-OFL.txt",
+    "incoming/collected-20261103/licenses/9a050b1e8c70ac05-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

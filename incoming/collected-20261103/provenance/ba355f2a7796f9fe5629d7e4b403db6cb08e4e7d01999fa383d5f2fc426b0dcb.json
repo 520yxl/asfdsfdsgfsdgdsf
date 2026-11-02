@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GeistMono-ExtraLightItalic-ba355f2a7796.ttf",
+  "sha256": "ba355f2a7796f9fe5629d7e4b403db6cb08e4e7d01999fa383d5f2fc426b0dcb",
+  "size": 152764,
+  "names": [
+    "Geist Mono",
+    "Geist Mono ExtraLight",
+    "Geist Mono ExtraLight Italic",
+    "GeistMono-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "repository": "vercel/geist-font",
+      "license_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip",
+      "file_url": "https://github.com/vercel/geist-font/releases/download/v1.8.2/geist-font-v1.8.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c683bfbcc7e087f5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
