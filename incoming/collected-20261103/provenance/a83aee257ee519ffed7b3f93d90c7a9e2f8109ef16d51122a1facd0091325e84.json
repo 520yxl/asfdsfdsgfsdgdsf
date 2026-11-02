@@ -1,0 +1,20 @@
+{
+  "font": "incoming/CascadiaMonoPL-SemiBoldItalic-a83aee257ee5.ttf",
+  "sha256": "a83aee257ee519ffed7b3f93d90c7a9e2f8109ef16d51122a1facd0091325e84",
+  "size": 525332,
+  "names": [
+    "Cascadia Mono PL",
+    "Cascadia Mono PL SemiBold",
+    "Cascadia Mono PL SemiBold Italic",
+    "CascadiaMonoPL-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "microsoft/cascadia-code",
+      "license_url": "https://raw.githubusercontent.com/microsoft/cascadia-code/v2407.24/LICENSE",
+      "file_url": "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

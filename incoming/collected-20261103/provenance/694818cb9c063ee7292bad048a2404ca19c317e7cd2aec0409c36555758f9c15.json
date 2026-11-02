@@ -1,0 +1,19 @@
+{
+  "font": "incoming/CascadiaMonoPL-Regular-694818cb9c06.otf",
+  "sha256": "694818cb9c063ee7292bad048a2404ca19c317e7cd2aec0409c36555758f9c15",
+  "size": 368372,
+  "names": [
+    "Cascadia Mono PL",
+    "Cascadia Mono PL Regular",
+    "CascadiaMonoPL-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "microsoft/cascadia-code",
+      "license_url": "https://raw.githubusercontent.com/microsoft/cascadia-code/v2407.24/LICENSE",
+      "file_url": "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

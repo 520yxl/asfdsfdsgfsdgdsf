@@ -1,0 +1,20 @@
+{
+  "font": "incoming/CascadiaCode-ExtraLightItalic-4e3e7ac7adea.otf",
+  "sha256": "4e3e7ac7adeaa6c4bdd94af7ecbb0cfe9b368355a8f3264e276911f6e45d542a",
+  "size": 245388,
+  "names": [
+    "Cascadia Code",
+    "Cascadia Code ExtraLight",
+    "Cascadia Code ExtraLight Italic",
+    "CascadiaCode-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "repository": "microsoft/cascadia-code",
+      "license_url": "https://raw.githubusercontent.com/microsoft/cascadia-code/v2407.24/LICENSE",
+      "file_url": "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

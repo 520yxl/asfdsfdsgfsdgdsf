@@ -1,0 +1,19 @@
+{
+  "font": "incoming/CascadiaMono-ExtraLight-4ad7e5aec3d2.ttf",
+  "sha256": "4ad7e5aec3d2f10e6dcda471f2fd69626fd7b327dd25c10faf9915ae6f15cd4b",
+  "size": 574508,
+  "names": [
+    "Cascadia Mono",
+    "Cascadia Mono ExtraLight",
+    "CascadiaMono-ExtraLight"
+  ],
+  "sources": [
+    {
+      "repository": "microsoft/cascadia-code",
+      "license_url": "https://raw.githubusercontent.com/microsoft/cascadia-code/v2407.24/LICENSE",
+      "file_url": "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

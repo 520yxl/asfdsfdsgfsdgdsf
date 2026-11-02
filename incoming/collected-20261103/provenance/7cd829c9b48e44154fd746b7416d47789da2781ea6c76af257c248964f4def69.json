@@ -1,0 +1,19 @@
+{
+  "font": "incoming/CascadiaCodeNF-SemiBold-7cd829c9b48e.otf",
+  "sha256": "7cd829c9b48e44154fd746b7416d47789da2781ea6c76af257c248964f4def69",
+  "size": 2274280,
+  "names": [
+    "Cascadia Code NF",
+    "Cascadia Code NF SemiBold",
+    "CascadiaCodeNF-SemiBold"
+  ],
+  "sources": [
+    {
+      "repository": "microsoft/cascadia-code",
+      "license_url": "https://raw.githubusercontent.com/microsoft/cascadia-code/v2407.24/LICENSE",
+      "file_url": "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
