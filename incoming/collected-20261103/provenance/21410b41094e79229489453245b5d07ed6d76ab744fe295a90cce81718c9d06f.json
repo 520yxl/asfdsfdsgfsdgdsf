@@ -1,0 +1,22 @@
+{
+  "font": "incoming/FantasqueSansMono-BoldItalic-21410b41094e.ttf",
+  "sha256": "21410b41094e79229489453245b5d07ed6d76ab744fe295a90cce81718c9d06f",
+  "size": 182104,
+  "names": [
+    "Fantasque Sans Mono",
+    "Fantasque Sans Mono Bold Italic",
+    "FantasqueSansMono-BoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "belluzj/fantasque-sans",
+      "license_url": "https://github.com/belluzj/fantasque-sans/releases/download/v1.8.0/FantasqueSansMono-Normal.zip",
+      "file_url": "https://github.com/belluzj/fantasque-sans/releases/download/v1.8.0/FantasqueSansMono-Normal.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/847988f40bfc79f3-LICENSE.txt",
+    "incoming/collected-20261103/licenses/f5ba9476611bd561-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

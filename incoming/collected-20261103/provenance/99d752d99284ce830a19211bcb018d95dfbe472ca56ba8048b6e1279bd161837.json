@@ -1,0 +1,19 @@
+{
+  "font": "incoming/CascadiaCodeNF-Bold-99d752d99284.ttf",
+  "sha256": "99d752d99284ce830a19211bcb018d95dfbe472ca56ba8048b6e1279bd161837",
+  "size": 3361192,
+  "names": [
+    "Cascadia Code NF",
+    "Cascadia Code NF Bold",
+    "CascadiaCodeNF-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "microsoft/cascadia-code",
+      "license_url": "https://raw.githubusercontent.com/microsoft/cascadia-code/v2407.24/LICENSE",
+      "file_url": "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

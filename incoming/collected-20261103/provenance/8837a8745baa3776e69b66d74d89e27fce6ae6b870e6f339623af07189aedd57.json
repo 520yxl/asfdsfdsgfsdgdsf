@@ -1,0 +1,14 @@
+{
+  "font": "incoming/IntelOneMono-Regular-8837a8745baa.otf",
+  "sha256": "8837a8745baa3776e69b66d74d89e27fce6ae6b870e6f339623af07189aedd57",
+  "size": 164512,
+  "names": [
+    "Intel One Mono",
+    "IntelOneMono-Regular"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b2e40cca7371339-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

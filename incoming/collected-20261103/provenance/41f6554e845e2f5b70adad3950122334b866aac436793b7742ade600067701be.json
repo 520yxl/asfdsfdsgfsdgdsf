@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraCode-Bold-41f6554e845e.ttf",
+  "sha256": "41f6554e845e2f5b70adad3950122334b866aac436793b7742ade600067701be",
+  "size": 319368,
+  "names": [
+    "Fira Code",
+    "Fira Code Bold",
+    "FiraCode-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "tonsky/FiraCode",
+      "license_url": "https://raw.githubusercontent.com/tonsky/FiraCode/6.2/LICENSE",
+      "file_url": "https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/510d4a5c26c9c0c1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

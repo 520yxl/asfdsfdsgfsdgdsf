@@ -1,0 +1,20 @@
+{
+  "font": "incoming/CascadiaCodeNF-LightItalic-e1793eacdeaa.ttf",
+  "sha256": "e1793eacdeaad9054fd0c3d1dca695ca212d292a8512d599ac0ed1c41ddeb038",
+  "size": 3200324,
+  "names": [
+    "Cascadia Code NF",
+    "Cascadia Code NF Light",
+    "Cascadia Code NF Light Italic",
+    "CascadiaCodeNF-LightItalic"
+  ],
+  "sources": [
+    {
+      "repository": "microsoft/cascadia-code",
+      "license_url": "https://raw.githubusercontent.com/microsoft/cascadia-code/v2407.24/LICENSE",
+      "file_url": "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

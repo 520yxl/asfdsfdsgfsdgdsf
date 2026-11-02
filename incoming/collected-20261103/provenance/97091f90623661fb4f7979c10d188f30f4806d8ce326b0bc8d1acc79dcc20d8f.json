@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraCode-Medium-97091f906236.ttf",
+  "sha256": "97091f90623661fb4f7979c10d188f30f4806d8ce326b0bc8d1acc79dcc20d8f",
+  "size": 283684,
+  "names": [
+    "Fira Code",
+    "Fira Code Medium",
+    "FiraCode-Medium"
+  ],
+  "sources": [
+    {
+      "repository": "tonsky/FiraCode",
+      "license_url": "https://raw.githubusercontent.com/tonsky/FiraCode/6.2/LICENSE",
+      "file_url": "https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/510d4a5c26c9c0c1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
