@@ -1,0 +1,24 @@
+{
+  "font": "incoming/LXGWWenKaiMonoGB-Light-ca0963dc4c64.ttf",
+  "sha256": "ca0963dc4c644d615b0ea97332044e39803d4b32ef76c079d2734883e2c6ce17",
+  "size": 27630272,
+  "names": [
+    "LXGW WenKai Mono GB",
+    "LXGW WenKai Mono GB Light",
+    "LXGWWenKaiMonoGB-Light",
+    "霞鹜文楷等宽 GB",
+    "霞鹜文楷等宽 GB Light"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwWenkaiGB",
+      "license_url": "https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/v1.530/OFL.txt",
+      "file_url": "https://github.com/lxgw/LxgwWenkaiGB/releases/download/v1.530/LXGWWenKaiMonoGB-Light.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/40568522c246be6d-OFL.txt",
+    "incoming/collected-20261103/licenses/563e799d5b9c2118-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

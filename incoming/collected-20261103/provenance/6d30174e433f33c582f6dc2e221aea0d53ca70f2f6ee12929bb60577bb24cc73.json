@@ -1,0 +1,24 @@
+{
+  "font": "incoming/LXGWWenKaiGB-Medium-6d30174e433f.ttf",
+  "sha256": "6d30174e433f33c582f6dc2e221aea0d53ca70f2f6ee12929bb60577bb24cc73",
+  "size": 26162776,
+  "names": [
+    "LXGW WenKai GB",
+    "LXGW WenKai GB Medium",
+    "LXGWWenKaiGB-Medium",
+    "霞鹜文楷 GB",
+    "霞鹜文楷 GB Medium"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwWenkaiGB",
+      "license_url": "https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/v1.530/OFL.txt",
+      "file_url": "https://github.com/lxgw/LxgwWenkaiGB/releases/download/v1.530/LXGWWenKaiGB-Medium.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/40568522c246be6d-OFL.txt",
+    "incoming/collected-20261103/licenses/563e799d5b9c2118-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
