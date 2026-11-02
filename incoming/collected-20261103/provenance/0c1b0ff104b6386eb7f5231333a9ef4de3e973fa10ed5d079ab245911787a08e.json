@@ -1,0 +1,15 @@
+{
+  "font": "incoming/IBMPlexSansTC-Light-0c1b0ff104b6.ttf",
+  "sha256": "0c1b0ff104b6386eb7f5231333a9ef4de3e973fa10ed5d079ab245911787a08e",
+  "size": 5471052,
+  "names": [
+    "IBM Plex Sans TC",
+    "IBM Plex Sans TC Light",
+    "IBMPlexSansTC-Light"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,16 @@
+{
+  "font": "incoming/Inter-BlackItalic-c73f44b7d9c1.otf",
+  "sha256": "c73f44b7d9c1c9661f743042d1eec053ca539c0f667b7174f0fc616ca619321e",
+  "size": 592516,
+  "names": [
+    "Inter",
+    "Inter Black",
+    "Inter Black Italic",
+    "Inter-BlackItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

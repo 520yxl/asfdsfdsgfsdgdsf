@@ -1,0 +1,15 @@
+{
+  "font": "incoming/IBMPlexSansKR-Medium-5b7046d69f1b.ttf",
+  "sha256": "5b7046d69f1b508884d996ff2f5a0a7a18cf3ca3dd5751141c5ae6c65984f68a",
+  "size": 2425312,
+  "names": [
+    "IBM Plex Sans KR",
+    "IBM Plex Sans KR Medm",
+    "IBMPlexSansKR-Medm"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

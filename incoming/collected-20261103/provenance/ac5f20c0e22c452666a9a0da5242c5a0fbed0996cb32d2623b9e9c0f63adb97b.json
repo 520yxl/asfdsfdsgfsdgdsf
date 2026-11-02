@@ -1,0 +1,15 @@
+{
+  "font": "incoming/IBMPlexSansHebrew-ExtraLight-ac5f20c0e22c.ttf",
+  "sha256": "ac5f20c0e22c452666a9a0da5242c5a0fbed0996cb32d2623b9e9c0f63adb97b",
+  "size": 100512,
+  "names": [
+    "IBM Plex Sans Hebrew",
+    "IBM Plex Sans Hebrew ExtLt",
+    "IBMPlexSansHebrew-ExtLt"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

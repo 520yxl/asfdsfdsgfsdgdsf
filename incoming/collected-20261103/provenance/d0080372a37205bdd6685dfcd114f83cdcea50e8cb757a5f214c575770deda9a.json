@@ -1,0 +1,15 @@
+{
+  "font": "incoming/InterDisplay-ExtraLight-d0080372a372.otf",
+  "sha256": "d0080372a37205bdd6685dfcd114f83cdcea50e8cb757a5f214c575770deda9a",
+  "size": 582436,
+  "names": [
+    "Inter Display",
+    "Inter Display ExtraLight",
+    "InterDisplay-ExtraLight"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

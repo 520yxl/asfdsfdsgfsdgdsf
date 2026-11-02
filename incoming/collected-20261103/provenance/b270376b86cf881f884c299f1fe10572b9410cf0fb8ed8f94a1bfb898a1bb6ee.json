@@ -1,0 +1,15 @@
+{
+  "font": "incoming/InterDisplay-BoldItalic-b270376b86cf.otf",
+  "sha256": "b270376b86cf881f884c299f1fe10572b9410cf0fb8ed8f94a1bfb898a1bb6ee",
+  "size": 598040,
+  "names": [
+    "Inter Display",
+    "Inter Display Bold Italic",
+    "InterDisplay-BoldItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

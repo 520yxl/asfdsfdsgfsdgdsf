@@ -1,0 +1,23 @@
+{
+  "font": "incoming/PublicSans-ExtraLight-01c7a4af0b3d.ttf",
+  "sha256": "01c7a4af0b3dd4be848b0d8e213f773d2b3d6a7b69ef9e5a60ea8a1a91a96237",
+  "size": 84988,
+  "names": [
+    "Public Sans",
+    "Public Sans ExtraLight",
+    "PublicSans-ExtraLight"
+  ],
+  "sources": [
+    {
+      "repository": "uswds/public-sans",
+      "license_url": "https://github.com/uswds/public-sans/releases/download/v2.001/public-sans-v2.001.zip",
+      "file_url": "https://github.com/uswds/public-sans/releases/download/v2.001/public-sans-v2.001.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/82f0d3cad45f2641-LICENSE.md",
+    "incoming/collected-20261103/licenses/157a9e77f7580246-OFL.txt",
+    "incoming/collected-20261103/licenses/10ce59beda6431a8-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

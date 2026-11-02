@@ -1,0 +1,15 @@
+{
+  "font": "incoming/InterDisplay-Thin-dbdb02e959e5.ttf",
+  "sha256": "dbdb02e959e5adfe4f13d029bb1d2c1e9867390cc59707c935eff2a76dfa2a12",
+  "size": 398000,
+  "names": [
+    "Inter Display",
+    "Inter Display Thin",
+    "InterDisplay-Thin"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

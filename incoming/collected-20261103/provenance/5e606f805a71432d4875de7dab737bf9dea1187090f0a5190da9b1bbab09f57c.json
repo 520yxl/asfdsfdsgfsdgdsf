@@ -1,0 +1,15 @@
+{
+  "font": "incoming/Inter-BoldItalic-5e606f805a71.ttf",
+  "sha256": "5e606f805a71432d4875de7dab737bf9dea1187090f0a5190da9b1bbab09f57c",
+  "size": 420068,
+  "names": [
+    "Inter",
+    "Inter Bold Italic",
+    "Inter-BoldItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

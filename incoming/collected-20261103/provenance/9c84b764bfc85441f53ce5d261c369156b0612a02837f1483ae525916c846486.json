@@ -1,0 +1,15 @@
+{
+  "font": "incoming/IBMPlexMono-ExtraLight-9c84b764bfc8.ttf",
+  "sha256": "9c84b764bfc85441f53ce5d261c369156b0612a02837f1483ae525916c846486",
+  "size": 156344,
+  "names": [
+    "IBM Plex Mono",
+    "IBM Plex Mono ExtLt",
+    "IBMPlexMono-ExtLt"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

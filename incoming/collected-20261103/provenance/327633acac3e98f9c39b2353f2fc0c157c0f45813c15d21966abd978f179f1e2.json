@@ -1,0 +1,15 @@
+{
+  "font": "incoming/IBMPlexSansArabic-Thin-327633acac3e.ttf",
+  "sha256": "327633acac3e98f9c39b2353f2fc0c157c0f45813c15d21966abd978f179f1e2",
+  "size": 243144,
+  "names": [
+    "IBM Plex Sans Arabic",
+    "IBM Plex Sans Arabic Thin",
+    "IBMPlexSansArabic-Thin"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,15 @@
+{
+  "font": "incoming/IBMPlexSansThaiLooped-Light-eebeb3900e0a.ttf",
+  "sha256": "eebeb3900e0ac8441c29ae9ed4727d4644e49d300d931d449504b557628d144d",
+  "size": 127628,
+  "names": [
+    "IBM Plex Sans Thai Looped",
+    "IBM Plex Sans Thai Looped Light",
+    "IBMPlexSansThaiLooped-Light"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

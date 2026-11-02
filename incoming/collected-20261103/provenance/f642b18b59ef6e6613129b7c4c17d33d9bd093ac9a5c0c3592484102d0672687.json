@@ -1,0 +1,16 @@
+{
+  "font": "incoming/IBMPlexSerif-SemiBoldItalic-f642b18b59ef.ttf",
+  "sha256": "f642b18b59ef6e6613129b7c4c17d33d9bd093ac9a5c0c3592484102d0672687",
+  "size": 230260,
+  "names": [
+    "IBM Plex Serif",
+    "IBM Plex Serif SmBld",
+    "IBM Plex Serif SmBld Italic",
+    "IBMPlexSerif-SemiBoldItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,14 @@
+{
+  "font": "incoming/IBMPlexSansThai-Regular-83e1db8e8bad.ttf",
+  "sha256": "83e1db8e8bad06bb760981f1dd528f5f209d20dfadebac12b21bf2f12453c8c6",
+  "size": 116728,
+  "names": [
+    "IBM Plex Sans Thai",
+    "IBMPlexSansThai"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

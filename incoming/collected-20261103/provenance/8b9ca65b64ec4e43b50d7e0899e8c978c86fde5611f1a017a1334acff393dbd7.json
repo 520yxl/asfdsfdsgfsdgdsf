@@ -1,0 +1,15 @@
+{
+  "font": "incoming/InterVariable-Italic-8b9ca65b64ec.ttf",
+  "sha256": "8b9ca65b64ec4e43b50d7e0899e8c978c86fde5611f1a017a1334acff393dbd7",
+  "size": 894460,
+  "names": [
+    "Inter Variable",
+    "Inter Variable Italic",
+    "InterVariableItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

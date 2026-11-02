@@ -1,0 +1,14 @@
+{
+  "font": "incoming/IBMPlexSansDevanagari-Regular-f3d82e82797c.ttf",
+  "sha256": "f3d82e82797c8cd29e9171f32174ed5ee1a88e132d1baafbe21237c42320304b",
+  "size": 358572,
+  "names": [
+    "IBM Plex Sans Devanagari",
+    "IBMPlexSansDevanagari"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

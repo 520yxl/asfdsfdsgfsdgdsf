@@ -1,0 +1,15 @@
+{
+  "font": "incoming/IBMPlexSansCondensed-Medium-db1c6feefd95.ttf",
+  "sha256": "db1c6feefd95f8340b5afc41fe777746368fe863cdeb7d1d2830cd1c08f1d700",
+  "size": 112020,
+  "names": [
+    "IBM Plex Sans Cond Medm",
+    "IBM Plex Sans Condensed",
+    "IBMPlexSansCond-Medm"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/91c25c350d3cac39-license.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

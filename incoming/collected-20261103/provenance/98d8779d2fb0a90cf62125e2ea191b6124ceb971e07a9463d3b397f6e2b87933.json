@@ -1,0 +1,16 @@
+{
+  "font": "incoming/Inter-SemiBoldItalic-98d8779d2fb0.otf",
+  "sha256": "98d8779d2fb0a90cf62125e2ea191b6124ceb971e07a9463d3b397f6e2b87933",
+  "size": 602496,
+  "names": [
+    "Inter",
+    "Inter SemiBold",
+    "Inter SemiBold Italic",
+    "Inter-SemiBoldItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

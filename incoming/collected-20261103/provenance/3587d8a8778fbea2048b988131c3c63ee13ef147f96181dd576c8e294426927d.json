@@ -1,0 +1,16 @@
+{
+  "font": "incoming/Inter-ExtraBoldItalic-3587d8a8778f.otf",
+  "sha256": "3587d8a8778fbea2048b988131c3c63ee13ef147f96181dd576c8e294426927d",
+  "size": 603412,
+  "names": [
+    "Inter",
+    "Inter ExtraBold",
+    "Inter ExtraBold Italic",
+    "Inter-ExtraBoldItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

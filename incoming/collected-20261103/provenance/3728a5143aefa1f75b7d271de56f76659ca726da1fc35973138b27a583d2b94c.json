@@ -1,0 +1,15 @@
+{
+  "font": "incoming/InterDisplay-Medium-3728a5143aef.ttf",
+  "sha256": "3728a5143aefa1f75b7d271de56f76659ca726da1fc35973138b27a583d2b94c",
+  "size": 410472,
+  "names": [
+    "Inter Display",
+    "Inter Display Medium",
+    "InterDisplay-Medium"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

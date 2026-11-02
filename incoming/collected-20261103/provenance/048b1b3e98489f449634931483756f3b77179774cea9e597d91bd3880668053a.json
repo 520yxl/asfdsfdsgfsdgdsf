@@ -1,0 +1,15 @@
+{
+  "font": "incoming/InterDisplay-Light-048b1b3e9848.ttf",
+  "sha256": "048b1b3e98489f449634931483756f3b77179774cea9e597d91bd3880668053a",
+  "size": 407588,
+  "names": [
+    "Inter Display",
+    "Inter Display Light",
+    "InterDisplay-Light"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/262481e844521b32-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
