@@ -1,0 +1,41 @@
+{
+  "font": "incoming/FRIZQT__-1ddc93c19c5d.ttf",
+  "sha256": "1ddc93c19c5dcd2a81d44b653b3d8f760d41ef8f02e64ace0872c6e545c25dff",
+  "size": 8582832,
+  "names": [
+    "Nowar Neo Sans CN",
+    "Nowar Neo Sans CN Simp UI",
+    "Nowar Neo Sans CN Simplified UI Bold",
+    "NowarSans-d709066907febf6c7ea8cd8b054bf165ad945a82",
+    "有愛 네오 고딕 CN",
+    "有愛 네오 고딕 CN Simp UI",
+    "有愛 네오 고딕 CN Simplified UI Bold",
+    "有愛新ゴシック CN",
+    "有愛新ゴシック CN Simp UI",
+    "有愛新ゴシック CN Simplified UI Bold",
+    "有愛新黑 CN",
+    "有愛新黑 CN Simp UI",
+    "有愛新黑 CN Simplified UI Bold",
+    "有爱新黑 CN",
+    "有爱新黑 CN Simp UI",
+    "有爱新黑 CN Simplified UI Bold"
+  ],
+  "sources": [
+    {
+      "repository": "nowar-fonts/Nowar-Neo-Sans",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Neo-Sans/releases/download/v0.8.0/NowarNeoSans-PSimpChat-700-0.8.0.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Neo-Sans/releases/download/v0.8.0/NowarNeoSans-PSimp-700-0.8.0.7z"
+    },
+    {
+      "repository": "nowar-fonts/Nowar-Neo-Sans",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Neo-Sans/releases/download/v0.8.0/NowarNeoSans-PSimpChat-700-0.8.0.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Neo-Sans/releases/download/v0.8.0/NowarNeoSans-PSimpChat-700-0.8.0.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5ade832aafbaea37-LICENSE.txt",
+    "incoming/collected-20261103/licenses/a940677218e03f42-LICENSE.txt",
+    "incoming/collected-20261103/licenses/51f890541635ded7-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

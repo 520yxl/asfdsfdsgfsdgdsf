@@ -1,0 +1,36 @@
+{
+  "font": "incoming/ARHei-fdfade00d0d0.ttf",
+  "sha256": "fdfade00d0d0d61d3d7e94649256f1f6b59af9c27a83d39d80f8c4789c2e6bfd",
+  "size": 9175460,
+  "names": [
+    "Nowar Neo Sans CL Cn",
+    "Nowar Neo Sans Classical",
+    "Nowar Neo Sans Classical Condensed Bold",
+    "NowarSans-903605d3b7a340067bd2b81ac030f1d254b7ae0c",
+    "有愛 네오 고딕 CL Cn",
+    "有愛 네오 고딕 Classical",
+    "有愛 네오 고딕 Classical Condensed Bold",
+    "有愛新ゴシック CL Cn",
+    "有愛新ゴシック Classical",
+    "有愛新ゴシック Classical Condensed Bold",
+    "有愛新黑 CL Cn",
+    "有愛新黑 Classical",
+    "有愛新黑 Classical Condensed Bold",
+    "有爱新黑 CL Cn",
+    "有爱新黑 Classical",
+    "有爱新黑 Classical Condensed Bold"
+  ],
+  "sources": [
+    {
+      "repository": "nowar-fonts/Nowar-Neo-Sans",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Neo-Sans/releases/download/v0.8.0/NowarNeoSans-PSimpChat-700-0.8.0.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Neo-Sans/releases/download/v0.8.0/NowarNeoSans-CL-700-0.8.0.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5ade832aafbaea37-LICENSE.txt",
+    "incoming/collected-20261103/licenses/a940677218e03f42-LICENSE.txt",
+    "incoming/collected-20261103/licenses/51f890541635ded7-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

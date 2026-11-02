@@ -1,0 +1,41 @@
+{
+  "font": "incoming/FRIZQT__-552c7cbfb18f.ttf",
+  "sha256": "552c7cbfb18fc28ed4a9c197873f27a0d8eb381f32f1051871391174765438fe",
+  "size": 17059792,
+  "names": [
+    "Nowar Rounded CN",
+    "Nowar Rounded CN Simp UI Ex",
+    "Nowar Rounded CN Simplified UI Extended Bold",
+    "NowarRounded-db20433a7f4d009043dca3fb9c22a68f8f03a719",
+    "有愛 굴림 CN",
+    "有愛 굴림 CN Simp UI Ex",
+    "有愛 굴림 CN Simplified UI Extended Bold",
+    "有愛丸ゴシック CN",
+    "有愛丸ゴシック CN Simp UI Ex",
+    "有愛丸ゴシック CN Simplified UI Extended Bold",
+    "有愛圓體 CN",
+    "有愛圓體 CN Simp UI Ex",
+    "有愛圓體 CN Simplified UI Extended Bold",
+    "有爱圆体 CN",
+    "有爱圆体 CN Simp UI Ex",
+    "有爱圆体 CN Simplified UI Extended Bold"
+  ],
+  "sources": [
+    {
+      "repository": "nowar-fonts/Nowar-Rounded",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Rounded/releases/download/v0.3.0/NowarRounded-PSimpChat-700-0.3.0.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Rounded/releases/download/v0.3.0/NowarRounded-PSimp-700-0.3.0.7z"
+    },
+    {
+      "repository": "nowar-fonts/Nowar-Rounded",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Rounded/releases/download/v0.3.0/NowarRounded-PSimpChat-700-0.3.0.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Rounded/releases/download/v0.3.0/NowarRounded-PSimpChat-700-0.3.0.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/585cbba86a583e47-LICENSE.txt",
+    "incoming/collected-20261103/licenses/c892a939afe34f76-LICENSE.txt",
+    "incoming/collected-20261103/licenses/af3c1f08c2027784-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

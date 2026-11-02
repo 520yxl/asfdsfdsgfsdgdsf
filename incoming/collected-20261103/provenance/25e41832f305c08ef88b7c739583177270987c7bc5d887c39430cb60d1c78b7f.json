@@ -1,0 +1,36 @@
+{
+  "font": "incoming/ARKai_C-25e41832f305.ttf",
+  "sha256": "25e41832f305c08ef88b7c739583177270987c7bc5d887c39430cb60d1c78b7f",
+  "size": 9178012,
+  "names": [
+    "Nowar Neo Sans CL",
+    "Nowar Neo Sans Classical",
+    "Nowar Neo Sans Classical Bold",
+    "NowarSans-08e149e535cde6ad2a01652db6c2917a1ea51bb1",
+    "有愛 네오 고딕 CL",
+    "有愛 네오 고딕 Classical",
+    "有愛 네오 고딕 Classical Bold",
+    "有愛新ゴシック CL",
+    "有愛新ゴシック Classical",
+    "有愛新ゴシック Classical Bold",
+    "有愛新黑 CL",
+    "有愛新黑 Classical",
+    "有愛新黑 Classical Bold",
+    "有爱新黑 CL",
+    "有爱新黑 Classical",
+    "有爱新黑 Classical Bold"
+  ],
+  "sources": [
+    {
+      "repository": "nowar-fonts/Nowar-Neo-Sans",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Neo-Sans/releases/download/v0.8.0/NowarNeoSans-PSimpChat-700-0.8.0.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Neo-Sans/releases/download/v0.8.0/NowarNeoSans-CL-700-0.8.0.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5ade832aafbaea37-LICENSE.txt",
+    "incoming/collected-20261103/licenses/a940677218e03f42-LICENSE.txt",
+    "incoming/collected-20261103/licenses/51f890541635ded7-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
