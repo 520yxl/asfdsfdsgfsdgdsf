@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Lato-Black-abf64cfa1464.ttf",
+  "sha256": "abf64cfa14645043a7c33f76435125f8b3de79c510adb938a1c16085518d4341",
+  "size": 69500,
+  "names": [
+    "Lato",
+    "Lato Black",
+    "Lato-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lato",
+      "file_url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh50Xew-FGC_p9dw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01b104f6b9c53f66-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

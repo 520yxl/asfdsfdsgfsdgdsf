@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Neuton-Light-de26916b12b7.ttf",
+  "sha256": "de26916b12b7c1b215a155f2f58ac593328d1f00055f771174914d49a6592704",
+  "size": 51832,
+  "names": [
+    "Neuton",
+    "Neuton Light",
+    "Neuton-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Neuton",
+      "file_url": "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKZKofegD5Drog6Q.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/88703e6c4d08ef78-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

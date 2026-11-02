@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Lato-Thin-fee1bd1daaa5.ttf",
+  "sha256": "fee1bd1daaa5efbcb93c8d074c61378dce155df0d32e00199b6a9457e427bc45",
+  "size": 69976,
+  "names": [
+    "Lato",
+    "Lato Hairline",
+    "Lato-Hairline"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lato",
+      "file_url": "https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHh30wWyWrFCbw7A.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01b104f6b9c53f66-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

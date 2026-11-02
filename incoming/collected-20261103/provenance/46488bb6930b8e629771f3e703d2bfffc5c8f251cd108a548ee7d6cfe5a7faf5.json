@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather-Italic-VariableFont_opsz,wdth,wght-46488bb6930b.ttf",
+  "sha256": "46488bb6930b8e629771f3e703d2bfffc5c8f251cd108a548ee7d6cfe5a7faf5",
+  "size": 4561024,
+  "names": [
+    "Merriweather",
+    "Merriweather Light",
+    "Merriweather Light Italic",
+    "Merriweather-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4m0qyriQwlOrhSvowK_l5-eSZJdeP3r-Ho.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

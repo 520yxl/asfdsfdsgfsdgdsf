@@ -1,0 +1,20 @@
+{
+  "font": "incoming/NewTegomin-Regular-3d0821b3919e.ttf",
+  "sha256": "3d0821b3919ea0df89df33a9d6073cafdfd7aa44e55dfea9f4ff2397b1d41595",
+  "size": 7450612,
+  "names": [
+    "New Tegomin",
+    "New Tegomin Regular",
+    "NewTegomin-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=New+Tegomin",
+      "file_url": "https://fonts.gstatic.com/s/newtegomin/v13/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f4aa25a420fe5983-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

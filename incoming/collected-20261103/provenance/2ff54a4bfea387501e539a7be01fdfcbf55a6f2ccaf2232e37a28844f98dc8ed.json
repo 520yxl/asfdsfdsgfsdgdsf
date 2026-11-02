@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KirangHaerang-Regular-2ff54a4bfea3.ttf",
+  "sha256": "2ff54a4bfea387501e539a7be01fdfcbf55a6f2ccaf2232e37a28844f98dc8ed",
+  "size": 5959572,
+  "names": [
+    "Kirang Haerang",
+    "Kirang Haerang Regular",
+    "KirangHaerang-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Kirang+Haerang",
+      "file_url": "https://fonts.gstatic.com/s/kiranghaerang/v22/E21-_dn_gvvIjhYON1lpIU4-bcqvWPaJq4no.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bff82457ba0a138d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

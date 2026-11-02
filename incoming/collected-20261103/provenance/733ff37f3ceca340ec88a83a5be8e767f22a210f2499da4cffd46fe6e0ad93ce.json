@@ -1,0 +1,21 @@
+{
+  "font": "incoming/KumbhSans-VariableFont_YOPQ,wght-733ff37f3cec.ttf",
+  "sha256": "733ff37f3ceca340ec88a83a5be8e767f22a210f2499da4cffd46fe6e0ad93ce",
+  "size": 118572,
+  "names": [
+    "Kumbh Sans",
+    "Kumbh Sans Regular",
+    "KumbhSans-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Kumbh+Sans",
+      "file_url": "https://fonts.gstatic.com/s/kumbhsans/v27/c4ml1n92AsfhuCq6tVsauodX-Kq-QUI.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/640d0de65d301aa3-OFL.txt",
+    "incoming/collected-20261103/licenses/7051fd00f4401ebe-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

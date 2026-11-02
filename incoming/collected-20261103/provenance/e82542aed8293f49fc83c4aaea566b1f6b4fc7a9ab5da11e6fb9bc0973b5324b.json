@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Lato-Regular-e82542aed829.ttf",
+  "sha256": "e82542aed8293f49fc83c4aaea566b1f6b4fc7a9ab5da11e6fb9bc0973b5324b",
+  "size": 75152,
+  "names": [
+    "Lato",
+    "Lato Regular",
+    "Lato-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lato",
+      "file_url": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHvxk6XweuBCY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01b104f6b9c53f66-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

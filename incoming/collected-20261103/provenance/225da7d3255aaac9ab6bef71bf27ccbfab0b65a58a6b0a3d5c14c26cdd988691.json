@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Montserrat-Italic-VariableFont_wght-225da7d3255a.ttf",
+  "sha256": "225da7d3255aaac9ab6bef71bf27ccbfab0b65a58a6b0a3d5c14c26cdd988691",
+  "size": 701156,
+  "names": [
+    "Montserrat",
+    "Montserrat Thin",
+    "Montserrat Thin Italic",
+    "Montserrat-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Montserrat",
+      "file_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxhziTn89dtpQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6d823fa267b028-OFL.txt",
+    "incoming/collected-20261103/licenses/74082094b5a5d961-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

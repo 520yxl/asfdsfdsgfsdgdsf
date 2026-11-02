@@ -1,0 +1,20 @@
+{
+  "font": "incoming/MoiraiOne-Regular-2cec569da635.ttf",
+  "sha256": "2cec569da63581b2a586a7c7d0433b7bd1e6ae47f535299c8533fa6ee8af3134",
+  "size": 2097316,
+  "names": [
+    "Moirai One",
+    "Moirai One Regular",
+    "MoiraiOne-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Moirai+One",
+      "file_url": "https://fonts.gstatic.com/s/moiraione/v3/2sDbZGFUgJLJmby6xgNGT0WWB7UcfCg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/74259fa5e9e68b91-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

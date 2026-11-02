@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KleeOne-Regular-344b54a6c74a.ttf",
+  "sha256": "344b54a6c74a63bd643f9b644530e7d990a8d54b23529c8663ed4ed5614de4b2",
+  "size": 7925332,
+  "names": [
+    "Klee One",
+    "Klee One Regular",
+    "KleeOne-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Klee+One",
+      "file_url": "https://fonts.gstatic.com/s/kleeone/v14/LDIxapCLNRc6A8oT4q4AOeekWPrP.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/de0fcd75cfc5e5db-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

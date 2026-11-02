@@ -1,0 +1,18 @@
+{
+  "font": "incoming/NanumGothic-Regular-cf050025dcce.ttf",
+  "sha256": "cf050025dcce823de644153981ff8b171d5b78d7d0ddd6e3c9f39e814fad3564",
+  "size": 2053328,
+  "names": [
+    "NanumGothic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nanum+Gothic",
+      "file_url": "https://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_z_tLfxno73g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c5b184e481a548f6-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

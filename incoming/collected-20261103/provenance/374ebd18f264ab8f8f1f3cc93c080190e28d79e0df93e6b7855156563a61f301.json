@@ -1,0 +1,21 @@
+{
+  "font": "incoming/LibreBaskerville-Italic-VariableFont_wght-374ebd18f264.ttf",
+  "sha256": "374ebd18f264ab8f8f1f3cc93c080190e28d79e0df93e6b7855156563a61f301",
+  "size": 167156,
+  "names": [
+    "Libre Baskerville",
+    "Libre Baskerville Italic",
+    "LibreBaskerville-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Libre+Baskerville",
+      "file_url": "https://fonts.gstatic.com/s/librebaskerville/v24/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcaxYaDc2V2ro.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4a5668828c906260-OFL.txt",
+    "incoming/collected-20261103/licenses/d6b727926290006a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

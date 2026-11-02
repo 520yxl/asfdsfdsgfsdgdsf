@@ -1,0 +1,19 @@
+{
+  "font": "incoming/NanumMyeongjo-ExtraBold-1bfd8fc3dbb3.ttf",
+  "sha256": "1bfd8fc3dbb399b8ec5a1743f12190197f9a16c40ae17a256a1053052c950cba",
+  "size": 3179248,
+  "names": [
+    "NanumMyeongjo",
+    "NanumMyeongjoExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nanum+Myeongjo",
+      "file_url": "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFA0pfCs5Kos.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/39d45c277a085ddc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

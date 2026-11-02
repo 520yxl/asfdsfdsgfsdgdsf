@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Neuton-Bold-e274f9647ec6.ttf",
+  "sha256": "e274f9647ec6c1874be8dd780889f3efcd53a688c82b61c379e3e588f19e6eeb",
+  "size": 58148,
+  "names": [
+    "Neuton",
+    "Neuton Bold",
+    "Neuton-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Neuton",
+      "file_url": "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKdK0fegD5Drog6Q.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/88703e6c4d08ef78-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

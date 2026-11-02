@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather-VariableFont_opsz,wdth,wght-74f80c64c921.ttf",
+  "sha256": "74f80c64c921efa4557be52e76608b25a36cb7ee8e9aaf1ec505deb408efe6a5",
+  "size": 4598556,
+  "names": [
+    "Merriweather",
+    "Merriweather Light",
+    "Merriweather-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-440qyriQwlOrhSvowK_l5OeyxNV-bnrw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

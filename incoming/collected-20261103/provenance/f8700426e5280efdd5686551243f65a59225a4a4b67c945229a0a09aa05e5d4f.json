@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KleeOne-SemiBold-f8700426e528.ttf",
+  "sha256": "f8700426e5280efdd5686551243f65a59225a4a4b67c945229a0a09aa05e5d4f",
+  "size": 8091608,
+  "names": [
+    "Klee One",
+    "Klee One SemiBold",
+    "KleeOne-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Klee+One",
+      "file_url": "https://fonts.gstatic.com/s/kleeone/v14/LDI2apCLNRc6A8oT4pbYF8Osc-bGkqIw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/de0fcd75cfc5e5db-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

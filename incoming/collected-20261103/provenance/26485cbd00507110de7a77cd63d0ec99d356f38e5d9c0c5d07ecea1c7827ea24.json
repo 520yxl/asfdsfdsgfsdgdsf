@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerif-VariableFont_wdth,wght-26485cbd0050.ttf",
+  "sha256": "26485cbd00507110de7a77cd63d0ec99d356f38e5d9c0c5d07ecea1c7827ea24",
+  "size": 1868872,
+  "names": [
+    "Noto Serif",
+    "Noto Serif Regular",
+    "NotoSerif-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif",
+      "file_url": "https://fonts.gstatic.com/s/notoserif/v33/ga6Iaw1J5X9T9RW6j9bNTFAcaRi_bMQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/1be03c10d71de7ad-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

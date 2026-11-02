@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LiuJianMaoCao-Regular-89215311f943.ttf",
+  "sha256": "89215311f9432a2ead2207d3d3b32852f83b5ea8c59600f6cad2b7407d153a48",
+  "size": 4940224,
+  "names": [
+    "Liu Jian Mao Cao",
+    "Liu Jian Mao Cao Regular",
+    "LiuJianMaoCao-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Liu+Jian+Mao+Cao",
+      "file_url": "https://fonts.gstatic.com/s/liujianmaocao/v24/845DNN84HJrccNonurqXILGpvCOoferVKGWsUo8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b3f7084f2bb7deaf-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

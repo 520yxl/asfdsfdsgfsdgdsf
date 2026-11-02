@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LibreCaslonDisplay-Regular-0e84861a1d1e.ttf",
+  "sha256": "0e84861a1d1e4265bc483355f64f0379349d0c85fec68558f6593f6d2f381664",
+  "size": 97972,
+  "names": [
+    "Libre Caslon Display",
+    "Libre Caslon Display Regular",
+    "LibreCaslonDisplay-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Libre+Caslon+Display",
+      "file_url": "https://fonts.gstatic.com/s/librecaslondisplay/v18/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr2lRdRhtCC4d.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/daf4a48f29faef42-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

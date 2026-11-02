@@ -1,0 +1,19 @@
+{
+  "font": "incoming/NanumGothicCoding-Bold-77aa59d50758.ttf",
+  "sha256": "77aa59d507580b05c24f4a099e89229f97b88e4d38fb15569cd0db2d14b83e35",
+  "size": 1940240,
+  "names": [
+    "NanumGothicCoding",
+    "NanumGothicCoding-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nanum+Gothic+Coding",
+      "file_url": "https://fonts.gstatic.com/s/nanumgothiccoding/v27/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgecsV88t5V9r4.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c5b184e481a548f6-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

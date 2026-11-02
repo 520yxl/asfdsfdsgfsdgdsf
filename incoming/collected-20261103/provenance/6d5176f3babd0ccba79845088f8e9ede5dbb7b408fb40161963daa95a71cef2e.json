@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Lato-LightItalic-6d5176f3babd.ttf",
+  "sha256": "6d5176f3babd0ccba79845088f8e9ede5dbb7b408fb40161963daa95a71cef2e",
+  "size": 49080,
+  "names": [
+    "Lato",
+    "Lato Light",
+    "Lato-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lato",
+      "file_url": "https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI9w2PHA3s5dwt7w.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01b104f6b9c53f66-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

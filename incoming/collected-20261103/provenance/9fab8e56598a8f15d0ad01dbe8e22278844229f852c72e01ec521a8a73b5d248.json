@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUS1Code-VariableFont_wght-9fab8e56598a.ttf",
+  "sha256": "9fab8e56598a8f15d0ad01dbe8e22278844229f852c72e01ec521a8a73b5d248",
+  "size": 3869752,
+  "names": [
+    "M PLUS 1 Code",
+    "M PLUS 1 Code Regular",
+    "MPLUS1Code-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+1+Code",
+      "file_url": "https://fonts.gstatic.com/s/mplus1code/v18/ypvfbXOOx2xFpzmYJS3N2_J2nhhYtUb0gZk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/5660c5bd2cf31710-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

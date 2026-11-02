@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KiwiMaru-Regular-b7f221e14182.ttf",
+  "sha256": "b7f221e14182abb1d624ffd4c91bfb63cadee13c29d7d03d2e430897d3779111",
+  "size": 5037676,
+  "names": [
+    "Kiwi Maru",
+    "Kiwi Maru Regular",
+    "KiwiMaru-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Kiwi+Maru",
+      "file_url": "https://fonts.gstatic.com/s/kiwimaru/v21/R70YjykGkuuDep-hRg6YmACQXzLhTg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/989333653414f37a-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

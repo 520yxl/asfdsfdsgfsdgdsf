@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LINESeedJP-Bold-d7baef3d9d1b.ttf",
+  "sha256": "d7baef3d9d1b5d3144063128890f1f80c7d3c88225697d6a4bce4fe55957e31e",
+  "size": 3769800,
+  "names": [
+    "LINE Seed JP",
+    "LINE Seed JP Bold",
+    "LINESeedJP-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=LINE+Seed+JP",
+      "file_url": "https://fonts.gstatic.com/s/lineseedjp/v6/MwQubh7r89it6QsEXfZb-jMnMbRurVC5RHdCZg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/beff2c952294b175-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

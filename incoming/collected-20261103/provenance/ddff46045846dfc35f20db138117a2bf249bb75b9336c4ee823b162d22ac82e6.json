@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LibreCaslonText-Bold-ddff46045846.ttf",
+  "sha256": "ddff46045846dfc35f20db138117a2bf249bb75b9336c4ee823b162d22ac82e6",
+  "size": 91136,
+  "names": [
+    "Libre Caslon Text",
+    "Libre Caslon Text Bold",
+    "LibreCaslonText-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Libre+Caslon+Text",
+      "file_url": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8sdjNR-8ssPt.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8d68dcbf34d9e065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

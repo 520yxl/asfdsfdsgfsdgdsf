@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LibreCaslonText-Italic-a32b7d8314e5.ttf",
+  "sha256": "a32b7d8314e5f7e6dd919d1df2334ecc7b92e54173c8cc421ef8e9e4bae97061",
+  "size": 100380,
+  "names": [
+    "Libre Caslon Text",
+    "Libre Caslon Text Italic",
+    "LibreCaslonText-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Libre+Caslon+Text",
+      "file_url": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT678IGsGw1aF1JU10PUbTvNNaDMfq91-dJGxO1q9o.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8d68dcbf34d9e065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

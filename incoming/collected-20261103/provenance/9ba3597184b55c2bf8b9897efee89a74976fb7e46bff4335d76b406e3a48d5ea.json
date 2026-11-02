@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Neuton-Regular-9ba3597184b5.ttf",
+  "sha256": "9ba3597184b55c2bf8b9897efee89a74976fb7e46bff4335d76b406e3a48d5ea",
+  "size": 62356,
+  "names": [
+    "Neuton",
+    "Neuton Regular",
+    "Neuton-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Neuton",
+      "file_url": "https://fonts.gstatic.com/s/neuton/v24/UMBTrPtMoH62xUZyyII7civlBw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/88703e6c4d08ef78-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

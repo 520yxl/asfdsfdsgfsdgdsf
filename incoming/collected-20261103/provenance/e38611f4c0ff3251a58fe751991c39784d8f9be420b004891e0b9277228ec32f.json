@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Lato-BoldItalic-e38611f4c0ff.ttf",
+  "sha256": "e38611f4c0ff3251a58fe751991c39784d8f9be420b004891e0b9277228ec32f",
+  "size": 77732,
+  "names": [
+    "Lato",
+    "Lato Bold Italic",
+    "Lato-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lato",
+      "file_url": "https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI5wqPHA3s5dwt7w.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01b104f6b9c53f66-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

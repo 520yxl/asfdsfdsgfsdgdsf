@@ -1,0 +1,20 @@
+{
+  "font": "incoming/NanumPenScript-Regular-a0bc8ec50075.ttf",
+  "sha256": "a0bc8ec50075e11496defe34eb9036d56907d44f880b80b2032ac0dbff140e88",
+  "size": 3200444,
+  "names": [
+    "Nanum Pen",
+    "Nanum Pen Regular",
+    "NanumPen-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nanum+Pen+Script",
+      "file_url": "https://fonts.gstatic.com/s/nanumpenscript/v25/daaDSSYiLGqEal3MvdA_FOL_3FkN2z7-aMFCcTU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c5b184e481a548f6-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

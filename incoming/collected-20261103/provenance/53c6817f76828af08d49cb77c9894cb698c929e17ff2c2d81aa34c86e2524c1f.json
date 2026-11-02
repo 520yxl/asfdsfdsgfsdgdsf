@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Lora-VariableFont_wght-53c6817f7682.ttf",
+  "sha256": "53c6817f76828af08d49cb77c9894cb698c929e17ff2c2d81aa34c86e2524c1f",
+  "size": 210884,
+  "names": [
+    "Lora",
+    "Lora Regular",
+    "Lora-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lora",
+      "file_url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuAw3xItNPh_A.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/07d96d6883e62a57-OFL.txt",
+    "incoming/collected-20261103/licenses/f98da2da5e542d45-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

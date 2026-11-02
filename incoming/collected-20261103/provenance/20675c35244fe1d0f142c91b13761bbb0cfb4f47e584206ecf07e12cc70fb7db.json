@@ -1,0 +1,19 @@
+{
+  "font": "incoming/MPLUSRounded1c-Regular-20675c35244f.ttf",
+  "sha256": "20675c35244fe1d0f142c91b13761bbb0cfb4f47e584206ecf07e12cc70fb7db",
+  "size": 3380812,
+  "names": [
+    "Rounded Mplus 1c",
+    "RoundedMplus1c-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+Rounded+1c",
+      "file_url": "https://fonts.gstatic.com/s/mplusrounded1c/v22/VdGEAYIAV6gnpUpoWwNkYvrugw9RuPWGzr8C7vav.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

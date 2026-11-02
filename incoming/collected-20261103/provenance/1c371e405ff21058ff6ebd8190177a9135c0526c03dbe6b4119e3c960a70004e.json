@@ -1,0 +1,19 @@
+{
+  "font": "incoming/NanumGothic-ExtraBold-1c371e405ff2.ttf",
+  "sha256": "1c371e405ff21058ff6ebd8190177a9135c0526c03dbe6b4119e3c960a70004e",
+  "size": 2111196,
+  "names": [
+    "NanumGothic",
+    "NanumGothicExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nanum+Gothic",
+      "file_url": "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LXv77zlEn14YEUQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c5b184e481a548f6-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

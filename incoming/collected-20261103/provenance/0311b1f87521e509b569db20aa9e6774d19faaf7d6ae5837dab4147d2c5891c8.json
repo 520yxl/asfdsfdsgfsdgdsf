@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Manrope-VariableFont_wght-0311b1f87521.ttf",
+  "sha256": "0311b1f87521e509b569db20aa9e6774d19faaf7d6ae5837dab4147d2c5891c8",
+  "size": 164596,
+  "names": [
+    "Manrope",
+    "Manrope ExtraLight",
+    "Manrope-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Manrope",
+      "file_url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRsgC7S9XdZN8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4c0ee20ed330d37c-OFL.txt",
+    "incoming/collected-20261103/licenses/9dc5bfd8212f9259-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

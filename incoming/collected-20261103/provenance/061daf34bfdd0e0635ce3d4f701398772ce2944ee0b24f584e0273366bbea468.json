@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerif-Italic-VariableFont_wdth,wght-061daf34bfdd.ttf",
+  "sha256": "061daf34bfdd0e0635ce3d4f701398772ce2944ee0b24f584e0273366bbea468",
+  "size": 2429468,
+  "names": [
+    "Noto Serif",
+    "Noto Serif Italic",
+    "NotoSerif-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif",
+      "file_url": "https://fonts.gstatic.com/s/notoserif/v33/ga6Kaw1J5X9T9RW6j9bNfFIWbTq6fMRRMw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/1be03c10d71de7ad-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
