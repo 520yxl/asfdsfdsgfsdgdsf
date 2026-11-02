@@ -1,0 +1,21 @@
+{
+  "font": "incoming/LXGWWenKaiScreen-abd13364163e.ttf",
+  "sha256": "abd13364163e3cd84372b333f2fdcee9efb848634668f1c0ce5788dcd059ee61",
+  "size": 26095590,
+  "names": [
+    "LXGW WenKai Screen",
+    "LXGWWenKaiScreen",
+    "霞鹜文楷 屏幕阅读版"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwWenKai-Screen",
+      "license_url": "https://raw.githubusercontent.com/lxgw/LxgwWenKai-Screen/v1.530/OFL.txt",
+      "file_url": "https://github.com/lxgw/LxgwWenKai-Screen/releases/download/v1.530/LXGWWenKaiScreen.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cd0af2334141761b-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

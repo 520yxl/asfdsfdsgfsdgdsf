@@ -1,0 +1,23 @@
+{
+  "font": "incoming/LXGWWenKaiLite-Regular-f799a538a335.ttf",
+  "sha256": "f799a538a3355877e597a0ae04050e897932c9ae7689eb9227c2953c5dd549ea",
+  "size": 13949472,
+  "names": [
+    "LXGW WenKai Lite",
+    "LXGWWenKaiLite-Regular",
+    "霞鶩文楷 輕便版",
+    "霞鹜文楷 轻便版"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwWenKai-Lite",
+      "license_url": "https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/v1.530/OFL.txt",
+      "file_url": "https://github.com/lxgw/LxgwWenKai-Lite/releases/download/v1.530/LXGWWenKaiLite-Regular.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7752fbb4e6c855f7-OFL.txt",
+    "incoming/collected-20261103/licenses/f8dd9af71a51c425-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

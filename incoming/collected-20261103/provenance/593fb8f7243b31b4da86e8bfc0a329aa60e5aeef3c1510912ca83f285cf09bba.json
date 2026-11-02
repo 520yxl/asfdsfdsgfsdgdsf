@@ -1,0 +1,26 @@
+{
+  "font": "incoming/LXGWWenKaiMonoLite-Medium-593fb8f7243b.ttf",
+  "sha256": "593fb8f7243b31b4da86e8bfc0a329aa60e5aeef3c1510912ca83f285cf09bba",
+  "size": 13864520,
+  "names": [
+    "LXGW WenKai Mono Lite",
+    "LXGW WenKai Mono Lite Medium",
+    "LXGWWenKaiMonoLite-Medium",
+    "霞鶩文楷等寬 輕便版",
+    "霞鶩文楷等寬 輕便版 Medium",
+    "霞鹜文楷等宽 轻便版",
+    "霞鹜文楷等宽 轻便版 Medium"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwWenKai-Lite",
+      "license_url": "https://raw.githubusercontent.com/lxgw/LxgwWenKai-Lite/v1.530/OFL.txt",
+      "file_url": "https://github.com/lxgw/LxgwWenKai-Lite/releases/download/v1.530/LXGWWenKaiMonoLite-Medium.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7752fbb4e6c855f7-OFL.txt",
+    "incoming/collected-20261103/licenses/f8dd9af71a51c425-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
