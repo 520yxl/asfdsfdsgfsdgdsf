@@ -1,0 +1,21 @@
+{
+  "font": "incoming/LINESeedJP-ExtraBold-649849e9e688.ttf",
+  "sha256": "649849e9e6881be25ac7bf5b02e9ea8d98e1dbfdffc5416784319731969e48ab",
+  "size": 3594196,
+  "names": [
+    "LINE Seed JP",
+    "LINE Seed JP ExtraBold",
+    "LINESeedJP-ExtraBold"
+  ],
+  "sources": [
+    {
+      "repository": "line/seed",
+      "license_url": "https://github.com/line/seed/releases/download/v20260828/seed-v20260828.zip",
+      "file_url": "https://github.com/line/seed/releases/download/v20260828/seed-v20260828.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2e877cb9d5c82b6f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

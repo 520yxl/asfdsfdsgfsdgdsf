@@ -1,0 +1,21 @@
+{
+  "font": "incoming/LINESeedJP-Regular-5bd423688e03.ttf",
+  "sha256": "5bd423688e032442b377e14687a629e7b2429998c10b9b06936537e7263493a5",
+  "size": 3663744,
+  "names": [
+    "LINE Seed JP",
+    "LINE Seed JP Regular",
+    "LINESeedJP-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "line/seed",
+      "license_url": "https://github.com/line/seed/releases/download/v20260828/seed-v20260828.zip",
+      "file_url": "https://github.com/line/seed/releases/download/v20260828/seed-v20260828.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2e877cb9d5c82b6f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

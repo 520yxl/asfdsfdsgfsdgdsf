@@ -1,0 +1,22 @@
+{
+  "font": "incoming/LXGWBrightTC-Regular-1daacad1e82f.ttf",
+  "sha256": "1daacad1e82f60026afcf65fb5b5327cf29024b8d115a576bc78c1308a28417d",
+  "size": 15032844,
+  "names": [
+    "LXGW Bright TC",
+    "LXGW Bright TC Regular",
+    "LXGW-Bright-TC-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwBright",
+      "license_url": "https://raw.githubusercontent.com/lxgw/LxgwBright/26.10.22/OFL.txt",
+      "file_url": "https://github.com/lxgw/LxgwBright/releases/download/26.10.22/LXGWBrightTC.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2a3b210e3fe20a46-OFL.txt",
+    "incoming/collected-20261103/licenses/50e45e0818986ac7-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

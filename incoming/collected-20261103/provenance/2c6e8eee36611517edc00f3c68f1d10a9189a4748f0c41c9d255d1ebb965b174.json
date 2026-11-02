@@ -1,0 +1,23 @@
+{
+  "font": "incoming/LXGWBrightGB-MediumItalic-2c6e8eee3661.ttf",
+  "sha256": "2c6e8eee36611517edc00f3c68f1d10a9189a4748f0c41c9d255d1ebb965b174",
+  "size": 14780176,
+  "names": [
+    "LXGW Bright GB",
+    "LXGW Bright GB Medium",
+    "LXGW Bright GB Medium Italic",
+    "LXGW-Bright-GB-Medium-Italic"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwBright",
+      "license_url": "https://raw.githubusercontent.com/lxgw/LxgwBright/26.10.22/OFL.txt",
+      "file_url": "https://github.com/lxgw/LxgwBright/releases/download/26.10.22/LXGWBrightGB.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2a3b210e3fe20a46-OFL.txt",
+    "incoming/collected-20261103/licenses/50e45e0818986ac7-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

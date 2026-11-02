@@ -1,0 +1,29 @@
+{
+  "font": "incoming/cwTeXQHeiZH-Bold-9370f5202ab1.ttf",
+  "sha256": "9370f5202ab1c434ea4770af6c5ace70a0915567c46c31b2c65587c79d35869a",
+  "size": 4482408,
+  "names": [
+    "cwTeX Q HeiZH",
+    "cwTeX Q HeiZH Bold",
+    "cwTeXQHeiZH-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "l10n-tw/cwtex-q-fonts-TTFs",
+      "license_url": "https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/345f059339189d5a-copying.txt",
+    "incoming/collected-20261103/licenses/80095de08434ff6f-license.txt",
+    "incoming/collected-20261103/licenses/447b81ac1c034e0f-OFL.txt",
+    "incoming/collected-20261103/licenses/1cd185e9fcef578f-copying.txt",
+    "incoming/collected-20261103/licenses/ccdf63c223d75458-license.txt",
+    "incoming/collected-20261103/licenses/bb9fadb53eebcf6a-readme-en-utf8.txt",
+    "incoming/collected-20261103/licenses/234c8581339a088d-readme-zh-utf8.txt",
+    "incoming/collected-20261103/licenses/ecabd1ecf4054b93-readme.html",
+    "incoming/collected-20261103/licenses/bf838c690e845ef4-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
