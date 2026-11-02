@@ -297,7 +297,7 @@
     {
       "id": "adobe",
       "name": "Adobe",
-      "count": 191
+      "count": 187
     },
     {
       "id": "adobe-systems-incorporated",
@@ -525,7 +525,7 @@
       "count": 4
     },
     {
-      "id": "arphic-technology-co-ltd",
+      "id": "arphic",
       "name": "Arphic Technology Co., Ltd.",
       "count": 4
     },
@@ -613,16 +613,6 @@
       "id": "bbox-type-gmbh",
       "name": "bBox Type GmbH",
       "count": 18
-    },
-    {
-      "id": "beijing-founder-electronics-co-ltd",
-      "name": "Beijing Founder Electronics Co.,Ltd.",
-      "count": 1
-    },
-    {
-      "id": "beijing-tsanger-character-technology-co-ltd",
-      "name": "Beijing Tsanger Character Technology Co., Ltd.",
-      "count": 27
     },
     {
       "id": "belleve-invis",
@@ -800,14 +790,9 @@
       "count": 33
     },
     {
-      "id": "chill-type",
-      "name": "Chill Type",
-      "count": 5
-    },
-    {
-      "id": "chilltype",
-      "name": "ChillType",
-      "count": 1
+      "id": "chill",
+      "name": "",
+      "count": 25
     },
     {
       "id": "chris-simpson",
@@ -1325,6 +1310,11 @@
       "count": 2
     },
     {
+      "id": "founder",
+      "name": "北京北大方正电子有限公司",
+      "count": 4
+    },
+    {
       "id": "foundry5",
       "name": "Foundry5",
       "count": 2
@@ -1442,7 +1432,7 @@
     {
       "id": "hanchan-type",
       "name": "Hanchan Type",
-      "count": 7
+      "count": 6
     },
     {
       "id": "hanghzou-huoshi",
@@ -1465,7 +1455,7 @@
       "count": 9
     },
     {
-      "id": "hanyi-fonts",
+      "id": "hanyi",
       "name": "Hanyi Fonts",
       "count": 134
     },
@@ -1485,9 +1475,9 @@
       "count": 8
     },
     {
-      "id": "honglei-design",
-      "name": "HongLei Design",
-      "count": 1
+      "id": "honglei",
+      "name": "SlideFont",
+      "count": 5
     },
     {
       "id": "houzun",
@@ -1533,6 +1523,16 @@
       "id": "huerta-tipografica",
       "name": "Huerta Tipografica",
       "count": 105
+    },
+    {
+      "id": "huiwen",
+      "name": "",
+      "count": 4
+    },
+    {
+      "id": "huxiaobo",
+      "name": "",
+      "count": 3
     },
     {
       "id": "hypertype",
@@ -2460,6 +2460,11 @@
       "count": 2
     },
     {
+      "id": "pangmenzhengdao",
+      "name": "ÅÓ",
+      "count": 5
+    },
+    {
       "id": "paratype-ltd",
       "name": "ParaType Ltd",
       "count": 23
@@ -2675,9 +2680,9 @@
       "count": 20
     },
     {
-      "id": "sanji",
-      "name": "SANJI",
-      "count": 1
+      "id": "sanjizixing",
+      "name": "",
+      "count": 4
     },
     {
       "id": "santiago-orozco",
@@ -2740,11 +2745,6 @@
       "count": 4
     },
     {
-      "id": "shanghai-zihun-network-technology-co-ltd",
-      "name": "Shanghai ZiHun Network Technology Co.,Ltd.",
-      "count": 1
-    },
-    {
       "id": "shanghai-zoomlacms-co-ltd",
       "name": "Shanghai ZoomlaCMS co.,LTD",
       "count": 1
@@ -2787,7 +2787,7 @@
     {
       "id": "slidefont",
       "name": "SlideFont",
-      "count": 2
+      "count": 1
     },
     {
       "id": "smc",
@@ -3075,6 +3075,11 @@
       "count": 126
     },
     {
+      "id": "tsanger",
+      "name": "Beijing Tsanger Character Technology Co., Ltd.",
+      "count": 27
+    },
+    {
       "id": "tyler-finck",
       "name": "Tyler Finck",
       "count": 12
@@ -3180,11 +3185,6 @@
       "count": 2
     },
     {
-      "id": "u-ce363b864494",
-      "name": "ÅÓ",
-      "count": 1
-    },
-    {
       "id": "u-ef84a0eec437",
       "name": "Ì",
       "count": 3
@@ -3217,7 +3217,7 @@
     {
       "id": "unknown",
       "name": "",
-      "count": 1269
+      "count": 1230
     },
     {
       "id": "vectro-type-foundry",
@@ -3298,6 +3298,11 @@
       "id": "www-sorkintype-com",
       "name": "www.sorkintype.com",
       "count": 3
+    },
+    {
+      "id": "xiangcui",
+      "name": "",
+      "count": 11
     },
     {
       "id": "xiaoyuan-gao",
@@ -3410,6 +3415,11 @@
       "count": 2
     },
     {
+      "id": "zihun",
+      "name": "Shanghai ZiHun Network Technology Co.,Ltd.",
+      "count": 1
+    },
+    {
       "id": "zizhiqu",
       "name": "ZiZhiQu",
       "count": 1
@@ -3435,11 +3445,6 @@
       "count": 1
     },
     {
-      "id": "北京北大方正电子有限公司",
-      "name": "北京北大方正电子有限公司",
-      "count": 3
-    },
-    {
       "id": "品如设计",
       "name": "品如设计",
       "count": 1
@@ -3448,11 +3453,6 @@
       "id": "奇文云海-设计顾问",
       "name": "奇文云海 设计顾问",
       "count": 4
-    },
-    {
-      "id": "寒蝉字型",
-      "name": "寒蝉字型",
-      "count": 3
     },
     {
       "id": "山东兵克字库设计有限公司",
