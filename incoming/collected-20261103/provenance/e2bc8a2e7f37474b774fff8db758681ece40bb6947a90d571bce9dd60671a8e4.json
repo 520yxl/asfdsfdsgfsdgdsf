@@ -1,0 +1,17 @@
+{
+  "font": "incoming/SourceHanSansCN-Regular-e2bc8a2e7f37.otf",
+  "sha256": "e2bc8a2e7f37474b774fff8db758681ece40bb6947a90d571bce9dd60671a8e4",
+  "size": 8429224,
+  "names": [
+    "Source Han Sans CN",
+    "SourceHanSansCN-Regular",
+    "思源黑体 CN"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fcac737e761ec63d-LICENSE.txt",
+    "incoming/collected-20261103/licenses/1953855bf1927e72-LICENSE.txt",
+    "incoming/collected-20261103/licenses/b9cf0a03afb8e523-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

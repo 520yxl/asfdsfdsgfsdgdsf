@@ -1,0 +1,23 @@
+{
+  "font": "incoming/PublicSans-ExtraBold-7e44c5f6df2e.ttf",
+  "sha256": "7e44c5f6df2e790b8e3195c0a352500ff0bf40e3daed6990a4833f5d9b021056",
+  "size": 84652,
+  "names": [
+    "Public Sans",
+    "Public Sans ExtraBold",
+    "PublicSans-ExtraBold"
+  ],
+  "sources": [
+    {
+      "repository": "uswds/public-sans",
+      "license_url": "https://github.com/uswds/public-sans/releases/download/v2.001/public-sans-v2.001.zip",
+      "file_url": "https://github.com/uswds/public-sans/releases/download/v2.001/public-sans-v2.001.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/82f0d3cad45f2641-LICENSE.md",
+    "incoming/collected-20261103/licenses/157a9e77f7580246-OFL.txt",
+    "incoming/collected-20261103/licenses/10ce59beda6431a8-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

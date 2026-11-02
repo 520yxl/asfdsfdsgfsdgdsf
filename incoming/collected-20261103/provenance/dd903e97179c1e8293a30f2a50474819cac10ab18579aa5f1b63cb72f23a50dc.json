@@ -1,0 +1,23 @@
+{
+  "font": "incoming/PublicSans-Medium-dd903e97179c.otf",
+  "sha256": "dd903e97179c1e8293a30f2a50474819cac10ab18579aa5f1b63cb72f23a50dc",
+  "size": 56788,
+  "names": [
+    "Public Sans",
+    "Public Sans Medium",
+    "PublicSans-Medium"
+  ],
+  "sources": [
+    {
+      "repository": "uswds/public-sans",
+      "license_url": "https://github.com/uswds/public-sans/releases/download/v2.001/public-sans-v2.001.zip",
+      "file_url": "https://github.com/uswds/public-sans/releases/download/v2.001/public-sans-v2.001.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/82f0d3cad45f2641-LICENSE.md",
+    "incoming/collected-20261103/licenses/157a9e77f7580246-OFL.txt",
+    "incoming/collected-20261103/licenses/10ce59beda6431a8-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

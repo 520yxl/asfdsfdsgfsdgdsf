@@ -1,0 +1,19 @@
+{
+  "font": "incoming/SourceHanSerifCN-Medium-f7906890686d.otf",
+  "sha256": "f7906890686d17e122980efd2d6097d1caefed76312994baeaf220819e818f3a",
+  "size": 11734704,
+  "names": [
+    "Source Han Serif CN",
+    "Source Han Serif CN Medium",
+    "SourceHanSerifCN-Medium",
+    "思源宋体 CN",
+    "思源宋体 CN Medium"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/9ff5bb567e1b92c8-LICENSE.txt",
+    "incoming/collected-20261103/licenses/c606a29cd5c76629-LICENSE.txt",
+    "incoming/collected-20261103/licenses/9ee6df22492e66b8-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

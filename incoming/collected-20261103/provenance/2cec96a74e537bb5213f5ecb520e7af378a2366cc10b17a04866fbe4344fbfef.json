@@ -1,0 +1,23 @@
+{
+  "font": "incoming/PublicSans-BoldItalic-2cec96a74e53.ttf",
+  "sha256": "2cec96a74e537bb5213f5ecb520e7af378a2366cc10b17a04866fbe4344fbfef",
+  "size": 87912,
+  "names": [
+    "Public Sans",
+    "Public Sans Bold Italic",
+    "PublicSans-BoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "uswds/public-sans",
+      "license_url": "https://github.com/uswds/public-sans/releases/download/v2.001/public-sans-v2.001.zip",
+      "file_url": "https://github.com/uswds/public-sans/releases/download/v2.001/public-sans-v2.001.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/82f0d3cad45f2641-LICENSE.md",
+    "incoming/collected-20261103/licenses/157a9e77f7580246-OFL.txt",
+    "incoming/collected-20261103/licenses/10ce59beda6431a8-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
