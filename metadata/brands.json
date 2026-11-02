@@ -5,7 +5,9 @@
       "name": "Adobe",
       "keywords": [
         "Adobe",
-        "思源"
+        "思源",
+        "Source Han",
+        "SourceHan"
       ],
       "name_zh": "Adobe"
     },
@@ -84,6 +86,166 @@
         "站酷",
         "ZCOOL"
       ]
+    },
+    {
+      "id": "founder",
+      "name": "方正",
+      "name_zh": "方正",
+      "keywords": [
+        "方正",
+        "Founder"
+      ],
+      "abbreviations": [
+        "FZ"
+      ]
+    },
+    {
+      "id": "hanyi",
+      "name": "汉仪",
+      "name_zh": "汉仪",
+      "keywords": [
+        "汉仪",
+        "Hanyi"
+      ],
+      "abbreviations": [
+        "HY"
+      ]
+    },
+    {
+      "id": "zihun",
+      "name": "字魂",
+      "name_zh": "字魂",
+      "keywords": [
+        "字魂",
+        "Zihun"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "makefont",
+      "name": "造字工房",
+      "name_zh": "造字工房",
+      "keywords": [
+        "造字工房",
+        "Makefont"
+      ],
+      "abbreviations": [
+        "MF"
+      ]
+    },
+    {
+      "id": "reeji",
+      "name": "锐字",
+      "name_zh": "锐字",
+      "keywords": [
+        "锐字",
+        "REEJI"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "tsanger",
+      "name": "仓耳",
+      "name_zh": "仓耳",
+      "keywords": [
+        "仓耳",
+        "Tsanger"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "arphic",
+      "name": "文鼎",
+      "name_zh": "文鼎",
+      "keywords": [
+        "文鼎",
+        "Arphic"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "dynacomware",
+      "name": "华康",
+      "name_zh": "华康",
+      "keywords": [
+        "华康",
+        "Dynacomware"
+      ],
+      "abbreviations": [
+        "DFP",
+        "DFG"
+      ]
+    },
+    {
+      "id": "chill",
+      "name": "寒蝉",
+      "name_zh": "寒蝉",
+      "keywords": [
+        "寒蝉",
+        "Chill"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "pangmenzhengdao",
+      "name": "庞门正道",
+      "name_zh": "庞门正道",
+      "keywords": [
+        "庞门正道",
+        "PangMenZhengDao"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "huiwen",
+      "name": "汇文",
+      "name_zh": "汇文",
+      "keywords": [
+        "汇文",
+        "Huiwen"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "huxiaobo",
+      "name": "胡晓波",
+      "name_zh": "胡晓波",
+      "keywords": [
+        "胡晓波",
+        "HuXiaoBo"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "honglei",
+      "name": "鸿雷",
+      "name_zh": "鸿雷",
+      "keywords": [
+        "鸿雷",
+        "HongLei"
+      ],
+      "abbreviations": []
+    },
+    {
+      "id": "sanjizixing",
+      "name": "三极",
+      "name_zh": "三极",
+      "keywords": [
+        "三极"
+      ],
+      "abbreviations": [
+        "SJ"
+      ]
+    },
+    {
+      "id": "xiangcui",
+      "name": "香萃",
+      "name_zh": "香萃",
+      "keywords": [
+        "香萃",
+        "XiangCui"
+      ],
+      "abbreviations": []
     }
   ]
 }
