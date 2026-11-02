@@ -29,6 +29,7 @@ class DesktopCatalogTests(unittest.TestCase):
             font.save(path)
             info = build_index.inspect(path)[0]
         self.assertEqual(info['family_zh'][0], '站酷高端黑')
+        self.assertNotIn('站', info['family_zh'])
         rules = [{'id': 'zcool', 'name': '站酷', 'keywords': ['站酷', 'ZCOOL']}]
         self.assertEqual(build_index.brand_for({**info, 'family': 'unrelated', 'full_name': ''}, rules, {}), ('zcool', '站酷'))
         self.assertEqual(build_index.category(info['family_zh'][0], 'Regular'), '黑体')
