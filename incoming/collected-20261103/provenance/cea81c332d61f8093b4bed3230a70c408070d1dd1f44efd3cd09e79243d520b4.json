@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Sango-JA-FALLBACK-cea81c332d61.ttf",
+  "sha256": "cea81c332d61f8093b4bed3230a70c408070d1dd1f44efd3cd09e79243d520b4",
+  "size": 2325976,
+  "names": [
+    "Sango",
+    "Sango JA-FALLBACK",
+    "Sango-JA-FALLBACK",
+    "珊瑚",
+    "珊瑚 JA-FALLBACK"
+  ],
+  "sources": [
+    {
+      "page_url": "https://tanukifont.com/sango/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01dd8e08514c07a7-readme_sango.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

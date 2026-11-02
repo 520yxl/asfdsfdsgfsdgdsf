@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Anonymous Pro B-9d6c14c77acc.ttf",
+  "sha256": "9d6c14c77acc27b5e0f741a8c35e5e747da1fea7e67d48cf0f7769337c247480",
+  "size": 153708,
+  "names": [
+    "Anonymous Pro",
+    "Anonymous Pro Bold",
+    "AnonymousPro-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.marksimonson.com/fonts/view/anonymous-pro"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/58bb79014aab963c-OFL-FAQ.txt",
+    "incoming/collected-20261103/licenses/8594350034ab1cb8-OFL.txt",
+    "incoming/collected-20261103/licenses/9ba588d5d0fcf9e1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

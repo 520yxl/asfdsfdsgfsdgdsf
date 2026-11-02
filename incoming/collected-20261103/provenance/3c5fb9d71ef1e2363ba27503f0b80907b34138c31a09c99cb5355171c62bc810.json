@@ -1,0 +1,19 @@
+{
+  "font": "incoming/JetBrainsMono-Regular-3c5fb9d71ef1.ttf",
+  "sha256": "3c5fb9d71ef1e2363ba27503f0b80907b34138c31a09c99cb5355171c62bc810",
+  "size": 136708,
+  "names": [
+    "JetBrains Mono",
+    "JetBrains Mono Regular",
+    "JetBrainsMono-Regular"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.jetbrains.com/lp/mono/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c71d239df91726fc-LICENSE"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

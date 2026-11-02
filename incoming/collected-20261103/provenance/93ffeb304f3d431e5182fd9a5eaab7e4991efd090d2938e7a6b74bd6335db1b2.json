@@ -1,0 +1,19 @@
+{
+  "font": "incoming/RecMonoCasual-BoldItalic-1.085-93ffeb304f3d.ttf",
+  "sha256": "93ffeb304f3d431e5182fd9a5eaab7e4991efd090d2938e7a6b74bd6335db1b2",
+  "size": 484184,
+  "names": [
+    "Rec Mono Casual",
+    "Rec Mono Casual Bold Italic",
+    "RecMonoCasual-BoldItalic"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/41f68c368bf394e9-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

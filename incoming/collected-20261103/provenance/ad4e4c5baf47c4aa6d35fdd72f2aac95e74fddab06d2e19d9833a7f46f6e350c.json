@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LINESeedSansTH_A_Th-ad4e4c5baf47.ttf",
+  "sha256": "ad4e4c5baf47c4aa6d35fdd72f2aac95e74fddab06d2e19d9833a7f46f6e350c",
+  "size": 76488,
+  "names": [
+    "LINE Seed Sans TH App",
+    "LINE Seed Sans TH App Thin",
+    "LINESeedSansTHApp-Thin"
+  ],
+  "sources": [
+    {
+      "page_url": "https://seed.line.me/index_jp.html"
+    },
+    {
+      "page_url": "https://seed.line.me/index_kr.html"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

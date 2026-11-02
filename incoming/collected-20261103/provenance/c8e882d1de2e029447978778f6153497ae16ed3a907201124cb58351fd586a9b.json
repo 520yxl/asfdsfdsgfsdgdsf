@@ -1,0 +1,18 @@
+{
+  "font": "incoming/RecMonoDuotone-Regular-1.085-c8e882d1de2e.ttf",
+  "sha256": "c8e882d1de2e029447978778f6153497ae16ed3a907201124cb58351fd586a9b",
+  "size": 478036,
+  "names": [
+    "Rec Mono Duotone",
+    "RecMonoDuotone-Regular"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/41f68c368bf394e9-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

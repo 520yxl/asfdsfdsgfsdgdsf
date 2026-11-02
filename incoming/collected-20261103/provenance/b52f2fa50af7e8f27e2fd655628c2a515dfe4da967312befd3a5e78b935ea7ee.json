@@ -1,0 +1,19 @@
+{
+  "font": "incoming/RecMonoLinear-Bold-1.085-b52f2fa50af7.ttf",
+  "sha256": "b52f2fa50af7e8f27e2fd655628c2a515dfe4da967312befd3a5e78b935ea7ee",
+  "size": 484936,
+  "names": [
+    "Rec Mono Linear",
+    "Rec Mono Linear Bold",
+    "RecMonoLinear-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/41f68c368bf394e9-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

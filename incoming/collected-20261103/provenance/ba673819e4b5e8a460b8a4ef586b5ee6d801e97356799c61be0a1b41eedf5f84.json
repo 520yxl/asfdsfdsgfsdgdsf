@@ -1,0 +1,19 @@
+{
+  "font": "incoming/RecMonoSemicasual-Bold-1.085-ba673819e4b5.ttf",
+  "sha256": "ba673819e4b5e8a460b8a4ef586b5ee6d801e97356799c61be0a1b41eedf5f84",
+  "size": 513668,
+  "names": [
+    "Rec Mono Semicasual",
+    "Rec Mono Semicasual Bold",
+    "RecMonoSemicasual-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/41f68c368bf394e9-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

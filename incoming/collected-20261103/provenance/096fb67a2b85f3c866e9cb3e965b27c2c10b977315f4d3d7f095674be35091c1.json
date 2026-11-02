@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Hack-Italic-096fb67a2b85.ttf",
+  "sha256": "096fb67a2b85f3c866e9cb3e965b27c2c10b977315f4d3d7f095674be35091c1",
+  "size": 316156,
+  "names": [
+    "Hack",
+    "Hack Italic",
+    "Hack-Italic"
+  ],
+  "sources": [
+    {
+      "page_url": "https://sourcefoundry.org/hack/"
+    },
+    {
+      "repository": "source-foundry/Hack",
+      "file_url": "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

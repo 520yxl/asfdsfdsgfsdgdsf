@@ -1,0 +1,19 @@
+{
+  "font": "incoming/TanukiMagic-e4a1be707803.ttf",
+  "sha256": "e4a1be7078036ba7482b1102e0a720f4e2848716f6a4862607a2c69d44d43278",
+  "size": 8825304,
+  "names": [
+    "Tanuki Permanent Marker",
+    "Tanuki-Permanent-Marker",
+    "たぬき油性マジック"
+  ],
+  "sources": [
+    {
+      "page_url": "https://tanukifont.com/tanuki-permanent-marker/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/7b1a8c6029e263b3-readme.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

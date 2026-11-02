@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Tanugo-TTF-Round-Regular-9317b919acc1.ttf",
+  "sha256": "9317b919acc16b69a140755d55c77b414d8230e8ecaa1b6e7a2bb69b3759194e",
+  "size": 6949536,
+  "names": [
+    "Tanugo-R-TTF",
+    "Tanugo-R-TTF Regular",
+    "Tanugo-R-TTF-Regular",
+    "たぬゴ丸-TTF",
+    "たぬゴ丸-TTF 標準"
+  ],
+  "sources": [
+    {
+      "page_url": "https://tanukifont.com/tanugo/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e6908849748f6b54-readme_tanugo.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Sango-JA-SVG-e0ff6769e26c.ttf",
+  "sha256": "e0ff6769e26c5307979a2ea141a11505c51e43fa5bc1641de928012ef2224311",
+  "size": 22826132,
+  "names": [
+    "Sango",
+    "Sango JA-SVG",
+    "Sango-JA-SVG",
+    "珊瑚",
+    "珊瑚 JA-SVG"
+  ],
+  "sources": [
+    {
+      "page_url": "https://tanukifont.com/sango/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01dd8e08514c07a7-readme_sango.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

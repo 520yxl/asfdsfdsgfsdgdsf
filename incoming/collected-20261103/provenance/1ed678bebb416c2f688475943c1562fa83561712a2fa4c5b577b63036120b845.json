@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Sango-JA-CPAL-1ed678bebb41.ttf",
+  "sha256": "1ed678bebb416c2f688475943c1562fa83561712a2fa4c5b577b63036120b845",
+  "size": 9010344,
+  "names": [
+    "Sango",
+    "Sango JA-CPAL",
+    "Sango-JA-CPAL",
+    "珊瑚",
+    "珊瑚 JA-CPAL"
+  ],
+  "sources": [
+    {
+      "page_url": "https://tanukifont.com/sango/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01dd8e08514c07a7-readme_sango.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

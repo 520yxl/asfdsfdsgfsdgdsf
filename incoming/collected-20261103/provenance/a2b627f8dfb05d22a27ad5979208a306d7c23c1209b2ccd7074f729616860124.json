@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LINESeedSansTH_Bd-a2b627f8dfb0.otf",
+  "sha256": "a2b627f8dfb05d22a27ad5979208a306d7c23c1209b2ccd7074f729616860124",
+  "size": 47000,
+  "names": [
+    "LINE Seed Sans TH",
+    "LINE Seed Sans TH Bold",
+    "LINESeedSansTH-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://seed.line.me/index_jp.html"
+    },
+    {
+      "page_url": "https://seed.line.me/index_kr.html"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

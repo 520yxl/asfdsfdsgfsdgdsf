@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Tanugo-ExtraLight-e31d5ede8ba6.otf",
+  "sha256": "e31d5ede8ba6c7654a44bd9daecf1d8b4e2027b91aa2241d0efdba3efc3440d5",
+  "size": 1700932,
+  "names": [
+    "Tanugo-S",
+    "Tanugo-S ExtraLight",
+    "Tanugo-S-ExtraLight",
+    "たぬゴ角",
+    "たぬゴ角 極細"
+  ],
+  "sources": [
+    {
+      "page_url": "https://tanukifont.com/tanugo/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e6908849748f6b54-readme_tanugo.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
