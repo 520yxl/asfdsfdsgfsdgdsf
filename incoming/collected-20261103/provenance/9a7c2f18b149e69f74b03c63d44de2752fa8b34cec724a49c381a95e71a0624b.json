@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothicL-P-Normal-9a7c2f18b149.ttf",
+  "sha256": "9a7c2f18b149e69f74b03c63d44de2752fa8b34cec724a49c381a95e71a0624b",
+  "size": 10591144,
+  "names": [
+    "Gen Jyuu Gothic LP",
+    "Gen Jyuu Gothic LP Normal",
+    "GenJyuuGothicL-P-Normal",
+    "源柔ゴシックLP",
+    "源柔ゴシックLP Normal"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
