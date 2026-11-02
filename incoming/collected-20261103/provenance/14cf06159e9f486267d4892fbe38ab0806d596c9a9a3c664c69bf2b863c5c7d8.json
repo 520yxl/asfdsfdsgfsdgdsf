@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Roboto-ExtraBoldItalic-14cf06159e9f.ttf",
+  "sha256": "14cf06159e9f486267d4892fbe38ab0806d596c9a9a3c664c69bf2b863c5c7d8",
+  "size": 166428,
+  "names": [
+    "Roboto",
+    "Roboto ExtraBold",
+    "Roboto ExtraBold Italic",
+    "Roboto-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXiA_0klQnx24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

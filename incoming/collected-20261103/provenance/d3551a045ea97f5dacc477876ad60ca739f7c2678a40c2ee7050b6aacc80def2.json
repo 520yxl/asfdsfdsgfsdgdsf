@@ -1,0 +1,21 @@
+{
+  "font": "incoming/PlusJakartaSans-BoldItalic-d3551a045ea9.ttf",
+  "sha256": "d3551a045ea97f5dacc477876ad60ca739f7c2678a40c2ee7050b6aacc80def2",
+  "size": 97000,
+  "names": [
+    "Plus Jakarta Sans",
+    "Plus Jakarta Sans Bold Italic",
+    "PlusJakartaSans-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Plus+Jakarta+Sans",
+      "file_url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_QMq2oR82k.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3ee30a5235bb2137-OFL.txt",
+    "incoming/collected-20261103/licenses/c4ed1072b6c89691-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Raleway-BlackItalic-99825372c6d6.ttf",
+  "sha256": "99825372c6d67484242006f708283191d138fc1aac915a3e5587d486ecdf2c98",
+  "size": 161904,
+  "names": [
+    "Raleway",
+    "Raleway Black",
+    "Raleway Black Italic",
+    "Raleway-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Raleway",
+      "file_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLPrQVIT9c2c8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4e2efe77482c6aea-OFL.txt",
+    "incoming/collected-20261103/licenses/b4a53a7f095c2683-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

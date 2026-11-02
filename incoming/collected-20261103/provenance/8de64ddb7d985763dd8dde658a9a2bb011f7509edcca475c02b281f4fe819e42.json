@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Nunito-Black-8de64ddb7d98.ttf",
+  "sha256": "8de64ddb7d985763dd8dde658a9a2bb011f7509edcca475c02b281f4fe819e42",
+  "size": 132028,
+  "names": [
+    "Nunito",
+    "Nunito Black",
+    "Nunito-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nunito",
+      "file_url": "https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM9jo7eTWk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b580343fda5542a-OFL.txt",
+    "incoming/collected-20261103/licenses/c1d4fe90aa4fe887-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

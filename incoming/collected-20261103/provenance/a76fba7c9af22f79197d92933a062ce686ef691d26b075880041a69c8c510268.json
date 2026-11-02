@@ -1,0 +1,22 @@
+{
+  "font": "incoming/OpenSans-LightItalic-a76fba7c9af2.ttf",
+  "sha256": "a76fba7c9af22f79197d92933a062ce686ef691d26b075880041a69c8c510268",
+  "size": 136896,
+  "names": [
+    "Open Sans",
+    "Open Sans Light",
+    "Open Sans Light Italic",
+    "OpenSans-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVcUwaERZjA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

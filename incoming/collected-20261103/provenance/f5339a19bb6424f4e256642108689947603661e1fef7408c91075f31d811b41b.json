@@ -1,0 +1,22 @@
+{
+  "font": "incoming/OpenSans_Condensed-SemiBoldItalic-f5339a19bb64.ttf",
+  "sha256": "f5339a19bb6424f4e256642108689947603661e1fef7408c91075f31d811b41b",
+  "size": 136792,
+  "names": [
+    "Open Sans Condensed",
+    "Open Sans Condensed SemiBold",
+    "Open Sans Condensed SemiBold Italic",
+    "OpenSansCondensed-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXy2q8tWZ0Pw86hd0RkxhjaVcUwaERZjA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

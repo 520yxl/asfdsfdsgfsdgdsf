@@ -1,0 +1,22 @@
+{
+  "font": "incoming/RedHatText-MediumItalic-bcbe35a3c2c4.ttf",
+  "sha256": "bcbe35a3c2c45a87bb3b5febc4a99471c8c79391a47b2f8c487306493d5fa164",
+  "size": 53580,
+  "names": [
+    "Red Hat Text",
+    "Red Hat Text Medium",
+    "Red Hat Text Medium Italic",
+    "RedHatText-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Text",
+      "file_url": "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXQdadApIYv_g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/12680758f7f3fa86-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

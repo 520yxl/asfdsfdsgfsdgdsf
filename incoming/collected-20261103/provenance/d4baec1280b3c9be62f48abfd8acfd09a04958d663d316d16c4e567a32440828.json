@@ -1,0 +1,21 @@
+{
+  "font": "incoming/OpenSans_SemiCondensed-SemiBold-d4baec1280b3.ttf",
+  "sha256": "d4baec1280b3c9be62f48abfd8acfd09a04958d663d316d16c4e567a32440828",
+  "size": 130856,
+  "names": [
+    "Open Sans SemiCondensed",
+    "Open Sans SemiCondensed SemiBold",
+    "OpenSansSemiCondensed-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObjwSVZyOOSr4dVJWUgsgH1y4nY1M2xLER.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

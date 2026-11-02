@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Rubik-SemiBoldItalic-5236c458b370.ttf",
+  "sha256": "5236c458b3702f425b479e99ae8259a7ee9b5567a5f92910b6fe1addb28714c4",
+  "size": 207184,
+  "names": [
+    "Rubik",
+    "Rubik SemiBold",
+    "Rubik SemiBold Italic",
+    "Rubik-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Rubik",
+      "file_url": "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUwdYPFkJ1O.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cf1103789cb26d1f-OFL.txt",
+    "incoming/collected-20261103/licenses/83fa7242c5a955e5-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

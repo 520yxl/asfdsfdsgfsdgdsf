@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Raleway-ExtraBoldItalic-bf20918c9d69.ttf",
+  "sha256": "bf20918c9d69bd6142164769e5223d29e67dee820f718bed3e34cdd4e2122f30",
+  "size": 162500,
+  "names": [
+    "Raleway",
+    "Raleway ExtraBold",
+    "Raleway ExtraBold Italic",
+    "Raleway-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Raleway",
+      "file_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLPrQVIT9c2c8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4e2efe77482c6aea-OFL.txt",
+    "incoming/collected-20261103/licenses/b4a53a7f095c2683-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

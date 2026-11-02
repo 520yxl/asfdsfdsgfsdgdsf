@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Oswald-ExtraLight-f86a55a87173.ttf",
+  "sha256": "f86a55a87173edf4887e852c70d5324cb77c8e5d03980bc67e7053f497f499e2",
+  "size": 87204,
+  "names": [
+    "Oswald",
+    "Oswald ExtraLight",
+    "Oswald-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Oswald",
+      "file_url": "https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUFoZAaRliE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/54ccd815fac94344-OFL.txt",
+    "incoming/collected-20261103/licenses/881c17230fcbbb0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

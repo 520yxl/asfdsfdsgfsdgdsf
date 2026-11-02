@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Raleway-ExtraLight-3b23412d4a96.ttf",
+  "sha256": "3b23412d4a96b214bea6dbf5026812be6a9791962f71351c7a4cf39703eb4068",
+  "size": 163912,
+  "names": [
+    "Raleway",
+    "Raleway ExtraLight",
+    "Raleway-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Raleway",
+      "file_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCPNLA3JC9c.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4e2efe77482c6aea-OFL.txt",
+    "incoming/collected-20261103/licenses/b4a53a7f095c2683-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

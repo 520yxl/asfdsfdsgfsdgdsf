@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Nunito-ExtraLight-286a6adf87b4.ttf",
+  "sha256": "286a6adf87b43d6c6c9de813f066a1b6c057c6c65573937ef6c8cf8205e5809d",
+  "size": 131988,
+  "names": [
+    "Nunito",
+    "Nunito ExtraLight",
+    "Nunito-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nunito",
+      "file_url": "https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM9jo7eTWk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b580343fda5542a-OFL.txt",
+    "incoming/collected-20261103/licenses/c1d4fe90aa4fe887-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

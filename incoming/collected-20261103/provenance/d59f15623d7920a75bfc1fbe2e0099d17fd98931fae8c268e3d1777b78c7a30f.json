@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Oswald-Medium-d59f15623d79.ttf",
+  "sha256": "d59f15623d7920a75bfc1fbe2e0099d17fd98931fae8c268e3d1777b78c7a30f",
+  "size": 87592,
+  "names": [
+    "Oswald",
+    "Oswald Medium",
+    "Oswald-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Oswald",
+      "file_url": "https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUFoZAaRliE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/54ccd815fac94344-OFL.txt",
+    "incoming/collected-20261103/licenses/881c17230fcbbb0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

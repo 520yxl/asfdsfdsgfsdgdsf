@@ -1,0 +1,21 @@
+{
+  "font": "incoming/OpenSans_SemiCondensed-ExtraBold-d5ae6a29901d.ttf",
+  "sha256": "d5ae6a29901d2f10501ecaa288a755605ec0387cb70ad2cfe696e138e2361dcd",
+  "size": 131744,
+  "names": [
+    "Open Sans SemiCondensed",
+    "Open Sans SemiCondensed ExtraBold",
+    "OpenSansSemiCondensed-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObjwSVZyOOSr4dVJWUgshZ1y4nY1M2xLER.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

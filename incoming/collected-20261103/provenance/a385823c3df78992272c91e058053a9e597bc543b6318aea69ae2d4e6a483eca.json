@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Recursive-Regular-a385823c3df7.ttf",
+  "sha256": "a385823c3df78992272c91e058053a9e597bc543b6318aea69ae2d4e6a483eca",
+  "size": 234504,
+  "names": [
+    "Recursive",
+    "Recursive Regular",
+    "Recursive-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Recursive",
+      "file_url": "https://fonts.gstatic.com/s/recursive/v44/8vJN7wMr0mhh-RQChyHEH06TlXhq_gukbYrFMk1QuAIcyEwG_X-dpEfaE5YaERmK-CImKsvxvU-MXGX2fSqasNfUvz2xbXfn1uEQadCCk018vwxjDJCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbba7f02c2fec9fa-OFL.txt",
+    "incoming/collected-20261103/licenses/5ea17c8669de6d0a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

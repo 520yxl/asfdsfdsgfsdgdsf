@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Roboto-ExtraLightItalic-2391c44c22fb.ttf",
+  "sha256": "2391c44c22fbaef26b7a1184da8943a506036b41ed70af79c2036c18fdea1f1c",
+  "size": 164780,
+  "names": [
+    "Roboto",
+    "Roboto ExtraLight",
+    "Roboto ExtraLight Italic",
+    "Roboto-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQiA_0klQnx24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Outfit-Regular-f24945365147.ttf",
+  "sha256": "f24945365147c9e783e91d8649959b59be6b00c9ee4ecd2f6b33afbb2dd871fe",
+  "size": 54912,
+  "names": [
+    "Outfit",
+    "Outfit Regular",
+    "Outfit-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Outfit",
+      "file_url": "https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4G-EiAou6Y.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d5ceb848358bc89f-OFL.txt",
+    "incoming/collected-20261103/licenses/a3c1702a8c0e1383-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

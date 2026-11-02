@@ -1,0 +1,22 @@
+{
+  "font": "incoming/RedHatDisplay-SemiBoldItalic-d39a86c7334a.ttf",
+  "sha256": "d39a86c7334a400505a068b1c1a824c91b3ebae37563e36836c19bf889bfcd3a",
+  "size": 53172,
+  "names": [
+    "Red Hat Display",
+    "Red Hat Display SemiBold",
+    "Red Hat Display SemiBold Italic",
+    "RedHatDisplay-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Display",
+      "file_url": "https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVRAwz_VWZk3zJGg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/1e83f4f18da20141-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

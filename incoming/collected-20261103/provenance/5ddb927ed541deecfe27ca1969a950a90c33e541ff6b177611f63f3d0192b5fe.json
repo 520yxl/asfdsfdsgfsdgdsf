@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Recursive_Monospace_Casual-Light-5ddb927ed541.ttf",
+  "sha256": "5ddb927ed541deecfe27ca1969a950a90c33e541ff6b177611f63f3d0192b5fe",
+  "size": 242672,
+  "names": [
+    "Recursive Monospace Casual",
+    "Recursive Monospace Casual Light",
+    "RecursiveMonospaceCasual-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Recursive",
+      "file_url": "https://fonts.gstatic.com/s/recursive/v44/8vJN7wMr0mhh-RQChyHEH06TlXhq_gukbQr6Mk1QuAIcyEwG_X-dpEfaE5YaERmK-CImqvTxvU-MXGX2fSqasNfUvz2xbXfn1uEQadDck018vwxjDJCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbba7f02c2fec9fa-OFL.txt",
+    "incoming/collected-20261103/licenses/5ea17c8669de6d0a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

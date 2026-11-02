@@ -1,0 +1,22 @@
+{
+  "font": "incoming/PublicSans-ExtraBoldItalic-577db8a676e3.ttf",
+  "sha256": "577db8a676e3bb0874e7538ec36f6df5f9d92169e08f89b85124dba8ebadb092",
+  "size": 63864,
+  "names": [
+    "Public Sans",
+    "Public Sans ExtraBold",
+    "Public Sans ExtraBold Italic",
+    "PublicSans-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Public+Sans",
+      "file_url": "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwctfVotfj7j.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c7c1a71373380ddf-OFL.txt",
+    "incoming/collected-20261103/licenses/7fecc326fa8e6be6-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

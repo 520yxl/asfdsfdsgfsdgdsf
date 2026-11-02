@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Recursive-SemiBold-0f9d94d599e9.ttf",
+  "sha256": "0f9d94d599e9f9921c4b84ed6fdfd097115d021d44139ec0483763401a8b1b43",
+  "size": 234472,
+  "names": [
+    "Recursive",
+    "Recursive SemiBold",
+    "Recursive-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Recursive",
+      "file_url": "https://fonts.gstatic.com/s/recursive/v44/8vJN7wMr0mhh-RQChyHEH06TlXhq_gukbYrFMk1QuAIcyEwG_X-dpEfaE5YaERmK-CImKsvxvU-MXGX2fSqasNfUvz2xbXfn1uEQadBclE18vwxjDJCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbba7f02c2fec9fa-OFL.txt",
+    "incoming/collected-20261103/licenses/5ea17c8669de6d0a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

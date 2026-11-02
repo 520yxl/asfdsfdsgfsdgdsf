@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Roboto_SemiCondensed-ExtraLight-c6dbf0fc3eb9.ttf",
+  "sha256": "c6dbf0fc3eb9ebd2eb03700ae175bbf6ea65742de2e34e56660e57b33c5f3720",
+  "size": 159320,
+  "names": [
+    "Roboto SemiCondensed",
+    "Roboto SemiCondensed ExtraLight",
+    "RobotoSemiCondensed-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylScMQXC89YmC2DPNWuZEbWmTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

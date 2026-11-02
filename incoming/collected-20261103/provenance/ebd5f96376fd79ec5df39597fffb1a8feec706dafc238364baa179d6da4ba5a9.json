@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Onest-ExtraBold-ebd5f96376fd.ttf",
+  "sha256": "ebd5f96376fd79ec5df39597fffb1a8feec706dafc238364baa179d6da4ba5a9",
+  "size": 96488,
+  "names": [
+    "Onest",
+    "Onest ExtraBold",
+    "Onest-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Onest",
+      "file_url": "https://fonts.gstatic.com/s/onest/v11/gNMZW3F-SZuj7zOT0IfSjTS16cPhdRiZshFMQWXgSQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/343a7f50e223f2a1-OFL.txt",
+    "incoming/collected-20261103/licenses/0d8daef491773323-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

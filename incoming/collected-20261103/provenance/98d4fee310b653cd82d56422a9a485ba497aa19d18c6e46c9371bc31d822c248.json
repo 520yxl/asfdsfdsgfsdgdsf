@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Onest-SemiBold-98d4fee310b6.ttf",
+  "sha256": "98d4fee310b653cd82d56422a9a485ba497aa19d18c6e46c9371bc31d822c248",
+  "size": 96652,
+  "names": [
+    "Onest",
+    "Onest SemiBold",
+    "Onest-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Onest",
+      "file_url": "https://fonts.gstatic.com/s/onest/v11/gNMZW3F-SZuj7zOT0IfSjTS16cPhKxiZshFMQWXgSQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/343a7f50e223f2a1-OFL.txt",
+    "incoming/collected-20261103/licenses/0d8daef491773323-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

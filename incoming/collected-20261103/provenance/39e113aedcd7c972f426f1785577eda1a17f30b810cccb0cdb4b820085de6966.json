@@ -1,0 +1,21 @@
+{
+  "font": "incoming/PublicSans-ExtraBold-39e113aedcd7.ttf",
+  "sha256": "39e113aedcd7c972f426f1785577eda1a17f30b810cccb0cdb4b820085de6966",
+  "size": 61164,
+  "names": [
+    "Public Sans",
+    "Public Sans ExtraBold",
+    "PublicSans-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Public+Sans",
+      "file_url": "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww0pX189fg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c7c1a71373380ddf-OFL.txt",
+    "incoming/collected-20261103/licenses/7fecc326fa8e6be6-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

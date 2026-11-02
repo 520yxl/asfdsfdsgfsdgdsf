@@ -1,0 +1,21 @@
+{
+  "font": "incoming/PlayfairDisplay-ExtraBold-eba64eefaeab.ttf",
+  "sha256": "eba64eefaeabbb7f65986c59eae2d6c0ba28fdb4e8ab6e578390af0bf1fcbbbf",
+  "size": 193688,
+  "names": [
+    "Playfair Display",
+    "Playfair Display ExtraBold",
+    "PlayfairDisplay-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Playfair+Display",
+      "file_url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQZNLo_U2r.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/56d0e0aac66f4796-OFL.txt",
+    "incoming/collected-20261103/licenses/d23679e1890ba90e-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

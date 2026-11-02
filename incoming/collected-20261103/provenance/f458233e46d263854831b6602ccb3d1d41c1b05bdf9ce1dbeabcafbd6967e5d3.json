@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Onest-Regular-f458233e46d2.ttf",
+  "sha256": "f458233e46d263854831b6602ccb3d1d41c1b05bdf9ce1dbeabcafbd6967e5d3",
+  "size": 96420,
+  "names": [
+    "Onest",
+    "Onest Regular",
+    "Onest-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Onest",
+      "file_url": "https://fonts.gstatic.com/s/onest/v11/gNMZW3F-SZuj7zOT0IfSjTS16cPh9R-ZshFMQWXgSQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/343a7f50e223f2a1-OFL.txt",
+    "incoming/collected-20261103/licenses/0d8daef491773323-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

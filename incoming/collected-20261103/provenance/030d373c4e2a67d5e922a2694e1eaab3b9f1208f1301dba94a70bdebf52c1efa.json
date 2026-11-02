@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Outfit-SemiBold-030d373c4e2a.ttf",
+  "sha256": "030d373c4e2a67d5e922a2694e1eaab3b9f1208f1301dba94a70bdebf52c1efa",
+  "size": 55492,
+  "names": [
+    "Outfit",
+    "Outfit SemiBold",
+    "Outfit-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Outfit",
+      "file_url": "https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4G-EiAou6Y.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d5ceb848358bc89f-OFL.txt",
+    "incoming/collected-20261103/licenses/a3c1702a8c0e1383-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

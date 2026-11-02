@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Raleway-Medium-7c12e3cb8a9e.ttf",
+  "sha256": "7c12e3cb8a9e36c7f635971024d321f51ad6f3e691fa91046fc59f5b3490e284",
+  "size": 163852,
+  "names": [
+    "Raleway",
+    "Raleway Medium",
+    "Raleway-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Raleway",
+      "file_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCPNLA3JC9c.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4e2efe77482c6aea-OFL.txt",
+    "incoming/collected-20261103/licenses/b4a53a7f095c2683-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

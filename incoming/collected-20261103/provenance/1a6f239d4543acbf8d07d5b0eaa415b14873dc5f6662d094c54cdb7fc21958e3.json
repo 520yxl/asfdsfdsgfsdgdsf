@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Raleway-SemiBold-1a6f239d4543.ttf",
+  "sha256": "1a6f239d4543acbf8d07d5b0eaa415b14873dc5f6662d094c54cdb7fc21958e3",
+  "size": 163856,
+  "names": [
+    "Raleway",
+    "Raleway SemiBold",
+    "Raleway-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Raleway",
+      "file_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCPNLA3JC9c.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4e2efe77482c6aea-OFL.txt",
+    "incoming/collected-20261103/licenses/b4a53a7f095c2683-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

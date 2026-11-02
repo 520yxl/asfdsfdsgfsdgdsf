@@ -1,0 +1,22 @@
+{
+  "font": "incoming/PublicSans-ExtraLightItalic-a5544cc9ce2c.ttf",
+  "sha256": "a5544cc9ce2cc847ef2fb06717aacff68d6b3702d955d1431d76b877a484885f",
+  "size": 63444,
+  "names": [
+    "Public Sans",
+    "Public Sans ExtraLight",
+    "Public Sans ExtraLight Italic",
+    "PublicSans-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Public+Sans",
+      "file_url": "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgActfVotfj7j.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c7c1a71373380ddf-OFL.txt",
+    "incoming/collected-20261103/licenses/7fecc326fa8e6be6-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

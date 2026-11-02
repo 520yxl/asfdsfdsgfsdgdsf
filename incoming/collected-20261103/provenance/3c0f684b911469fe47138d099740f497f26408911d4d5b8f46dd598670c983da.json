@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Onest-Black-3c0f684b9114.ttf",
+  "sha256": "3c0f684b911469fe47138d099740f497f26408911d4d5b8f46dd598670c983da",
+  "size": 96092,
+  "names": [
+    "Onest",
+    "Onest Black",
+    "Onest-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Onest",
+      "file_url": "https://fonts.gstatic.com/s/onest/v11/gNMZW3F-SZuj7zOT0IfSjTS16cPhXBiZshFMQWXgSQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/343a7f50e223f2a1-OFL.txt",
+    "incoming/collected-20261103/licenses/0d8daef491773323-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

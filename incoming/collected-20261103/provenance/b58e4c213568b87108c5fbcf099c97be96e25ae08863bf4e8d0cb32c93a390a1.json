@@ -1,0 +1,21 @@
+{
+  "font": "incoming/OpenSans_Condensed-Bold-b58e4c213568.ttf",
+  "sha256": "b58e4c213568b87108c5fbcf099c97be96e25ae08863bf4e8d0cb32c93a390a1",
+  "size": 130372,
+  "names": [
+    "Open Sans Condensed",
+    "Open Sans Condensed Bold",
+    "OpenSansCondensed-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObjz2VZyOOSr4dVJWUgsg-1y4nY1M2xLER.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

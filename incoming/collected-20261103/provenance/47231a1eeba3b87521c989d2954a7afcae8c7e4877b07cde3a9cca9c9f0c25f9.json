@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Roboto_Condensed-BlackItalic-47231a1eeba3.ttf",
+  "sha256": "47231a1eeba3b87521c989d2954a7afcae8c7e4877b07cde3a9cca9c9f0c25f9",
+  "size": 166748,
+  "names": [
+    "Roboto Condensed",
+    "Roboto Condensed Black",
+    "Roboto Condensed Black Italic",
+    "RobotoCondensed-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhO7TmOClHrs6ljXfMMLijXiA_0klQnx24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/PublicSans-Italic-39dd46c69220.ttf",
+  "sha256": "39dd46c692206ffea51a27d760d177ce28cb08b595361d810c2aaa85dff8271a",
+  "size": 63284,
+  "names": [
+    "Public Sans",
+    "Public Sans Italic",
+    "PublicSans-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Public+Sans",
+      "file_url": "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgActfVotfj7j.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c7c1a71373380ddf-OFL.txt",
+    "incoming/collected-20261103/licenses/7fecc326fa8e6be6-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

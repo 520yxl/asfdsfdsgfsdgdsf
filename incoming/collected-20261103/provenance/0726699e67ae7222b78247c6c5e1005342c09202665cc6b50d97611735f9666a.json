@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Roboto_Condensed-BoldItalic-0726699e67ae.ttf",
+  "sha256": "0726699e67ae7222b78247c6c5e1005342c09202665cc6b50d97611735f9666a",
+  "size": 166156,
+  "names": [
+    "Roboto Condensed",
+    "Roboto Condensed Bold Italic",
+    "RobotoCondensed-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhO7TmOClHrs6ljXfMMLmbXiA_0klQnx24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

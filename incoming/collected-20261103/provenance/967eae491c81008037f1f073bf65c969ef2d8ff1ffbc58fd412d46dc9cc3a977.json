@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Roboto_Condensed-LightItalic-967eae491c81.ttf",
+  "sha256": "967eae491c81008037f1f073bf65c969ef2d8ff1ffbc58fd412d46dc9cc3a977",
+  "size": 165604,
+  "names": [
+    "Roboto Condensed",
+    "Roboto Condensed Light",
+    "Roboto Condensed Light Italic",
+    "RobotoCondensed-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhO7TmOClHrs6ljXfMMLt_QiA_0klQnx24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

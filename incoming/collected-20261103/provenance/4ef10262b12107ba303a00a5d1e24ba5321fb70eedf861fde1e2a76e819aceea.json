@@ -1,0 +1,22 @@
+{
+  "font": "incoming/RedHatText-LightItalic-4ef10262b121.ttf",
+  "sha256": "4ef10262b12107ba303a00a5d1e24ba5321fb70eedf861fde1e2a76e819aceea",
+  "size": 53580,
+  "names": [
+    "Red Hat Text",
+    "Red Hat Text Light",
+    "Red Hat Text Light Italic",
+    "RedHatText-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Text",
+      "file_url": "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXQdadApIYv_g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/12680758f7f3fa86-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

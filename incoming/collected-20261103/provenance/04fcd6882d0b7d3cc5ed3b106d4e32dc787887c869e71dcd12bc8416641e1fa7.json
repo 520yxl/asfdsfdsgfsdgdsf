@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Roboto_SemiCondensed-LightItalic-04fcd6882d0b.ttf",
+  "sha256": "04fcd6882d0b7d3cc5ed3b106d4e32dc787887c869e71dcd12bc8416641e1fa7",
+  "size": 165484,
+  "names": [
+    "Roboto SemiCondensed",
+    "Roboto SemiCondensed Light",
+    "Roboto SemiCondensed Light Italic",
+    "RobotoSemiCondensed-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhO1DmOClHrs6ljXfMMLt_QiA_0klQnx24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

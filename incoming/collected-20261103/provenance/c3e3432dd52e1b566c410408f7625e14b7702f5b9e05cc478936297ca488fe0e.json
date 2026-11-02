@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Roboto-BlackItalic-c3e3432dd52e.ttf",
+  "sha256": "c3e3432dd52e1b566c410408f7625e14b7702f5b9e05cc478936297ca488fe0e",
+  "size": 166780,
+  "names": [
+    "Roboto",
+    "Roboto Black",
+    "Roboto Black Italic",
+    "Roboto-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA_0klQnx24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

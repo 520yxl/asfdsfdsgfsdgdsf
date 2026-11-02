@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Nunito-ExtraBoldItalic-ef7425f5007c.ttf",
+  "sha256": "ef7425f5007c8b828e0a30be76f3074eb8eb0c013c5d44e3a8c1080800872783",
+  "size": 135404,
+  "names": [
+    "Nunito",
+    "Nunito ExtraBold",
+    "Nunito ExtraBold Italic",
+    "Nunito-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nunito",
+      "file_url": "https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXc3iqzbXWnoeg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b580343fda5542a-OFL.txt",
+    "incoming/collected-20261103/licenses/c1d4fe90aa4fe887-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

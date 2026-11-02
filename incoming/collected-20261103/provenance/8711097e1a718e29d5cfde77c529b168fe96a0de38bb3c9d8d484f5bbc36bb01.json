@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Roboto-LightItalic-8711097e1a71.ttf",
+  "sha256": "8711097e1a718e29d5cfde77c529b168fe96a0de38bb3c9d8d484f5bbc36bb01",
+  "size": 165052,
+  "names": [
+    "Roboto",
+    "Roboto Light",
+    "Roboto Light Italic",
+    "Roboto-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA_0klQnx24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Outfit-Bold-6654b93d2130.ttf",
+  "sha256": "6654b93d21301ec61887d3cedd6c11d9df1b1dfb63f9cf45ac7995f6e2235ab1",
+  "size": 55392,
+  "names": [
+    "Outfit",
+    "Outfit Bold",
+    "Outfit-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Outfit",
+      "file_url": "https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4G-EiAou6Y.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d5ceb848358bc89f-OFL.txt",
+    "incoming/collected-20261103/licenses/a3c1702a8c0e1383-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

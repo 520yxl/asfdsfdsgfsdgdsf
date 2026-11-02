@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Recursive_Monospace_Casual-Regular-b0daac7d2c98.ttf",
+  "sha256": "b0daac7d2c9894f2cb0c6cf036a5d39b28c628563c3b3f21eb1cd3c0191b2859",
+  "size": 244040,
+  "names": [
+    "Recursive Monospace Casual",
+    "Recursive Monospace Casual Regular",
+    "RecursiveMonospaceCasual-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Recursive",
+      "file_url": "https://fonts.gstatic.com/s/recursive/v44/8vJN7wMr0mhh-RQChyHEH06TlXhq_gukbQr6Mk1QuAIcyEwG_X-dpEfaE5YaERmK-CImqvTxvU-MXGX2fSqasNfUvz2xbXfn1uEQadCCk018vwxjDJCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbba7f02c2fec9fa-OFL.txt",
+    "incoming/collected-20261103/licenses/5ea17c8669de6d0a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

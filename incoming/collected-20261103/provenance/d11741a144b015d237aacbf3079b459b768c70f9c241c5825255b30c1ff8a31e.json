@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Nunito-BoldItalic-d11741a144b0.ttf",
+  "sha256": "d11741a144b015d237aacbf3079b459b768c70f9c241c5825255b30c1ff8a31e",
+  "size": 135392,
+  "names": [
+    "Nunito",
+    "Nunito Bold Italic",
+    "Nunito-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nunito",
+      "file_url": "https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSnc3iqzbXWnoeg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b580343fda5542a-OFL.txt",
+    "incoming/collected-20261103/licenses/c1d4fe90aa4fe887-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

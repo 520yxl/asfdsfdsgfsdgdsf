@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Recursive_Casual-SemiBold-cf4a5d51eb7e.ttf",
+  "sha256": "cf4a5d51eb7e69a8783316cef9823ea54ab25e63f3ac64f6f3fc05521e43c6b8",
+  "size": 245184,
+  "names": [
+    "Recursive Casual",
+    "Recursive Casual SemiBold",
+    "RecursiveCasual-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Recursive",
+      "file_url": "https://fonts.gstatic.com/s/recursive/v44/8vJN7wMr0mhh-RQChyHEH06TlXhq_gukbQr6Mk1QuAIcyEwG_X-dpEfaE5YaERmK-CImKsvxvU-MXGX2fSqasNfUvz2xbXfn1uEQadBclE18vwxjDJCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbba7f02c2fec9fa-OFL.txt",
+    "incoming/collected-20261103/licenses/5ea17c8669de6d0a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

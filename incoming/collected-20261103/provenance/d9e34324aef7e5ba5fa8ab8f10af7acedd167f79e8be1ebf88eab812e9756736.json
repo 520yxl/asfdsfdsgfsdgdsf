@@ -1,0 +1,22 @@
+{
+  "font": "incoming/PlayfairDisplay-MediumItalic-d9e34324aef7.ttf",
+  "sha256": "d9e34324aef7e5ba5fa8ab8f10af7acedd167f79e8be1ebf88eab812e9756736",
+  "size": 178452,
+  "names": [
+    "Playfair Display",
+    "Playfair Display Medium",
+    "Playfair Display Medium Italic",
+    "PlayfairDisplay-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Playfair+Display",
+      "file_url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTbtbK-F2rA0s.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/56d0e0aac66f4796-OFL.txt",
+    "incoming/collected-20261103/licenses/d23679e1890ba90e-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

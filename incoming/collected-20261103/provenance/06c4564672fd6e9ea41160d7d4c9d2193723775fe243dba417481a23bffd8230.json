@@ -1,0 +1,21 @@
+{
+  "font": "incoming/RedHatText-Medium-06c4564672fd.ttf",
+  "sha256": "06c4564672fd6e9ea41160d7d4c9d2193723775fe243dba417481a23bffd8230",
+  "size": 52688,
+  "names": [
+    "Red Hat Text",
+    "Red Hat Text Medium",
+    "RedHatText-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Text",
+      "file_url": "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrbacYVFtIY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/12680758f7f3fa86-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

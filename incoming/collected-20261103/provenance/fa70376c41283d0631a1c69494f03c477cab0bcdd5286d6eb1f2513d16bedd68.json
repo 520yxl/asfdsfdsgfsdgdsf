@@ -1,0 +1,21 @@
+{
+  "font": "incoming/RedHatText-Light-fa70376c4128.ttf",
+  "sha256": "fa70376c41283d0631a1c69494f03c477cab0bcdd5286d6eb1f2513d16bedd68",
+  "size": 52612,
+  "names": [
+    "Red Hat Text",
+    "Red Hat Text Light",
+    "RedHatText-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Text",
+      "file_url": "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrbacYVFtIY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/12680758f7f3fa86-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/RedHatText-SemiBold-d5c0cc41ccb6.ttf",
+  "sha256": "d5c0cc41ccb660a6d52356fc5b2543dda454e5ae631b0be715fb22ef3d13d3ad",
+  "size": 52684,
+  "names": [
+    "Red Hat Text",
+    "Red Hat Text SemiBold",
+    "RedHatText-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Text",
+      "file_url": "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrbacYVFtIY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/12680758f7f3fa86-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

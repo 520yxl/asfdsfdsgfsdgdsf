@@ -1,0 +1,21 @@
+{
+  "font": "incoming/OpenSans_Condensed-ExtraBold-fd0c313e2a8f.ttf",
+  "sha256": "fd0c313e2a8fcc49bd6cc46eb32c69bf3eba4cb2a0fb2869b26060963431351f",
+  "size": 130812,
+  "names": [
+    "Open Sans Condensed",
+    "Open Sans Condensed ExtraBold",
+    "OpenSansCondensed-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObjz2VZyOOSr4dVJWUgshZ1y4nY1M2xLER.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/OpenSans-MediumItalic-4033e6aa44ec.ttf",
+  "sha256": "4033e6aa44ec9e7555707b1db0fda677aaef877522e3888a9d4b998e1827172a",
+  "size": 136796,
+  "names": [
+    "Open Sans",
+    "Open Sans Medium",
+    "Open Sans Medium Italic",
+    "OpenSans-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVcUwaERZjA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

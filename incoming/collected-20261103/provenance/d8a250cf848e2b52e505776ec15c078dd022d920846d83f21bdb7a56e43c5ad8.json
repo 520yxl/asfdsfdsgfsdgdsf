@@ -1,0 +1,21 @@
+{
+  "font": "incoming/RedHatDisplay-SemiBold-d8a250cf848e.ttf",
+  "sha256": "d8a250cf848e2b52e505776ec15c078dd022d920846d83f21bdb7a56e43c5ad8",
+  "size": 51712,
+  "names": [
+    "Red Hat Display",
+    "Red Hat Display SemiBold",
+    "RedHatDisplay-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Display",
+      "file_url": "https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRckg5-Xecg3w.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/1e83f4f18da20141-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Roboto-Thin-97610d693cae.ttf",
+  "sha256": "97610d693caecc007e532da2ba4703b693667819badc2e88a724236402094c65",
+  "size": 158840,
+  "names": [
+    "Roboto",
+    "Roboto Thin",
+    "Roboto-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

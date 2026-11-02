@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Roboto_SemiCondensed-Bold-9546beff853a.ttf",
+  "sha256": "9546beff853a4463ca5580b94c08417c4ad93b764178fa693a57dd9724c62cc4",
+  "size": 159828,
+  "names": [
+    "Roboto SemiCondensed",
+    "Roboto SemiCondensed Bold",
+    "RobotoSemiCondensed-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylScMQXC89YmC2DPNWuYjammTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

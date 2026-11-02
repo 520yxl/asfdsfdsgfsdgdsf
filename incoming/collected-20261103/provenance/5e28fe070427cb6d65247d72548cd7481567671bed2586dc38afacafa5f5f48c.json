@@ -1,0 +1,22 @@
+{
+  "font": "incoming/RedHatDisplay-MediumItalic-5e28fe070427.ttf",
+  "sha256": "5e28fe070427cb6d65247d72548cd7481567671bed2586dc38afacafa5f5f48c",
+  "size": 53160,
+  "names": [
+    "Red Hat Display",
+    "Red Hat Display Medium",
+    "Red Hat Display Medium Italic",
+    "RedHatDisplay-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Display",
+      "file_url": "https://fonts.gstatic.com/s/redhatdisplay/v21/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVqAsz_VWZk3zJGg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/1e83f4f18da20141-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

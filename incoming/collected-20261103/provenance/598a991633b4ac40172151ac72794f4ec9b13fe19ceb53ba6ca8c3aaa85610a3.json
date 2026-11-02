@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Outfit-ExtraLight-598a991633b4.ttf",
+  "sha256": "598a991633b4ac40172151ac72794f4ec9b13fe19ceb53ba6ca8c3aaa85610a3",
+  "size": 54936,
+  "names": [
+    "Outfit",
+    "Outfit ExtraLight",
+    "Outfit-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Outfit",
+      "file_url": "https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4G-EiAou6Y.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d5ceb848358bc89f-OFL.txt",
+    "incoming/collected-20261103/licenses/a3c1702a8c0e1383-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

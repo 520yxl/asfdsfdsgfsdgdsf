@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Recursive-ExtraBold-36fb2c11a10f.ttf",
+  "sha256": "36fb2c11a10fb15b0f9f79c7b0b83e70c410a8b690d15fd9cd55a0bae7b5d36e",
+  "size": 234228,
+  "names": [
+    "Recursive",
+    "Recursive ExtraBold",
+    "Recursive-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Recursive",
+      "file_url": "https://fonts.gstatic.com/s/recursive/v44/8vJN7wMr0mhh-RQChyHEH06TlXhq_gukbYrFMk1QuAIcyEwG_X-dpEfaE5YaERmK-CImKsvxvU-MXGX2fSqasNfUvz2xbXfn1uEQadAClE18vwxjDJCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbba7f02c2fec9fa-OFL.txt",
+    "incoming/collected-20261103/licenses/5ea17c8669de6d0a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

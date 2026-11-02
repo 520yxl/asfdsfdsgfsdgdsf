@@ -1,0 +1,21 @@
+{
+  "font": "incoming/PlayfairDisplay-SemiBold-0f8ae66ea018.ttf",
+  "sha256": "0f8ae66ea018739838dac8fc0a70f9dd6fe8806bf4f63bb35b3c643480221d31",
+  "size": 193832,
+  "names": [
+    "Playfair Display",
+    "Playfair Display SemiBold",
+    "PlayfairDisplay-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Playfair+Display",
+      "file_url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQZNLo_U2r.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/56d0e0aac66f4796-OFL.txt",
+    "incoming/collected-20261103/licenses/d23679e1890ba90e-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

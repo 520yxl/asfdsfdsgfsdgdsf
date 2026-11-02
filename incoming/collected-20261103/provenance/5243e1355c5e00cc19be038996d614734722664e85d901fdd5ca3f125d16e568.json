@@ -1,0 +1,21 @@
+{
+  "font": "incoming/OpenSans_Condensed-Italic-5243e1355c5e.ttf",
+  "sha256": "5243e1355c5e00cc19be038996d614734722664e85d901fdd5ca3f125d16e568",
+  "size": 136588,
+  "names": [
+    "Open Sans Condensed",
+    "Open Sans Condensed Italic",
+    "OpenSansCondensed-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXy2q8tWZ0Pw86hd0Rk8ZkaVcUwaERZjA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

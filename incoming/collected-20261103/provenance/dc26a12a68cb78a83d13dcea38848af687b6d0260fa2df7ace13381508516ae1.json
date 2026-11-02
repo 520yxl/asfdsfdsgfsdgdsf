@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Raleway-Bold-dc26a12a68cb.ttf",
+  "sha256": "dc26a12a68cb78a83d13dcea38848af687b6d0260fa2df7ace13381508516ae1",
+  "size": 163768,
+  "names": [
+    "Raleway",
+    "Raleway Bold",
+    "Raleway-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Raleway",
+      "file_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCPNLA3JC9c.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4e2efe77482c6aea-OFL.txt",
+    "incoming/collected-20261103/licenses/b4a53a7f095c2683-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

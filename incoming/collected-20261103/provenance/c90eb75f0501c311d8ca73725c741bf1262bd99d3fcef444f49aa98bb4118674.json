@@ -1,0 +1,21 @@
+{
+  "font": "incoming/PublicSans-Regular-c90eb75f0501.ttf",
+  "sha256": "c90eb75f0501c311d8ca73725c741bf1262bd99d3fcef444f49aa98bb4118674",
+  "size": 60816,
+  "names": [
+    "Public Sans",
+    "Public Sans Regular",
+    "PublicSans-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Public+Sans",
+      "file_url": "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww0pX189fg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c7c1a71373380ddf-OFL.txt",
+    "incoming/collected-20261103/licenses/7fecc326fa8e6be6-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/OpenSans_SemiCondensed-Medium-544040933443.ttf",
+  "sha256": "544040933443054cce58fbb7d81e05f5b892164811f9aaa6c387703f7bbf8c48",
+  "size": 130976,
+  "names": [
+    "Open Sans SemiCondensed",
+    "Open Sans SemiCondensed Medium",
+    "OpenSansSemiCondensed-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObjwSVZyOOSr4dVJWUgsjr0C4nY1M2xLER.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

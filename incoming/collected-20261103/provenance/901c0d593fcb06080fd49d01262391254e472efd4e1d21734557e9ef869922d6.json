@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Oswald-SemiBold-901c0d593fcb.ttf",
+  "sha256": "901c0d593fcb06080fd49d01262391254e472efd4e1d21734557e9ef869922d6",
+  "size": 87604,
+  "names": [
+    "Oswald",
+    "Oswald SemiBold",
+    "Oswald-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Oswald",
+      "file_url": "https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUFoZAaRliE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/54ccd815fac94344-OFL.txt",
+    "incoming/collected-20261103/licenses/881c17230fcbbb0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

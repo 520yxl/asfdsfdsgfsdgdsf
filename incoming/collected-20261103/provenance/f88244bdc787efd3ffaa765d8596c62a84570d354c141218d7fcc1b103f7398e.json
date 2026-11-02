@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Raleway-LightItalic-f88244bdc787.ttf",
+  "sha256": "f88244bdc787efd3ffaa765d8596c62a84570d354c141218d7fcc1b103f7398e",
+  "size": 162256,
+  "names": [
+    "Raleway",
+    "Raleway Light",
+    "Raleway Light Italic",
+    "Raleway-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Raleway",
+      "file_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQVIT9c2c8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4e2efe77482c6aea-OFL.txt",
+    "incoming/collected-20261103/licenses/b4a53a7f095c2683-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

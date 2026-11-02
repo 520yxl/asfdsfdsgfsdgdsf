@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Oswald-Light-23b4578a6a0c.ttf",
+  "sha256": "23b4578a6a0c36539ea0a78481ec662fd443e933b9fc768ebd8ce9e12b658b32",
+  "size": 87480,
+  "names": [
+    "Oswald",
+    "Oswald Light",
+    "Oswald-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Oswald",
+      "file_url": "https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUFoZAaRliE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/54ccd815fac94344-OFL.txt",
+    "incoming/collected-20261103/licenses/881c17230fcbbb0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/PublicSans-Black-2982d32b15af.ttf",
+  "sha256": "2982d32b15afe3572c724ca5b3776ed5e5dfc5a0b14502f2549949027b06a9fd",
+  "size": 61128,
+  "names": [
+    "Public Sans",
+    "Public Sans Black",
+    "PublicSans-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Public+Sans",
+      "file_url": "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww0pX189fg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c7c1a71373380ddf-OFL.txt",
+    "incoming/collected-20261103/licenses/7fecc326fa8e6be6-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

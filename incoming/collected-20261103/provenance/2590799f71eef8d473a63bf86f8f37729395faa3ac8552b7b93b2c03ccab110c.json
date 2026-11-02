@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Nunito-Medium-2590799f71ee.ttf",
+  "sha256": "2590799f71eef8d473a63bf86f8f37729395faa3ac8552b7b93b2c03ccab110c",
+  "size": 132300,
+  "names": [
+    "Nunito",
+    "Nunito Medium",
+    "Nunito-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nunito",
+      "file_url": "https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhRTM9jo7eTWk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b580343fda5542a-OFL.txt",
+    "incoming/collected-20261103/licenses/c1d4fe90aa4fe887-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

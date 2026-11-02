@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Roboto_Condensed-ExtraBold-c2f36342b898.ttf",
+  "sha256": "c2f36342b898af6174de7b913929f7edbda2f81dc84875719b8a2470c6e0411e",
+  "size": 159948,
+  "names": [
+    "Roboto Condensed",
+    "Roboto Condensed ExtraBold",
+    "RobotoCondensed-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylR4MQXC89YmC2DPNWuZEammTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
