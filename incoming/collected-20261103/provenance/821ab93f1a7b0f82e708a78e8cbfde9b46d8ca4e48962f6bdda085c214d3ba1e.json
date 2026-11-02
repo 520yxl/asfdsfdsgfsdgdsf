@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLatin-Thin-821ab93f1a7b.ttf",
+  "sha256": "821ab93f1a7b0f82e708a78e8cbfde9b46d8ca4e48962f6bdda085c214d3ba1e",
+  "size": 173572,
+  "names": [
+    "MiSans Latin",
+    "MiSans Latin Thin",
+    "MiSansLatin-Thin"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

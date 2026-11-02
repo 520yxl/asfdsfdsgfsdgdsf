@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansGujarati-ExtraLight-382a95f80478.ttf",
+  "sha256": "382a95f80478bae1ba772d491623019573bdf4295c68182c352afa2780e79aca",
+  "size": 186584,
+  "names": [
+    "MiSans Gujarati",
+    "MiSans Gujarati ExtraLight",
+    "MiSansGujarati-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

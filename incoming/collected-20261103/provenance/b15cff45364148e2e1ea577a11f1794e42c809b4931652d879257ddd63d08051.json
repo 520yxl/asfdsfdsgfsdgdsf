@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLatin-Heavy-b15cff453641.ttf",
+  "sha256": "b15cff45364148e2e1ea577a11f1794e42c809b4931652d879257ddd63d08051",
+  "size": 170364,
+  "names": [
+    "MiSans Latin",
+    "MiSans Latin Heavy",
+    "MiSansLatin-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

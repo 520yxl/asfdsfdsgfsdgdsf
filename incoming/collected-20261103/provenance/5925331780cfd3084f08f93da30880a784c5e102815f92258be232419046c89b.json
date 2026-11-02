@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansDevanagari-ExtraLight-5925331780cf.otf",
+  "sha256": "5925331780cfd3084f08f93da30880a784c5e102815f92258be232419046c89b",
+  "size": 305624,
+  "names": [
+    "MiSans Devanagari",
+    "MiSans Devanagari ExtraLight",
+    "MiSansDevanagari-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

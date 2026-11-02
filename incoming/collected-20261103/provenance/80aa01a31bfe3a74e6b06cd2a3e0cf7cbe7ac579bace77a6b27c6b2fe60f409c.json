@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLatin-ExtraLight-80aa01a31bfe.otf",
+  "sha256": "80aa01a31bfe3a74e6b06cd2a3e0cf7cbe7ac579bace77a6b27c6b2fe60f409c",
+  "size": 141748,
+  "names": [
+    "MiSans Latin",
+    "MiSans Latin ExtraLight",
+    "MiSansLatin-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

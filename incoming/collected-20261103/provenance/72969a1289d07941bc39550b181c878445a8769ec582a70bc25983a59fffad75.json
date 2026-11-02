@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLatin-Semibold-72969a1289d0.ttf",
+  "sha256": "72969a1289d07941bc39550b181c878445a8769ec582a70bc25983a59fffad75",
+  "size": 170912,
+  "names": [
+    "MiSans Latin",
+    "MiSans Latin Semibold",
+    "MiSansLatin-Semibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

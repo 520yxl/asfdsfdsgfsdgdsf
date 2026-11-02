@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansGurmukhi-Thin-ef23f153196c.otf",
+  "sha256": "ef23f153196ca226920725b2670e6fbfa41ad68621efb51ee5f6d9a35f0e9a55",
+  "size": 61168,
+  "names": [
+    "MiSans Gurmukhi",
+    "MiSans Gurmukhi Thin",
+    "MiSansGurmukhi-Thin"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

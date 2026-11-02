@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansKhmer-Demibold-8bf29c539f00.ttf",
+  "sha256": "8bf29c539f0023f89d0db5a0fe65146cff0d107591471901ab7cfd5e9a998f5a",
+  "size": 127140,
+  "names": [
+    "MiSans Khmer",
+    "MiSans Khmer Demibold",
+    "MiSansKhmer-Demibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

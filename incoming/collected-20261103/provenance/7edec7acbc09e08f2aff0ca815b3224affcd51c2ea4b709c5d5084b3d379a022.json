@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansArabic-Regular-7edec7acbc09.ttf",
+  "sha256": "7edec7acbc09e08f2aff0ca815b3224affcd51c2ea4b709c5d5084b3d379a022",
+  "size": 115240,
+  "names": [
+    "MiSans Arabic",
+    "MiSans Arabic Regular",
+    "MiSansArabic-Regular"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

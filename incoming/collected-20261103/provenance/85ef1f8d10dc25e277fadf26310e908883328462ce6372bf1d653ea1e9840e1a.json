@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansDevanagari-Medium-85ef1f8d10dc.otf",
+  "sha256": "85ef1f8d10dc25e277fadf26310e908883328462ce6372bf1d653ea1e9840e1a",
+  "size": 301144,
+  "names": [
+    "MiSans Devanagari",
+    "MiSans Devanagari Medium",
+    "MiSansDevanagari-Medium"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

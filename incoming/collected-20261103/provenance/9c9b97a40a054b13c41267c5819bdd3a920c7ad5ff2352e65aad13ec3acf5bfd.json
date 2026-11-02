@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLatin-Medium-9c9b97a40a05.otf",
+  "sha256": "9c9b97a40a054b13c41267c5819bdd3a920c7ad5ff2352e65aad13ec3acf5bfd",
+  "size": 139940,
+  "names": [
+    "MiSans Latin",
+    "MiSans Latin Medium",
+    "MiSansLatin-Medium"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

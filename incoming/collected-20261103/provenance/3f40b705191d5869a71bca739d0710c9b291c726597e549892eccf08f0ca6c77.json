@@ -1,0 +1,18 @@
+{
+  "font": "incoming/MiSansMyanmar-Semibold-3f40b705191d.ttf",
+  "sha256": "3f40b705191d5869a71bca739d0710c9b291c726597e549892eccf08f0ca6c77",
+  "size": 28936,
+  "names": [
+    "MiSans Myanmar",
+    "MiSans Myanmar SemiBold",
+    "MiSansMyanmar SemiBold",
+    "MiSansMyanmar-SemiBold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

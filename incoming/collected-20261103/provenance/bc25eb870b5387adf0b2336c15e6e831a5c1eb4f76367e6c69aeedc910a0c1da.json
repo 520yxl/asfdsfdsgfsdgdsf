@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansArabic-Demibold-bc25eb870b53.ttf",
+  "sha256": "bc25eb870b5387adf0b2336c15e6e831a5c1eb4f76367e6c69aeedc910a0c1da",
+  "size": 119804,
+  "names": [
+    "MiSans Arabic",
+    "MiSans Arabic Demibold",
+    "MiSansArabic-Demibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

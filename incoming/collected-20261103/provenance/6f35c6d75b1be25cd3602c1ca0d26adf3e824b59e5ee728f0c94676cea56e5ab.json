@@ -1,0 +1,16 @@
+{
+  "font": "incoming/MiSansLaoVF-6f35c6d75b1b.ttf",
+  "sha256": "6f35c6d75b1be25cd3602c1ca0d26adf3e824b59e5ee728f0c94676cea56e5ab",
+  "size": 51476,
+  "names": [
+    "MiSans Lao VF",
+    "MiSansLaoVF"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

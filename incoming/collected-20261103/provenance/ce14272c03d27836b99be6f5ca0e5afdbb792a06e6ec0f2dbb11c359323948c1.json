@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansGurmukhi-Demibold-ce14272c03d2.otf",
+  "sha256": "ce14272c03d27836b99be6f5ca0e5afdbb792a06e6ec0f2dbb11c359323948c1",
+  "size": 62196,
+  "names": [
+    "MiSans Gurmukhi",
+    "MiSans Gurmukhi Demibold",
+    "MiSansGurmukhi-Demibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

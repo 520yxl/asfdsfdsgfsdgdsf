@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansDevanagari-Demibold-eebc2ee3e069.otf",
+  "sha256": "eebc2ee3e069797145fa3164e82835d5ce48d5dad5d585e3a248c66500db58b8",
+  "size": 302308,
+  "names": [
+    "MiSans Devanagari",
+    "MiSans Devanagari Demibold",
+    "MiSansDevanagari-Demibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,18 @@
+{
+  "font": "incoming/MiSansMyanmar-ExtraLight-029069aa610e.ttf",
+  "sha256": "029069aa610ee29f68ea17430c150ccf339df29358c70a4b4bc3d735bf14f004",
+  "size": 28948,
+  "names": [
+    "MiSans Myanmar",
+    "MiSans Myanmar ExtraLight",
+    "MiSansMyanmar ExtraLight",
+    "MiSansMyanmar-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

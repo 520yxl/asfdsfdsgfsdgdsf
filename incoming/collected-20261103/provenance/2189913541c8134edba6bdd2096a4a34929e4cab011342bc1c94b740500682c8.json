@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansGurmukhi-ExtraLight-2189913541c8.ttf",
+  "sha256": "2189913541c8134edba6bdd2096a4a34929e4cab011342bc1c94b740500682c8",
+  "size": 54440,
+  "names": [
+    "MiSans Gurmukhi",
+    "MiSans Gurmukhi ExtraLight",
+    "MiSansGurmukhi-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

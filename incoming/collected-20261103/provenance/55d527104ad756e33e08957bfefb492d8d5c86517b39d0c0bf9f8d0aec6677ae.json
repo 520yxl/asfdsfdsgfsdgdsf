@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLao-Medium-55d527104ad7.otf",
+  "sha256": "55d527104ad756e33e08957bfefb492d8d5c86517b39d0c0bf9f8d0aec6677ae",
+  "size": 27332,
+  "names": [
+    "MiSans Lao",
+    "MiSans Lao Medium",
+    "MiSansLao-Medium"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

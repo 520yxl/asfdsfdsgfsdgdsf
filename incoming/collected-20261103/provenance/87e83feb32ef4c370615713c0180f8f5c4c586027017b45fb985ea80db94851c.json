@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansArabic-ExtraLight-87e83feb32ef.ttf",
+  "sha256": "87e83feb32ef4c370615713c0180f8f5c4c586027017b45fb985ea80db94851c",
+  "size": 120960,
+  "names": [
+    "MiSans Arabic",
+    "MiSans Arabic ExtraLight",
+    "MiSansArabic-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLao-Bold-50056def9631.otf",
+  "sha256": "50056def9631a7d36b5e4241c35576ec9aed0b880c8c76fce48920da5bbd3533",
+  "size": 28280,
+  "names": [
+    "MiSans Lao",
+    "MiSans Lao Bold",
+    "MiSansLao-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

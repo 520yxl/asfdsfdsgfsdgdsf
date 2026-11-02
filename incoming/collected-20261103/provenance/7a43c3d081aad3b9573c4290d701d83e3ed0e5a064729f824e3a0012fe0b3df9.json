@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansDevanagari-Thin-7a43c3d081aa.ttf",
+  "sha256": "7a43c3d081aad3b9573c4290d701d83e3ed0e5a064729f824e3a0012fe0b3df9",
+  "size": 238860,
+  "names": [
+    "MiSans Devanagari",
+    "MiSans Devanagari Thin",
+    "MiSansDevanagari-Thin"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

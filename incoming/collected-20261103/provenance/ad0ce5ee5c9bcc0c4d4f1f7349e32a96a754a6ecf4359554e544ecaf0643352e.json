@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansDevanagari-Normal-ad0ce5ee5c9b.otf",
+  "sha256": "ad0ce5ee5c9bcc0c4d4f1f7349e32a96a754a6ecf4359554e544ecaf0643352e",
+  "size": 302296,
+  "names": [
+    "MiSans Devanagari",
+    "MiSans Devanagari Normal",
+    "MiSansDevanagari-Normal"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

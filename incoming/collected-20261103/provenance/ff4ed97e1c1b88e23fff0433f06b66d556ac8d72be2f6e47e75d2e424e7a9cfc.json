@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansGurmukhi-Heavy-ff4ed97e1c1b.ttf",
+  "sha256": "ff4ed97e1c1b88e23fff0433f06b66d556ac8d72be2f6e47e75d2e424e7a9cfc",
+  "size": 54640,
+  "names": [
+    "MiSans Gurmukhi",
+    "MiSans Gurmukhi Heavy",
+    "MiSansGurmukhi-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansKhmer-Heavy-f95bae42da46.ttf",
+  "sha256": "f95bae42da4605abe38ee413724f11b0c02728454723632acd4ffc3693155933",
+  "size": 140356,
+  "names": [
+    "MiSans Khmer",
+    "MiSans Khmer Heavy",
+    "MiSansKhmer-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

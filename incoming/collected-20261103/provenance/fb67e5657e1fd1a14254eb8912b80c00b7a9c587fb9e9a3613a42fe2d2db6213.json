@@ -1,0 +1,16 @@
+{
+  "font": "incoming/MiSansLao-fb67e5657e1f.otf",
+  "sha256": "fb67e5657e1fd1a14254eb8912b80c00b7a9c587fb9e9a3613a42fe2d2db6213",
+  "size": 26328,
+  "names": [
+    "MiSans Lao",
+    "MiSansLao"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

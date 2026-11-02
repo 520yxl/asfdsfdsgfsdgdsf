@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLao-ExtraLight-65a92c048894.otf",
+  "sha256": "65a92c048894d3c7a7ae47cec6e42ecf49c139f061fafe09241cb49b058a309f",
+  "size": 26828,
+  "names": [
+    "MiSans Lao",
+    "MiSans Lao ExtraLight",
+    "MiSansLao-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

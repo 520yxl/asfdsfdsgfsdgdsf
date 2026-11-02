@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLatin-Light-97113c5508bc.otf",
+  "sha256": "97113c5508bc03a0f2583c1938d8a02299493ea687d4592942778e1e9e5a31f7",
+  "size": 140680,
+  "names": [
+    "MiSans Latin",
+    "MiSans Latin Light",
+    "MiSansLatin-Light"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

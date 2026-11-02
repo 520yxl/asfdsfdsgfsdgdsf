@@ -1,0 +1,18 @@
+{
+  "font": "incoming/MiSansMyanmar-Normal-f4eff1871c2f.otf",
+  "sha256": "f4eff1871c2f0428fca839b7bc4a475f3c1dc2dde1d94f6ab0270dce92d618c8",
+  "size": 26556,
+  "names": [
+    "MiSans Myanmar",
+    "MiSans Myanmar Normal",
+    "MiSansMyanmar Normal",
+    "MiSansMyanmar-Normal"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

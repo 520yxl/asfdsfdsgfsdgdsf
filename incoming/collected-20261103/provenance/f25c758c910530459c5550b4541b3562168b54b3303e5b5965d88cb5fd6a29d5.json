@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansKhmer-ExtraLight-f25c758c9105.otf",
+  "sha256": "f25c758c910530459c5550b4541b3562168b54b3303e5b5965d88cb5fd6a29d5",
+  "size": 65436,
+  "names": [
+    "MiSans Khmer",
+    "MiSans Khmer ExtraLight",
+    "MiSansKhmer-ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

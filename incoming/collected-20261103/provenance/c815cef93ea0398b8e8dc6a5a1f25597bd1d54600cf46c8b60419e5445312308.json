@@ -1,0 +1,16 @@
+{
+  "font": "incoming/MiSans Latin VF-c815cef93ea0.ttf",
+  "sha256": "c815cef93ea0398b8e8dc6a5a1f25597bd1d54600cf46c8b60419e5445312308",
+  "size": 382760,
+  "names": [
+    "MiSans Latin VF",
+    "MiSansLatinVF"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

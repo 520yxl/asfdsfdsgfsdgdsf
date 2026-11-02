@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansLao-Semibold-7f33f0f44d20.otf",
+  "sha256": "7f33f0f44d2038e3a4337305892b2894df231bca3f9fde8c7208afa0e82e35fe",
+  "size": 27992,
+  "names": [
+    "MiSans Lao",
+    "MiSans Lao Semibold",
+    "MiSansLao-Semibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

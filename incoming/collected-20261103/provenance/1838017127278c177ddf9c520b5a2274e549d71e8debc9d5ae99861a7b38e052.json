@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansArabic-Bold-183801712727.otf",
+  "sha256": "1838017127278c177ddf9c520b5a2274e549d71e8debc9d5ae99861a7b38e052",
+  "size": 121680,
+  "names": [
+    "MiSans Arabic",
+    "MiSans Arabic Bold",
+    "MiSansArabic-Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

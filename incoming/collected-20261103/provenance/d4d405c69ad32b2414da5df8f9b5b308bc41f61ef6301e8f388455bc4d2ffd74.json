@@ -1,0 +1,16 @@
+{
+  "font": "incoming/MiSans Gujarati VF-d4d405c69ad3.ttf",
+  "sha256": "d4d405c69ad32b2414da5df8f9b5b308bc41f61ef6301e8f388455bc4d2ffd74",
+  "size": 288864,
+  "names": [
+    "MiSans Gujarati VF",
+    "MiSansGujaratiVF"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansArabic-Heavy-75cf085b6cb2.ttf",
+  "sha256": "75cf085b6cb2d11b1bb9513beab7abf568966667407e98ee4fc174f597a902be",
+  "size": 121252,
+  "names": [
+    "MiSans Arabic",
+    "MiSans Arabic Heavy",
+    "MiSansArabic-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

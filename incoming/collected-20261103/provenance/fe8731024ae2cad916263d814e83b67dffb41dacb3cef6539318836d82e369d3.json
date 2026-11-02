@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansDevanagari-Heavy-fe8731024ae2.otf",
+  "sha256": "fe8731024ae2cad916263d814e83b67dffb41dacb3cef6539318836d82e369d3",
+  "size": 305156,
+  "names": [
+    "MiSans Devanagari",
+    "MiSans Devanagari Heavy",
+    "MiSansDevanagari-Heavy"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

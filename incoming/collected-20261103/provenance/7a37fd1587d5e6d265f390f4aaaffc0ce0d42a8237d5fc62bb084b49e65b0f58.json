@@ -1,0 +1,16 @@
+{
+  "font": "incoming/MiSans Myanmar VF-7a37fd1587d5.ttf",
+  "sha256": "7a37fd1587d5e6d265f390f4aaaffc0ce0d42a8237d5fc62bb084b49e65b0f58",
+  "size": 56032,
+  "names": [
+    "MiSans Myanmar VF",
+    "MiSansMyanmarVF"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

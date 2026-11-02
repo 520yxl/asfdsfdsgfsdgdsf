@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansKhmer-Normal-3545d1b3d8e7.otf",
+  "sha256": "3545d1b3d8e77b5e15e774a60e2b469e298ee7f19e4eccd3b3ce4691fae25848",
+  "size": 66216,
+  "names": [
+    "MiSans Khmer",
+    "MiSans Khmer Normal",
+    "MiSansKhmer-Normal"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

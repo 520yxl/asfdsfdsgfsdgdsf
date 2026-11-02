@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansArabic-Thin-8ddd54915751.ttf",
+  "sha256": "8ddd5491575148ef66a70394081e7f9dd5dd2ecde983be28266a60c9b82a4b7d",
+  "size": 120468,
+  "names": [
+    "MiSans Arabic",
+    "MiSans Arabic Thin",
+    "MiSansArabic-Thin"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

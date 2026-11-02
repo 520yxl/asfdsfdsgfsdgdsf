@@ -1,0 +1,17 @@
+{
+  "font": "incoming/MiSansGujarati-Semibold-3cad0e29df7b.ttf",
+  "sha256": "3cad0e29df7b7f840dded2032f15ab32ce258a94fe52e9d57ab8e1efbdf7cc2e",
+  "size": 219388,
+  "names": [
+    "MiSans Gujarati",
+    "MiSans Gujarati Semibold",
+    "MiSansGujarati-Semibold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://hyperos.mi.com/font/zh/download/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
