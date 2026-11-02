@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Montserrat-Italic-7e87c0f96b39.ttf",
+  "sha256": "7e87c0f96b39fbb919b30aef8991323d0b257649f391e6456bcf03c231448f49",
+  "size": 337132,
+  "names": [
+    "Montserrat",
+    "Montserrat Italic",
+    "Montserrat-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Montserrat",
+      "file_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX9-p7K5ILg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6d823fa267b028-OFL.txt",
+    "incoming/collected-20261103/licenses/74082094b5a5d961-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

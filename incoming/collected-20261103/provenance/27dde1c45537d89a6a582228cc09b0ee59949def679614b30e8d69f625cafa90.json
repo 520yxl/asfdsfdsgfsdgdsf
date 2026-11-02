@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSans_SemiCondensed-Bold-27dde1c45537.ttf",
+  "sha256": "27dde1c45537d89a6a582228cc09b0ee59949def679614b30e8d69f625cafa90",
+  "size": 631552,
+  "names": [
+    "Noto Sans SemiCondensed",
+    "Noto Sans SemiCondensed Bold",
+    "NotoSansSemiCondensed-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans",
+      "file_url": "https://fonts.gstatic.com/s/notosans/v42/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPB_cz6L1SoM-jCpoiyAaBN9d41P6zHtY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/9526c30025240857-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

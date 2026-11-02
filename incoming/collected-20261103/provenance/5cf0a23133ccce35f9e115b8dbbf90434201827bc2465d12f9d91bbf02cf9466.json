@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Montserrat-ExtraBold-5cf0a23133cc.ttf",
+  "sha256": "5cf0a23133ccce35f9e115b8dbbf90434201827bc2465d12f9d91bbf02cf9466",
+  "size": 344052,
+  "names": [
+    "Montserrat",
+    "Montserrat ExtraBold",
+    "Montserrat-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Montserrat",
+      "file_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-Y3tcoqK5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6d823fa267b028-OFL.txt",
+    "incoming/collected-20261103/licenses/74082094b5a5d961-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

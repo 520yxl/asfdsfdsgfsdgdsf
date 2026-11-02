@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSans-Thin-d425d516c283.ttf",
+  "sha256": "d425d516c28336928deee0f9c9c56c879c78a282150147fe2f6e872dbe8bfb28",
+  "size": 628672,
+  "names": [
+    "Noto Sans",
+    "Noto Sans Thin",
+    "NotoSans-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans",
+      "file_url": "https://fonts.gstatic.com/s/notosans/v42/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9At9d41P6zHtY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/9526c30025240857-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

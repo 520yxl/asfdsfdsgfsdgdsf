@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSans_Condensed-Black-d4e6a54cc837.ttf",
+  "sha256": "d4e6a54cc837fc2e2c0366d560d8678e030ee5e1965a2bc0aefc8548dfa1e543",
+  "size": 629084,
+  "names": [
+    "Noto Sans Condensed",
+    "Noto Sans Condensed Black",
+    "NotoSansCondensed-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans",
+      "file_url": "https://fonts.gstatic.com/s/notosans/v42/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPCbcz6L1SoM-jCpoiyBUBN9d41P6zHtY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/9526c30025240857-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

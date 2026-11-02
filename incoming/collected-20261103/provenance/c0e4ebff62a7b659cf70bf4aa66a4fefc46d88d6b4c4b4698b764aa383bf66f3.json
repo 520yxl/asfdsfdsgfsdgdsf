@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSansJP-Light-c0e4ebff62a7.ttf",
+  "sha256": "c0e4ebff62a7b659cf70bf4aa66a4fefc46d88d6b4c4b4698b764aa383bf66f3",
+  "size": 5735356,
+  "names": [
+    "Noto Sans JP",
+    "Noto Sans JP Light",
+    "NotoSansJP-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans+JP",
+      "file_url": "https://fonts.gstatic.com/s/notosansjp/v57/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFE8j75vY0rw-oME.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e5aa11c906aae1dc-OFL.txt",
+    "incoming/collected-20261103/licenses/9df0d278fd21818f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Montserrat-Regular-ef9cf99f0175.ttf",
+  "sha256": "ef9cf99f0175bef530b88934bd904fcf56f773cec6fd4dfb8ccaf7ce2bbd395e",
+  "size": 330948,
+  "names": [
+    "Montserrat",
+    "Montserrat Regular",
+    "Montserrat-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Montserrat",
+      "file_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-Y3tcoqK5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6d823fa267b028-OFL.txt",
+    "incoming/collected-20261103/licenses/74082094b5a5d961-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

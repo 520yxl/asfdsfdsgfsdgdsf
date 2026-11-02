@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSansJP-SemiBold-92eff4421bb0.ttf",
+  "sha256": "92eff4421bb0b7c6f4c02a5d2dcec3bd13d3a1251a36e459b8077fe9ef90ee6f",
+  "size": 5725220,
+  "names": [
+    "Noto Sans JP",
+    "Noto Sans JP SemiBold",
+    "NotoSansJP-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans+JP",
+      "file_url": "https://fonts.gstatic.com/s/notosansjp/v57/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFM8k75vY0rw-oME.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e5aa11c906aae1dc-OFL.txt",
+    "incoming/collected-20261103/licenses/9df0d278fd21818f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

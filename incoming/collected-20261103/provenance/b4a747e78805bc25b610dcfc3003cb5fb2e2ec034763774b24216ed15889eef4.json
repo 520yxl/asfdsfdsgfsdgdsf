@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSansKR-Regular-b4a747e78805.ttf",
+  "sha256": "b4a747e78805bc25b610dcfc3003cb5fb2e2ec034763774b24216ed15889eef4",
+  "size": 6191364,
+  "names": [
+    "Noto Sans KR",
+    "Noto Sans KR Regular",
+    "NotoSansKR-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans+KR",
+      "file_url": "https://fonts.gstatic.com/s/notosanskr/v40/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzuoyeLTq8H4hfeE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e5aa11c906aae1dc-OFL.txt",
+    "incoming/collected-20261103/licenses/545fd54189ab8f28-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Murecho-Bold-da45c32ea26a.ttf",
+  "sha256": "da45c32ea26a9825ab3f19e94b3e32eff5a83bc3ef2399df85f5e5e230e5c3af",
+  "size": 887012,
+  "names": [
+    "Murecho",
+    "Murecho Bold",
+    "Murecho-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Murecho",
+      "file_url": "https://fonts.gstatic.com/s/murecho/v18/q5uYsoq3NOBn_I-ggCJg98TBOoNFCMqM4nWZLCpUOaM6.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6ef649ddf9679019-OFL.txt",
+    "incoming/collected-20261103/licenses/f3daf1153a72ae0b-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

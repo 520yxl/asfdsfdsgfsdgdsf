@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSans_ExtraCondensed-Bold-51541fef79cf.ttf",
+  "sha256": "51541fef79cf92b8b0b25374868574af175f650ec5b0f63649285cda7a1f011e",
+  "size": 629716,
+  "names": [
+    "Noto Sans ExtraCondensed",
+    "Noto Sans ExtraCondensed Bold",
+    "NotoSansExtraCondensed-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans",
+      "file_url": "https://fonts.gstatic.com/s/notosans/v42/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPMrcz6L1SoM-jCpoiyAaBN9d41P6zHtY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/9526c30025240857-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

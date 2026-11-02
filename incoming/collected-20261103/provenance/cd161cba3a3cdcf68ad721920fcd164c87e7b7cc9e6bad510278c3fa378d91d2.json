@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Montserrat-Medium-cd161cba3a3c.ttf",
+  "sha256": "cd161cba3a3cdcf68ad721920fcd164c87e7b7cc9e6bad510278c3fa378d91d2",
+  "size": 330872,
+  "names": [
+    "Montserrat",
+    "Montserrat Medium",
+    "Montserrat-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Montserrat",
+      "file_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-Y3tcoqK5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6d823fa267b028-OFL.txt",
+    "incoming/collected-20261103/licenses/74082094b5a5d961-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

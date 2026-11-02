@@ -1,0 +1,22 @@
+{
+  "font": "incoming/NotoSerif_SemiCondensed-ThinItalic-f88d2d3b67b4.ttf",
+  "sha256": "f88d2d3b67b418ae30173e3bc89f4b7399b20cf3e2c5a8dd865cb191a33f2df4",
+  "size": 536036,
+  "names": [
+    "Noto Serif SemiCondensed",
+    "Noto Serif SemiCondensed Thin",
+    "Noto Serif SemiCondensed Thin Italic",
+    "NotoSerifSemiCondensed-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif",
+      "file_url": "https://fonts.gstatic.com/s/notoserif/v33/ga6saw1J5X9T9RW6j9bNfFIMZhhWnFTyNZIQDzi_FXP0RgnaOg9MYBNLgscPpKrCzyUi.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/1be03c10d71de7ad-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Murecho-Thin-591912ed3540.ttf",
+  "sha256": "591912ed3540e1740136dda889a5606cd62eb832800af446f7a6ff00619be7e4",
+  "size": 888416,
+  "names": [
+    "Murecho",
+    "Murecho Thin",
+    "Murecho-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Murecho",
+      "file_url": "https://fonts.gstatic.com/s/murecho/v18/q5uYsoq3NOBn_I-ggCJg98TBOoNFCMpr5HWZLCpUOaM6.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6ef649ddf9679019-OFL.txt",
+    "incoming/collected-20261103/licenses/f3daf1153a72ae0b-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

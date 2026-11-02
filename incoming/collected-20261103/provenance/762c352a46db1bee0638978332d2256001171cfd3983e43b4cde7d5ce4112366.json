@@ -1,0 +1,22 @@
+{
+  "font": "incoming/NotoSans-BlackItalic-762c352a46db.ttf",
+  "sha256": "762c352a46db1bee0638978332d2256001171cfd3983e43b4cde7d5ce4112366",
+  "size": 642820,
+  "names": [
+    "Noto Sans",
+    "Noto Sans Black",
+    "Noto Sans Black Italic",
+    "NotoSans-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans",
+      "file_url": "https://fonts.gstatic.com/s/notosans/v42/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QJ4Z6VfYyWtY1rI.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/9526c30025240857-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

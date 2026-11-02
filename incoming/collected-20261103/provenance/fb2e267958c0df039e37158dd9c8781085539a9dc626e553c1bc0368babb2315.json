@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Murecho-Black-fb2e267958c0.ttf",
+  "sha256": "fb2e267958c0df039e37158dd9c8781085539a9dc626e553c1bc0368babb2315",
+  "size": 886272,
+  "names": [
+    "Murecho",
+    "Murecho Black",
+    "Murecho-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Murecho",
+      "file_url": "https://fonts.gstatic.com/s/murecho/v18/q5uYsoq3NOBn_I-ggCJg98TBOoNFCMrC4nWZLCpUOaM6.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6ef649ddf9679019-OFL.txt",
+    "incoming/collected-20261103/licenses/f3daf1153a72ae0b-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

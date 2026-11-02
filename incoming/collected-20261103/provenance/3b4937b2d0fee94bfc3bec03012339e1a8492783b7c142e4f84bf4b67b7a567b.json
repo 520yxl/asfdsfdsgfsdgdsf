@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSans-ExtraLight-3b4937b2d0fe.ttf",
+  "sha256": "3b4937b2d0fee94bfc3bec03012339e1a8492783b7c142e4f84bf4b67b7a567b",
+  "size": 629780,
+  "names": [
+    "Noto Sans",
+    "Noto Sans ExtraLight",
+    "NotoSans-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans",
+      "file_url": "https://fonts.gstatic.com/s/notosans/v42/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9A99d41P6zHtY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/9526c30025240857-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

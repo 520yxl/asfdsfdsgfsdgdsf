@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSansKR-ExtraBold-0cf9b50edb48.ttf",
+  "sha256": "0cf9b50edb488028e138b928ce1ff50dd143d907f14f247ca462d3cad561ca41",
+  "size": 6188464,
+  "names": [
+    "Noto Sans KR",
+    "Noto Sans KR ExtraBold",
+    "NotoSansKR-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans+KR",
+      "file_url": "https://fonts.gstatic.com/s/notosanskr/v40/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzmo1eLTq8H4hfeE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e5aa11c906aae1dc-OFL.txt",
+    "incoming/collected-20261103/licenses/545fd54189ab8f28-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

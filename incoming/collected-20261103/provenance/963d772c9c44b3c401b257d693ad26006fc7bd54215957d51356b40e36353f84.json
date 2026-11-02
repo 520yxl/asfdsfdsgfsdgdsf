@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Montserrat-Light-963d772c9c44.ttf",
+  "sha256": "963d772c9c44b3c401b257d693ad26006fc7bd54215957d51356b40e36353f84",
+  "size": 330888,
+  "names": [
+    "Montserrat",
+    "Montserrat Light",
+    "Montserrat-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Montserrat",
+      "file_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-Y3tcoqK5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6d823fa267b028-OFL.txt",
+    "incoming/collected-20261103/licenses/74082094b5a5d961-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

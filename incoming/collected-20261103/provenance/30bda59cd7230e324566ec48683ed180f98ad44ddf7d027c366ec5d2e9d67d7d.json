@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSansJP-ExtraBold-30bda59cd723.ttf",
+  "sha256": "30bda59cd7230e324566ec48683ed180f98ad44ddf7d027c366ec5d2e9d67d7d",
+  "size": 5723668,
+  "names": [
+    "Noto Sans JP",
+    "Noto Sans JP ExtraBold",
+    "NotoSansJP-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans+JP",
+      "file_url": "https://fonts.gstatic.com/s/notosansjp/v57/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFJEk75vY0rw-oME.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e5aa11c906aae1dc-OFL.txt",
+    "incoming/collected-20261103/licenses/9df0d278fd21818f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSansKR-SemiBold-131664ca93a3.ttf",
+  "sha256": "131664ca93a3abd646beca72779b4332db02949eb0f3e763ecd7e756589330fa",
+  "size": 6187524,
+  "names": [
+    "Noto Sans KR",
+    "Noto Sans KR SemiBold",
+    "NotoSansKR-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans+KR",
+      "file_url": "https://fonts.gstatic.com/s/notosanskr/v40/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzjQ1eLTq8H4hfeE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e5aa11c906aae1dc-OFL.txt",
+    "incoming/collected-20261103/licenses/545fd54189ab8f28-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

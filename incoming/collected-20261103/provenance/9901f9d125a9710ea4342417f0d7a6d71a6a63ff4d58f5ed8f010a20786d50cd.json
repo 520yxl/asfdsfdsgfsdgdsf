@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_120pt-SemiBold-9901f9d125a9.ttf",
+  "sha256": "9901f9d125a9710ea4342417f0d7a6d71a6a63ff4d58f5ed8f010a20786d50cd",
+  "size": 1066448,
+  "names": [
+    "Merriweather 120pt",
+    "Merriweather 120pt SemiBold",
+    "Merriweather120pt-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPY3EOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrACAqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

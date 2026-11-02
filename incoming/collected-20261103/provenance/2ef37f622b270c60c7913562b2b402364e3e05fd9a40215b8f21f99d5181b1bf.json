@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather_120pt-LightItalic-2ef37f622b27.ttf",
+  "sha256": "2ef37f622b270c60c7913562b2b402364e3e05fd9a40215b8f21f99d5181b1bf",
+  "size": 1069020,
+  "names": [
+    "Merriweather 120pt",
+    "Merriweather 120pt Light",
+    "Merriweather 120pt Light Italic",
+    "Merriweather120pt-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2G89tLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmScUF3wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

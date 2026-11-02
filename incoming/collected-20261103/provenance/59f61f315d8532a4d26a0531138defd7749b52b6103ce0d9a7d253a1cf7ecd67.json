@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_120pt-Regular-59f61f315d85.ttf",
+  "sha256": "59f61f315d8532a4d26a0531138defd7749b52b6103ce0d9a7d253a1cf7ecd67",
+  "size": 1066392,
+  "names": [
+    "Merriweather 120pt",
+    "Merriweather 120pt Regular",
+    "Merriweather120pt-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPY3EOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

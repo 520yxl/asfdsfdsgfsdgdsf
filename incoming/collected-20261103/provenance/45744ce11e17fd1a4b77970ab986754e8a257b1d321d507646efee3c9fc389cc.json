@@ -1,0 +1,22 @@
+{
+  "font": "incoming/NotoSans_SemiCondensed-MediumItalic-45744ce11e17.ttf",
+  "sha256": "45744ce11e17fd1a4b77970ab986754e8a257b1d321d507646efee3c9fc389cc",
+  "size": 645212,
+  "names": [
+    "Noto Sans SemiCondensed",
+    "Noto Sans SemiCondensed Medium",
+    "Noto Sans SemiCondensed Medium Italic",
+    "NotoSansSemiCondensed-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Sans",
+      "file_url": "https://fonts.gstatic.com/s/notosans/v42/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCeWuvHtVtX57DGjDU1QAUe6VfYyWtY1rI.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/9526c30025240857-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
