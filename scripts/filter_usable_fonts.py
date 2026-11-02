@@ -1,16 +1,40 @@
 #!/usr/bin/env python3
 """Keep only fonts that can be applied in desktop design software in dist/fonts.json."""
 import json
+import re
+from urllib.parse import urlparse, unquote
 from pathlib import Path
 from taxonomy import enrich, filter_indexes
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
-DESKTOP_FORMATS = {"ttf", "otf", "ttc", "otc"}
+DESKTOP_FORMATS = {"ttf", "otf"}
 
 def emit(name, data):
-    (DIST / name).write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (DIST / name).write_text(json.dumps(data, ensure_ascii=False, indent=None if name == "fonts.json" else 2) + "\n", encoding="utf-8")
+
+def usable_font(font):
+    fmt = str(font.get("format", "")).lower().lstrip(".")
+    path = str(font.get("path", ""))
+    if fmt not in DESKTOP_FORMATS or Path(path).suffix.lower() != "." + fmt:
+        return False
+    if not path.startswith("fonts/") or any(x in {"", ".", ".."} for x in path.split("/")) or "\\" in path:
+        return False
+    if not re.fullmatch(r"[0-9a-fA-F]{64}", str(font.get("sha256", ""))) or font.get("size", 0) <= 0:
+        return False
+    source = font.get("source")
+    if source in {"google-fonts", "fontsource"}:
+        repo = "google/fonts" if source == "google-fonts" else "fontsource/font-files"
+        url = urlparse(font.get("download_url", ""))
+        parts = unquote(url.path).strip("/").split("/")
+        prefix = "fonts/" + source + "/"
+        return (url.scheme == "https" and url.netloc == "raw.githubusercontent.com" and not url.query and not url.fragment
+                and len(parts) >= 5 and "/".join(parts[:2]) == repo and re.fullmatch(r"[0-9a-f]{40}", parts[2]) is not None
+                and (parts[3] in {"ofl", "apache", "ufl", "cc-by-sa"} if source == "google-fonts" else parts[3] == "sources")
+                and path.startswith(prefix) and path[len(prefix):] == "/".join(parts[3:]))
+    return True
+
 
 def main():
     index_path = DIST / "fonts.json"
@@ -20,12 +44,12 @@ def main():
         fmt = str(font.get("format", "")).lower().lstrip(".")
         path = str(font.get("path", ""))
         source = font.get("source", "")
-        if fmt in DESKTOP_FORMATS and path.startswith("fonts/"):
+        if usable_font(font):
             usable.append(font)
             continue
         if fmt in {"woff", "woff2"}:
             reason = "Web-only WOFF/WOFF2 format; not supported for direct desktop font installation"
-        elif source in {"google-fonts", "fontsource"} or fmt == "remote":
+        elif fmt == "remote" or not font.get("download_url"):
             reason = "Metadata-only record without a verified downloadable desktop font file"
         else:
             reason = "No supported desktop font file found"
@@ -70,7 +94,7 @@ def main():
         "desktop_usable_count": len(usable),
         "excluded_count": len(excluded),
         "excluded_woff_count": sum(1 for f in excluded if str(f.get("format", "")).lower().lstrip(".") in {"woff", "woff2"}),
-        "excluded_metadata_only_count": sum(1 for f in excluded if f.get("source") in {"google-fonts", "fontsource"} or f.get("format") == "remote"),
+        "excluded_metadata_only_count": sum(1 for f in excluded if f.get("format") == "remote" or not f.get("download_url")),
         "supported_formats": sorted(DESKTOP_FORMATS),
         "note": "Excluded entries are retained in online-fonts-unavailable.json for audit, not shown as installable desktop fonts."
     }
@@ -79,3 +103,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

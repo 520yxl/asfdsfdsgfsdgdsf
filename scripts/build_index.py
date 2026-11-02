@@ -14,7 +14,7 @@ from taxonomy import enrich, filter_indexes
 
 ROOT = Path(__file__).resolve().parents[1]
 FONTS, INCOMING, DIST = (ROOT / folder for folder in ("fonts", "incoming", "dist"))
-EXTENSIONS = {".ttf", ".otf", ".ttc", ".otc", ".woff", ".woff2"}
+EXTENSIONS = {".ttf", ".otf"}
 CATEGORIES = ["黑体", "宋体", "楷体", "圆体", "书法体", "手写体", "艺术体", "其他"]
 
 def read_json(path, default):
@@ -340,3 +340,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
