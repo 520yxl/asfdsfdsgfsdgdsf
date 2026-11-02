@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo-Italic-VariableFont_wdth,wght-28148413ceee.ttf",
+  "sha256": "28148413ceee1f9489a9eaa2c6871a66feef7a2e2ccabc0bcc3f31f3aecb38e1",
+  "size": 734512,
+  "names": [
+    "Archivo",
+    "Archivo SemiBold",
+    "Archivo SemiBold Italic",
+    "Archivo-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3kSo8UDI-1M0wlSfdzoK2vFIaOV8A.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

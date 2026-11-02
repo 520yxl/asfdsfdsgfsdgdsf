@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Bitter-Italic-VariableFont_wght-5d200f63d690.ttf",
+  "sha256": "5d200f63d690b692489eebc81a227418055f1eadf213a2e72117f9155fd55325",
+  "size": 308024,
+  "names": [
+    "Bitter",
+    "Bitter Thin",
+    "Bitter Thin Italic",
+    "Bitter-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/rax-HiqOu8IVPmn7eoxsLjxSmlLZ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

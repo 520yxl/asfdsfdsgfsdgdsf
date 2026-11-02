@@ -1,0 +1,20 @@
+{
+  "font": "incoming/AlexBrush-Regular-ac849cb12f56.ttf",
+  "sha256": "ac849cb12f5638019661376c0c6fba383cd5f138f2971d2f620315add9a96694",
+  "size": 115420,
+  "names": [
+    "Alex Brush",
+    "Alex Brush Regular",
+    "AlexBrush-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alex+Brush",
+      "file_url": "https://fonts.gstatic.com/s/alexbrush/v23/SZc83FzrJKuqFbwMKk6EtUL57DtOmCc.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3fc3718cbcd4ac47-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ArchitectsDaughter-Regular-7e7ae3e7f37f.ttf",
+  "sha256": "7e7ae3e7f37f4a56362e3dc486acf968a1023d954994901f960b0e53de3fa883",
+  "size": 37756,
+  "names": [
+    "Architects Daughter",
+    "Architects Daughter Regular",
+    "ArchitectsDaughter-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Architects+Daughter",
+      "file_url": "https://fonts.gstatic.com/s/architectsdaughter/v20/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY5q4szgE-Q.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5b306cdba7b98c72-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

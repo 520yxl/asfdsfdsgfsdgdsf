@@ -1,0 +1,21 @@
+{
+  "font": "incoming/LXGWBoldKai-HanOnly-Level2A-3f31bed29590.ttf",
+  "sha256": "3f31bed295909a2a1ed192a039169afaae0b09191ae6ad44faf5176598598eaa",
+  "size": 608552,
+  "names": [
+    "LXGW ZhenKai Ha",
+    "LXGW ZhenKai Han-Only Level 2A",
+    "LXGWZhenKaiH",
+    "LXGWZhenKaiHanOnlyLevel2a",
+    "霞鹜臻楷 二级汉字 第1批"
+  ],
+  "sources": [
+    {
+      "repository": "https://github.com/lxgw/LxgwZhenKai"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f066e4ad57752007-readme.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

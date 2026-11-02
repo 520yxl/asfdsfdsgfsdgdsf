@@ -1,0 +1,19 @@
+{
+  "font": "incoming/Arvo-Italic-916d103f7716.ttf",
+  "sha256": "916d103f771685f12c2a6977d0d8f7185ddef97b7d13748522a3ed2422fe4eb4",
+  "size": 34996,
+  "names": [
+    "Arvo",
+    "Arvo-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Arvo",
+      "file_url": "https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIQ6J7u_vvijQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b8b23604f9e503e5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

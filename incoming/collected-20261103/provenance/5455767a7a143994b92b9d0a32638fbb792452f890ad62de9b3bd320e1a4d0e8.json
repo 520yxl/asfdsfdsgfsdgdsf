@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Asap-VariableFont_wdth,wght-5455767a7a14.ttf",
+  "sha256": "5455767a7a143994b92b9d0a32638fbb792452f890ad62de9b3bd320e1a4d0e8",
+  "size": 376372,
+  "names": [
+    "Asap",
+    "Asap Regular",
+    "Asap-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOoCniXp96a-zwU4UROGzY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

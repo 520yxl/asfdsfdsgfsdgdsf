@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Barlow-ExtraBoldItalic-e91147b70e37.ttf",
+  "sha256": "e91147b70e37ffe430bd45c02bc5aa23deab95c93539ad599c5735a37319d732",
+  "size": 107620,
+  "names": [
+    "Barlow",
+    "Barlow ExtraBold",
+    "Barlow ExtraBold Italic",
+    "Barlow-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfOc5loptzsrd6m9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

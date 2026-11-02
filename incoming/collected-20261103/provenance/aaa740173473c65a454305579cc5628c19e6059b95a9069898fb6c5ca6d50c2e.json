@@ -1,0 +1,20 @@
+{
+  "font": "incoming/BeVietnamPro-Thin-aaa740173473.ttf",
+  "sha256": "aaa740173473c65a454305579cc5628c19e6059b95a9069898fb6c5ca6d50c2e",
+  "size": 125692,
+  "names": [
+    "Be Vietnam Pro",
+    "Be Vietnam Pro Thin",
+    "BeVietnamPro-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Be+Vietnam+Pro",
+      "file_url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HRUBX8YYbAiah8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/dde54a23eadcd8fb-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

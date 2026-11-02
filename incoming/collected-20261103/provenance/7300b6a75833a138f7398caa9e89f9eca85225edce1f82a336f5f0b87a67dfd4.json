@@ -1,0 +1,21 @@
+{
+  "font": "incoming/AlbertSans-VariableFont_wght-7300b6a75833.ttf",
+  "sha256": "7300b6a75833a138f7398caa9e89f9eca85225edce1f82a336f5f0b87a67dfd4",
+  "size": 128420,
+  "names": [
+    "Albert Sans",
+    "Albert Sans Regular",
+    "AlbertSans-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Albert+Sans",
+      "file_url": "https://fonts.gstatic.com/s/albertsans/v4/i7dOIFdwYjGaAMFtZd_QA2ZcalayGhyV.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/61d999abe5423729-OFL.txt",
+    "incoming/collected-20261103/licenses/e85db03213a537ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

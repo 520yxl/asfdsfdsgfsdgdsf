@@ -1,0 +1,20 @@
+{
+  "font": "incoming/AtkinsonHyperlegible-Bold-9ebfea858a99.ttf",
+  "sha256": "9ebfea858a99e61e2fc299d194ba55b87de4884094f86fdcb6fa0d510b9d77da",
+  "size": 54444,
+  "names": [
+    "Atkinson Hyperlegible",
+    "Atkinson Hyperlegible Bold",
+    "AtkinsonHyperlegible-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Atkinson+Hyperlegible",
+      "file_url": "https://fonts.gstatic.com/s/atkinsonhyperlegible/v12/9Bt73C1KxNDXMspQ1lPyU89-1h6ONRlW45G8WbcNcy-OZFy-FA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f7deb218a2410fc1-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

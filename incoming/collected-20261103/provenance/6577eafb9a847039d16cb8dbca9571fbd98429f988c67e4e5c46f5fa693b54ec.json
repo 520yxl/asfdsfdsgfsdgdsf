@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Barlow-LightItalic-6577eafb9a84.ttf",
+  "sha256": "6577eafb9a847039d16cb8dbca9571fbd98429f988c67e4e5c46f5fa693b54ec",
+  "size": 103536,
+  "names": [
+    "Barlow",
+    "Barlow Light",
+    "Barlow Light Italic",
+    "Barlow-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfOQ4loptzsrd6m9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

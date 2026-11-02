@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Barlow-ThinItalic-3ebc2a4ec301.ttf",
+  "sha256": "3ebc2a4ec301bdc518814d181921761f2752ecdb624a13fe2b9d06db0e78c7df",
+  "size": 101800,
+  "names": [
+    "Barlow",
+    "Barlow Thin",
+    "Barlow Thin Italic",
+    "Barlow-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHtv4kjgoGqM7E_CfNYwHoDmTcibrA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

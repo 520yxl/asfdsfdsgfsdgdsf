@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Arvo-BoldItalic-90797125d1a3.ttf",
+  "sha256": "90797125d1a3fa82d582e26d48a070a1d4a6b4fc085e4b6178e3239b8c18d21d",
+  "size": 36704,
+  "names": [
+    "Arvo",
+    "Arvo Bold Italic",
+    "Arvo-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Arvo",
+      "file_url": "https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLHK9tD-hAHkGg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b8b23604f9e503e5-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

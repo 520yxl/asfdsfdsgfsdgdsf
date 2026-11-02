@@ -1,0 +1,19 @@
+{
+  "font": "incoming/LXGWMunHaeHangul-L-b64893401aa0.ttf",
+  "sha256": "b64893401aa0fc0aac18bf3e6c3938e04fa62491fe1adc55f8be6b8fe1e60c5f",
+  "size": 1057936,
+  "names": [
+    "LXGW WenKai Hangul",
+    "LXGWWenKaiHangul"
+  ],
+  "sources": [
+    {
+      "repository": "https://github.com/lxgw/LxgwWenKai"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1a25e35da1031c6c-OFL.txt",
+    "incoming/collected-20261103/licenses/5aeea4ef0b625703-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

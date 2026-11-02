@@ -1,0 +1,20 @@
+{
+  "font": "incoming/AmaticSC-Regular-f3772587b6b7.ttf",
+  "sha256": "f3772587b6b7bab9d32ee774ff26687ee21be817720b62cc23d8e113a1b62ef5",
+  "size": 142696,
+  "names": [
+    "Amatic SC",
+    "Amatic SC Regular",
+    "AmaticSC-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Amatic+SC",
+      "file_url": "https://fonts.gstatic.com/s/amaticsc/v28/TUZyzwprpvBS1izr_vO0De6ecZQf1A.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a82437f54dabda25-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Alice-Regular-0e356f25124d.ttf",
+  "sha256": "0e356f25124d41667fce9b4bf421e97fbaaeb68f678d6be073ef7bb9bcf9ece9",
+  "size": 128720,
+  "names": [
+    "Alice",
+    "Alice Regular",
+    "Alice-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Alice",
+      "file_url": "https://fonts.gstatic.com/s/alice/v21/OpNCnoEEmtHa6FcJpA_chzJ0.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c5b18dedc46ace73-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

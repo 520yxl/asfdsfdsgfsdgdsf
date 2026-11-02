@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Bitter-VariableFont_wght-763390ebb63a.ttf",
+  "sha256": "763390ebb63a1f17604502a0cb9fc049ea1cd022bf17a8d45d43bdcbe4729d28",
+  "size": 320532,
+  "names": [
+    "Bitter",
+    "Bitter Thin",
+    "Bitter-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/rax8HiqOu8IVPmnLeIZoDDlCmg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

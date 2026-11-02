@@ -1,0 +1,28 @@
+{
+  "font": "incoming/SmileySans-Oblique-139b5dcbe70d.otf",
+  "sha256": "139b5dcbe70d6d52de85a62d148784c6af4bd161e38fdb62ba0c1e7e5065fca6",
+  "size": 2003884,
+  "names": [
+    "Smiley Sans",
+    "Smiley Sans Oblique",
+    "SmileySans-Oblique",
+    "得意黑",
+    "得意黑 斜体"
+  ],
+  "sources": [
+    {
+      "repository": "https://github.com/atelier-anchor/smiley-sans",
+      "file_url": "https://github.com/atelier-anchor/smiley-sans/releases/download/v2.0.1/smiley-sans-v2.0.1.zip"
+    },
+    {
+      "repository": "atelier-anchor/smiley-sans",
+      "license_url": "https://raw.githubusercontent.com/atelier-anchor/smiley-sans/v2.0.1/LICENSE",
+      "file_url": "https://github.com/atelier-anchor/smiley-sans/releases/download/v2.0.1/smiley-sans-v2.0.1.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/9401f4050f1b66c2-LICENSE",
+    "incoming/collected-20261103/licenses/beba002a757204ca-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

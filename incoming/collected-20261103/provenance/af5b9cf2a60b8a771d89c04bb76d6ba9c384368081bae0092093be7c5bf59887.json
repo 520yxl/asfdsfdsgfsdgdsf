@@ -1,0 +1,19 @@
+{
+  "font": "incoming/LxgwWenKaiMonoLatin-Bold-af5b9cf2a60b.ttf",
+  "sha256": "af5b9cf2a60b8a771d89c04bb76d6ba9c384368081bae0092093be7c5bf59887",
+  "size": 161320,
+  "names": [
+    "Lxgw WenKai Mono Latin",
+    "Lxgw WenKai Mono Latin Bold",
+    "LxgwWenKaiMonoLatin-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "https://github.com/lxgw/LxgwWenKai"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3914da54534974bd-Readme.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

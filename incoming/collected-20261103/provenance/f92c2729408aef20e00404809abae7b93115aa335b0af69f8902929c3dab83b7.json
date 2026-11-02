@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Asap-Italic-VariableFont_wdth,wght-f92c2729408a.ttf",
+  "sha256": "f92c2729408aef20e00404809abae7b93115aa335b0af69f8902929c3dab83b7",
+  "size": 426064,
+  "names": [
+    "Asap",
+    "Asap Italic",
+    "Asap-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOmCniXp96ayz4e5WZLCzYlKw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

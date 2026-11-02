@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Barlow-ExtraLight-582514aa0a15.ttf",
+  "sha256": "582514aa0a152cdeda980773b02372b1a662a3cd5db46ea279029f7d73079b7b",
+  "size": 97076,
+  "names": [
+    "Barlow",
+    "Barlow ExtraLight",
+    "Barlow-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3w-oc4FAtlT47dw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

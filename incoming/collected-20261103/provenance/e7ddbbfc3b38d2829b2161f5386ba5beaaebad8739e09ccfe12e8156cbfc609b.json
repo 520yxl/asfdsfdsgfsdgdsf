@@ -1,0 +1,20 @@
+{
+  "font": "incoming/AnonymousPro-BoldItalic-e7ddbbfc3b38.ttf",
+  "sha256": "e7ddbbfc3b38d2829b2161f5386ba5beaaebad8739e09ccfe12e8156cbfc609b",
+  "size": 96080,
+  "names": [
+    "Anonymous Pro",
+    "Anonymous Pro Bold Italic",
+    "AnonymousPro-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Anonymous+Pro",
+      "file_url": "https://fonts.gstatic.com/s/anonymouspro/v22/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6IG30KqB9Q.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/60a2997253517c22-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

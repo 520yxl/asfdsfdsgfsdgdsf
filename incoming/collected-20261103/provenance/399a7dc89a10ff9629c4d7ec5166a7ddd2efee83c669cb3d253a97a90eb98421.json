@@ -1,0 +1,22 @@
+{
+  "font": "incoming/KosefontP-JP-399a7dc89a10.ttf",
+  "sha256": "399a7dc89a10ff9629c4d7ec5166a7ddd2efee83c669cb3d253a97a90eb98421",
+  "size": 24993192,
+  "names": [
+    "Kosefont P JP",
+    "KosefontPJP",
+    "小濑字体P JP",
+    "小瀨字體P SC",
+    "小瀬フォントＰ ＪＰ"
+  ],
+  "sources": [
+    {
+      "repository": "https://github.com/lxgw/kose-font"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0df7e09be4c2c850-OFL.txt",
+    "incoming/collected-20261103/licenses/80425a5477f65cad-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

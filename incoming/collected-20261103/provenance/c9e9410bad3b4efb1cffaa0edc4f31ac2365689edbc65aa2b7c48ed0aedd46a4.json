@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Barlow-Light-c9e9410bad3b.ttf",
+  "sha256": "c9e9410bad3b4efb1cffaa0edc4f31ac2365689edbc65aa2b7c48ed0aedd46a4",
+  "size": 97936,
+  "names": [
+    "Barlow",
+    "Barlow Light",
+    "Barlow-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3p-kc4FAtlT47dw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

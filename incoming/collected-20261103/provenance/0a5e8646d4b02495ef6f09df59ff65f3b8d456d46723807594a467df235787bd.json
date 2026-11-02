@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Barlow-MediumItalic-0a5e8646d4b0.ttf",
+  "sha256": "0a5e8646d4b02495ef6f09df59ff65f3b8d456d46723807594a467df235787bd",
+  "size": 103848,
+  "names": [
+    "Barlow",
+    "Barlow Medium",
+    "Barlow Medium Italic",
+    "Barlow-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfPI41optzsrd6m9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

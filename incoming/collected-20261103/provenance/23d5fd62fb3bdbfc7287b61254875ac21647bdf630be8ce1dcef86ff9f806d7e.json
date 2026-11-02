@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Besley-VariableFont_wght-23d5fd62fb3b.ttf",
+  "sha256": "23d5fd62fb3bdbfc7287b61254875ac21647bdf630be8ce1dcef86ff9f806d7e",
+  "size": 108768,
+  "names": [
+    "Besley",
+    "Besley Regular",
+    "Besley-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Besley",
+      "file_url": "https://fonts.gstatic.com/s/besley/v22/PlI8FlO1MaNwaNGMWw2G-H1cnA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d385562d750c664b-OFL.txt",
+    "incoming/collected-20261103/licenses/8f8c22b357f08894-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

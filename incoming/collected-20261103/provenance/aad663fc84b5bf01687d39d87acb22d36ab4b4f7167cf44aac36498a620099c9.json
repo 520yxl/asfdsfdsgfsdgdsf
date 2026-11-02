@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Barlow-SemiBoldItalic-aad663fc84b5.ttf",
+  "sha256": "aad663fc84b5bf01687d39d87acb22d36ab4b4f7167cf44aac36498a620099c9",
+  "size": 106380,
+  "names": [
+    "Barlow",
+    "Barlow SemiBold",
+    "Barlow SemiBold Italic",
+    "Barlow-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfPk5Foptzsrd6m9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

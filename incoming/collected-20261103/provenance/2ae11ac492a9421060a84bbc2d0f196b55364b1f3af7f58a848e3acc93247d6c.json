@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Allura-Regular-2ae11ac492a9.ttf",
+  "sha256": "2ae11ac492a9421060a84bbc2d0f196b55364b1f3af7f58a848e3acc93247d6c",
+  "size": 234288,
+  "names": [
+    "Allura",
+    "Allura Regular",
+    "Allura-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Allura",
+      "file_url": "https://fonts.gstatic.com/s/allura/v23/9oRPNYsQpS4zjuAPjAIXPtrrGA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0f413fc630f987b0-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo-VariableFont_wdth,wght-bc878c6e9e36.ttf",
+  "sha256": "bc878c6e9e36b848bfa2fb9174acdf812ea6df640fd167f2c95b42674729f6b5",
+  "size": 652084,
+  "names": [
+    "Archivo",
+    "Archivo SemiBold",
+    "Archivo-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3kQo8UDI-1M0wlSTd7iL0nAMaM.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

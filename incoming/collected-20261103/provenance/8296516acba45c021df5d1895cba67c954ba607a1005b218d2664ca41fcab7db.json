@@ -1,0 +1,20 @@
+{
+  "font": "incoming/AtkinsonHyperlegible-BoldItalic-8296516acba4.ttf",
+  "sha256": "8296516acba45c021df5d1895cba67c954ba607a1005b218d2664ca41fcab7db",
+  "size": 54608,
+  "names": [
+    "Atkinson Hyperlegible",
+    "Atkinson Hyperlegible Bold Italic",
+    "AtkinsonHyperlegible-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Atkinson+Hyperlegible",
+      "file_url": "https://fonts.gstatic.com/s/atkinsonhyperlegible/v12/9Bt93C1KxNDXMspQ1lPyU89-1h6ONRlW45G056qRdiWKRlmuFH24.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f7deb218a2410fc1-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

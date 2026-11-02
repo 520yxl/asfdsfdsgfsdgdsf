@@ -1,0 +1,19 @@
+{
+  "font": "incoming/LXGWMunHaeHangul-Regular_Spilt_Strokes-52c02d251662.ttf",
+  "sha256": "52c02d25166271d64eb53b6c9d2dfbab43662d7fed877634bb5defb609b5af36",
+  "size": 1376812,
+  "names": [
+    "LXGW WenKai Hangul",
+    "LXGWWenKaiHangul"
+  ],
+  "sources": [
+    {
+      "repository": "https://github.com/lxgw/LxgwWenKai"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1a25e35da1031c6c-OFL.txt",
+    "incoming/collected-20261103/licenses/5aeea4ef0b625703-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

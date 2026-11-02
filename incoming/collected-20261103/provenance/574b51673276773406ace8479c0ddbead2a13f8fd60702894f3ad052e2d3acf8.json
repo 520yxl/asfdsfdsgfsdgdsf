@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Besley-Italic-VariableFont_wght-574b51673276.ttf",
+  "sha256": "574b51673276773406ace8479c0ddbead2a13f8fd60702894f3ad052e2d3acf8",
+  "size": 112764,
+  "names": [
+    "Besley",
+    "Besley Italic",
+    "Besley-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Besley",
+      "file_url": "https://fonts.gstatic.com/s/besley/v22/PlI-FlO1MaNwaNG8WQeC2nhMnNy5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d385562d750c664b-OFL.txt",
+    "incoming/collected-20261103/licenses/8f8c22b357f08894-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

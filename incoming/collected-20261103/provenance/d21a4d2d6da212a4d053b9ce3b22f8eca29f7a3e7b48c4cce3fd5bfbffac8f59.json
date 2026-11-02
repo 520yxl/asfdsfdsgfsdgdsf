@@ -1,0 +1,21 @@
+{
+  "font": "incoming/BeVietnamPro-SemiBoldItalic-d21a4d2d6da2.ttf",
+  "sha256": "d21a4d2d6da212a4d053b9ce3b22f8eca29f7a3e7b48c4cce3fd5bfbffac8f59",
+  "size": 133504,
+  "names": [
+    "Be Vietnam Pro",
+    "Be Vietnam Pro SemiBold",
+    "Be Vietnam Pro SemiBold Italic",
+    "BeVietnamPro-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Be+Vietnam+Pro",
+      "file_url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2RbgJdhapcUU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/dde54a23eadcd8fb-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

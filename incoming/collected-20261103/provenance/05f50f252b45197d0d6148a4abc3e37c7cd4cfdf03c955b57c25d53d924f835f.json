@@ -1,0 +1,30 @@
+{
+  "font": "incoming/Yozai-Medium-05f50f252b45.ttf",
+  "sha256": "05f50f252b45197d0d6148a4abc3e37c7cd4cfdf03c955b57c25d53d924f835f",
+  "size": 15238394,
+  "names": [
+    "Yozai",
+    "Yozai Medium",
+    "Yozai-Medium",
+    "悠哉字体",
+    "悠哉字体 Medium"
+  ],
+  "sources": [
+    {
+      "repository": "https://github.com/lxgw/yozai-font",
+      "file_url": "https://github.com/lxgw/yozai-font/releases/download/v0.868/Yozai-Medium.ttf"
+    },
+    {
+      "repository": "lxgw/yozai-font",
+      "license_url": "https://raw.githubusercontent.com/lxgw/yozai-font/v0.868/OFL.txt",
+      "file_url": "https://github.com/lxgw/yozai-font/releases/download/v0.868/Yozai-Medium.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/973eac5efa10ac0a-OFL.txt",
+    "incoming/collected-20261103/licenses/ca6130a409545afc-README.upstream.md",
+    "incoming/collected-20261103/licenses/86b3a0b516284850-OFL.txt",
+    "incoming/collected-20261103/licenses/da8f1f2333804403-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/LXGWMarkerGothic-Regular-b6cc8669fd56.ttf",
+  "sha256": "b6cc8669fd565860e6c0775f2dbc5060c7ceb2a36741b01babbbc104d690e7ab",
+  "size": 3190368,
+  "names": [
+    "LXGW Marker Gothic",
+    "LXGW Marker Gothic Regular",
+    "LXGWMarkerGothic-Regular",
+    "霞鹜漫黑"
+  ],
+  "sources": [
+    {
+      "repository": "https://github.com/lxgw/LxgwMarkerGothic"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a5e70c8b156c4103-OFL.txt",
+    "incoming/collected-20261103/licenses/5406687ab98439a7-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

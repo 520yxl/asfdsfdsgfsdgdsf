@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Barlow-BlackItalic-cbca36a4ec89.ttf",
+  "sha256": "cbca36a4ec89242c454070f2e068580d34c90a35436da535d43eeb133a10f542",
+  "size": 109224,
+  "names": [
+    "Barlow",
+    "Barlow Black",
+    "Barlow Black Italic",
+    "Barlow-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfO451optzsrd6m9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

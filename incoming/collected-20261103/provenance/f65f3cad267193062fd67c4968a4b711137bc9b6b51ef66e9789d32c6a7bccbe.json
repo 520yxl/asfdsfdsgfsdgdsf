@@ -1,0 +1,21 @@
+{
+  "font": "incoming/BeVietnamPro-ExtraBoldItalic-f65f3cad2671.ttf",
+  "sha256": "f65f3cad267193062fd67c4968a4b711137bc9b6b51ef66e9789d32c6a7bccbe",
+  "size": 136856,
+  "names": [
+    "Be Vietnam Pro",
+    "Be Vietnam Pro ExtraBold",
+    "Be Vietnam Pro ExtraBold Italic",
+    "BeVietnamPro-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Be+Vietnam+Pro",
+      "file_url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80RbgJdhapcUU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/dde54a23eadcd8fb-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

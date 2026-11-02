@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Barlow-Thin-547b19097809.ttf",
+  "sha256": "547b19097809e17861a9c0a09ea41b6a98f4981c71688bf66041763080deba20",
+  "size": 96292,
+  "names": [
+    "Barlow",
+    "Barlow Thin",
+    "Barlow-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Barlow",
+      "file_url": "https://fonts.gstatic.com/s/barlow/v13/7cHrv4kjgoGqM7E3b8s8yn4hnCci.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/90d5cc663d971065-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

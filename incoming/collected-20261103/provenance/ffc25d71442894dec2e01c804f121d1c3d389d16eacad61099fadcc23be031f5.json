@@ -1,0 +1,21 @@
+{
+  "font": "incoming/BeVietnamPro-BlackItalic-ffc25d714428.ttf",
+  "sha256": "ffc25d71442894dec2e01c804f121d1c3d389d16eacad61099fadcc23be031f5",
+  "size": 139260,
+  "names": [
+    "Be Vietnam Pro",
+    "Be Vietnam Pro Black",
+    "Be Vietnam Pro Black Italic",
+    "BeVietnamPro-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Be+Vietnam+Pro",
+      "file_url": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1RbgJdhapcUU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/dde54a23eadcd8fb-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
