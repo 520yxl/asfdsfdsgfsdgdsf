@@ -1,0 +1,14 @@
+{
+  "font": "incoming/ipag-503af4a8b84d.ttf",
+  "sha256": "503af4a8b84d1079b8e2e358dc7f7a7fb8cb7a1f212f35eaef6782dbfc75a55e",
+  "size": 6235344,
+  "names": [
+    "IPAGothic",
+    "IPAゴシック"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/582e7e7eee915147-Readme_IPAfont00303.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,14 @@
+{
+  "font": "incoming/ipaexm-7a306386f930.ttf",
+  "sha256": "7a306386f930fee80922f71eebf4ffe0f1ff2817da8e619230953487673d71c7",
+  "size": 7835672,
+  "names": [
+    "IPAexMincho",
+    "IPAex明朝"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/9538f22fdfb7eb1a-Readme_IPAexfont00401.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

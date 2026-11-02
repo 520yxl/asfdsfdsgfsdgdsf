@@ -1,0 +1,19 @@
+{
+  "font": "incoming/RecursiveMonoCslSt-SemiBd-aa5bd823dc6b.ttf",
+  "sha256": "aa5bd823dc6b9208f129ecafc190d5fa52793189385bcb6eb35eadab8db6ad35",
+  "size": 397332,
+  "names": [
+    "Recursive Mn Csl St SmB",
+    "Recursive Mono Casual Static",
+    "RecursiveMonoCslSt-SemiBd"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e420f83164941446-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

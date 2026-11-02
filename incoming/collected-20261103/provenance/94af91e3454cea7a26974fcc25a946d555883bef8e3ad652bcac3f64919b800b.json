@@ -1,0 +1,19 @@
+{
+  "font": "incoming/RecursiveMonoLnrSt-ExtraBold-94af91e3454c.ttf",
+  "sha256": "94af91e3454cea7a26974fcc25a946d555883bef8e3ad652bcac3f64919b800b",
+  "size": 380560,
+  "names": [
+    "Recursive Mn Lnr St XBd",
+    "Recursive Mono Linear Static",
+    "RecursiveMonoLnrSt-ExtraBold"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e420f83164941446-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,14 @@
+{
+  "font": "incoming/ipamp-75c2fd0b6f3f.ttf",
+  "sha256": "75c2fd0b6f3f2b2c56a95b7ac2236034a04e0b83605ffb6d149b6dcbbcfb06fb",
+  "size": 8046048,
+  "names": [
+    "IPA P明朝",
+    "IPAPMincho"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/582e7e7eee915147-Readme_IPAfont00303.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

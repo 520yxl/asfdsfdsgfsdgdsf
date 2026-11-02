@@ -1,0 +1,19 @@
+{
+  "font": "incoming/RecursiveSansCslSt-SemiBd-146cae8ef14f.otf",
+  "sha256": "146cae8ef14f7f81f7c32997acc39a2df006bf326e46575cfe37d7b319b7a458",
+  "size": 402964,
+  "names": [
+    "Recursive Sans Casual Static",
+    "Recursive Sn Csl St SmB",
+    "RecursiveSansCslSt-SemiBd"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e420f83164941446-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

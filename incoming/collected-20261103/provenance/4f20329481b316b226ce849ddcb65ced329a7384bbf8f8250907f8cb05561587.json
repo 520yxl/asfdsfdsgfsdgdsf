@@ -1,0 +1,20 @@
+{
+  "font": "incoming/RecursiveMonoLnrSt-Italic-4f20329481b3.ttf",
+  "sha256": "4f20329481b316b226ce849ddcb65ced329a7384bbf8f8250907f8cb05561587",
+  "size": 418648,
+  "names": [
+    "Recursive Mn Lnr St",
+    "Recursive Mn Lnr St Italic",
+    "Recursive Mono Linear Static",
+    "RecursiveMonoLnrSt-Italic"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e420f83164941446-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

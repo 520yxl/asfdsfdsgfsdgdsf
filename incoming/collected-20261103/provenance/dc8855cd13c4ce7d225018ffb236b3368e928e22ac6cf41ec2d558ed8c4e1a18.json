@@ -1,0 +1,14 @@
+{
+  "font": "incoming/DejaVuSans-ExtraLight-dc8855cd13c4.ttf",
+  "sha256": "dc8855cd13c4ce7d225018ffb236b3368e928e22ac6cf41ec2d558ed8c4e1a18",
+  "size": 355820,
+  "names": [
+    "DejaVu Sans",
+    "DejaVu Sans ExtraLight",
+    "DejaVu Sans Light",
+    "DejaVuSans-ExtraLight"
+  ],
+  "sources": [],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

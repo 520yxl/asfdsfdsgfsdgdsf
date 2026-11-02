@@ -1,0 +1,19 @@
+{
+  "font": "incoming/Recursive_VF_1.085-653221ca467f.ttf",
+  "sha256": "653221ca467f4732fe6856ac493f6c409e9f56a7674abe36b2364acc89796f7c",
+  "size": 2379132,
+  "names": [
+    "Recursive",
+    "Recursive Sans Linear Light",
+    "Recursive-SansLinearLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e420f83164941446-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

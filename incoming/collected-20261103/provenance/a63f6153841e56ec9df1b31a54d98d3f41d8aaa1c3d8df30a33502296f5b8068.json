@@ -1,0 +1,14 @@
+{
+  "font": "incoming/ipagp-a63f6153841e.ttf",
+  "sha256": "a63f6153841e56ec9df1b31a54d98d3f41d8aaa1c3d8df30a33502296f5b8068",
+  "size": 6235712,
+  "names": [
+    "IPA Pゴシック",
+    "IPAPGothic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/582e7e7eee915147-Readme_IPAfont00303.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,14 @@
+{
+  "font": "incoming/ipaexg-3b9955a5e437.ttf",
+  "sha256": "3b9955a5e437ffb24c41548e79296fa724822da21ee75dc1b94f6ccdb8f400dd",
+  "size": 6099900,
+  "names": [
+    "IPAexGothic",
+    "IPAexゴシック"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/9538f22fdfb7eb1a-Readme_IPAexfont00401.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/RecursiveSansCslSt-MedItalic-0a228e61b422.otf",
+  "sha256": "0a228e61b422b78b18710099ec32568d012b6d04a0ac5d13de251d6848247db7",
+  "size": 419064,
+  "names": [
+    "Recursive Sans Casual Static",
+    "Recursive Sn Csl St Med",
+    "Recursive Sn Csl St Med Italic",
+    "RecursiveSansCslSt-MedItalic"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e420f83164941446-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

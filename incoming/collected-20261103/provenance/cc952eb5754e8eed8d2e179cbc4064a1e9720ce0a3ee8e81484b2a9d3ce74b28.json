@@ -1,0 +1,20 @@
+{
+  "font": "incoming/RecursiveSansLnrSt-ExBdItalic-cc952eb5754e.otf",
+  "sha256": "cc952eb5754e8eed8d2e179cbc4064a1e9720ce0a3ee8e81484b2a9d3ce74b28",
+  "size": 386024,
+  "names": [
+    "Recursive Sans Linear Static",
+    "Recursive Sn Lnr St XBd",
+    "Recursive Sn Lnr St XBd Italic",
+    "RecursiveSansLnrSt-ExBdItalic"
+  ],
+  "sources": [
+    {
+      "page_url": "https://www.recursive.design"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e420f83164941446-README.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
