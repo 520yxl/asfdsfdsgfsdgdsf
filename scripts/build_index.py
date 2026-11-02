@@ -17,6 +17,16 @@ FONTS, INCOMING, DIST = (ROOT / folder for folder in ("fonts", "incoming", "dist
 EXTENSIONS = {".ttf", ".otf"}
 CATEGORIES = ["黑体", "宋体", "楷体", "圆体", "书法体", "手写体", "艺术体", "其他"]
 
+def localized_name_order(record):
+    # Old Mac records can be truncated (e.g. ZCOOL only stores "站").
+    # Prefer complete Unicode Windows names, then Unicode-platform names.
+    platform = 0 if record.platformID == 3 else 1 if record.platformID == 0 else 2
+    try:
+        length = len(record.toUnicode().strip())
+    except Exception:
+        length = 0
+    return platform, -length
+
 def read_json(path, default):
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else default
 
@@ -53,7 +63,7 @@ def inspect(path):
             data[key] = strings[0] if strings else ""
         # Collect Chinese localized names so the frontend can search them.
         family_zh, full_name_zh, style_zh = [], [], []
-        for record in name_table.names:
+        for record in sorted(name_table.names, key=localized_name_order):
             try:
                 value = record.toUnicode().strip()
             except Exception:
@@ -172,8 +182,9 @@ def brand_for(info, rules, override):
 
     # Brand-prefix matching first: a known foundry name at the start of the
     # family/full name is stronger evidence than a keyword appearing anywhere.
-    family = unicodedata.normalize("NFKC", info.get("family", "")).strip().casefold()
-    full_name = unicodedata.normalize("NFKC", info.get("full_name", "")).strip().casefold()
+    names = [info.get("family", ""), info.get("full_name", "")]
+    names += info.get("family_zh", []) + info.get("full_name_zh", [])
+    names = [unicodedata.normalize("NFKC", value).strip().casefold() for value in names]
     manufacturer = unicodedata.normalize("NFKC", info.get("manufacturer", "")).strip()
     prefix_matches = []
     contains_matches = []
@@ -182,9 +193,9 @@ def brand_for(info, rules, override):
             key = unicodedata.normalize("NFKC", keyword).strip().casefold()
             if not key:
                 continue
-            if family.startswith(key) or full_name.startswith(key):
+            if any(name.startswith(key) for name in names):
                 prefix_matches.append((len(key), rule["id"], rule.get("name_zh") or rule["name"]))
-            elif key in family or key in full_name or key in manufacturer.casefold():
+            elif any(key in name for name in names) or key in manufacturer.casefold():
                 contains_matches.append((len(key), rule["id"], rule.get("name_zh") or rule["name"]))
     matches = prefix_matches or contains_matches
     if matches:
@@ -290,7 +301,8 @@ def main():
             override = overrides.get(path.name, {})
             brand_id, brand_name = brand_for(info, rules, override)
             family_id = safe_id(override.get("family", info["family"]))
-            cat = override.get("category") or category(info["family"], info["style"])
+            category_names = " ".join([info["family"]] + info.get("family_zh", []) + info.get("full_name_zh", []))
+            cat = override.get("category") or category(category_names, info["style"])
             if cat not in categories:
                 cat = "其他"
             if brand_id == "unknown":
@@ -340,4 +352,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
