@@ -1,0 +1,18 @@
+{
+  "font": "incoming/GenSekiGothic2TW-R-bb3cccb9594a.otf",
+  "sha256": "bb3cccb9594a5a9c759a92bbbf147eb87826b8317d07d20f48ee7ebdcec684fa",
+  "size": 16501448,
+  "names": [
+    "GenSekiGothic2 TW",
+    "GenSekiGothic2 TW R",
+    "GenSekiGothic2TW-R",
+    "源石黑體月",
+    "源石黑體月 R"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt",
+    "incoming/collected-20261103/licenses/a2689cd2365b6210-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

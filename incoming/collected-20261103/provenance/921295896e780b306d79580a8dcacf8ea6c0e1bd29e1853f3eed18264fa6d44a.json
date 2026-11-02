@@ -1,0 +1,18 @@
+{
+  "font": "incoming/GenRyuMin2TW-H-921295896e78.otf",
+  "sha256": "921295896e780b306d79580a8dcacf8ea6c0e1bd29e1853f3eed18264fa6d44a",
+  "size": 16022096,
+  "names": [
+    "GenRyuMin2 TW",
+    "GenRyuMin2 TW H",
+    "GenRyuMin2TW-H",
+    "源流明體月",
+    "源流明體月 H"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt",
+    "incoming/collected-20261103/licenses/477af8c4fe1a578b-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
