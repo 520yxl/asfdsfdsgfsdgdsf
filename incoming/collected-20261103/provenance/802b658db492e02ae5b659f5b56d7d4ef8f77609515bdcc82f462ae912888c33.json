@@ -1,0 +1,24 @@
+{
+  "font": "incoming/XiaolaiMono-Regular-802b658db492.ttf",
+  "sha256": "802b658db492e02ae5b659f5b56d7d4ef8f77609515bdcc82f462ae912888c33",
+  "size": 22199284,
+  "names": [
+    "Xiaolai Mono",
+    "XiaolaiMono",
+    "シャオライ等幅",
+    "小賴字體等寬",
+    "小赖字体等宽"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/kose-font",
+      "license_url": "https://raw.githubusercontent.com/lxgw/kose-font/v3.126/OFL.txt",
+      "file_url": "https://github.com/lxgw/kose-font/releases/download/v3.126/XiaolaiMono-Regular.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e69147d85df54f8e-OFL.txt",
+    "incoming/collected-20261103/licenses/2d29570e7635786a-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/PMingI.U-8.10-4bcaff6de675.ttf",
+  "sha256": "4bcaff6de675cab7912a01c508aa49b01bccdacff263c9e31657f7e2f821046e",
+  "size": 25886832,
+  "names": [
+    "PMingI.U",
+    "PMingI.U-Regular",
+    "新一細明體"
+  ],
+  "sources": [
+    {
+      "repository": "ichitenfont/I.Ming",
+      "file_url": "https://github.com/ichitenfont/I.Ming/releases/download/8.10/PMingI.U-8.10.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4905fa05d95fdb5a-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

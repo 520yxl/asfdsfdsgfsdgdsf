@@ -1,0 +1,16 @@
+{
+  "font": "incoming/DroidSansFallback-82a74d0ef369.ttf",
+  "sha256": "82a74d0ef369ec7979172023cfff87f04f0a617a2871c39ef6aeb0f399c5cdaf",
+  "size": 3081908,
+  "names": [
+    "Droid Sans Fallback",
+    "DroidSansFallback"
+  ],
+  "sources": [
+    {
+      "repository": "jenskutilek/free-fonts"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

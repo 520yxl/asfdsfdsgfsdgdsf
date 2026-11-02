@@ -1,0 +1,20 @@
+{
+  "font": "incoming/qiji-2ee30738d37b.ttf",
+  "sha256": "2ee30738d37b102bfa90e56cd04fde2620ccef012b44390b77b0703cf995cf5b",
+  "size": 11038112,
+  "names": [
+    "QIJI"
+  ],
+  "sources": [
+    {
+      "repository": "LingDong-/qiji-font",
+      "license_url": "https://raw.githubusercontent.com/LingDong-/qiji-font/0.0.4/LICENSE",
+      "file_url": "https://github.com/LingDong-/qiji-font/releases/download/0.0.4/qiji.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/09285ce6ac2225be-LICENSE",
+    "incoming/collected-20261103/licenses/32706f25241f505f-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

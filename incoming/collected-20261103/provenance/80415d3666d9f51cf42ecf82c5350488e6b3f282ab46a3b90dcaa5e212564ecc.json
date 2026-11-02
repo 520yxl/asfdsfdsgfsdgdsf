@@ -1,0 +1,20 @@
+{
+  "font": "incoming/LXGWNeoXiHei-80415d3666d9.ttf",
+  "sha256": "80415d3666d9f51cf42ecf82c5350488e6b3f282ab46a3b90dcaa5e212564ecc",
+  "size": 7473598,
+  "names": [
+    "LXGW Neo XiHei",
+    "LXGWNeoXiHei",
+    "霞鹜新晰黑"
+  ],
+  "sources": [
+    {
+      "repository": "lxgw/LxgwNewClearGothic",
+      "file_url": "https://github.com/lxgw/LxgwNeoXiHei/releases/download/v1.308/LXGWNeoXiHei.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d8017e027817f29e-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

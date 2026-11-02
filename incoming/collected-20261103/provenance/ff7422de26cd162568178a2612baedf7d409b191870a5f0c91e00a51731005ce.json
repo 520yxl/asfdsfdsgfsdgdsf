@@ -1,0 +1,20 @@
+{
+  "font": "incoming/PMingI.UVar-8.10-ff7422de26cd.ttf",
+  "sha256": "ff7422de26cd162568178a2612baedf7d409b191870a5f0c91e00a51731005ce",
+  "size": 25861632,
+  "names": [
+    "PMingI.UVar",
+    "PMingI.UVar-Regular",
+    "新一細明體異體"
+  ],
+  "sources": [
+    {
+      "repository": "ichitenfont/I.Ming",
+      "file_url": "https://github.com/ichitenfont/I.Ming/releases/download/8.10/PMingI.UVar-8.10.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4905fa05d95fdb5a-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
