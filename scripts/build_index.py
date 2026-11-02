@@ -196,27 +196,39 @@ def brand_for(info, rules, override):
     # family/full name is stronger evidence than a keyword appearing anywhere.
     names = [info.get("family", ""), info.get("full_name", "")]
     names += info.get("family_zh", []) + info.get("full_name_zh", [])
-    names = [unicodedata.normalize("NFKC", value).strip().casefold() for value in names]
+    names = [unicodedata.normalize("NFKC", value).strip() for value in names]
     manufacturer = unicodedata.normalize("NFKC", info.get("manufacturer", "")).strip()
     prefix_matches = []
     contains_matches = []
     for rule in rules:
-        for keyword in rule.get("keywords", []):
-            key = unicodedata.normalize("NFKC", keyword).strip().casefold()
+        for keyword in rule.get("keywords", []) + rule.get("abbreviations", []):
+            key = unicodedata.normalize("NFKC", keyword).strip()
             if not key:
                 continue
-            if any(name.startswith(key) for name in names):
-                prefix_matches.append((len(key), rule["id"], rule.get("name_zh") or rule["name"]))
-            elif any(key in name for name in names) or key in manufacturer.casefold():
+            chinese = bool(re.search(r"[㐀-鿿]", key))
+            abbreviation = keyword in rule.get("abbreviations", [])
+            def prefix(name):
+                if not name.casefold().startswith(key.casefold()):
+                    return False
+                if abbreviation and not name.startswith(key):
+                    return False
+                tail = name[len(key):]
+                return chinese or not tail or not tail[0].isascii() or not tail[0].isalpha() or tail[0].isupper()
+            if any(prefix(name) for name in names):
+                prefix_matches.append((int(chinese), len(key), rule["id"], rule.get("name_zh") or rule["name"]))
+            elif not abbreviation and (key.casefold() in manufacturer.casefold() if chinese else
+                                      re.search(r"(?<![a-z0-9])" + re.escape(key.casefold()) + r"(?![a-z0-9])", manufacturer.casefold())):
                 contains_matches.append((len(key), rule["id"], rule.get("name_zh") or rule["name"]))
-    matches = prefix_matches or contains_matches
-    if matches:
-        _, key, label = sorted(matches, reverse=True)[0]
+    if prefix_matches:
+        _, _, key, label = sorted(prefix_matches, reverse=True)[0]
+        return key, label
+    if contains_matches:
+        _, key, label = sorted(contains_matches, reverse=True)[0]
         return key, label
 
     # Use the embedded manufacturer only as a fallback when it looks like a
     # genuine foundry, not a font editor or operating-system vendor.
-    manufacturer = re.sub(r"\\s+", " ", manufacturer)
+    manufacturer = re.sub(r"\s+", " ", manufacturer)
     if manufacturer and manufacturer.casefold() not in {
         "unknown", "n/a", "none", "fontforge", "fontlab",
         "microsoft corporation", "adobe systems incorporated"
