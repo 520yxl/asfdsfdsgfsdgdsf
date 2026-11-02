@@ -1,0 +1,22 @@
+{
+  "font": "incoming/I.Ming-8.10-cba13b75b050.ttf",
+  "sha256": "cba13b75b050d671b611d0063147262e421e14359ad4530948b070f56111f0f3",
+  "size": 25887784,
+  "names": [
+    "I.Ming",
+    "I.Ming-Regular",
+    "一点明体",
+    "一点明朝",
+    "一點明體"
+  ],
+  "sources": [
+    {
+      "repository": "ichitenfont/I.Ming",
+      "file_url": "https://github.com/ichitenfont/I.Ming/releases/download/8.10/I.Ming-8.10.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4905fa05d95fdb5a-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

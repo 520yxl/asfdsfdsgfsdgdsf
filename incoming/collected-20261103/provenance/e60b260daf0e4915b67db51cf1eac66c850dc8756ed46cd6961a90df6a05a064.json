@@ -1,0 +1,19 @@
+{
+  "font": "incoming/Cafe24DongdongLight-e60b260daf0e.otf",
+  "sha256": "e60b260daf0e4915b67db51cf1eac66c850dc8756ed46cd6961a90df6a05a064",
+  "size": 417240,
+  "names": [
+    "Cafe24 Dongdong",
+    "Cafe24 Dongdong Light",
+    "Cafe24 동동",
+    "Cafe24 동동 라이트",
+    "Cafe24DongdongLight"
+  ],
+  "sources": [
+    {
+      "page_url": "https://fonts.cafe24.com/"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

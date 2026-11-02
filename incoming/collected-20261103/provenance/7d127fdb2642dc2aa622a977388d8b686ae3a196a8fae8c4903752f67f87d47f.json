@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenShinGothic-Monospace-Regular-7d127fdb2642.ttf",
+  "sha256": "7d127fdb2642dc2aa622a977388d8b686ae3a196a8fae8c4903752f67f87d47f",
+  "size": 4967344,
+  "names": [
+    "Gen Shin Gothic Monospace",
+    "Gen Shin Gothic Monospace Regular",
+    "GenShinGothic-Monospace-Regular",
+    "源真ゴシック等幅",
+    "源真ゴシック等幅 Regular"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genshin/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6e1f7760999fae0f-README_GenShin.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

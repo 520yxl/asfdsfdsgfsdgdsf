@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Agave-Regular-zeroslashed-61e3df5bcced.ttf",
+  "sha256": "61e3df5bcced13ab46b608201058aeb6ca556f3e52671223fb6a8dce98ddda2c",
+  "size": 277272,
+  "names": [
+    "Agave",
+    "Agave Regular",
+    "Agave-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "blobject/agave",
+      "license_url": "https://raw.githubusercontent.com/blobject/agave/39//LICENSE",
+      "file_url": "https://github.com/blobject/agave/releases/download/39/Agave-Regular-zeroslashed.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b1614aad39a413e6-LICENSE",
+    "incoming/collected-20261103/licenses/a87a700d8d100e3a-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

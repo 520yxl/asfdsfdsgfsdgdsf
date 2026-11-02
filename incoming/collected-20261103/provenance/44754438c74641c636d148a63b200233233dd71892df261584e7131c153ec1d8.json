@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenShinGothic-Monospace-ExtraLight-44754438c746.ttf",
+  "sha256": "44754438c74641c636d148a63b200233233dd71892df261584e7131c153ec1d8",
+  "size": 5031436,
+  "names": [
+    "Gen Shin Gothic Monospace",
+    "Gen Shin Gothic Monospace ExtraLight",
+    "GenShinGothic-Monospace-ExtraLight",
+    "源真ゴシック等幅",
+    "源真ゴシック等幅 ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genshin/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6e1f7760999fae0f-README_GenShin.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

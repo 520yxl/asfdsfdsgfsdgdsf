@@ -1,0 +1,24 @@
+{
+  "font": "incoming/ChenYuluoyan-2.0-Thin-1289e42a6d1e.ttf",
+  "sha256": "1289e42a6d1ec995d0cb23aee89efc69fc95749fbd54a610057a3e992dc453db",
+  "size": 9522140,
+  "names": [
+    "ChenYuluoyan 2.0",
+    "ChenYuluoyan 2.0 Thin",
+    "ChenYuluoyan-2.0 Thin",
+    "ChenYuluoyan-2.0-Thin",
+    "辰宇落雁體 2.0",
+    "辰宇落雁體 2.0 Thin",
+    "辰宇落雁體 2.0 細體"
+  ],
+  "sources": [
+    {
+      "repository": "Chenyu-otf/chenyuluoyan_thin",
+      "file_url": "https://github.com/Chenyu-otf/chenyuluoyan_thin/releases/download/v2.0/ChenYuluoyan-2.0-Thin.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ddd42aa3cc80a7d6-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

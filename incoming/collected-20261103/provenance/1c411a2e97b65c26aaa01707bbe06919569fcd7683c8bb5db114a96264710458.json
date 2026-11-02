@@ -1,0 +1,22 @@
+{
+  "font": "incoming/I.MingCP-8.10-1c411a2e97b6.ttf",
+  "sha256": "1c411a2e97b65c26aaa01707bbe06919569fcd7683c8bb5db114a96264710458",
+  "size": 25887296,
+  "names": [
+    "I.MingCP",
+    "I.MingCP-Regular",
+    "一点明体CP",
+    "一点明朝CP",
+    "一點明體CP"
+  ],
+  "sources": [
+    {
+      "repository": "ichitenfont/I.Ming",
+      "file_url": "https://github.com/ichitenfont/I.Ming/releases/download/8.10/I.MingCP-8.10.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4905fa05d95fdb5a-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

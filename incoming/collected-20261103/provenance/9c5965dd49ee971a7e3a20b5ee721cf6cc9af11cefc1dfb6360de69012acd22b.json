@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenShinGothic-P-Medium-9c5965dd49ee.ttf",
+  "sha256": "9c5965dd49ee971a7e3a20b5ee721cf6cc9af11cefc1dfb6360de69012acd22b",
+  "size": 5042148,
+  "names": [
+    "Gen Shin Gothic P",
+    "Gen Shin Gothic P Medium",
+    "GenShinGothic-P-Medium",
+    "源真ゴシックP",
+    "源真ゴシックP Medium"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genshin/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6e1f7760999fae0f-README_GenShin.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

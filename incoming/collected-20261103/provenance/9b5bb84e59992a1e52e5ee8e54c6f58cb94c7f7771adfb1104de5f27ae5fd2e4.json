@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Agave-Bold-parenbulged-9b5bb84e5999.ttf",
+  "sha256": "9b5bb84e59992a1e52e5ee8e54c6f58cb94c7f7771adfb1104de5f27ae5fd2e4",
+  "size": 96768,
+  "names": [
+    "Agave",
+    "Agave Bold",
+    "Agave-Bold"
+  ],
+  "sources": [
+    {
+      "repository": "blobject/agave",
+      "license_url": "https://raw.githubusercontent.com/blobject/agave/39//LICENSE",
+      "file_url": "https://github.com/blobject/agave/releases/download/39/Agave-Bold-parenbulged.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b1614aad39a413e6-LICENSE",
+    "incoming/collected-20261103/licenses/a87a700d8d100e3a-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

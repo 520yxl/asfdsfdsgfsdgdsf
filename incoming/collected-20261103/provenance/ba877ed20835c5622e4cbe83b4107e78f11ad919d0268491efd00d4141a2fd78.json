@@ -1,0 +1,22 @@
+{
+  "font": "incoming/I.MingVar-8.10-ba877ed20835.ttf",
+  "sha256": "ba877ed20835c5622e4cbe83b4107e78f11ad919d0268491efd00d4141a2fd78",
+  "size": 25862588,
+  "names": [
+    "I.MingVar",
+    "I.MingVar-Regular",
+    "一点明体异体",
+    "一点明朝異体",
+    "一點明體異體"
+  ],
+  "sources": [
+    {
+      "repository": "ichitenfont/I.Ming",
+      "file_url": "https://github.com/ichitenfont/I.Ming/releases/download/8.10/I.MingVar-8.10.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4905fa05d95fdb5a-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
