@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_120pt_SemiCondensed-Light-d8679113d8bb.ttf",
+  "sha256": "d8679113d8bb1538657698e968283807cfb2e1a411717614f2861d298b10d872",
+  "size": 1066632,
+  "names": [
+    "Merriweather 120pt SemiCondensed",
+    "Merriweather 120pt SemiCondensed Light",
+    "Merriweather120ptSemiCondensed-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPY3EOZJ5eX1WtLaQwmZFScCmDxhtNOKl8yDrgCcqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

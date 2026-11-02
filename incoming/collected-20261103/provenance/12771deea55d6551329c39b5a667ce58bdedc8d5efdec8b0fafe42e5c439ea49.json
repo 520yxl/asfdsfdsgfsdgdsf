@@ -1,0 +1,22 @@
+{
+  "font": "incoming/LibreBaskerville-MediumItalic-12771deea55d.ttf",
+  "sha256": "12771deea55d6551329c39b5a667ce58bdedc8d5efdec8b0fafe42e5c439ea49",
+  "size": 121700,
+  "names": [
+    "Libre Baskerville",
+    "Libre Baskerville Medium",
+    "Libre Baskerville Medium Italic",
+    "LibreBaskerville-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Libre+Baskerville",
+      "file_url": "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU3ISgNKnObSfbge.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4a5668828c906260-OFL.txt",
+    "incoming/collected-20261103/licenses/d6b727926290006a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

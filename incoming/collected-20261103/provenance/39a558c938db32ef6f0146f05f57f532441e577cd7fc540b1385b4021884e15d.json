@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_48pt_SemiCondensed-Italic-39a558c938db.ttf",
+  "sha256": "39a558c938db32ef6f0146f05f57f532441e577cd7fc540b1385b4021884e15d",
+  "size": 1069356,
+  "names": [
+    "Merriweather 48pt SemiCondensed",
+    "Merriweather 48pt SemiCondensed Italic",
+    "Merriweather48ptSemiCondensed-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2GQ9tLmp0v5yA-xXPqC1XvPee1XYk_XSf-FmTCUF3wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

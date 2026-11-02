@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_48pt_SemiCondensed-Black-ecd104fbc2a7.ttf",
+  "sha256": "ecd104fbc2a7c8554815adce29716695bee77225e4cb9d67b7f324e630ccc0e6",
+  "size": 1066076,
+  "names": [
+    "Merriweather 48pt SemiCondensed",
+    "Merriweather 48pt SemiCondensed Black",
+    "Merriweather48ptSemiCondensed-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPT3EOZJ5eX1WtLaQwmZFScCmDxhtNOKl8yDrdyAqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

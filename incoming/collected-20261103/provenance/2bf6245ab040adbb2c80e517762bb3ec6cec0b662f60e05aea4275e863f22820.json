@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MartianMono_Condensed-ExtraLight-2bf6245ab040.ttf",
+  "sha256": "2bf6245ab040adbb2c80e517762bb3ec6cec0b662f60e05aea4275e863f22820",
+  "size": 47900,
+  "names": [
+    "Martian Mono Condensed",
+    "Martian Mono Condensed ExtraLight",
+    "MartianMonoCondensed-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Martian+Mono",
+      "file_url": "https://fonts.gstatic.com/s/martianmono/v6/2V08KIcADoYhV6w87xrTKjs4CYElh_VS9YA4TgrnQzaVMIE6j15dYY3qu86WD75kdpF2.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d1a57223478f2e7a-OFL.txt",
+    "incoming/collected-20261103/licenses/7520c2bba1bc4695-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

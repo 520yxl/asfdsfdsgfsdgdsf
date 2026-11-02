@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MartianMono-Bold-624369c3db83.ttf",
+  "sha256": "624369c3db83815b6ccf0b729d82a081a0eefe60ea3176f31c4abb3b6747bc96",
+  "size": 48364,
+  "names": [
+    "Martian Mono",
+    "Martian Mono Bold",
+    "MartianMono-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Martian+Mono",
+      "file_url": "https://fonts.gstatic.com/s/martianmono/v6/2V08KIcADoYhV6w87xrTKjs4CYElh_VS9YA4TlTnQzaVMIE6j15dYY2NvM6WD75kdpF2.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d1a57223478f2e7a-OFL.txt",
+    "incoming/collected-20261103/licenses/7520c2bba1bc4695-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

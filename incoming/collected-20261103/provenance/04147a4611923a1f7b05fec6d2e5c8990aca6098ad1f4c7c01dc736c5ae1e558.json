@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Jost-MediumItalic-04147a461192.ttf",
+  "sha256": "04147a4611923a1f7b05fec6d2e5c8990aca6098ad1f4c7c01dc736c5ae1e558",
+  "size": 66160,
+  "names": [
+    "Jost",
+    "Jost Medium",
+    "Jost Medium Italic",
+    "Jost-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jost",
+      "file_url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0un_HLMEo.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e34d5396330ae199-OFL.txt",
+    "incoming/collected-20261103/licenses/55751c4f5dde13e4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

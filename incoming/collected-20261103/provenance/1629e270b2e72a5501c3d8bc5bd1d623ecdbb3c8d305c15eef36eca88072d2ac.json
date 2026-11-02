@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather_48pt-ExtraBoldItalic-1629e270b2e7.ttf",
+  "sha256": "1629e270b2e72a5501c3d8bc5bd1d623ecdbb3c8d305c15eef36eca88072d2ac",
+  "size": 1069936,
+  "names": [
+    "Merriweather 48pt",
+    "Merriweather 48pt ExtraBold",
+    "Merriweather 48pt ExtraBold Italic",
+    "Merriweather48pt-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2GQ9tLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmRCV13wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

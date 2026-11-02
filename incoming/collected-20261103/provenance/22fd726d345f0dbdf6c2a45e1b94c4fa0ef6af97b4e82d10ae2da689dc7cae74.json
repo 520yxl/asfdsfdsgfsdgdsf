@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUS2-Thin-22fd726d345f.ttf",
+  "sha256": "22fd726d345f0dbdf6c2a45e1b94c4fa0ef6af97b4e82d10ae2da689dc7cae74",
+  "size": 1805968,
+  "names": [
+    "M PLUS 2",
+    "M PLUS 2 Thin",
+    "MPLUS2-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+2",
+      "file_url": "https://fonts.gstatic.com/s/mplus2/v17/7Auhp_Eq3gO_OGbGGhjdwrDdpeIBxlkwOa-VxlqHrzNgAw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/c66d3d77fe405025-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather_36pt_SemiCondensed-BlackItalic-8f81b2200245.ttf",
+  "sha256": "8f81b22002458c688485945bf86f3bc55a673ef80f8206069d5f1846ee4125d5",
+  "size": 1069368,
+  "names": [
+    "Merriweather 36pt SemiCondensed",
+    "Merriweather 36pt SemiCondensed Black",
+    "Merriweather 36pt SemiCondensed Black Italic",
+    "Merriweather36ptSemiCondensed-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2GE9tLmp0v5yA-xXPqC1XvPee1XYk_XSf-FmRrV13wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Jost-ExtraLight-85bb4d18df64.ttf",
+  "sha256": "85bb4d18df6462e463fb3bc7ae72d561604dc9ac87e48526c02911f777000224",
+  "size": 61688,
+  "names": [
+    "Jost",
+    "Jost ExtraLight",
+    "Jost-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jost",
+      "file_url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjJQVGPokMmuHL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e34d5396330ae199-OFL.txt",
+    "incoming/collected-20261103/licenses/55751c4f5dde13e4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

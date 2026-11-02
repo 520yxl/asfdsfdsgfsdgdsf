@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Jost-BlackItalic-62d2c26fcb74.ttf",
+  "sha256": "62d2c26fcb748d6955113b22bb8b4c2723b8ddc990b3ac21169be8e3329c3809",
+  "size": 66120,
+  "names": [
+    "Jost",
+    "Jost Black",
+    "Jost Black Italic",
+    "Jost-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jost",
+      "file_url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0un_HLMEo.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e34d5396330ae199-OFL.txt",
+    "incoming/collected-20261103/licenses/55751c4f5dde13e4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

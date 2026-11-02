@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Lora-Bold-7d74015e950c.ttf",
+  "sha256": "7d74015e950c2fb66519c7295b8155621d22200ae2ca2a4c6b43ce3c490cac87",
+  "size": 133828,
+  "names": [
+    "Lora",
+    "Lora Bold",
+    "Lora-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lora",
+      "file_url": "https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJGmKxemMeZ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/07d96d6883e62a57-OFL.txt",
+    "incoming/collected-20261103/licenses/f98da2da5e542d45-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

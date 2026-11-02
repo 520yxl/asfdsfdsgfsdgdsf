@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_48pt_SemiCondensed-ExtraBold-cee46412e62f.ttf",
+  "sha256": "cee46412e62f1fb24e28282df244ae804574df4902f4cea10096153dad01dbc0",
+  "size": 1066952,
+  "names": [
+    "Merriweather 48pt SemiCondensed",
+    "Merriweather 48pt SemiCondensed ExtraBold",
+    "Merriweather48ptSemiCondensed-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPT3EOZJ5eX1WtLaQwmZFScCmDxhtNOKl8yDrXiAqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

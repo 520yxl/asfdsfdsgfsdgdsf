@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUSCodeLatin-Medium-1ff25c4871de.ttf",
+  "sha256": "1ff25c4871de615d235206ed183f7b7c54f5ff0fe46c17f69f6deb3ae342f514",
+  "size": 56424,
+  "names": [
+    "M PLUS Code Latin",
+    "M PLUS Code Latin Medium",
+    "MPLUSCodeLatin-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+Code+Latin",
+      "file_url": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-ylyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_ifLAtrObKDO0Xf1HTA6i5MqF9TRwg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/6a398fe11487d28d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

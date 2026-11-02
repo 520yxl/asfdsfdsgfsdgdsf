@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather_24pt_SemiCondensed-LightItalic-dcc0ad7cc668.ttf",
+  "sha256": "dcc0ad7cc668a99ea9bf51b49403084225421a677345ecbbb0077e567ce93a3f",
+  "size": 1068992,
+  "names": [
+    "Merriweather 24pt SemiCondensed",
+    "Merriweather 24pt SemiCondensed Light",
+    "Merriweather 24pt SemiCondensed Light Italic",
+    "Merriweather24ptSemiCondensed-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gw9hLmp0v5yA-xXPqC1XvPee1XYk_XSf-FmScUF3wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

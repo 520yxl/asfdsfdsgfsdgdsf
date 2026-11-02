@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Jost-SemiBoldItalic-74a4dcc40715.ttf",
+  "sha256": "74a4dcc407151cf702e85f3b4c6b0cc59f0bdf1fc61f5ea63a2c3c3b6f60ed90",
+  "size": 66148,
+  "names": [
+    "Jost",
+    "Jost SemiBold",
+    "Jost SemiBold Italic",
+    "Jost-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jost",
+      "file_url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0un_HLMEo.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e34d5396330ae199-OFL.txt",
+    "incoming/collected-20261103/licenses/55751c4f5dde13e4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

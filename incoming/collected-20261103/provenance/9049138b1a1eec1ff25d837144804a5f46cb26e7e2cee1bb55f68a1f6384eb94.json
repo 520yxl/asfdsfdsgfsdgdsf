@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MartianMono_SemiCondensed-Regular-9049138b1a1e.ttf",
+  "sha256": "9049138b1a1eec1ff25d837144804a5f46cb26e7e2cee1bb55f68a1f6384eb94",
+  "size": 47944,
+  "names": [
+    "Martian Mono SemiCondensed",
+    "Martian Mono SemiCondensed Regular",
+    "MartianMonoSemiCondensed-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Martian+Mono",
+      "file_url": "https://fonts.gstatic.com/s/martianmono/v6/2V08KIcADoYhV6w87xrTKjs4CYElh_VS9YA4TjPnQzaVMIE6j15dYY1qu86WD75kdpF2.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d1a57223478f2e7a-OFL.txt",
+    "incoming/collected-20261103/licenses/7520c2bba1bc4695-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

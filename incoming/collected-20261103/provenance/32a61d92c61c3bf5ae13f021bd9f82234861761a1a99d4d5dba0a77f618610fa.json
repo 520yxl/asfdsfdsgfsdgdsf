@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_24pt_SemiCondensed-SemiBold-32a61d92c61c.ttf",
+  "sha256": "32a61d92c61c3bf5ae13f021bd9f82234861761a1a99d4d5dba0a77f618610fa",
+  "size": 1066884,
+  "names": [
+    "Merriweather 24pt SemiCondensed",
+    "Merriweather 24pt SemiCondensed SemiBold",
+    "Merriweather24ptSemiCondensed-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPb3HOZJ5eX1WtLaQwmZFScCmDxhtNOKl8yDrACAqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

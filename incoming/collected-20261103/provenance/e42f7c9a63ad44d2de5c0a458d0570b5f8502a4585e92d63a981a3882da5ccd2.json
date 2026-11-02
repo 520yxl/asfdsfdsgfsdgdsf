@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather_24pt-LightItalic-e42f7c9a63ad.ttf",
+  "sha256": "e42f7c9a63ad44d2de5c0a458d0570b5f8502a4585e92d63a981a3882da5ccd2",
+  "size": 1069152,
+  "names": [
+    "Merriweather 24pt",
+    "Merriweather 24pt Light",
+    "Merriweather 24pt Light Italic",
+    "Merriweather24pt-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gw9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmScUF3wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

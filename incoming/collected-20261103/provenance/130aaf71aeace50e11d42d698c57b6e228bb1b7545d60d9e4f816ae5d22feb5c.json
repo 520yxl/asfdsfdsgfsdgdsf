@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_96pt-BoldItalic-130aaf71aeac.ttf",
+  "sha256": "130aaf71aeace50e11d42d698c57b6e228bb1b7545d60d9e4f816ae5d22feb5c",
+  "size": 1069960,
+  "names": [
+    "Merriweather 96pt",
+    "Merriweather 96pt Bold Italic",
+    "Merriweather96pt-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gw9tLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmQlV13wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

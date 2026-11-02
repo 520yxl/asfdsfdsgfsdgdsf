@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Lora-SemiBold-be01a8596204.ttf",
+  "sha256": "be01a859620401d734e8ca062fb42fd5dbf533355c76f70c2a1d5435a9f3a7b7",
+  "size": 134352,
+  "names": [
+    "Lora",
+    "Lora SemiBold",
+    "Lora-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lora",
+      "file_url": "https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvCJGmKxemMeZ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/07d96d6883e62a57-OFL.txt",
+    "incoming/collected-20261103/licenses/f98da2da5e542d45-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

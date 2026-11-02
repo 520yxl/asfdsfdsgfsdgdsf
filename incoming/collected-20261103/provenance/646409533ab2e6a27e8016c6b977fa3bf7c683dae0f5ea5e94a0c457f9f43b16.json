@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUS1-SemiBold-646409533ab2.ttf",
+  "sha256": "646409533ab2e6a27e8016c6b977fa3bf7c683dae0f5ea5e94a0c457f9f43b16",
+  "size": 1811184,
+  "names": [
+    "M PLUS 1",
+    "M PLUS 1 SemiBold",
+    "MPLUS1-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+1",
+      "file_url": "https://fonts.gstatic.com/s/mplus1/v17/R70EjygA28ymD4HgBUGzkN5Eyoj-WpW5iyG78nZcsGGycA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/2db9dd868c1fdbce-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

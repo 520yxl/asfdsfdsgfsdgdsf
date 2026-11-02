@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_24pt-Bold-7c37bb8e8f80.ttf",
+  "sha256": "7c37bb8e8f80117061e080503c873c66f661aaa097e1247d3ec25c2b7cd634ec",
+  "size": 1066520,
+  "names": [
+    "Merriweather 24pt",
+    "Merriweather 24pt Bold",
+    "Merriweather24pt-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPb3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

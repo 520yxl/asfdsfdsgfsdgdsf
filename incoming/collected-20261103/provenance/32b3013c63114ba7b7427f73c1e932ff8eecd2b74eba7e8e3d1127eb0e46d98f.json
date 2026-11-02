@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Jost-Light-32b3013c6311.ttf",
+  "sha256": "32b3013c63114ba7b7427f73c1e932ff8eecd2b74eba7e8e3d1127eb0e46d98f",
+  "size": 61624,
+  "names": [
+    "Jost",
+    "Jost Light",
+    "Jost-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jost",
+      "file_url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mz9JQVGPokMmuHL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e34d5396330ae199-OFL.txt",
+    "incoming/collected-20261103/licenses/55751c4f5dde13e4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

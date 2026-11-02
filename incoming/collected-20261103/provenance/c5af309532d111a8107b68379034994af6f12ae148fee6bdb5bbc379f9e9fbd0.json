@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Jost-Black-c5af309532d1.ttf",
+  "sha256": "c5af309532d111a8107b68379034994af6f12ae148fee6bdb5bbc379f9e9fbd0",
+  "size": 61692,
+  "names": [
+    "Jost",
+    "Jost Black",
+    "Jost-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jost",
+      "file_url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwKIgVGPokMmuHL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e34d5396330ae199-OFL.txt",
+    "incoming/collected-20261103/licenses/55751c4f5dde13e4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

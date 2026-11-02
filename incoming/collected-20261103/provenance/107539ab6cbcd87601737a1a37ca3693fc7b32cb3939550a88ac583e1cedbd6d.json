@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Manrope-Medium-107539ab6cbc.ttf",
+  "sha256": "107539ab6cbcd87601737a1a37ca3693fc7b32cb3939550a88ac583e1cedbd6d",
+  "size": 98080,
+  "names": [
+    "Manrope",
+    "Manrope Medium",
+    "Manrope-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Manrope",
+      "file_url": "https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F87jxeN7B.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4c0ee20ed330d37c-OFL.txt",
+    "incoming/collected-20261103/licenses/9dc5bfd8212f9259-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

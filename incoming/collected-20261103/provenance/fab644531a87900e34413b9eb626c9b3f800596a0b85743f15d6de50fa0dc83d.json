@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_48pt-Light-fab644531a87.ttf",
+  "sha256": "fab644531a87900e34413b9eb626c9b3f800596a0b85743f15d6de50fa0dc83d",
+  "size": 1066204,
+  "names": [
+    "Merriweather 48pt",
+    "Merriweather 48pt Light",
+    "Merriweather48pt-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPT3EOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

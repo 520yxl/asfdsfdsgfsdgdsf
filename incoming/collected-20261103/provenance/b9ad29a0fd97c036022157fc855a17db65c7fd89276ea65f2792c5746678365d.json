@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUS1-Regular-b9ad29a0fd97.ttf",
+  "sha256": "b9ad29a0fd97c036022157fc855a17db65c7fd89276ea65f2792c5746678365d",
+  "size": 1811356,
+  "names": [
+    "M PLUS 1",
+    "M PLUS 1 Regular",
+    "MPLUS1-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+1",
+      "file_url": "https://fonts.gstatic.com/s/mplus1/v17/R70EjygA28ymD4HgBUGzkN5Eyoj-WpW5VSa78nZcsGGycA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/2db9dd868c1fdbce-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

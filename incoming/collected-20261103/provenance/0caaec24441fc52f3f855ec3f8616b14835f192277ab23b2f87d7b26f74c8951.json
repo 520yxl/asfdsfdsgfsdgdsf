@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Manrope-Light-0caaec24441f.ttf",
+  "sha256": "0caaec24441fc52f3f855ec3f8616b14835f192277ab23b2f87d7b26f74c8951",
+  "size": 97904,
+  "names": [
+    "Manrope",
+    "Manrope Light",
+    "Manrope-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Manrope",
+      "file_url": "https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F87jxeN7B.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4c0ee20ed330d37c-OFL.txt",
+    "incoming/collected-20261103/licenses/9dc5bfd8212f9259-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

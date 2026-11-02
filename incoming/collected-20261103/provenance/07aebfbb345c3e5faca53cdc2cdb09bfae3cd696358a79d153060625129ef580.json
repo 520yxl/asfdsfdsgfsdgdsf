@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Jost-Medium-07aebfbb345c.ttf",
+  "sha256": "07aebfbb345c3e5faca53cdc2cdb09bfae3cd696358a79d153060625129ef580",
+  "size": 61652,
+  "names": [
+    "Jost",
+    "Jost Medium",
+    "Jost-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jost",
+      "file_url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myRJQVGPokMmuHL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e34d5396330ae199-OFL.txt",
+    "incoming/collected-20261103/licenses/55751c4f5dde13e4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

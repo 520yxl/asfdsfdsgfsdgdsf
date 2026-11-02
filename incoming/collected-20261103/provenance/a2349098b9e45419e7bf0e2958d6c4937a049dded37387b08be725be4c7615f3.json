@@ -1,0 +1,21 @@
+{
+  "font": "incoming/JetBrainsMono-Bold-a2349098b9e4.ttf",
+  "sha256": "a2349098b9e45419e7bf0e2958d6c4937a049dded37387b08be725be4c7615f3",
+  "size": 114828,
+  "names": [
+    "JetBrains Mono",
+    "JetBrains Mono Bold",
+    "JetBrainsMono-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=JetBrains+Mono",
+      "file_url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8L6tjPVmUsaaDhw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbffd3de8f9484c6-OFL.txt",
+    "incoming/collected-20261103/licenses/25459904436ed0c2-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

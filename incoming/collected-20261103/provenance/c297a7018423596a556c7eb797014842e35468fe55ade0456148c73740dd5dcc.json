@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MartianMono-Light-c297a7018423.ttf",
+  "sha256": "c297a7018423596a556c7eb797014842e35468fe55ade0456148c73740dd5dcc",
+  "size": 47932,
+  "names": [
+    "Martian Mono",
+    "Martian Mono Light",
+    "MartianMono-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Martian+Mono",
+      "file_url": "https://fonts.gstatic.com/s/martianmono/v6/2V08KIcADoYhV6w87xrTKjs4CYElh_VS9YA4TlTnQzaVMIE6j15dYY00u86WD75kdpF2.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d1a57223478f2e7a-OFL.txt",
+    "incoming/collected-20261103/licenses/7520c2bba1bc4695-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

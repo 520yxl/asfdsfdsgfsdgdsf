@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MartianMono_Condensed-Thin-80201bf4e777.ttf",
+  "sha256": "80201bf4e7776ac4ab3bfb6b55ec3b0fe7b53cc2ab8fdfb8224347c292e109ea",
+  "size": 47768,
+  "names": [
+    "Martian Mono Condensed",
+    "Martian Mono Condensed Thin",
+    "MartianMonoCondensed-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Martian+Mono",
+      "file_url": "https://fonts.gstatic.com/s/martianmono/v6/2V08KIcADoYhV6w87xrTKjs4CYElh_VS9YA4TgrnQzaVMIE6j15dYY1qus6WD75kdpF2.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d1a57223478f2e7a-OFL.txt",
+    "incoming/collected-20261103/licenses/7520c2bba1bc4695-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

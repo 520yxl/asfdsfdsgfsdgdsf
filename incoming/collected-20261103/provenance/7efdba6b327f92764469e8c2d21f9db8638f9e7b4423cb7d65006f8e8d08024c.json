@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Manrope-SemiBold-7efdba6b327f.ttf",
+  "sha256": "7efdba6b327f92764469e8c2d21f9db8638f9e7b4423cb7d65006f8e8d08024c",
+  "size": 98120,
+  "names": [
+    "Manrope",
+    "Manrope SemiBold",
+    "Manrope-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Manrope",
+      "file_url": "https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F87jxeN7B.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4c0ee20ed330d37c-OFL.txt",
+    "incoming/collected-20261103/licenses/9dc5bfd8212f9259-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

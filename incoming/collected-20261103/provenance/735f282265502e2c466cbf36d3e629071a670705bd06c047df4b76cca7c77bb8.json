@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUS1Code-Medium-735f28226550.ttf",
+  "sha256": "735f282265502e2c466cbf36d3e629071a670705bd06c047df4b76cca7c77bb8",
+  "size": 1743044,
+  "names": [
+    "M PLUS 1 Code",
+    "M PLUS 1 Code Medium",
+    "MPLUS1Code-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+1+Code",
+      "file_url": "https://fonts.gstatic.com/s/mplus1code/v18/ypvMbXOOx2xFpzmYJS3N2_J2hBN6RZ5oIp8m_7i_0HHpapwmdZhY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/5660c5bd2cf31710-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

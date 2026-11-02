@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Lexend-Regular-5f9ed62e2865.ttf",
+  "sha256": "5f9ed62e28658e53a02cc8751566821e8515af753f18b02014669ed0341c9f5b",
+  "size": 78356,
+  "names": [
+    "Lexend",
+    "Lexend Regular",
+    "Lexend-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lexend",
+      "file_url": "https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LBte6KuGEo.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2f806b3160c65ab8-OFL.txt",
+    "incoming/collected-20261103/licenses/b96d3f67bf44b86c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

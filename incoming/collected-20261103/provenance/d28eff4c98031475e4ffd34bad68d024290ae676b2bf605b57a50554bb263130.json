@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather_36pt-SemiBoldItalic-d28eff4c9803.ttf",
+  "sha256": "d28eff4c98031475e4ffd34bad68d024290ae676b2bf605b57a50554bb263130",
+  "size": 1069924,
+  "names": [
+    "Merriweather 36pt",
+    "Merriweather 36pt SemiBold",
+    "Merriweather 36pt SemiBold Italic",
+    "Merriweather36pt-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2GE9tLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmQcV13wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUSCodeLatin_SemiExpanded-Light-2a688770fb2f.ttf",
+  "sha256": "2a688770fb2ffe3ef69aa25b8afc403b54fdc4dcb49be3809101df741fc7c425",
+  "size": 55256,
+  "names": [
+    "M PLUS Code Latin SemiExpanded",
+    "M PLUS Code Latin SemiExpanded Light",
+    "MPLUSCodeLatinSemiExpanded-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+Code+Latin",
+      "file_url": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-ylyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wnyvifLAtrObKDO0Xf1BjA6i5MqF9TRwg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/6a398fe11487d28d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

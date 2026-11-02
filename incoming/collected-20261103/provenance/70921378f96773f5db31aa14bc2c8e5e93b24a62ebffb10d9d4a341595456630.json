@@ -1,0 +1,21 @@
+{
+  "font": "incoming/LibreBaskerville-BoldItalic-70921378f967.ttf",
+  "sha256": "70921378f96773f5db31aa14bc2c8e5e93b24a62ebffb10d9d4a341595456630",
+  "size": 121656,
+  "names": [
+    "Libre Baskerville",
+    "Libre Baskerville Bold Italic",
+    "LibreBaskerville-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Libre+Baskerville",
+      "file_url": "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0dTQNKnObSfbge.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4a5668828c906260-OFL.txt",
+    "incoming/collected-20261103/licenses/d6b727926290006a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

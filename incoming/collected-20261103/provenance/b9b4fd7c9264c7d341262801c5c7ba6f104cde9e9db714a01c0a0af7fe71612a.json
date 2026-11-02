@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MartianMono_SemiExpanded-Bold-b9b4fd7c9264.ttf",
+  "sha256": "b9b4fd7c9264c7d341262801c5c7ba6f104cde9e9db714a01c0a0af7fe71612a",
+  "size": 48468,
+  "names": [
+    "Martian Mono SemiExpanded",
+    "Martian Mono SemiExpanded Bold",
+    "MartianMonoSemiExpanded-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Martian+Mono",
+      "file_url": "https://fonts.gstatic.com/s/martianmono/v6/2V08KIcADoYhV6w87xrTKjs4CYElh_VS9YA4Tn3nQzaVMIE6j15dYY2NvM6WD75kdpF2.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d1a57223478f2e7a-OFL.txt",
+    "incoming/collected-20261103/licenses/7520c2bba1bc4695-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

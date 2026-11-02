@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Jost-ExtraBoldItalic-f29d0a6e231a.ttf",
+  "sha256": "f29d0a6e231a6f1d9901f357c8f3366f2bcdd8d34572aeac4912f1f1bc26f61d",
+  "size": 66116,
+  "names": [
+    "Jost",
+    "Jost ExtraBold",
+    "Jost ExtraBold Italic",
+    "Jost-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jost",
+      "file_url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0un_HLMEo.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e34d5396330ae199-OFL.txt",
+    "incoming/collected-20261103/licenses/55751c4f5dde13e4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather_36pt-BlackItalic-874325b78283.ttf",
+  "sha256": "874325b78283b6cbc1e16e56d76e7561cb08bea2824d609084c6b3ff6bf625eb",
+  "size": 1069624,
+  "names": [
+    "Merriweather 36pt",
+    "Merriweather 36pt Black",
+    "Merriweather 36pt Black Italic",
+    "Merriweather36pt-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2GE9tLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmRrV13wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

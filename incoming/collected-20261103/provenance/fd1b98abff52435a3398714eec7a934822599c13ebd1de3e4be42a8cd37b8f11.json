@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_96pt-Black-fd1b98abff52.ttf",
+  "sha256": "fd1b98abff52435a3398714eec7a934822599c13ebd1de3e4be42a8cd37b8f11",
+  "size": 1064732,
+  "names": [
+    "Merriweather 96pt",
+    "Merriweather 96pt Black",
+    "Merriweather96pt-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPb3EOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrdyAqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

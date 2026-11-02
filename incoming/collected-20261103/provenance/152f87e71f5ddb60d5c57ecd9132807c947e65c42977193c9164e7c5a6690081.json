@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Lora-BoldItalic-152f87e71f5d.ttf",
+  "sha256": "152f87e71f5ddb60d5c57ecd9132807c947e65c42977193c9164e7c5a6690081",
+  "size": 140332,
+  "names": [
+    "Lora",
+    "Lora Bold Italic",
+    "Lora-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Lora",
+      "file_url": "https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Ckqh8ndeZzZ0.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/07d96d6883e62a57-OFL.txt",
+    "incoming/collected-20261103/licenses/f98da2da5e542d45-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

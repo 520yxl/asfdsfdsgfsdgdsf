@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUS2-Medium-32ec5eae07e9.ttf",
+  "sha256": "32ec5eae07e9f5c06720128be5635827c149518e37a35cbcff684136a66c0db2",
+  "size": 1813260,
+  "names": [
+    "M PLUS 2",
+    "M PLUS 2 Medium",
+    "MPLUS2-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+2",
+      "file_url": "https://fonts.gstatic.com/s/mplus2/v17/7Auhp_Eq3gO_OGbGGhjdwrDdpeIBxlkwC66VxlqHrzNgAw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/c66d3d77fe405025-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

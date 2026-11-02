@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Merriweather_96pt-SemiBoldItalic-ff8f4ce61da4.ttf",
+  "sha256": "ff8f4ce61da42263d40695a98763eed5b688499f842fbd5cfd35f17bca52db91",
+  "size": 1069856,
+  "names": [
+    "Merriweather 96pt",
+    "Merriweather 96pt SemiBold",
+    "Merriweather 96pt SemiBold Italic",
+    "Merriweather96pt-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gw9tLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmQcV13wCPDaYa_F.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

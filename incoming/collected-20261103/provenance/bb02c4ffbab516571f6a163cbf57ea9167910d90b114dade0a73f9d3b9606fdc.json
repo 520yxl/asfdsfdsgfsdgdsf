@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_36pt-Light-bb02c4ffbab5.ttf",
+  "sha256": "bb02c4ffbab516571f6a163cbf57ea9167910d90b114dade0a73f9d3b9606fdc",
+  "size": 1066284,
+  "names": [
+    "Merriweather 36pt",
+    "Merriweather 36pt Light",
+    "Merriweather36pt-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPW3EOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

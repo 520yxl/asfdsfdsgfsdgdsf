@@ -1,0 +1,21 @@
+{
+  "font": "incoming/MPLUS2-Light-64c69ab82920.ttf",
+  "sha256": "64c69ab82920bd33eb425994cf5edf84e705fa38bf802a79976227aa7881d67f",
+  "size": 1815304,
+  "names": [
+    "M PLUS 2",
+    "M PLUS 2 Light",
+    "MPLUS2-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=M+PLUS+2",
+      "file_url": "https://fonts.gstatic.com/s/mplus2/v17/7Auhp_Eq3gO_OGbGGhjdwrDdpeIBxlkwZ66VxlqHrzNgAw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0cdca34f7174d777-OFL.txt",
+    "incoming/collected-20261103/licenses/c66d3d77fe405025-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

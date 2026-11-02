@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Merriweather_36pt_SemiCondensed-Regular-e14e33fcdeb6.ttf",
+  "sha256": "e14e33fcdeb65955114c20b1bd55f97fea649468175e0df4383cfb5f042674f6",
+  "size": 1066960,
+  "names": [
+    "Merriweather 36pt SemiCondensed",
+    "Merriweather 36pt SemiCondensed Regular",
+    "Merriweather36ptSemiCondensed-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Merriweather",
+      "file_url": "https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPW3EOZJ5eX1WtLaQwmZFScCmDxhtNOKl8yDr3icqE1f0KvXKYQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f0fe63df146b7291-OFL.txt",
+    "incoming/collected-20261103/licenses/e97770a492611b8f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
