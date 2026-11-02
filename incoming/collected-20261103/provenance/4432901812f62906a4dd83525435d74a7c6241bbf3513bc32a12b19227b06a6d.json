@@ -1,0 +1,21 @@
+{
+  "font": "incoming/DMSans_18pt-Regular-4432901812f6.ttf",
+  "sha256": "4432901812f62906a4dd83525435d74a7c6241bbf3513bc32a12b19227b06a6d",
+  "size": 56408,
+  "names": [
+    "DM Sans 18pt",
+    "DM Sans 18pt Regular",
+    "DMSans18pt-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=DM+Sans",
+      "file_url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTmf3ZGMZpg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0478490515bcc822-OFL.txt",
+    "incoming/collected-20261103/licenses/1e21a748596001ab-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

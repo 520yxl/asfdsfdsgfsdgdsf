@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Fraunces_72pt-SemiBoldItalic-8bf4147db3c6.ttf",
+  "sha256": "8bf4147db3c6b328ca13bb0bb311e6d716ecd1af00be6cd89940505515ba76d0",
+  "size": 86456,
+  "names": [
+    "Fraunces 72pt",
+    "Fraunces 72pt SemiBold",
+    "Fraunces 72pt SemiBold Italic",
+    "Fraunces72pt-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fraunces",
+      "file_url": "https://fonts.gstatic.com/s/fraunces/v38/6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lgd-sPEKsxx664UJf1iVSv7Wp05GNi3k.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0905341bb64d9325-OFL.txt",
+    "incoming/collected-20261103/licenses/dfa051190a5cfd6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

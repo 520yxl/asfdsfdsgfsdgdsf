@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Exo2-Italic-2f84cd07dda1.ttf",
+  "sha256": "2f84cd07dda15916205a7aaafae9c5ffcc171f055f49121f3cce0b981c368786",
+  "size": 151336,
+  "names": [
+    "Exo 2",
+    "Exo 2 Italic",
+    "Exo2-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Exo+2",
+      "file_url": "https://fonts.gstatic.com/s/exo2/v26/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fdC6jJ7bpQBL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/19c4ce710b349e95-OFL.txt",
+    "incoming/collected-20261103/licenses/41c3b6acdbbd2fc1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

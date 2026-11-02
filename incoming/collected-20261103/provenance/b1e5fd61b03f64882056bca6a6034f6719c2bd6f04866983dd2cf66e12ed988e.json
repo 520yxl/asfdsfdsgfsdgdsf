@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Geist-ExtraLightItalic-b1e5fd61b03f.ttf",
+  "sha256": "b1e5fd61b03f64882056bca6a6034f6719c2bd6f04866983dd2cf66e12ed988e",
+  "size": 92644,
+  "names": [
+    "Geist",
+    "Geist ExtraLight",
+    "Geist ExtraLight Italic",
+    "Geist-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist",
+      "file_url": "https://fonts.gstatic.com/s/geist/v5/gyBjhwUxId8gMEwZAluvzlxA9ojEVKBQ3pnf6VEdtKCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/eb84e0994cb2eb6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

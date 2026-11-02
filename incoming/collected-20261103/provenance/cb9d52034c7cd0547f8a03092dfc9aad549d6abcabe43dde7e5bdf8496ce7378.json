@@ -1,0 +1,22 @@
+{
+  "font": "incoming/DMSans_24pt-SemiBoldItalic-cb9d52034c7c.ttf",
+  "sha256": "cb9d52034c7cd0547f8a03092dfc9aad549d6abcabe43dde7e5bdf8496ce7378",
+  "size": 60888,
+  "names": [
+    "DM Sans 24pt",
+    "DM Sans 24pt SemiBold",
+    "DM Sans 24pt SemiBold Italic",
+    "DMSans24pt-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=DM+Sans",
+      "file_url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9XCm3zRmYJpso5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0478490515bcc822-OFL.txt",
+    "incoming/collected-20261103/licenses/1e21a748596001ab-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

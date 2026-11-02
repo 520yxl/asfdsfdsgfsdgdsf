@@ -1,0 +1,21 @@
+{
+  "font": "incoming/CascadiaCode-BoldItalic-8cad53826c16.ttf",
+  "sha256": "8cad53826c16fb44937215d27b8a4f0337fda1f5ffa8aec4d65cd5026b74ee0d",
+  "size": 353508,
+  "names": [
+    "Cascadia Code",
+    "Cascadia Code Bold Italic",
+    "CascadiaCode-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cascadia+Code",
+      "file_url": "https://fonts.gstatic.com/s/cascadiacode/v5/qWc9B6-zq5zxD57cT5s916v3aD7BuTnUax-yWfDEeq-LZd5lbWCAUXU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/efa2dcf3fd0cf7c2-OFL.txt",
+    "incoming/collected-20261103/licenses/566559b2993b9bfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

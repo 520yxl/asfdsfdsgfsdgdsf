@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Exo2-Black-d363413dd0ec.ttf",
+  "sha256": "d363413dd0ec8f470b762b8fde3f8718694ab384b40fef48dc24a6f604d51efa",
+  "size": 151344,
+  "names": [
+    "Exo 2",
+    "Exo 2 Black",
+    "Exo2-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Exo+2",
+      "file_url": "https://fonts.gstatic.com/s/exo2/v26/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPtq-rpvLpQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/19c4ce710b349e95-OFL.txt",
+    "incoming/collected-20261103/licenses/41c3b6acdbbd2fc1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/DMSans_24pt-Medium-c4b688045b0d.ttf",
+  "sha256": "c4b688045b0dc5d557fafa1659c0a4f4d139fe819178ef6aab0c8eab6872a47c",
+  "size": 56380,
+  "names": [
+    "DM Sans 24pt",
+    "DM Sans 24pt Medium",
+    "DMSans24pt-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=DM+Sans",
+      "file_url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTmf3ZGMZpg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0478490515bcc822-OFL.txt",
+    "incoming/collected-20261103/licenses/1e21a748596001ab-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

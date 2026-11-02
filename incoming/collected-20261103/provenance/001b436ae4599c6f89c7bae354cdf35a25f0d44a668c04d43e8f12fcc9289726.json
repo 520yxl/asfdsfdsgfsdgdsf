@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraCode-SemiBold-001b436ae459.ttf",
+  "sha256": "001b436ae4599c6f89c7bae354cdf35a25f0d44a668c04d43e8f12fcc9289726",
+  "size": 188844,
+  "names": [
+    "Fira Code",
+    "Fira Code SemiBold",
+    "FiraCode-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Code",
+      "file_url": "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVfxN87gsj0.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2049d90c4885fcc0-OFL.txt",
+    "incoming/collected-20261103/licenses/57ac2480e10f61fe-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

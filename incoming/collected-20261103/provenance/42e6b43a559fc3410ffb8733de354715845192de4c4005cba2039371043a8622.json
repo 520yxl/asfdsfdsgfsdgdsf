@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Cormorant-LightItalic-42e6b43a559f.ttf",
+  "sha256": "42e6b43a559fc3410ffb8733de354715845192de4c4005cba2039371043a8622",
+  "size": 233308,
+  "names": [
+    "Cormorant",
+    "Cormorant Light",
+    "Cormorant Light Italic",
+    "Cormorant-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cormorant",
+      "file_url": "https://fonts.gstatic.com/s/cormorant/v24/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQ9fdq6C-r0YvxdA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1a3fd2d0a2f236f5-OFL.txt",
+    "incoming/collected-20261103/licenses/a894f5d1958fea68-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

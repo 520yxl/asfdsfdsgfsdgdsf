@@ -1,0 +1,21 @@
+{
+  "font": "incoming/BodoniModa_18pt-Black-5fdc3b3ecc8b.ttf",
+  "sha256": "5fdc3b3ecc8bd883df489e5758d02e7ae7fc272df364da88594da972923ea982",
+  "size": 58868,
+  "names": [
+    "Bodoni Moda 18pt",
+    "Bodoni Moda 18pt Black",
+    "BodoniModa18pt-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-9PjfJMShrpsGFUt8oefdwIBytVjMYwE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

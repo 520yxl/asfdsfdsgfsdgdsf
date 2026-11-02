@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Fraunces_72pt_SuperSoft-Bold-9905a8bce1c8.ttf",
+  "sha256": "9905a8bce1c8b6530718c39b5c2e8a82df9cea2af6114e70a9436437ddb7e582",
+  "size": 72640,
+  "names": [
+    "Fraunces 72pt SuperSoft",
+    "Fraunces 72pt SuperSoft Bold",
+    "Fraunces72ptSuperSoft-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fraunces",
+      "file_url": "https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92usiIk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nhr1K03gg7S2nfgRYIcUByjDvTShUtWNg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0905341bb64d9325-OFL.txt",
+    "incoming/collected-20261103/licenses/dfa051190a5cfd6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

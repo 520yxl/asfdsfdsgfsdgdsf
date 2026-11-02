@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Exo2-ExtraBoldItalic-d4fa95b4cd36.ttf",
+  "sha256": "d4fa95b4cd361336caf67ff8ec7ee0d280647b3a9d2a78257fa463312c2f1dfc",
+  "size": 151528,
+  "names": [
+    "Exo 2",
+    "Exo 2 ExtraBold",
+    "Exo 2 ExtraBold Italic",
+    "Exo2-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Exo+2",
+      "file_url": "https://fonts.gstatic.com/s/exo2/v26/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0etC6jJ7bpQBL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/19c4ce710b349e95-OFL.txt",
+    "incoming/collected-20261103/licenses/41c3b6acdbbd2fc1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

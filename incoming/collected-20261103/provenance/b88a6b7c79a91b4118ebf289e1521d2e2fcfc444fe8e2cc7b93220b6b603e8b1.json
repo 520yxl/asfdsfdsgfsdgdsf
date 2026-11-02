@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GeistMono-SemiBoldItalic-b88a6b7c79a9.ttf",
+  "sha256": "b88a6b7c79a91b4118ebf289e1521d2e2fcfc444fe8e2cc7b93220b6b603e8b1",
+  "size": 104608,
+  "names": [
+    "Geist Mono",
+    "Geist Mono SemiBold",
+    "Geist Mono SemiBold Italic",
+    "GeistMono-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist+Mono",
+      "file_url": "https://fonts.gstatic.com/s/geistmono/v6/or3wQ6H-1_WfwkMZI_qYFrIHlDMSVteuavT1a6gX5Cx4PuCSdNg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/5ebc15b05ec832ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

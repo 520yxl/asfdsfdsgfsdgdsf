@@ -1,0 +1,21 @@
+{
+  "font": "incoming/DMSans_24pt-BoldItalic-b592eb876a70.ttf",
+  "sha256": "b592eb876a70ea49abed861e3b6f1117fcb1914476b330a4d850ea165f8b1eea",
+  "size": 60872,
+  "names": [
+    "DM Sans 24pt",
+    "DM Sans 24pt Bold Italic",
+    "DMSans24pt-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=DM+Sans",
+      "file_url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9uCm3zRmYJpso5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0478490515bcc822-OFL.txt",
+    "incoming/collected-20261103/licenses/1e21a748596001ab-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

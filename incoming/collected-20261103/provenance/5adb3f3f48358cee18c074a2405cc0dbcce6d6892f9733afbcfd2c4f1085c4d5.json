@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Figtree-Black-5adb3f3f4835.ttf",
+  "sha256": "5adb3f3f48358cee18c074a2405cc0dbcce6d6892f9733afbcfd2c4f1085c4d5",
+  "size": 40276,
+  "names": [
+    "Figtree",
+    "Figtree Black",
+    "Figtree-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Figtree",
+      "file_url": "https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_fWR15ewkEU4HTy.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cc2e4481df3476f7-OFL.txt",
+    "incoming/collected-20261103/licenses/f6b9d7ffc962ded1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

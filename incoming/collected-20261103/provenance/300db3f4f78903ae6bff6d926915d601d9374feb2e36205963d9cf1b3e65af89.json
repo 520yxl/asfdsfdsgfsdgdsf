@@ -1,0 +1,22 @@
+{
+  "font": "incoming/CascadiaCode-LightItalic-300db3f4f789.ttf",
+  "sha256": "300db3f4f78903ae6bff6d926915d601d9374feb2e36205963d9cf1b3e65af89",
+  "size": 348324,
+  "names": [
+    "Cascadia Code",
+    "Cascadia Code Light",
+    "Cascadia Code Light Italic",
+    "CascadiaCode-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cascadia+Code",
+      "file_url": "https://fonts.gstatic.com/s/cascadiacode/v5/qWc9B6-zq5zxD57cT5s916v3aD7BuTnUax-yWfDEehaMZd5lbWCAUXU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/efa2dcf3fd0cf7c2-OFL.txt",
+    "incoming/collected-20261103/licenses/566559b2993b9bfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

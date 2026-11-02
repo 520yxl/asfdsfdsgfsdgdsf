@@ -1,0 +1,22 @@
+{
+  "font": "incoming/DMSans_36pt-ExtraLightItalic-0e1204c2c602.ttf",
+  "sha256": "0e1204c2c6021b051727d208b276933b643f8f325ef57913fae5fdafc5fe182d",
+  "size": 61524,
+  "names": [
+    "DM Sans 36pt",
+    "DM Sans 36pt ExtraLight",
+    "DM Sans 36pt ExtraLight Italic",
+    "DMSans36pt-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=DM+Sans",
+      "file_url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JDW3zRmYJpso5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0478490515bcc822-OFL.txt",
+    "incoming/collected-20261103/licenses/1e21a748596001ab-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

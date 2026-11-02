@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Fraunces_72pt_Soft-SemiBold-736e4db7b979.ttf",
+  "sha256": "736e4db7b979ea31cd46baaa365a7f4776ce976204b15dce0c873b190217c812",
+  "size": 72656,
+  "names": [
+    "Fraunces 72pt Soft",
+    "Fraunces 72pt Soft SemiBold",
+    "Fraunces72ptSoft-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fraunces",
+      "file_url": "https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uMiIk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nhr1K03gg7S2nfgRYIcaRyjDvTShUtWNg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0905341bb64d9325-OFL.txt",
+    "incoming/collected-20261103/licenses/dfa051190a5cfd6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

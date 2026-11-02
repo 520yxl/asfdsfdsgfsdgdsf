@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraCode-Medium-8075ed60fe54.ttf",
+  "sha256": "8075ed60fe54d996328dfc2fec1113d15801127e703e4d55067b53b76f2e65ee",
+  "size": 188488,
+  "names": [
+    "Fira Code",
+    "Fira Code Medium",
+    "FiraCode-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Code",
+      "file_url": "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVfxN87gsj0.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2049d90c4885fcc0-OFL.txt",
+    "incoming/collected-20261103/licenses/57ac2480e10f61fe-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

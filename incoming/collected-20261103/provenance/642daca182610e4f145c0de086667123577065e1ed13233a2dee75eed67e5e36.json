@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Exo2-ExtraBold-642daca18261.ttf",
+  "sha256": "642daca182610e4f145c0de086667123577065e1ed13233a2dee75eed67e5e36",
+  "size": 151540,
+  "names": [
+    "Exo 2",
+    "Exo 2 ExtraBold",
+    "Exo2-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Exo+2",
+      "file_url": "https://fonts.gstatic.com/s/exo2/v26/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPtq-rpvLpQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/19c4ce710b349e95-OFL.txt",
+    "incoming/collected-20261103/licenses/41c3b6acdbbd2fc1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

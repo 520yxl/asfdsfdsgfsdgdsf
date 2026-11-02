@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraCode-Light-dd5419dd1811.ttf",
+  "sha256": "dd5419dd18115e3e12a609b239def8b7e48a3aa96b2f8dbaa729e903f843769c",
+  "size": 188704,
+  "names": [
+    "Fira Code",
+    "Fira Code Light",
+    "FiraCode-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Code",
+      "file_url": "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVfxN87gsj0.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2049d90c4885fcc0-OFL.txt",
+    "incoming/collected-20261103/licenses/57ac2480e10f61fe-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

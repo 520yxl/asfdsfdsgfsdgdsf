@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Figtree-Medium-1d82a4208481.ttf",
+  "sha256": "1d82a420848199557947ec2c42235fd7874a47fa8b03fde0313a1b2f0f5386c4",
+  "size": 40148,
+  "names": [
+    "Figtree",
+    "Figtree Medium",
+    "Figtree-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Figtree",
+      "file_url": "https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_dNQF5ewkEU4HTy.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cc2e4481df3476f7-OFL.txt",
+    "incoming/collected-20261103/licenses/f6b9d7ffc962ded1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

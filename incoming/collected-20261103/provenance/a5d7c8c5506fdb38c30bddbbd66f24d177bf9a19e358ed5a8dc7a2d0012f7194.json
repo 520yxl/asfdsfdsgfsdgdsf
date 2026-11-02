@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GeistMono-LightItalic-a5d7c8c5506f.ttf",
+  "sha256": "a5d7c8c5506fdb38c30bddbbd66f24d177bf9a19e358ed5a8dc7a2d0012f7194",
+  "size": 104740,
+  "names": [
+    "Geist Mono",
+    "Geist Mono Light",
+    "Geist Mono Light Italic",
+    "GeistMono-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist+Mono",
+      "file_url": "https://fonts.gstatic.com/s/geistmono/v6/or3wQ6H-1_WfwkMZI_qYFrIHlDMSVteuavT1aygQ5Cx4PuCSdNg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/5ebc15b05ec832ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/CrimsonPro-ExtraBoldItalic-306f761f6572.ttf",
+  "sha256": "306f761f6572d54335c14e11996b84419fbced3723fa7c6c60f2d02f2d91d497",
+  "size": 110396,
+  "names": [
+    "Crimson Pro",
+    "Crimson Pro ExtraBold",
+    "Crimson Pro ExtraBold Italic",
+    "CrimsonPro-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Crimson+Pro",
+      "file_url": "https://fonts.gstatic.com/s/crimsonpro/v28/q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi4UfJs7dtC4yZNE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c8238f248bcf36fe-OFL.txt",
+    "incoming/collected-20261103/licenses/a4d9ea9f0f66ed1c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

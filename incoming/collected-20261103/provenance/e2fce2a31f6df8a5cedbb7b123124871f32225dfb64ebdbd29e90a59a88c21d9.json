@@ -1,0 +1,22 @@
+{
+  "font": "incoming/CascadiaCode-SemiBoldItalic-e2fce2a31f6d.ttf",
+  "sha256": "e2fce2a31f6df8a5cedbb7b123124871f32225dfb64ebdbd29e90a59a88c21d9",
+  "size": 352724,
+  "names": [
+    "Cascadia Code",
+    "Cascadia Code SemiBold",
+    "Cascadia Code SemiBold Italic",
+    "CascadiaCode-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cascadia+Code",
+      "file_url": "https://fonts.gstatic.com/s/cascadiacode/v5/qWc9B6-zq5zxD57cT5s916v3aD7BuTnUax-yWfDEepaLZd5lbWCAUXU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/efa2dcf3fd0cf7c2-OFL.txt",
+    "incoming/collected-20261103/licenses/566559b2993b9bfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

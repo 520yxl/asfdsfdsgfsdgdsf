@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Geist-ThinItalic-e00aa2b4806b.ttf",
+  "sha256": "e00aa2b4806b74114b9b646637e2047b4c3d57b69f810ea839b78c02cce3fa92",
+  "size": 92648,
+  "names": [
+    "Geist",
+    "Geist Thin",
+    "Geist Thin Italic",
+    "Geist-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist",
+      "file_url": "https://fonts.gstatic.com/s/geist/v5/gyBjhwUxId8gMEwZAluvzlxA9ojEVKDQ35nf6VEdtKCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/eb84e0994cb2eb6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

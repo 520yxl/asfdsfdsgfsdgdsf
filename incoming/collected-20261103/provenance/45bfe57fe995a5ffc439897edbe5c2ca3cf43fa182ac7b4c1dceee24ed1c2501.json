@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Exo2-SemiBoldItalic-45bfe57fe995.ttf",
+  "sha256": "45bfe57fe995a5ffc439897edbe5c2ca3cf43fa182ac7b4c1dceee24ed1c2501",
+  "size": 151568,
+  "names": [
+    "Exo 2",
+    "Exo 2 SemiBold",
+    "Exo 2 SemiBold Italic",
+    "Exo2-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Exo+2",
+      "file_url": "https://fonts.gstatic.com/s/exo2/v26/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqetC6jJ7bpQBL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/19c4ce710b349e95-OFL.txt",
+    "incoming/collected-20261103/licenses/41c3b6acdbbd2fc1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Figtree-BoldItalic-eccf9cafb8a6.ttf",
+  "sha256": "eccf9cafb8a6112216b040112ce783553e30b30b1eb2649b9f2913e34d7ecbd2",
+  "size": 40928,
+  "names": [
+    "Figtree",
+    "Figtree Bold Italic",
+    "Figtree-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Figtree",
+      "file_url": "https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A1EayEU25WTybO8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cc2e4481df3476f7-OFL.txt",
+    "incoming/collected-20261103/licenses/f6b9d7ffc962ded1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Cormorant-BoldItalic-4d405d58a629.ttf",
+  "sha256": "4d405d58a6298e02841dc3df3b40447cb345e6b46debf1f08abd41cffe0b51c3",
+  "size": 233412,
+  "names": [
+    "Cormorant",
+    "Cormorant Bold Italic",
+    "Cormorant-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cormorant",
+      "file_url": "https://fonts.gstatic.com/s/cormorant/v24/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBq6C-r0YvxdA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1a3fd2d0a2f236f5-OFL.txt",
+    "incoming/collected-20261103/licenses/a894f5d1958fea68-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Exo2-ThinItalic-4c19b0a95557.ttf",
+  "sha256": "4c19b0a955579b43440702623b3d8f220646dc37bf5ebb5b1e20af4059dc1536",
+  "size": 151144,
+  "names": [
+    "Exo 2",
+    "Exo 2 Thin",
+    "Exo 2 Thin Italic",
+    "Exo2-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Exo+2",
+      "file_url": "https://fonts.gstatic.com/s/exo2/v26/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fNC6jJ7bpQBL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/19c4ce710b349e95-OFL.txt",
+    "incoming/collected-20261103/licenses/41c3b6acdbbd2fc1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/DMSans_24pt-Black-c55728ce39e5.ttf",
+  "sha256": "c55728ce39e5663304fd0a1cf8864b8712d2c2f214585449633603500314144f",
+  "size": 56376,
+  "names": [
+    "DM Sans 24pt",
+    "DM Sans 24pt Black",
+    "DMSans24pt-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=DM+Sans",
+      "file_url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTmf3ZGMZpg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0478490515bcc822-OFL.txt",
+    "incoming/collected-20261103/licenses/1e21a748596001ab-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/CascadiaCode-Regular-98fbea38a650.ttf",
+  "sha256": "98fbea38a650121cd5886eef144e842a930608074383601e2069dea57a886540",
+  "size": 475372,
+  "names": [
+    "Cascadia Code",
+    "Cascadia Code Regular",
+    "CascadiaCode-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cascadia+Code",
+      "file_url": "https://fonts.gstatic.com/s/cascadiacode/v5/qWc_B6-zq5zxD57cT5s916v3QjfzRuG9AIUcXuUMOaDPb9pHaHCA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/efa2dcf3fd0cf7c2-OFL.txt",
+    "incoming/collected-20261103/licenses/566559b2993b9bfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

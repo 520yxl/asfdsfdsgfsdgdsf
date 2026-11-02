@@ -1,0 +1,22 @@
+{
+  "font": "incoming/CascadiaCode-ExtraLightItalic-76a8a4f6e99b.ttf",
+  "sha256": "76a8a4f6e99b84c4487cb9c5731e6544a3a314ce202e942ad1b7064663b1bed6",
+  "size": 348044,
+  "names": [
+    "Cascadia Code",
+    "Cascadia Code ExtraLight",
+    "Cascadia Code ExtraLight Italic",
+    "CascadiaCode-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cascadia+Code",
+      "file_url": "https://fonts.gstatic.com/s/cascadiacode/v5/qWc9B6-zq5zxD57cT5s916v3aD7BuTnUax-yWfDEesiMZd5lbWCAUXU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/efa2dcf3fd0cf7c2-OFL.txt",
+    "incoming/collected-20261103/licenses/566559b2993b9bfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Exo2-LightItalic-f3b2851fb39a.ttf",
+  "sha256": "f3b2851fb39a782b60587c57e3c32dd62d38d142683ade77807c0e9a12e1b39e",
+  "size": 151436,
+  "names": [
+    "Exo 2",
+    "Exo 2 Light",
+    "Exo 2 Light Italic",
+    "Exo2-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Exo+2",
+      "file_url": "https://fonts.gstatic.com/s/exo2/v26/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfdC6jJ7bpQBL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/19c4ce710b349e95-OFL.txt",
+    "incoming/collected-20261103/licenses/41c3b6acdbbd2fc1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

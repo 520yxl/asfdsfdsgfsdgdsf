@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-Thin-7987e18798b5.ttf",
+  "sha256": "7987e18798b5961515a756a244ec3b14501d6f13f7a80012e87b51caf612c97d",
+  "size": 90660,
+  "names": [
+    "Geist",
+    "Geist Thin",
+    "Geist-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist",
+      "file_url": "https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_RnOI4nZPby1QNtA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/eb84e0994cb2eb6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

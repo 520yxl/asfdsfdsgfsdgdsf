@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Exo2-ExtraLight-7033c763f4cc.ttf",
+  "sha256": "7033c763f4cc92c39fbb9f84e4ae272ef3ea6be291fdf072cca2b148938fc5c7",
+  "size": 151324,
+  "names": [
+    "Exo 2",
+    "Exo 2 ExtraLight",
+    "Exo2-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Exo+2",
+      "file_url": "https://fonts.gstatic.com/s/exo2/v26/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPtq-rpvLpQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/19c4ce710b349e95-OFL.txt",
+    "incoming/collected-20261103/licenses/41c3b6acdbbd2fc1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

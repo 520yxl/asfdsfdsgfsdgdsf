@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraCode-Regular-5dc1651a1143.ttf",
+  "sha256": "5dc1651a1143c53169d4394dfc55585860d13c158cc0bcc2e56c23a1da5dd777",
+  "size": 188500,
+  "names": [
+    "Fira Code",
+    "Fira Code Regular",
+    "FiraCode-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Code",
+      "file_url": "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVfxN87gsj0.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2049d90c4885fcc0-OFL.txt",
+    "incoming/collected-20261103/licenses/57ac2480e10f61fe-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

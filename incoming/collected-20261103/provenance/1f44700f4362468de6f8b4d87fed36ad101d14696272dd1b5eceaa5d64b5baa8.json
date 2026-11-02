@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Caveat-SemiBold-1f44700f4362.ttf",
+  "sha256": "1f44700f4362468de6f8b4d87fed36ad101d14696272dd1b5eceaa5d64b5baa8",
+  "size": 257920,
+  "names": [
+    "Caveat",
+    "Caveat SemiBold",
+    "Caveat-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Caveat",
+      "file_url": "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SIKjYBxPigs.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0111e9fd6e439664-OFL.txt",
+    "incoming/collected-20261103/licenses/37f2afe789c9c6c5-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

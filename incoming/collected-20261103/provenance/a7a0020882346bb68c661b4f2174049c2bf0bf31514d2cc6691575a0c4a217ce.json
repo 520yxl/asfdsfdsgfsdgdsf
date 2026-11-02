@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Cormorant-Medium-a7a002088234.ttf",
+  "sha256": "a7a0020882346bb68c661b4f2174049c2bf0bf31514d2cc6691575a0c4a217ce",
+  "size": 379904,
+  "names": [
+    "Cormorant",
+    "Cormorant Medium",
+    "Cormorant-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cormorant",
+      "file_url": "https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTQ7Rg7A2uwYs.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1a3fd2d0a2f236f5-OFL.txt",
+    "incoming/collected-20261103/licenses/a894f5d1958fea68-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

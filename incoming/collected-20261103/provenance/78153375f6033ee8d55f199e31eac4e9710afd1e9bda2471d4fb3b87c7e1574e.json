@@ -1,0 +1,21 @@
+{
+  "font": "incoming/CascadiaCode-ExtraLight-78153375f603.ttf",
+  "sha256": "78153375f6033ee8d55f199e31eac4e9710afd1e9bda2471d4fb3b87c7e1574e",
+  "size": 473076,
+  "names": [
+    "Cascadia Code",
+    "Cascadia Code ExtraLight",
+    "CascadiaCode-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cascadia+Code",
+      "file_url": "https://fonts.gstatic.com/s/cascadiacode/v5/qWc_B6-zq5zxD57cT5s916v3QjfzRuG9AIUcXuWMOaDPb9pHaHCA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/efa2dcf3fd0cf7c2-OFL.txt",
+    "incoming/collected-20261103/licenses/566559b2993b9bfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-ExtraLight-5616061deb62.ttf",
+  "sha256": "5616061deb62f019c33a27316e35f038faaff67b02affed4a8225e180a44d37d",
+  "size": 90772,
+  "names": [
+    "Geist",
+    "Geist ExtraLight",
+    "Geist-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist",
+      "file_url": "https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_RHOM4nZPby1QNtA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/eb84e0994cb2eb6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

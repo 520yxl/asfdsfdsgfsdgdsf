@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-Black-54284c717689.ttf",
+  "sha256": "54284c717689f0154e5ca52ab9dd5695eadf5fd5c25ba199c729e660488f88de",
+  "size": 90780,
+  "names": [
+    "Geist",
+    "Geist Black",
+    "Geist-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist",
+      "file_url": "https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_RNeQ4nZPby1QNtA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/eb84e0994cb2eb6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

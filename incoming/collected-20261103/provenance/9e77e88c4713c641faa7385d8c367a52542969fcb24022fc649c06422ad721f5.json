@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Figtree-Italic-9e77e88c4713.ttf",
+  "sha256": "9e77e88c4713c641faa7385d8c367a52542969fcb24022fc649c06422ad721f5",
+  "size": 40636,
+  "names": [
+    "Figtree",
+    "Figtree Italic",
+    "Figtree-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Figtree",
+      "file_url": "https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A7YdyEU25WTybO8.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cc2e4481df3476f7-OFL.txt",
+    "incoming/collected-20261103/licenses/f6b9d7ffc962ded1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

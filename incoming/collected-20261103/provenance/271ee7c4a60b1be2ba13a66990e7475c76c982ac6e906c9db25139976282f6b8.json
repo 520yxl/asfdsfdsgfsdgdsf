@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Caveat-Regular-271ee7c4a60b.ttf",
+  "sha256": "271ee7c4a60b1be2ba13a66990e7475c76c982ac6e906c9db25139976282f6b8",
+  "size": 256968,
+  "names": [
+    "Caveat",
+    "Caveat Regular",
+    "Caveat-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Caveat",
+      "file_url": "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SIKjYBxPigs.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0111e9fd6e439664-OFL.txt",
+    "incoming/collected-20261103/licenses/37f2afe789c9c6c5-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

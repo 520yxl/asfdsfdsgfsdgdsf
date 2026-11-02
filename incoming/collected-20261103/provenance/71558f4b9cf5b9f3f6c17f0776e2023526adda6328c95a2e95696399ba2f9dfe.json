@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-BoldItalic-71558f4b9cf5.ttf",
+  "sha256": "71558f4b9cf5b9f3f6c17f0776e2023526adda6328c95a2e95696399ba2f9dfe",
+  "size": 92628,
+  "names": [
+    "Geist",
+    "Geist Bold Italic",
+    "Geist-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist",
+      "file_url": "https://fonts.gstatic.com/s/geist/v5/gyBjhwUxId8gMEwZAluvzlxA9ojEVKA32Znf6VEdtKCL.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/eb84e0994cb2eb6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

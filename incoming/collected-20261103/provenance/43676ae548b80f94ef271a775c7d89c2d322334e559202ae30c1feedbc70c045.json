@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GeistMono-Light-43676ae548b8.ttf",
+  "sha256": "43676ae548b80f94ef271a775c7d89c2d322334e559202ae30c1feedbc70c045",
+  "size": 101500,
+  "names": [
+    "Geist Mono",
+    "Geist Mono Light",
+    "GeistMono-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist+Mono",
+      "file_url": "https://fonts.gstatic.com/s/geistmono/v6/or3yQ6H-1_WfwkMZI_qYPLs1a-t7PU0AbeFjKJ5T7ihaO_CS.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/5ebc15b05ec832ee-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

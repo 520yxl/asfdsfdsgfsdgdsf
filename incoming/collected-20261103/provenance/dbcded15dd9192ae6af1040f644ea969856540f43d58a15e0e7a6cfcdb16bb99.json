@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Cormorant-SemiBold-dbcded15dd91.ttf",
+  "sha256": "dbcded15dd9192ae6af1040f644ea969856540f43d58a15e0e7a6cfcdb16bb99",
+  "size": 379912,
+  "names": [
+    "Cormorant",
+    "Cormorant SemiBold",
+    "Cormorant-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cormorant",
+      "file_url": "https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9UQ7Rg7A2uwYs.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1a3fd2d0a2f236f5-OFL.txt",
+    "incoming/collected-20261103/licenses/a894f5d1958fea68-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

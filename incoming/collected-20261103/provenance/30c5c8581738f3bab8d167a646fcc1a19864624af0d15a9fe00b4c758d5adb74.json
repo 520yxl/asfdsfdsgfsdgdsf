@@ -1,0 +1,22 @@
+{
+  "font": "incoming/EBGaramond-ExtraBoldItalic-30c5c8581738.ttf",
+  "sha256": "30c5c8581738f3bab8d167a646fcc1a19864624af0d15a9fe00b4c758d5adb74",
+  "size": 442952,
+  "names": [
+    "EB Garamond",
+    "EB Garamond ExtraBold",
+    "EB Garamond ExtraBold Italic",
+    "EBGaramond-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=EB+Garamond",
+      "file_url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R496WamXgXFI.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eab325dc46850eea-OFL.txt",
+    "incoming/collected-20261103/licenses/b432884d5d8a923d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

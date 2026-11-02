@@ -1,0 +1,22 @@
+{
+  "font": "incoming/DMSans_24pt-ExtraLightItalic-06719684793a.ttf",
+  "sha256": "06719684793aa6bd455526a23325dea9c82e15fb1a04f812418524e5bfab64ad",
+  "size": 61468,
+  "names": [
+    "DM Sans 24pt",
+    "DM Sans 24pt ExtraLight",
+    "DM Sans 24pt ExtraLight Italic",
+    "DMSans24pt-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=DM+Sans",
+      "file_url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JDW3zRmYJpso5.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0478490515bcc822-OFL.txt",
+    "incoming/collected-20261103/licenses/1e21a748596001ab-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

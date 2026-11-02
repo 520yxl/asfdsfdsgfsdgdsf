@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-ExtraBold-b41caab4d2df.ttf",
+  "sha256": "b41caab4d2dfa11b0b3f88c6b7a06684c28781603c6165b45aff74d3ceae066f",
+  "size": 90796,
+  "names": [
+    "Geist",
+    "Geist ExtraBold",
+    "Geist-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist",
+      "file_url": "https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_RHOQ4nZPby1QNtA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/eb84e0994cb2eb6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

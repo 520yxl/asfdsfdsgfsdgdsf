@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Fraunces_72pt_SuperSoft-LightItalic-1dd251a6d01d.ttf",
+  "sha256": "1dd251a6d01ddf1a38764484f199de39b22df642ef5eb121b3a4fbf37c4d27d8",
+  "size": 86464,
+  "names": [
+    "Fraunces 72pt SuperSoft",
+    "Fraunces 72pt SuperSoft Light",
+    "Fraunces 72pt SuperSoft Light Italic",
+    "Fraunces72ptSuperSoft-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fraunces",
+      "file_url": "https://fonts.gstatic.com/s/fraunces/v38/6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emDWtFKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lgd-sPEKsxx664UJf1gVTf7Wp05GNi3k.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0905341bb64d9325-OFL.txt",
+    "incoming/collected-20261103/licenses/dfa051190a5cfd6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
