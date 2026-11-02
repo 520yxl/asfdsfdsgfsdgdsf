@@ -77,6 +77,18 @@ def inspect(path):
                 target = full_name_zh
             elif record.nameID in (2, 17):
                 target = style_zh
+            if target is not None and record.platformID not in (0, 3):
+                # Do not export a truncated legacy alias: clients may select the
+                # shortest localized name rather than preserving index order.
+                complete = []
+                for other in name_table.names:
+                    if other.platformID in (0, 3) and other.nameID == record.nameID:
+                        try:
+                            complete.append(other.toUnicode().strip())
+                        except Exception:
+                            pass
+                if any(len(name) > len(value) and name.startswith(value) for name in complete):
+                    continue
             if target is not None and value not in target:
                 target.append(value)
         # Record explicit name-table language IDs and infer supported scripts from cmap.
