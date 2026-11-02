@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerif-BoldItalic-2400339667ad.ttf",
+  "sha256": "2400339667ad2701320aa671e337d1632731e56b397564afe14e981124b899c6",
+  "size": 534540,
+  "names": [
+    "Noto Serif",
+    "Noto Serif Bold Italic",
+    "NotoSerif-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif",
+      "file_url": "https://fonts.gstatic.com/s/notoserif/v33/ga6saw1J5X9T9RW6j9bNfFIMZhhWnFTyNZIQD1-_FXP0RgnaOg9MYBOshMcPpKrCzyUi.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/1be03c10d71de7ad-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerif_Condensed-BoldItalic-560dc2c86bfd.ttf",
+  "sha256": "560dc2c86bfd090021a243de98444aef58e5732375ad560aada4fd378e55bb74",
+  "size": 535408,
+  "names": [
+    "Noto Serif Condensed",
+    "Noto Serif Condensed Bold Italic",
+    "NotoSerifCondensed-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif",
+      "file_url": "https://fonts.gstatic.com/s/notoserif/v33/ga6saw1J5X9T9RW6j9bNfFIMZhhWnFTyNZIQDwG_FXP0RgnaOg9MYBOshMcPpKrCzyUi.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/1be03c10d71de7ad-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

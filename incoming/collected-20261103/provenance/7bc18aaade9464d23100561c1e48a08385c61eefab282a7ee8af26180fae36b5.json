@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerif_ExtraCondensed-Italic-7bc18aaade94.ttf",
+  "sha256": "7bc18aaade9464d23100561c1e48a08385c61eefab282a7ee8af26180fae36b5",
+  "size": 534676,
+  "names": [
+    "Noto Serif ExtraCondensed",
+    "Noto Serif ExtraCondensed Italic",
+    "NotoSerifExtraCondensed-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif",
+      "file_url": "https://fonts.gstatic.com/s/notoserif/v33/ga6saw1J5X9T9RW6j9bNfFIMZhhWnFTyNZIQD-2_FXP0RgnaOg9MYBNLg8cPpKrCzyUi.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/1be03c10d71de7ad-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

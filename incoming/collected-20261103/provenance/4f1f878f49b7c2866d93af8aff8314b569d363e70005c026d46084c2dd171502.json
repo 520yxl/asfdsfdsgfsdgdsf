@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerifJP-ExtraBold-4f1f878f49b7.ttf",
+  "sha256": "4f1f878f49b7c2866d93af8aff8314b569d363e70005c026d46084c2dd171502",
+  "size": 8030796,
+  "names": [
+    "Noto Serif JP",
+    "Noto Serif JP ExtraBold",
+    "NotoSerifJP-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif+JP",
+      "file_url": "https://fonts.gstatic.com/s/notoserifjp/v34/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2byxPebAILO5wBCU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a8a0051884cea030-OFL.txt",
+    "incoming/collected-20261103/licenses/ebd5d56402ea7c6e-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerifKR-ExtraLight-3d87e5464dc7.ttf",
+  "sha256": "3d87e5464dc728fda704a5e96640980118033a3af2cd6505acb8f54c9def088e",
+  "size": 14073292,
+  "names": [
+    "Noto Serif KR",
+    "Noto Serif KR ExtraLight",
+    "NotoSerifKR-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif+KR",
+      "file_url": "https://fonts.gstatic.com/s/notoserifkr/v32/3JnoSDn90Gmq2mr3blnHaTZXbOtLJDvui3JOnchmeM524ZvTePRu.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a8a0051884cea030-OFL.txt",
+    "incoming/collected-20261103/licenses/642ae021786b9935-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerif_Condensed-ExtraBold-3f0d600f0e96.ttf",
+  "sha256": "3f0d600f0e962f3ecf8f2f0e5cb025f5072059ab54cc9830ea88f63be457db72",
+  "size": 508132,
+  "names": [
+    "Noto Serif Condensed",
+    "Noto Serif Condensed ExtraBold",
+    "NotoSerifCondensed-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif",
+      "file_url": "https://fonts.gstatic.com/s/notoserif/v33/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMoeGTa32J4wsL2JAlAhZKFejwM0Lhq_Szw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f8c27d8f8f0365b3-OFL.txt",
+    "incoming/collected-20261103/licenses/1be03c10d71de7ad-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

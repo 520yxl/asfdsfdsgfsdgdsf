@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerifJP-Bold-c66df0e0218d.ttf",
+  "sha256": "c66df0e0218d3e5c3a4b430f06a453ace0e3497924a65e0d8cd1aacccc9e8005",
+  "size": 8031692,
+  "names": [
+    "Noto Serif JP",
+    "Noto Serif JP Bold",
+    "NotoSerifJP-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif+JP",
+      "file_url": "https://fonts.gstatic.com/s/notoserifjp/v34/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bzWPebAILO5wBCU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a8a0051884cea030-OFL.txt",
+    "incoming/collected-20261103/licenses/ebd5d56402ea7c6e-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
