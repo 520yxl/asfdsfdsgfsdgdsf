@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Spectral-Light-3a2777e58546.ttf",
+  "sha256": "3a2777e58546e594272347dd8f00a61fcea04553a7766e83ee592704b804d739",
+  "size": 264696,
+  "names": [
+    "Spectral",
+    "Spectral Light",
+    "Spectral-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Spectral",
+      "file_url": "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uSsF3GY_etWWIJ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a1bf0d2effc596b7-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

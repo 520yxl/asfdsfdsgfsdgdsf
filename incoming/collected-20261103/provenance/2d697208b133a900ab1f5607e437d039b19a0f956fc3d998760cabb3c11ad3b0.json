@@ -1,0 +1,19 @@
+{
+  "font": "incoming/ShadowsIntoLight-Regular-2d697208b133.ttf",
+  "sha256": "2d697208b133a900ab1f5607e437d039b19a0f956fc3d998760cabb3c11ad3b0",
+  "size": 48468,
+  "names": [
+    "Shadows Into Light",
+    "ShadowsIntoLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Shadows+Into+Light",
+      "file_url": "https://fonts.gstatic.com/s/shadowsintolight/v22/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcsr4xzSMYA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5b306cdba7b98c72-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

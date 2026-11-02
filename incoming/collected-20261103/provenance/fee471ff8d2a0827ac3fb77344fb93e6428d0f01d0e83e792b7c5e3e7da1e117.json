@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Raleway-VariableFont_wght-fee471ff8d2a.ttf",
+  "sha256": "fee471ff8d2a0827ac3fb77344fb93e6428d0f01d0e83e792b7c5e3e7da1e117",
+  "size": 309444,
+  "names": [
+    "Raleway",
+    "Raleway Thin",
+    "Raleway-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Raleway",
+      "file_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptug8zYS_SKggPN-CoCTqluHfE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4e2efe77482c6aea-OFL.txt",
+    "incoming/collected-20261103/licenses/b4a53a7f095c2683-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

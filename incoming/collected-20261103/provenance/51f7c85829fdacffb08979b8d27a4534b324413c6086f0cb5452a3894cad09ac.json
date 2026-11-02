@@ -1,0 +1,21 @@
+{
+  "font": "incoming/NotoSerifJP-VariableFont_wght-51f7c85829fd.ttf",
+  "sha256": "51f7c85829fdacffb08979b8d27a4534b324413c6086f0cb5452a3894cad09ac",
+  "size": 13510356,
+  "names": [
+    "Noto Serif JP",
+    "Noto Serif JP ExtraLight",
+    "NotoSerifJP-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Noto+Serif+JP",
+      "file_url": "https://fonts.gstatic.com/s/notoserifjp/v34/xn7mYHs72GKoTvER4Gn3b5eMXN6kYkY0T84.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a8a0051884cea030-OFL.txt",
+    "incoming/collected-20261103/licenses/ebd5d56402ea7c6e-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

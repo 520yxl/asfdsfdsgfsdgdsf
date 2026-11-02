@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Spectral-ExtraBoldItalic-885df889d10d.ttf",
+  "sha256": "885df889d10d4405ccc0370fd0fa68f52e82bab61158b9acb3673963d9e5d2ef",
+  "size": 269028,
+  "names": [
+    "Spectral",
+    "Spectral ExtraBold",
+    "Spectral ExtraBold Italic",
+    "Spectral-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Spectral",
+      "file_url": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qt3AafOPXHIJErY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a1bf0d2effc596b7-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

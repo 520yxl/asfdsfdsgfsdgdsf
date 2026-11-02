@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Pacifico-Regular-4dac9db3fa9c.ttf",
+  "sha256": "4dac9db3fa9ca072f7861fd916bf04bdceac6069d0f3a886f5e523d922e918f1",
+  "size": 315408,
+  "names": [
+    "Pacifico",
+    "Pacifico Regular",
+    "Pacifico-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Pacifico",
+      "file_url": "https://fonts.gstatic.com/s/pacifico/v23/FwZY7-Qmy14u9lezJ96A4sijpFu_.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fc91166fe962e268-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

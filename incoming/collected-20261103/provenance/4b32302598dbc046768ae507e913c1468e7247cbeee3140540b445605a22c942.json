@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Satisfy-Regular-4b32302598db.ttf",
+  "sha256": "4b32302598dbc046768ae507e913c1468e7247cbeee3140540b445605a22c942",
+  "size": 46976,
+  "names": [
+    "Satisfy",
+    "Satisfy Regular",
+    "Satisfy-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Satisfy",
+      "file_url": "https://fonts.gstatic.com/s/satisfy/v22/rP2Hp2yn6lkG50LoOZSCHBeHFl0.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e613f839f40a2381-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

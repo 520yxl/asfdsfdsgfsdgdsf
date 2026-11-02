@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Roboto-Italic-VariableFont_wdth,wght-38e4f7659bb0.ttf",
+  "sha256": "38e4f7659bb00be86aef1cb1325fce85534ba3f2e73c6ee47ab897ea758b1c2d",
+  "size": 530052,
+  "names": [
+    "Roboto",
+    "Roboto Italic",
+    "Roboto-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto",
+      "file_url": "https://fonts.gstatic.com/s/roboto/v51/KFOkCnqEu92Fr1Mu52xPKTM1K9nz.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/eed194d0d3eab038-OFL.txt",
+    "incoming/collected-20261103/licenses/b474458b7fb91bde-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

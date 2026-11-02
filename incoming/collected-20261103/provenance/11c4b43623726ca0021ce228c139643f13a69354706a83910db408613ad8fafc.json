@@ -1,0 +1,20 @@
+{
+  "font": "incoming/RocknRollOne-Regular-11c4b4362372.ttf",
+  "sha256": "11c4b43623726ca0021ce228c139643f13a69354706a83910db408613ad8fafc",
+  "size": 2668968,
+  "names": [
+    "RocknRoll One",
+    "RocknRoll One Regular",
+    "RocknRollOne-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=RocknRoll+One",
+      "file_url": "https://fonts.gstatic.com/s/rocknrollone/v17/kmK7ZqspGAfCeUiW6FFlmEC9guVhs7tfUxc.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b032b2a9df73e8ac-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

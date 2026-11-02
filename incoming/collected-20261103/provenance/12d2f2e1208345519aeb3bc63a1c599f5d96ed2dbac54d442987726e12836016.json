@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Stick-Regular-12d2f2e12083.ttf",
+  "sha256": "12d2f2e1208345519aeb3bc63a1c599f5d96ed2dbac54d442987726e12836016",
+  "size": 2171556,
+  "names": [
+    "Stick",
+    "Stick Regular",
+    "Stick-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Stick",
+      "file_url": "https://fonts.gstatic.com/s/stick/v21/Qw3TZQpMCyTtJSvfvPVDMPoF.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/83f4addcb443e212-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

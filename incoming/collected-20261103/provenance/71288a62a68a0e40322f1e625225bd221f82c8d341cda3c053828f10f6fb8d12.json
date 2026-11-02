@@ -1,0 +1,21 @@
+{
+  "font": "incoming/OpenSans-Italic-VariableFont_wdth,wght-71288a62a68a.ttf",
+  "sha256": "71288a62a68a0e40322f1e625225bd221f82c8d341cda3c053828f10f6fb8d12",
+  "size": 580280,
+  "names": [
+    "Open Sans",
+    "Open Sans Italic",
+    "OpenSans-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/mem6YaGs126MiZpBA-UFUJ0ef8xkA76a.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

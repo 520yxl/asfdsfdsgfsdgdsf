@@ -1,0 +1,20 @@
+{
+  "font": "incoming/PermanentMarker-Regular-4a613a4e0a67.ttf",
+  "sha256": "4a613a4e0a67ad9c48ee6bbf664a59f73450069ad27c08d4ed21e1b9b1893590",
+  "size": 73620,
+  "names": [
+    "Permanent Marker",
+    "Permanent Marker Regular",
+    "PermanentMarker-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Permanent+Marker",
+      "file_url": "https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004HaqIfrT5nlk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e613f839f40a2381-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

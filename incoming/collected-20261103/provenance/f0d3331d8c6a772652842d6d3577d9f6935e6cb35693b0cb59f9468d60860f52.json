@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Sunflower-Light-f0d3331d8c6a.ttf",
+  "sha256": "f0d3331d8c6a772652842d6d3577d9f6935e6cb35693b0cb59f9468d60860f52",
+  "size": 753744,
+  "names": [
+    "Sunflower",
+    "Sunflower Light",
+    "Sunflower-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Sunflower",
+      "file_url": "https://fonts.gstatic.com/s/sunflower/v19/RWmPoKeF8fUjqIj7Vc-06MfiqYsGBGBzCw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/54a275e1cd99250d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Questrial-Regular-d68c076085a5.ttf",
+  "sha256": "d68c076085a50d00449764a77b5723e860e0d4a843173e2e9b05c23fc480e5b5",
+  "size": 182924,
+  "names": [
+    "Questrial",
+    "Questrial Regular",
+    "Questrial-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Questrial",
+      "file_url": "https://fonts.gstatic.com/s/questrial/v19/QdVUSTchPBm7nuUeVf7EuStkm20oJA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/670b04bb79b58eb6-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

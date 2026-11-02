@@ -1,0 +1,20 @@
+{
+  "font": "incoming/RampartOne-Regular-6988657285df.ttf",
+  "sha256": "6988657285dfabd4378d09d388e742b9b305247ae4a64cd3ff600412aa59ee78",
+  "size": 3644956,
+  "names": [
+    "Rampart One",
+    "Rampart One Regular",
+    "RampartOne-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Rampart+One",
+      "file_url": "https://fonts.gstatic.com/s/rampartone/v14/K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fbd01572ebd78f18-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

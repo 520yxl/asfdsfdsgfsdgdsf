@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Poppins-ExtraLightItalic-05418f4d333f.ttf",
+  "sha256": "05418f4d333f25ddaf359adaf39b2777e64dad0f83c3fa4502d193d0ad19a9b7",
+  "size": 186168,
+  "names": [
+    "Poppins",
+    "Poppins ExtraLight",
+    "Poppins ExtraLight Italic",
+    "Poppins-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1plEN2PQEhcqw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Poppins-SemiBold-248c0244b350.ttf",
+  "sha256": "248c0244b350ec68880996aa6be6d7796274b49992d5fcbbefe251906aa4ea36",
+  "size": 155232,
+  "names": [
+    "Poppins",
+    "Poppins SemiBold",
+    "Poppins-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1tvFP-KUEg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

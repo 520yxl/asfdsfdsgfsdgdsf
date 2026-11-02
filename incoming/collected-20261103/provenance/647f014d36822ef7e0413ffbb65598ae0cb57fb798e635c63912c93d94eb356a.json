@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Poppins-Light-647f014d3682.ttf",
+  "sha256": "647f014d36822ef7e0413ffbb65598ae0cb57fb798e635c63912c93d94eb356a",
+  "size": 159892,
+  "names": [
+    "Poppins",
+    "Poppins Light",
+    "Poppins-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1tvFP-KUEg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

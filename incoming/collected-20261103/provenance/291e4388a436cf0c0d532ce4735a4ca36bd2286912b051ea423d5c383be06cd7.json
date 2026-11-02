@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Poppins-Black-291e4388a436.ttf",
+  "sha256": "291e4388a436cf0c0d532ce4735a4ca36bd2286912b051ea423d5c383be06cd7",
+  "size": 151396,
+  "names": [
+    "Poppins",
+    "Poppins Black",
+    "Poppins-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1tvFP-KUEg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

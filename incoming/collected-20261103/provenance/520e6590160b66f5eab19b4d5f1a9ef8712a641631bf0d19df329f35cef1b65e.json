@@ -1,0 +1,21 @@
+{
+  "font": "incoming/RedHatDisplay-Italic-VariableFont_wght-520e6590160b.ttf",
+  "sha256": "520e6590160b66f5eab19b4d5f1a9ef8712a641631bf0d19df329f35cef1b65e",
+  "size": 99376,
+  "names": [
+    "Red Hat Display",
+    "Red Hat Display Italic",
+    "RedHatDisplay-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Display",
+      "file_url": "https://fonts.gstatic.com/s/redhatdisplay/v21/8vIS7wUr0m80wwYf0QCXZzYzUoTg-D6kR47NCV5Z.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/1e83f4f18da20141-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

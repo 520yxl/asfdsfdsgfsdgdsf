@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceSans3-Italic-VariableFont_wght-1211c2ebab00.ttf",
+  "sha256": "1211c2ebab00958efc21707ba8de2edca142ebe3f40be89e8c3a9c26f61c3ddf",
+  "size": 391460,
+  "names": [
+    "Source Sans 3",
+    "Source Sans 3 ExtraLight",
+    "Source Sans 3 Italic",
+    "SourceSans3-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Sans+3",
+      "file_url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpMtKy2OAdR1K-IwhWudF-R3woaYOjZ5HZl8Q.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/afa580dd7080cacd-OFL.txt",
+    "incoming/collected-20261103/licenses/e896deaf0077885f-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

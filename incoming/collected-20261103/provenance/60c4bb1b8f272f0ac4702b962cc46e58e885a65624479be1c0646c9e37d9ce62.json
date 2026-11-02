@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Poppins-ExtraLight-60c4bb1b8f27.ttf",
+  "sha256": "60c4bb1b8f272f0ac4702b962cc46e58e885a65624479be1c0646c9e37d9ce62",
+  "size": 161456,
+  "names": [
+    "Poppins",
+    "Poppins ExtraLight",
+    "Poppins-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1tvFP-KUEg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

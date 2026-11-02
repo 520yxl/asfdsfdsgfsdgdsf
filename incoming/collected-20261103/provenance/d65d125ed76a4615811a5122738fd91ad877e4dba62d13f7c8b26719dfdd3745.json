@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Spectral-MediumItalic-d65d125ed76a.ttf",
+  "sha256": "d65d125ed76a4615811a5122738fd91ad877e4dba62d13f7c8b26719dfdd3745",
+  "size": 279436,
+  "names": [
+    "Spectral",
+    "Spectral Medium",
+    "Spectral Medium Italic",
+    "Spectral-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Spectral",
+      "file_url": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qonFafOPXHIJErY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a1bf0d2effc596b7-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

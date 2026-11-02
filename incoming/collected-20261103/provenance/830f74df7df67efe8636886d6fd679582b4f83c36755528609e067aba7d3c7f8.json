@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ShipporiMinchoB1-Regular-830f74df7df6.ttf",
+  "sha256": "830f74df7df67efe8636886d6fd679582b4f83c36755528609e067aba7d3c7f8",
+  "size": 15208428,
+  "names": [
+    "Shippori Mincho B1",
+    "Shippori Mincho B1 Regular",
+    "ShipporiMinchoB1-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Shippori+Mincho+B1",
+      "file_url": "https://fonts.gstatic.com/s/shipporiminchob1/v24/wXK2E2wCr44tulPdnn-xbIpJ9RgT9-nyjqBr1lO97Q.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/164f7ea8ea18291f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

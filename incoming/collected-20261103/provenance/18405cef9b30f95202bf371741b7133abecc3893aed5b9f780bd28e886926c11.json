@@ -1,0 +1,19 @@
+{
+  "font": "incoming/SawarabiGothic-Regular-18405cef9b30.ttf",
+  "sha256": "18405cef9b30f95202bf371741b7133abecc3893aed5b9f780bd28e886926c11",
+  "size": 1896336,
+  "names": [
+    "Sawarabi Gothic",
+    "SawarabiGothic-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Sawarabi+Gothic",
+      "file_url": "https://fonts.gstatic.com/s/sawarabigothic/v17/x3d4ckfVaqqa-BEj-I9mE65u3k3NBSk3E2YljQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/56f5e261ddb6ad34-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

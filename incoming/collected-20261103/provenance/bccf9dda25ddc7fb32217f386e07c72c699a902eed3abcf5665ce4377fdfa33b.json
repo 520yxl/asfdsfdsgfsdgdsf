@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Outfit-VariableFont_wght-bccf9dda25dd.ttf",
+  "sha256": "bccf9dda25ddc7fb32217f386e07c72c699a902eed3abcf5665ce4377fdfa33b",
+  "size": 110572,
+  "names": [
+    "Outfit",
+    "Outfit Thin",
+    "Outfit-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Outfit",
+      "file_url": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4N5s0Frc4H0ng.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d5ceb848358bc89f-OFL.txt",
+    "incoming/collected-20261103/licenses/a3c1702a8c0e1383-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

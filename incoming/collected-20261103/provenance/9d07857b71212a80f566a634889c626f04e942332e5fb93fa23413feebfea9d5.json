@@ -1,0 +1,21 @@
+{
+  "font": "incoming/RedHatText-Italic-VariableFont_wght-9d07857b7121.ttf",
+  "sha256": "9d07857b71212a80f566a634889c626f04e942332e5fb93fa23413feebfea9d5",
+  "size": 98888,
+  "names": [
+    "Red Hat Text",
+    "Red Hat Text Italic",
+    "RedHatText-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Red+Hat+Text",
+      "file_url": "https://fonts.gstatic.com/s/redhattext/v19/RrQJbohi_ic6B3yVSzGBrMxQbacoMcmJPECN.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0154982642df8632-OFL.txt",
+    "incoming/collected-20261103/licenses/12680758f7f3fa86-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

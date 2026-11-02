@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Spectral-SemiBoldItalic-137d8270be6f.ttf",
+  "sha256": "137d8270be6f5c77009ec9e40f0b20bf68d6a8328ac665a3d8e8e3897e237edb",
+  "size": 279144,
+  "names": [
+    "Spectral",
+    "Spectral SemiBold",
+    "Spectral SemiBold Italic",
+    "Spectral-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Spectral",
+      "file_url": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qqXCafOPXHIJErY.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a1bf0d2effc596b7-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

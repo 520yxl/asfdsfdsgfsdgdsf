@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Poppins-ExtraBoldItalic-bba986e11669.ttf",
+  "sha256": "bba986e116690660f70d3ebb18a74d8d2c8eafcda6c28c8ffc4306aa1e2b91e4",
+  "size": 173916,
+  "names": [
+    "Poppins",
+    "Poppins ExtraBold",
+    "Poppins ExtraBold Italic",
+    "Poppins-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111lEN2PQEhcqw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

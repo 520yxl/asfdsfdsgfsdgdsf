@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Nunito-Italic-VariableFont_wght-42cffa3ac669.ttf",
+  "sha256": "42cffa3ac6693a6700e86ca39a161da1338af41f8c17f7c9440941f3f8af1e72",
+  "size": 280276,
+  "names": [
+    "Nunito",
+    "Nunito ExtraLight",
+    "Nunito ExtraLight Italic",
+    "Nunito-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Nunito",
+      "file_url": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMOaETM_FcCIG.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b580343fda5542a-OFL.txt",
+    "incoming/collected-20261103/licenses/c1d4fe90aa4fe887-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

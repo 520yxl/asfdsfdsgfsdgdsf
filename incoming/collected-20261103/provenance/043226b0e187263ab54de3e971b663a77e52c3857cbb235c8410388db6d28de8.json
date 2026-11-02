@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Poppins-ThinItalic-043226b0e187.ttf",
+  "sha256": "043226b0e187263ab54de3e971b663a77e52c3857cbb235c8410388db6d28de8",
+  "size": 187044,
+  "names": [
+    "Poppins",
+    "Poppins Thin",
+    "Poppins Thin Italic",
+    "Poppins-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE3tFOvODSVFF.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

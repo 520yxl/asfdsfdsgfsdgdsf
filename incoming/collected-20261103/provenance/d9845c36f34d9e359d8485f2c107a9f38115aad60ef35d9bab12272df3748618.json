@@ -1,0 +1,21 @@
+{
+  "font": "incoming/SourceSerif4-VariableFont_opsz,wght-d9845c36f34d.ttf",
+  "sha256": "d9845c36f34d9e359d8485f2c107a9f38115aad60ef35d9bab12272df3748618",
+  "size": 1196808,
+  "names": [
+    "Source Serif 4",
+    "Source Serif 4 Regular",
+    "SourceSerif4Roman-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Serif+4",
+      "file_url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW2gc-NaXXq7H.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ad8458ee684eed65-OFL.txt",
+    "incoming/collected-20261103/licenses/2b33c2176d89e6b0-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/OpenSans-VariableFont_wdth,wght-177359dff501.ttf",
+  "sha256": "177359dff5017066301cff7264b86851b60b68628636255015d1db37b54b344d",
+  "size": 529700,
+  "names": [
+    "Open Sans",
+    "Open Sans Regular",
+    "OpenSans-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Open+Sans",
+      "file_url": "https://fonts.gstatic.com/s/opensans/v44/mem8YaGs126MiZpBA-U1UpcaXcl0Aw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8756a3e856a380d4-OFL.txt",
+    "incoming/collected-20261103/licenses/f3279c1b6c5bbbfb-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

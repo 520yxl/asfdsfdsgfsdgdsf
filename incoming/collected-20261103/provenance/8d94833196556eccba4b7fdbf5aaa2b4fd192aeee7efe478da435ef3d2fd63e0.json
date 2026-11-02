@@ -1,0 +1,21 @@
+{
+  "font": "incoming/PublicSans-VariableFont_wght-8d9483319655.ttf",
+  "sha256": "8d94833196556eccba4b7fdbf5aaa2b4fd192aeee7efe478da435ef3d2fd63e0",
+  "size": 103532,
+  "names": [
+    "Public Sans",
+    "Public Sans Thin",
+    "PublicSans-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Public+Sans",
+      "file_url": "https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwkNBdp_yw_k0.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c7c1a71373380ddf-OFL.txt",
+    "incoming/collected-20261103/licenses/7fecc326fa8e6be6-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

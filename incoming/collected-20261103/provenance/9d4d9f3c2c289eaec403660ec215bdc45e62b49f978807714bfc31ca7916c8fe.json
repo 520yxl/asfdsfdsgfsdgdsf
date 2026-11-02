@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Poppins-BoldItalic-9d4d9f3c2c28.ttf",
+  "sha256": "9d4d9f3c2c289eaec403660ec215bdc45e62b49f978807714bfc31ca7916c8fe",
+  "size": 176588,
+  "names": [
+    "Poppins",
+    "Poppins Bold Italic",
+    "Poppins-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15lEN2PQEhcqw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

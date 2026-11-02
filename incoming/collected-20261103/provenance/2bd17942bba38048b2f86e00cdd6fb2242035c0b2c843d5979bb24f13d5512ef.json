@@ -1,0 +1,21 @@
+{
+  "font": "incoming/RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght-2bd17942bba3.ttf",
+  "sha256": "2bd17942bba38048b2f86e00cdd6fb2242035c0b2c843d5979bb24f13d5512ef",
+  "size": 1684624,
+  "names": [
+    "Roboto Flex",
+    "Roboto Flex Regular",
+    "RobotoFlex-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Roboto+Flex",
+      "file_url": "https://fonts.gstatic.com/s/robotoflex/v30/NaPccZLOBv5T3oB7Cb4i0wu9TsDOCZRS.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6136aa3453a1ebb4-OFL.txt",
+    "incoming/collected-20261103/licenses/399966f13977aad4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

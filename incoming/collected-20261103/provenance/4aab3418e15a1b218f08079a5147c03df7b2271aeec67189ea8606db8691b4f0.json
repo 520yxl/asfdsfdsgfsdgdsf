@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ShipporiMincho-Bold-4aab3418e15a.ttf",
+  "sha256": "4aab3418e15a1b218f08079a5147c03df7b2271aeec67189ea8606db8691b4f0",
+  "size": 8547600,
+  "names": [
+    "Shippori Mincho",
+    "Shippori Mincho Bold",
+    "ShipporiMincho-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Shippori+Mincho",
+      "file_url": "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm5JEO5--2zg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/164f7ea8ea18291f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

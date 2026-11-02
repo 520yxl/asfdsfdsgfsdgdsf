@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Sunflower-Bold-301c7cd3b365.ttf",
+  "sha256": "301c7cd3b365db84f5e0410e384dd6e8c2c503ea46e91c717b4646bd2306b643",
+  "size": 741552,
+  "names": [
+    "Sunflower",
+    "Sunflower Bold",
+    "Sunflower-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Sunflower",
+      "file_url": "https://fonts.gstatic.com/s/sunflower/v19/RWmPoKeF8fUjqIj7Vc-0-MDiqYsGBGBzCw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/54a275e1cd99250d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

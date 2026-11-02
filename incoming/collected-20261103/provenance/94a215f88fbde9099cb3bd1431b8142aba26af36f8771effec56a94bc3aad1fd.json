@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Poppins-ExtraBold-94a215f88fbd.ttf",
+  "sha256": "94a215f88fbde9099cb3bd1431b8142aba26af36f8771effec56a94bc3aad1fd",
+  "size": 152764,
+  "names": [
+    "Poppins",
+    "Poppins ExtraBold",
+    "Poppins-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1tvFP-KUEg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/SingleDay-Regular-42d2dfd7b17e.ttf",
+  "sha256": "42d2dfd7b17edd32a99f0b19dc1a29f593907cfedf692f6e8b46d2c1ea89ede8",
+  "size": 815480,
+  "names": [
+    "Single Day",
+    "Single Day Regular",
+    "SingleDay-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Single+Day",
+      "file_url": "https://fonts.gstatic.com/s/singleday/v20/LYjHdGDjlEgoAcF95EI5jVoFUNfeQJU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fffb7703ef63ea69-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

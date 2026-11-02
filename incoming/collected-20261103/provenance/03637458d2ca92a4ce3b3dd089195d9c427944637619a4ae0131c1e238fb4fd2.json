@@ -1,0 +1,20 @@
+{
+  "font": "incoming/PottaOne-Regular-03637458d2ca.ttf",
+  "sha256": "03637458d2ca92a4ce3b3dd089195d9c427944637619a4ae0131c1e238fb4fd2",
+  "size": 4918340,
+  "names": [
+    "Potta One",
+    "Potta One Regular",
+    "PottaOne-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Potta+One",
+      "file_url": "https://fonts.gstatic.com/s/pottaone/v19/FeVSS05Bp6cy7xI-YfxQ3Z5nm29Gww.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/73b91de8c64d8d3f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

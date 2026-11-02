@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SourceCodePro-Italic-VariableFont_wght-275ce7d2fbb2.ttf",
+  "sha256": "275ce7d2fbb270a00309c23c1768ada88b0e52e253e69f3037d89eee3e5fffe6",
+  "size": 172552,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro ExtraLight",
+    "Source Code Pro ExtraLight Italic",
+    "SourceCodePro-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Source+Code+Pro",
+      "file_url": "https://fonts.gstatic.com/s/sourcecodepro/v32/HI_QiYsKILxRpg3hIP6sJ7fM7PqlOOvTnsMnx3C9.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0528f6ec47d96cb1-OFL.txt",
+    "incoming/collected-20261103/licenses/8c9536f382f75eac-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Rubik-VariableFont_wght-673ed4786dc1.ttf",
+  "sha256": "673ed4786dc1e4a5df68dd0adf07ae3b9a91a01d56e543b854ae85bfb8721572",
+  "size": 353768,
+  "names": [
+    "Rubik",
+    "Rubik Light",
+    "Rubik-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Rubik",
+      "file_url": "https://fonts.gstatic.com/s/rubik/v31/iJWKBXyIfDnIV4nGp32S0H3f.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cf1103789cb26d1f-OFL.txt",
+    "incoming/collected-20261103/licenses/83fa7242c5a955e5-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

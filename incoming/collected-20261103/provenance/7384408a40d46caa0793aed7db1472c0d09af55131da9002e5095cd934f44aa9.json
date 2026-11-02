@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Spectral-SemiBold-7384408a40d4.ttf",
+  "sha256": "7384408a40d46caa0793aed7db1472c0d09af55131da9002e5095cd934f44aa9",
+  "size": 268344,
+  "names": [
+    "Spectral",
+    "Spectral SemiBold",
+    "Spectral-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Spectral",
+      "file_url": "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vmtl3GY_etWWIJ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a1bf0d2effc596b7-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

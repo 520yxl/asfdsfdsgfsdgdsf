@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Poppins-Thin-95875f9ef0d1.ttf",
+  "sha256": "95875f9ef0d12d5cbdd64852933a578021c810cec247f7564207e046cf6c7289",
+  "size": 161652,
+  "names": [
+    "Poppins",
+    "Poppins Thin",
+    "Poppins-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTed3FBGPaTSQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

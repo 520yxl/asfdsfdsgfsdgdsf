@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Rubik-Italic-VariableFont_wght-304b3934d326.ttf",
+  "sha256": "304b3934d326ebc2358c0923b5a45d3f4e6090a80989e587b388d9692e641add",
+  "size": 348892,
+  "names": [
+    "Rubik",
+    "Rubik Light",
+    "Rubik Light Italic",
+    "Rubik-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Rubik",
+      "file_url": "https://fonts.gstatic.com/s/rubik/v31/iJWEBXyIfDnIV7nErXmw1W3f9Ik.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cf1103789cb26d1f-OFL.txt",
+    "incoming/collected-20261103/licenses/83fa7242c5a955e5-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

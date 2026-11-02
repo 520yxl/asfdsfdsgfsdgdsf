@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Oswald-VariableFont_wght-731d3a8cf6b5.ttf",
+  "sha256": "731d3a8cf6b598adff0d8096747a744263afebb36668884c5aa2a5911e529fa3",
+  "size": 169108,
+  "names": [
+    "Oswald",
+    "Oswald Regular",
+    "Oswald-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Oswald",
+      "file_url": "https://fonts.gstatic.com/s/oswald/v57/TK3iWkUHHAIjg75GHjUHte5fKg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/54ccd815fac94344-OFL.txt",
+    "incoming/collected-20261103/licenses/881c17230fcbbb0d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

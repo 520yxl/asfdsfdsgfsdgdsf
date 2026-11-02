@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Poppins-MediumItalic-449f6bd907fe.ttf",
+  "sha256": "449f6bd907fe29dbdfd5ef0990bdbb7fd800efa748a83f7b7529dcb94f79955b",
+  "size": 180444,
+  "names": [
+    "Poppins",
+    "Poppins Medium",
+    "Poppins Medium Italic",
+    "Poppins-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hlEN2PQEhcqw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

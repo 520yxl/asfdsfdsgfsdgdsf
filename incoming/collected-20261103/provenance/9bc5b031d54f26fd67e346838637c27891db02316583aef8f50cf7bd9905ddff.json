@@ -1,0 +1,20 @@
+{
+  "font": "incoming/ShipporiMincho-SemiBold-9bc5b031d54f.ttf",
+  "sha256": "9bc5b031d54f26fd67e346838637c27891db02316583aef8f50cf7bd9905ddff",
+  "size": 8633540,
+  "names": [
+    "Shippori Mincho",
+    "Shippori Mincho SemiBold",
+    "ShipporiMincho-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Shippori+Mincho",
+      "file_url": "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm5JEO5--2zg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/164f7ea8ea18291f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

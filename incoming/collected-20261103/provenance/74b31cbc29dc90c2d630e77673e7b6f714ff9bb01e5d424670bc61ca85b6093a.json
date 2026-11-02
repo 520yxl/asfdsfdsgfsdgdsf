@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Poppins-SemiBoldItalic-74b31cbc29dc.ttf",
+  "sha256": "74b31cbc29dc90c2d630e77673e7b6f714ff9bb01e5d424670bc61ca85b6093a",
+  "size": 178584,
+  "names": [
+    "Poppins",
+    "Poppins SemiBold",
+    "Poppins SemiBold Italic",
+    "Poppins-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Poppins",
+      "file_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19lEN2PQEhcqw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a3c03830d54722fc-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
