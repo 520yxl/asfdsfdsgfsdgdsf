@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothicX-Monospace-Medium-17cabc2755ad.ttf",
+  "sha256": "17cabc2755adfb6b6ac5d8a8b8ff1dcf01cc86af276e12cc20c9955b9f20b029",
+  "size": 11053808,
+  "names": [
+    "Gen Jyuu Gothic X Monospace",
+    "Gen Jyuu Gothic X Monospace Medium",
+    "GenJyuuGothicX-Monospace-Medium",
+    "源柔ゴシックX等幅",
+    "源柔ゴシックX等幅 Medium"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

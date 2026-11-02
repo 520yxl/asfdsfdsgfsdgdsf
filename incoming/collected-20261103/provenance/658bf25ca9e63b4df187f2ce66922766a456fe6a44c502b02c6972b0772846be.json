@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenJyuuGothicX-Monospace-ExtraLight-658bf25ca9e6.ttf",
+  "sha256": "658bf25ca9e63b4df187f2ce66922766a456fe6a44c502b02c6972b0772846be",
+  "size": 10000200,
+  "names": [
+    "Gen Jyuu Gothic X Monospace",
+    "Gen Jyuu Gothic X Monospace ExtraLight",
+    "GenJyuuGothicX-Monospace-ExtraLight",
+    "源柔ゴシックX等幅",
+    "源柔ゴシックX等幅 ExtraLight"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genjyuu/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e4c24701d4e5ed12-README_GenJyuu.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

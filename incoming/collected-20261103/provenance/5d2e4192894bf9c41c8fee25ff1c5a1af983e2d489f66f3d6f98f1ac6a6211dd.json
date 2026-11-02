@@ -1,0 +1,22 @@
+{
+  "font": "incoming/GenShinGothic-Bold-5d2e4192894b.ttf",
+  "sha256": "5d2e4192894bf9c41c8fee25ff1c5a1af983e2d489f66f3d6f98f1ac6a6211dd",
+  "size": 4959992,
+  "names": [
+    "Gen Shin Gothic",
+    "Gen Shin Gothic Bold",
+    "GenShinGothic-Bold",
+    "源真ゴシック",
+    "源真ゴシック Bold"
+  ],
+  "sources": [
+    {
+      "page_url": "http://jikasei.me/font/genshin/"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6e1f7760999fae0f-README_GenShin.txt",
+    "incoming/collected-20261103/licenses/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
