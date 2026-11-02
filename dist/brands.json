@@ -22,7 +22,7 @@
   {
     "id": "a-foundry",
     "name": "a.Foundry",
-    "count": 2
+    "count": 22
   },
   {
     "id": "a-good-feeling",
@@ -47,7 +47,7 @@
   {
     "id": "adobe",
     "name": "Adobe",
-    "count": 43
+    "count": 191
   },
   {
     "id": "adobe-systems-incorporated",
@@ -227,7 +227,7 @@
   {
     "id": "ania-kruk",
     "name": "Ania Kruk",
-    "count": 3
+    "count": 4
   },
   {
     "id": "anja-meiners",
@@ -275,6 +275,11 @@
     "count": 4
   },
   {
+    "id": "arphic-technology-co-ltd",
+    "name": "Arphic Technology Co., Ltd.",
+    "count": 4
+  },
+  {
     "id": "arrow-type",
     "name": "Arrow Type",
     "count": 2
@@ -282,6 +287,11 @@
   {
     "id": "artakana",
     "name": "artakana",
+    "count": 1
+  },
+  {
+    "id": "ascender-corporation",
+    "name": "Ascender Corporation",
     "count": 1
   },
   {
@@ -317,7 +327,7 @@
   {
     "id": "atelieranchor",
     "name": "atelierAnchor",
-    "count": 1
+    "count": 3
   },
   {
     "id": "bailu-font",
@@ -337,12 +347,12 @@
   {
     "id": "baron-von-fonthausen",
     "name": "Baron von Fonthausen",
-    "count": 2
+    "count": 20
   },
   {
     "id": "basement-studio-vercel-andr-s-briganti-guido-ferreyra-mateo-zaragoza",
     "name": "Basement.studio, Vercel, Andrés Briganti, Guido Ferreyra, Mateo Zaragoza",
-    "count": 4
+    "count": 120
   },
   {
     "id": "batsirai-madzonga",
@@ -367,7 +377,7 @@
   {
     "id": "belleve-invis",
     "name": "Belleve Invis",
-    "count": 110
+    "count": 164
   },
   {
     "id": "bemby-bantara-narendra-and-made-suatjana",
@@ -427,7 +437,7 @@
   {
     "id": "braille-institute",
     "name": "Braille Institute",
-    "count": 4
+    "count": 8
   },
   {
     "id": "brenda-gallo",
@@ -442,7 +452,7 @@
   {
     "id": "brian-m-zick",
     "name": "Brian M Zick",
-    "count": 6
+    "count": 12
   },
   {
     "id": "brownfox",
@@ -457,7 +467,7 @@
   {
     "id": "buttaiwan",
     "name": "",
-    "count": 4
+    "count": 25
   },
   {
     "id": "cadson-demak",
@@ -473,6 +483,11 @@
     "id": "cadsondemak",
     "name": "CadsonDemak",
     "count": 96
+  },
+  {
+    "id": "cafe24-corp",
+    "name": "Cafe24 Corp.",
+    "count": 4
   },
   {
     "id": "caleb-maclennan",
@@ -517,12 +532,12 @@
   {
     "id": "carrois-corporate-edenspiekermann-ag-nikita-prokopov",
     "name": "Carrois Corporate, Edenspiekermann AG, Nikita Prokopov",
-    "count": 1
+    "count": 14
   },
   {
     "id": "carrois-corporate-gbr-edenspiekermann-ag",
     "name": "Carrois Corporate GbR & Edenspiekermann AG",
-    "count": 57
+    "count": 180
   },
   {
     "id": "carrois-type-design",
@@ -532,7 +547,7 @@
   {
     "id": "catharsis-fonts",
     "name": "Catharsis Fonts",
-    "count": 21
+    "count": 33
   },
   {
     "id": "chill-type",
@@ -572,7 +587,7 @@
   {
     "id": "claus-eggers-s-rensen",
     "name": "Claus Eggers Sørensen",
-    "count": 23
+    "count": 37
   },
   {
     "id": "codeman38",
@@ -582,7 +597,7 @@
   {
     "id": "colophon-foundry",
     "name": "Colophon Foundry",
-    "count": 14
+    "count": 88
   },
   {
     "id": "colophon-foundry-benjamin-critton",
@@ -622,12 +637,17 @@
   {
     "id": "corey-hu",
     "name": "Corey Hu",
-    "count": 2
+    "count": 22
   },
   {
     "id": "cossette-communication-inc",
     "name": "Cossette Communication Inc.",
     "count": 4
+  },
+  {
+    "id": "coverted-to-truetype-by-wkpark-kldp-org",
+    "name": "Coverted to TrueType by wkpark@kldp.org",
+    "count": 23
   },
   {
     "id": "craig-rozynski",
@@ -657,12 +677,12 @@
   {
     "id": "cyreal",
     "name": "Cyreal",
-    "count": 18
+    "count": 28
   },
   {
     "id": "cyreal-http-www-cyreal-org",
     "name": "Cyreal (http://www.cyreal.org/)",
-    "count": 2
+    "count": 3
   },
   {
     "id": "cyreal-org",
@@ -677,7 +697,7 @@
   {
     "id": "dalton-maag-ltd",
     "name": "Dalton Maag Ltd",
-    "count": 43
+    "count": 89
   },
   {
     "id": "dan-reynolds",
@@ -742,7 +762,7 @@
   {
     "id": "david-j-perry",
     "name": "David J. Perry",
-    "count": 3
+    "count": 6
   },
   {
     "id": "david-jonathan-ross",
@@ -757,7 +777,7 @@
   {
     "id": "dejavu-fonts-team",
     "name": "DejaVu fonts team",
-    "count": 13
+    "count": 34
   },
   {
     "id": "delve-fonts-llc",
@@ -807,7 +827,7 @@
   {
     "id": "dmitri-voloshin-andrey-kudryavtsev",
     "name": "Dmitri Voloshin, Andrey Kudryavtsev",
-    "count": 1
+    "count": 11
   },
   {
     "id": "dmitry-grenev",
@@ -847,12 +867,12 @@
   {
     "id": "dxkorea",
     "name": "DXKorea",
-    "count": 1
+    "count": 2
   },
   {
     "id": "eben-sorkin",
     "name": "Eben Sorkin",
-    "count": 17
+    "count": 159
   },
   {
     "id": "eben-sorkin-pria-ravichandran",
@@ -897,7 +917,7 @@
   {
     "id": "eigil-nikolajsen",
     "name": "Eigil Nikolajsen",
-    "count": 1
+    "count": 9
   },
   {
     "id": "eino-korkala-daniel-coull-eunyou-noh-joohee-lee-nohtype",
@@ -932,7 +952,7 @@
   {
     "id": "erik-kennedy",
     "name": "Erik Kennedy",
-    "count": 2
+    "count": 18
   },
   {
     "id": "etcetera-type-co",
@@ -947,7 +967,7 @@
   {
     "id": "evil-martians",
     "name": "Evil Martians",
-    "count": 1
+    "count": 62
   },
   {
     "id": "ezer-type-house",
@@ -987,7 +1007,7 @@
   {
     "id": "florian-karsten",
     "name": "Florian Karsten",
-    "count": 7
+    "count": 13
   },
   {
     "id": "font-detective-llc",
@@ -997,7 +1017,7 @@
   {
     "id": "font-diner-inc",
     "name": "Font Diner, Inc",
-    "count": 13
+    "count": 15
   },
   {
     "id": "font-diner-inc-dba-neapolitan",
@@ -1017,7 +1037,7 @@
   {
     "id": "font-zone-108",
     "name": "Font Zone 108",
-    "count": 2
+    "count": 4
   },
   {
     "id": "fontdasu-google-inc-adobe",
@@ -1047,7 +1067,7 @@
   {
     "id": "fontworks-inc",
     "name": "Fontworks Inc.",
-    "count": 8
+    "count": 20
   },
   {
     "id": "fonty-pl",
@@ -1062,12 +1082,12 @@
   {
     "id": "fragtype",
     "name": "fragTYPE",
-    "count": 5
+    "count": 15
   },
   {
     "id": "frere-jones-type-llc",
     "name": "Frere-Jones Type LLC",
-    "count": 12
+    "count": 40
   },
   {
     "id": "frida-medrano",
@@ -1077,7 +1097,7 @@
   {
     "id": "friedrich-althausen",
     "name": "Friedrich Althausen",
-    "count": 6
+    "count": 20
   },
   {
     "id": "fuzzimo",
@@ -1092,7 +1112,7 @@
   {
     "id": "georg-duffner",
     "name": "Georg Duffner",
-    "count": 2
+    "count": 14
   },
   {
     "id": "gesine-todt",
@@ -1111,8 +1131,8 @@
   },
   {
     "id": "google",
-    "name": "Google",
-    "count": 38
+    "name": "FONTDASU / Google Inc. / but / Adobe",
+    "count": 412
   },
   {
     "id": "google-for-education",
@@ -1197,7 +1217,7 @@
   {
     "id": "hanyi-fonts",
     "name": "Hanyi Fonts",
-    "count": 8
+    "count": 134
   },
   {
     "id": "hanzi-type-archaeo",
@@ -1242,7 +1262,7 @@
   {
     "id": "hubert-and-fischer",
     "name": "Hubert and Fischer",
-    "count": 2
+    "count": 18
   },
   {
     "id": "hubert-and-fischer-nan",
@@ -1262,17 +1282,17 @@
   {
     "id": "huerta-tipografica",
     "name": "Huerta Tipografica",
-    "count": 91
+    "count": 105
   },
   {
     "id": "hypertype",
     "name": "hypertype",
-    "count": 1
+    "count": 11
   },
   {
     "id": "ibm",
-    "name": "Sandoll Inc.",
-    "count": 39
+    "name": "Bold Monday",
+    "count": 226
   },
   {
     "id": "igino-marini",
@@ -1287,12 +1307,12 @@
   {
     "id": "indestructible-type",
     "name": "indestructible type",
-    "count": 6
+    "count": 82
   },
   {
     "id": "indian-type-foundry",
     "name": "Indian Type Foundry",
-    "count": 125
+    "count": 148
   },
   {
     "id": "information-architects-inc",
@@ -1332,7 +1352,7 @@
   {
     "id": "jamo",
     "name": "JAMO",
-    "count": 6
+    "count": 10
   },
   {
     "id": "jamra-patel-llc",
@@ -1372,7 +1392,7 @@
   {
     "id": "jetbrains",
     "name": "JetBrains",
-    "count": 2
+    "count": 62
   },
   {
     "id": "jialun-company-bangfont",
@@ -1382,7 +1402,7 @@
   {
     "id": "jikji",
     "name": "JIKJI",
-    "count": 7
+    "count": 13
   },
   {
     "id": "jm-sole",
@@ -1412,7 +1432,7 @@
   {
     "id": "joe-prince-laura-meseguer",
     "name": "Joe Prince, Laura Meseguer",
-    "count": 1
+    "count": 2
   },
   {
     "id": "johan-aakerlund",
@@ -1492,7 +1512,7 @@
   {
     "id": "julieta-ulanovsky",
     "name": "Julieta Ulanovsky",
-    "count": 60
+    "count": 80
   },
   {
     "id": "just-in-type",
@@ -1502,6 +1522,11 @@
   {
     "id": "justfont",
     "name": "justfont",
+    "count": 1
+  },
+  {
+    "id": "justfont-co-ltd",
+    "name": "justfont Co., Ltd.",
     "count": 1
   },
   {
@@ -1517,7 +1542,7 @@
   {
     "id": "kazuo-kanai",
     "name": "KAZUO KANAI",
-    "count": 13
+    "count": 23
   },
   {
     "id": "kazuo-kanai-moonlit-owen",
@@ -1577,12 +1602,12 @@
   {
     "id": "kimberly-geswein",
     "name": "Kimberly Geswein",
-    "count": 23
+    "count": 26
   },
   {
     "id": "kinuta-font-factory",
     "name": "Kinuta Font Factory",
-    "count": 5
+    "count": 8
   },
   {
     "id": "koci",
@@ -1647,7 +1672,7 @@
   {
     "id": "lexend",
     "name": "Lexend",
-    "count": 9
+    "count": 19
   },
   {
     "id": "lingxun",
@@ -1690,8 +1715,18 @@
     "count": 4
   },
   {
+    "id": "lucas-le-bihan",
+    "name": "Lucas LE BIHAN",
+    "count": 6
+  },
+  {
     "id": "luciano-vergara",
     "name": "Luciano Vergara",
+    "count": 4
+  },
+  {
+    "id": "lukasz-dziedzic",
+    "name": "Lukasz Dziedzic",
     "count": 4
   },
   {
@@ -1702,7 +1737,7 @@
   {
     "id": "lxgw",
     "name": "LXGW / Fontworks Inc.",
-    "count": 10
+    "count": 70
   },
   {
     "id": "lxgw-fontworks-inc",
@@ -1745,9 +1780,24 @@
     "count": 1
   },
   {
+    "id": "mant0u-artakana",
+    "name": "Mant0u / artakana",
+    "count": 1
+  },
+  {
+    "id": "maoken-nfsl2001",
+    "name": "Maoken&NFSL2001",
+    "count": 1
+  },
+  {
     "id": "marcelo-magalh-es",
     "name": "Marcelo Magalhães",
     "count": 8
+  },
+  {
+    "id": "maria-ramos-noel-pretorius",
+    "name": "Maria Ramos & Noel Pretorius",
+    "count": 5
   },
   {
     "id": "mariela-monsalve",
@@ -1777,7 +1827,7 @@
   {
     "id": "matt-mcinerney-pablo-impallari-rodrigo-fuenzalida",
     "name": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida",
-    "count": 4
+    "count": 24
   },
   {
     "id": "matt-mcinerney-pablo-impallari-rodrigo-fuenzalida-brenda-gallo",
@@ -1792,7 +1842,7 @@
   {
     "id": "mckl",
     "name": "MCKL",
-    "count": 48
+    "count": 76
   },
   {
     "id": "meredith-mandel-tyler-finck",
@@ -1827,7 +1877,7 @@
   {
     "id": "mikhail-sharanda",
     "name": "Mikhail Sharanda",
-    "count": 1
+    "count": 9
   },
   {
     "id": "milena-b-brand-o-ben-nathan",
@@ -1852,7 +1902,7 @@
   {
     "id": "monotype-imaging-inc",
     "name": "Monotype Imaging Inc.",
-    "count": 226
+    "count": 377
   },
   {
     "id": "monotype-imaging-inc-delve-fonts-llc",
@@ -1882,7 +1932,7 @@
   {
     "id": "morisawa-inc",
     "name": "Morisawa Inc.",
-    "count": 8
+    "count": 16
   },
   {
     "id": "mota-italic",
@@ -1942,7 +1992,7 @@
   {
     "id": "natanael-gama",
     "name": "Natanael Gama",
-    "count": 22
+    "count": 42
   },
   {
     "id": "natsumi-matsuba",
@@ -1982,7 +2032,7 @@
   {
     "id": "nhn-corporation",
     "name": "NHN Corporation",
-    "count": 10
+    "count": 20
   },
   {
     "id": "nicolas-silva-and-jonh-vargas",
@@ -2022,12 +2072,17 @@
   {
     "id": "nontynet",
     "name": "Nontynet",
-    "count": 1
+    "count": 2
   },
   {
     "id": "noponies",
     "name": "Noponies",
     "count": 19
+  },
+  {
+    "id": "nowar-typeface",
+    "name": "Nowar Typeface",
+    "count": 50
   },
   {
     "id": "o",
@@ -2067,7 +2122,7 @@
   {
     "id": "omnibus-type",
     "name": "Omnibus-Type",
-    "count": 131
+    "count": 333
   },
   {
     "id": "omnibus-type-team",
@@ -2107,7 +2162,7 @@
   {
     "id": "pablo-impallari",
     "name": "Pablo Impallari",
-    "count": 14
+    "count": 24
   },
   {
     "id": "pablo-impallari-brenda-gallo",
@@ -2137,7 +2192,7 @@
   {
     "id": "pablo-impallari-rodrigo-fuenzalida",
     "name": "Pablo Impallari, Rodrigo Fuenzalida",
-    "count": 16
+    "count": 30
   },
   {
     "id": "pablo-impallari-rodrigo-fuenzalida-brenda-gallo",
@@ -2162,7 +2217,7 @@
   {
     "id": "paratype-ltd",
     "name": "ParaType Ltd",
-    "count": 16
+    "count": 23
   },
   {
     "id": "patrick-wagesreiter",
@@ -2207,12 +2262,12 @@
   {
     "id": "positype",
     "name": "Positype",
-    "count": 26
+    "count": 59
   },
   {
     "id": "production-type",
     "name": "Production Type",
-    "count": 60
+    "count": 74
   },
   {
     "id": "quote-unquote-apps",
@@ -2297,7 +2352,7 @@
   {
     "id": "robert-e-leuschke",
     "name": "Robert E. Leuschke",
-    "count": 139
+    "count": 142
   },
   {
     "id": "robert-leuschke",
@@ -2332,7 +2387,7 @@
   {
     "id": "rsms",
     "name": "rsms",
-    "count": 14
+    "count": 144
   },
   {
     "id": "ryoichi-tsunekawa",
@@ -2362,7 +2417,7 @@
   {
     "id": "saja-typeworks",
     "name": "Saja Typeworks",
-    "count": 4
+    "count": 174
   },
   {
     "id": "sandoll-communications-inc",
@@ -2372,7 +2427,7 @@
   {
     "id": "sandoll-inc",
     "name": "Sandoll Inc.",
-    "count": 14
+    "count": 20
   },
   {
     "id": "sanji",
@@ -2397,12 +2452,12 @@
   {
     "id": "schibsted-asa",
     "name": "Schibsted ASA",
-    "count": 2
+    "count": 16
   },
   {
     "id": "sebastian-kosch",
     "name": "Sebastian Kosch",
-    "count": 6
+    "count": 12
   },
   {
     "id": "sebastian-salazar",
@@ -2462,7 +2517,7 @@
   {
     "id": "sil-international",
     "name": "SIL International",
-    "count": 75
+    "count": 83
   },
   {
     "id": "silicon-andhra-usa",
@@ -2497,7 +2552,7 @@
   {
     "id": "sol-matas",
     "name": "Sol Matas",
-    "count": 22
+    "count": 42
   },
   {
     "id": "sophia-tai",
@@ -2512,7 +2567,7 @@
   {
     "id": "sorkin-type",
     "name": "Sorkin Type",
-    "count": 5
+    "count": 11
   },
   {
     "id": "sorkin-type-co",
@@ -2525,6 +2580,11 @@
     "count": 1
   },
   {
+    "id": "source-foundry",
+    "name": "Source Foundry",
+    "count": 4
+  },
+  {
     "id": "sovichet-tep",
     "name": "Sovichet Tep",
     "count": 2
@@ -2533,6 +2593,11 @@
     "id": "soytutype",
     "name": "Soytutype",
     "count": 6
+  },
+  {
+    "id": "spoqa-http-www-spoqa-han-sans-com",
+    "name": "Spoqa (http://www.spoqa-han-sans.com)",
+    "count": 10
   },
   {
     "id": "spyros-zevelakis",
@@ -2630,6 +2695,11 @@
     "count": 3
   },
   {
+    "id": "takushun-wu",
+    "name": "Takushun Wu",
+    "count": 6
+  },
+  {
     "id": "takwolf",
     "name": "TakWolf",
     "count": 24
@@ -2642,7 +2712,12 @@
   {
     "id": "tanukifont",
     "name": "TanukiFont",
-    "count": 1
+    "count": 9
+  },
+  {
+    "id": "tanukizamurai",
+    "name": "Tanukizamurai",
+    "count": 14
   },
   {
     "id": "tavatake",
@@ -2737,7 +2812,7 @@
   {
     "id": "tokotype",
     "name": "Tokotype",
-    "count": 4
+    "count": 20
   },
   {
     "id": "toneoz",
@@ -2747,12 +2822,12 @@
   {
     "id": "toshi-omagari",
     "name": "Toshi Omagari",
-    "count": 2
+    "count": 4
   },
   {
     "id": "tribby-type",
     "name": "Tribby Type",
-    "count": 108
+    "count": 126
   },
   {
     "id": "tyler-finck",
@@ -2822,12 +2897,12 @@
   {
     "id": "typoland-lukasz-dziedzic",
     "name": "tyPoland Lukasz Dziedzic",
-    "count": 22
+    "count": 28
   },
   {
     "id": "typotheque-type-foundry",
     "name": "Typotheque type foundry",
-    "count": 12
+    "count": 34
   },
   {
     "id": "u-20cbc476bb16",
@@ -2882,7 +2957,7 @@
   {
     "id": "underforest-design",
     "name": "UNDERFOREST DESIGN",
-    "count": 14
+    "count": 165
   },
   {
     "id": "universal-thirst-ehf",
@@ -2897,7 +2972,7 @@
   {
     "id": "unknown",
     "name": "",
-    "count": 557
+    "count": 1272
   },
   {
     "id": "vectro-type-foundry",
@@ -2912,12 +2987,12 @@
   {
     "id": "vercel-andr-s-briganti-guido-ferreyra",
     "name": "Vercel, Andrés Briganti, Guido Ferreyra",
-    "count": 1
+    "count": 12
   },
   {
     "id": "vernon-adams",
     "name": "Vernon Adams",
-    "count": 103
+    "count": 131
   },
   {
     "id": "vicente-lamonaca",
@@ -2962,7 +3037,7 @@
   {
     "id": "wei-huang",
     "name": "Wei Huang",
-    "count": 6
+    "count": 26
   },
   {
     "id": "woowa-brothers-corporation",
@@ -3002,7 +3077,7 @@
   {
     "id": "yanghee-ryu",
     "name": "Yanghee Ryu",
-    "count": 6
+    "count": 12
   },
   {
     "id": "yanone",
@@ -3017,12 +3092,12 @@
   {
     "id": "yellow-type-foundry",
     "name": "Yellow Type Foundry",
-    "count": 22
+    "count": 40
   },
   {
     "id": "yoondesign-inc",
     "name": "YoonDesign Inc.",
-    "count": 5
+    "count": 7
   },
   {
     "id": "youshe-design-team",
@@ -3037,7 +3112,7 @@
   {
     "id": "yusei-magic-project",
     "name": "Yusei Magic Project",
-    "count": 1
+    "count": 2
   },
   {
     "id": "yvonne-sch-ttler",
@@ -3062,12 +3137,12 @@
   {
     "id": "zcool",
     "name": "ZCOOL",
-    "count": 4
+    "count": 7
   },
   {
     "id": "zesstype",
     "name": "ZESSTYPE",
-    "count": 1
+    "count": 2
   },
   {
     "id": "zeynep-akay",
@@ -3082,12 +3157,12 @@
   {
     "id": "zhongqi",
     "name": "ZhongQi",
-    "count": 5
+    "count": 8
   },
   {
     "id": "zi-hi-com-fontworks-inc",
     "name": "zi-hi.com / Fontworks Inc.",
-    "count": 1
+    "count": 2
   },
   {
     "id": "zizhiqu",
@@ -3155,6 +3230,11 @@
     "count": 1
   },
   {
+    "id": "弍手消息社",
+    "name": "弍手消息社",
+    "count": 15
+  },
+  {
     "id": "成都美尔贝科技股份有限公司",
     "name": "成都美尔贝科技股份有限公司",
     "count": 1
@@ -3172,7 +3252,7 @@
   {
     "id": "未知品牌",
     "name": "未知品牌",
-    "count": 533
+    "count": 519
   },
   {
     "id": "深圳文道信息科技有限公司",

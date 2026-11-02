@@ -2,26 +2,26 @@
   {
     "code": "ja",
     "name": "日语",
-    "count": 92
+    "count": 387
   },
   {
     "code": "zh-Hans",
     "name": "简体中文",
-    "count": 401
+    "count": 614
   },
   {
     "code": "zh-Hant",
     "name": "繁体中文",
-    "count": 77
+    "count": 266
   },
   {
     "code": "en",
     "name": "英语",
-    "count": 6560
+    "count": 10670
   },
   {
     "code": "ko",
     "name": "韩语",
-    "count": 59
+    "count": 142
   }
 ]
