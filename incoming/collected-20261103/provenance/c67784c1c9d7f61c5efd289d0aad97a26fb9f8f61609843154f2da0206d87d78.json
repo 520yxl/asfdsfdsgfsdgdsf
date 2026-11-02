@@ -1,0 +1,16 @@
+{
+  "font": "incoming/VictorMono-BoldOblique-c67784c1c9d7.otf",
+  "sha256": "c67784c1c9d7f61c5efd289d0aad97a26fb9f8f61609843154f2da0206d87d78",
+  "size": 140240,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Bold Oblique",
+    "Victor Mono Oblique",
+    "VictorMono-BoldOblique"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/VictorMono-Regular-1af31bba86bd.ttf",
+  "sha256": "1af31bba86bd438a7aa5cd072db4e8ec9c36d20e2ed3f34e664b6a2bf37b3633",
+  "size": 201740,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Regular",
+    "VictorMono-Regular"
+  ],
+  "sources": [
+    {
+      "repository": "rubjo/victor-mono",
+      "license_url": "https://github.com/rubjo/victor-mono/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/rubjo/victor-mono/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,16 @@
+{
+  "font": "incoming/VictorMono-LightOblique-ee35a7298b60.otf",
+  "sha256": "ee35a7298b60970578322d7bded288ab6b79b91a5311376916ab5e4d17b4f8c9",
+  "size": 135888,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Light",
+    "Victor Mono Light Oblique",
+    "VictorMono-LightOblique"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

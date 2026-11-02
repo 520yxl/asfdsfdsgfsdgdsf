@@ -1,0 +1,16 @@
+{
+  "font": "incoming/VictorMono-SemiBoldOblique-d578462b119d.ttf",
+  "sha256": "d578462b119d1b219aa0b6ba2836681ee9e3c57c42a3308e41943bdfb41d4f02",
+  "size": 213084,
+  "names": [
+    "Victor Mono",
+    "Victor Mono SemiBold",
+    "Victor Mono SemiBold Oblique",
+    "VictorMono-SemiBoldOblique"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

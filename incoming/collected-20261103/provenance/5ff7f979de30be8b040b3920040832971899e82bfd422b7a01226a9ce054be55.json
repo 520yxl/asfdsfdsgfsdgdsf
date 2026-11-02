@@ -1,0 +1,16 @@
+{
+  "font": "incoming/VictorMono-MediumOblique-5ff7f979de30.otf",
+  "sha256": "5ff7f979de30be8b040b3920040832971899e82bfd422b7a01226a9ce054be55",
+  "size": 136140,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Medium",
+    "Victor Mono Medium Oblique",
+    "VictorMono-MediumOblique"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,19 @@
+{
+  "font": "incoming/SourceCodePro-BoldIt-1b49d9304012.ttf",
+  "sha256": "1b49d9304012bf8db9e5dd4104183d5c122c445d0570a2259125f71977595b90",
+  "size": 169140,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Bold Italic",
+    "SourceCodePro-BoldIt"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/SourceCodePro-SemiboldIt-600253b4aae9.ttf",
+  "sha256": "600253b4aae951db5b90882a866718d99dfb0e40ef3db5b5d2d8433a412ebc85",
+  "size": 169484,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Semibold",
+    "Source Code Pro Semibold Italic",
+    "SourceCodePro-SemiboldIt"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

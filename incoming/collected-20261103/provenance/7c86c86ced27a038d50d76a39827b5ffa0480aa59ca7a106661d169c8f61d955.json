@@ -1,0 +1,21 @@
+{
+  "font": "incoming/VictorMono-Oblique-7c86c86ced27.ttf",
+  "sha256": "7c86c86ced27a038d50d76a39827b5ffa0480aa59ca7a106661d169c8f61d955",
+  "size": 210440,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Oblique",
+    "VictorMono-Oblique"
+  ],
+  "sources": [
+    {
+      "repository": "rubjo/victor-mono",
+      "license_url": "https://github.com/rubjo/victor-mono/archive/refs/heads/master.zip",
+      "file_url": "https://github.com/rubjo/victor-mono/archive/refs/heads/master.zip"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

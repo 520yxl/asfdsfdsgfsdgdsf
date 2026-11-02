@@ -1,0 +1,19 @@
+{
+  "font": "incoming/mononoki-BoldItalic-0f3a2411092c.otf",
+  "sha256": "0f3a2411092cf3b6c98982f2d8bfd62924682439def074a2d8c72d0579f4ebb0",
+  "size": 75392,
+  "names": [
+    "mononoki",
+    "mononoki BoldItalic",
+    "mononoki-BoldItalic"
+  ],
+  "sources": [
+    {
+      "repository": "madmalik/mononoki",
+      "license_url": "https://raw.githubusercontent.com/madmalik/mononoki/1.6/LICENSE",
+      "file_url": "https://github.com/madmalik/mononoki/releases/download/1.6/mononoki.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

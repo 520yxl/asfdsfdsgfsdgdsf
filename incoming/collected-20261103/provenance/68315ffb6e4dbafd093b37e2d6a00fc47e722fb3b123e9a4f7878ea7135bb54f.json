@@ -1,0 +1,16 @@
+{
+  "font": "incoming/VictorMono-SemiBoldItalic-68315ffb6e4d.otf",
+  "sha256": "68315ffb6e4dbafd093b37e2d6a00fc47e722fb3b123e9a4f7878ea7135bb54f",
+  "size": 154304,
+  "names": [
+    "Victor Mono",
+    "Victor Mono SemiBold",
+    "Victor Mono SemiBold Italic",
+    "VictorMono-SemiBoldItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

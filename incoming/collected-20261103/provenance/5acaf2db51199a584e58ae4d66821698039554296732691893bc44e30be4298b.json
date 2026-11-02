@@ -1,0 +1,16 @@
+{
+  "font": "incoming/VictorMono-ExtraLightItalic-5acaf2db5119.ttf",
+  "sha256": "5acaf2db51199a584e58ae4d66821698039554296732691893bc44e30be4298b",
+  "size": 243620,
+  "names": [
+    "Victor Mono",
+    "Victor Mono ExtraLight",
+    "Victor Mono ExtraLight Italic",
+    "VictorMono-ExtraLightItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

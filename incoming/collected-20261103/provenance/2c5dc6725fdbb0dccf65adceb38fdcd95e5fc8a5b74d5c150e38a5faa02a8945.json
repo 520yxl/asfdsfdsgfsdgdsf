@@ -1,0 +1,15 @@
+{
+  "font": "incoming/JetBrainsMonoNL-SemiBold-2c5dc6725fdb.ttf",
+  "sha256": "2c5dc6725fdbb0dccf65adceb38fdcd95e5fc8a5b74d5c150e38a5faa02a8945",
+  "size": 209864,
+  "names": [
+    "JetBrains Mono NL",
+    "JetBrains Mono NL SemiBold",
+    "JetBrainsMonoNL-SemiBold"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/30f0c136e3c88e42-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

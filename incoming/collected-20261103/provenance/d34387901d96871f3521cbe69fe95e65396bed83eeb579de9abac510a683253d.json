@@ -1,0 +1,20 @@
+{
+  "font": "incoming/SourceCodePro-MediumIt-d34387901d96.ttf",
+  "sha256": "d34387901d96871f3521cbe69fe95e65396bed83eeb579de9abac510a683253d",
+  "size": 167316,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Medium",
+    "Source Code Pro Medium Italic",
+    "SourceCodePro-MediumIt"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/SourceCodePro-BlackIt-8b60e510e39f.ttf",
+  "sha256": "8b60e510e39f085e202447106cfd994394b5b76c55541ca6554c42e44b58918d",
+  "size": 170304,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Black",
+    "Source Code Pro Black Italic",
+    "SourceCodePro-BlackIt"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

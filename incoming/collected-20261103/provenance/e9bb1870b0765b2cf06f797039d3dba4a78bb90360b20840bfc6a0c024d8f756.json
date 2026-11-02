@@ -1,0 +1,19 @@
+{
+  "font": "incoming/SourceCodePro-Light-e9bb1870b076.ttf",
+  "sha256": "e9bb1870b0765b2cf06f797039d3dba4a78bb90360b20840bfc6a0c024d8f756",
+  "size": 199136,
+  "names": [
+    "Source Code Pro",
+    "Source Code Pro Light",
+    "SourceCodePro-Light"
+  ],
+  "sources": [
+    {
+      "repository": "adobe-fonts/source-code-pro",
+      "license_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip",
+      "file_url": "https://github.com/adobe-fonts/source-code-pro/archive/refs/heads/release.zip"
+    }
+  ],
+  "license_documents": [],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

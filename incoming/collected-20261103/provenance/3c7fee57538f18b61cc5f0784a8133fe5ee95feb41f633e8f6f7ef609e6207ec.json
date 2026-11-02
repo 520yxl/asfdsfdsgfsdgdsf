@@ -1,0 +1,16 @@
+{
+  "font": "incoming/JetBrainsMono-ExtraLightItalic-3c7fee57538f.ttf",
+  "sha256": "3c7fee57538f18b61cc5f0784a8133fe5ee95feb41f633e8f6f7ef609e6207ec",
+  "size": 274240,
+  "names": [
+    "JetBrains Mono",
+    "JetBrains Mono ExtraLight",
+    "JetBrains Mono ExtraLight Italic",
+    "JetBrainsMono-ExtraLightItalic"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/30f0c136e3c88e42-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

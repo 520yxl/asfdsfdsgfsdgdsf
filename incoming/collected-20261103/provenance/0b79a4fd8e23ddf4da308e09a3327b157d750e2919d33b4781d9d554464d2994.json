@@ -1,0 +1,16 @@
+{
+  "font": "incoming/VictorMono-ThinOblique-0b79a4fd8e23.ttf",
+  "sha256": "0b79a4fd8e23ddf4da308e09a3327b157d750e2919d33b4781d9d554464d2994",
+  "size": 209840,
+  "names": [
+    "Victor Mono",
+    "Victor Mono Thin",
+    "Victor Mono Thin Oblique",
+    "VictorMono-ThinOblique"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/205ed75c9c85d8a6-LICENSE.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

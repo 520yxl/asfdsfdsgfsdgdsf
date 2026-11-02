@@ -1,0 +1,15 @@
+{
+  "font": "incoming/JetBrainsMonoNL-Regular-fb3b2575d7b0.ttf",
+  "sha256": "fb3b2575d7b0657359707993288f12a7360344d39387bb26050e276d61f6bd2a",
+  "size": 208576,
+  "names": [
+    "JetBrains Mono NL",
+    "JetBrains Mono NL Regular",
+    "JetBrainsMonoNL-Regular"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/30f0c136e3c88e42-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
