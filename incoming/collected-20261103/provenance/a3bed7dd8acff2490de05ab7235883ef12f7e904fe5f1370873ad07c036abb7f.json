@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo-Light-a3bed7dd8acf.ttf",
+  "sha256": "a3bed7dd8acff2490de05ab7235883ef12f7e904fe5f1370873ad07c036abb7f",
+  "size": 119592,
+  "names": [
+    "Archivo",
+    "Archivo Light",
+    "Archivo-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTajNp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

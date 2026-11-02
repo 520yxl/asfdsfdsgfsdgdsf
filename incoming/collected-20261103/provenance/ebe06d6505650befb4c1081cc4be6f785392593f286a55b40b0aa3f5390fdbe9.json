@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Asap_Expanded-BlackItalic-ebe06d650565.ttf",
+  "sha256": "ebe06d6505650befb4c1081cc4be6f785392593f286a55b40b0aa3f5390fdbe9",
+  "size": 81724,
+  "names": [
+    "Asap Expanded",
+    "Asap Expanded Black",
+    "Asap Expanded Black Italic",
+    "AsapExpanded-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOMCniXp96ayz4E7kSn66aGLdTylXIMQXC89YmC2DPNWuZtammTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

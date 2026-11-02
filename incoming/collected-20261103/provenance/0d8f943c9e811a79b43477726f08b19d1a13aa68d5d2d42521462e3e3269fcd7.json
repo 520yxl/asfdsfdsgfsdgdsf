@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_ExtraCondensed-Bold-0d8f943c9e81.ttf",
+  "sha256": "0d8f943c9e811a79b43477726f08b19d1a13aa68d5d2d42521462e3e3269fcd7",
+  "size": 120064,
+  "names": [
+    "Archivo ExtraCondensed",
+    "Archivo ExtraCondensed Bold",
+    "ArchivoExtraCondensed-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q-EsJaRE-NWIDdgffTT0zRp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

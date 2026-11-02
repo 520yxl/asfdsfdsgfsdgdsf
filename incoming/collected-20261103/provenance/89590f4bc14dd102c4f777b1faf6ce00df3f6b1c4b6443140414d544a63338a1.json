@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Bitter-ExtraLightItalic-89590f4bc14d.ttf",
+  "sha256": "89590f4bc14dd102c4f777b1faf6ce00df3f6b1c4b6443140414d544a63338a1",
+  "size": 186648,
+  "names": [
+    "Bitter",
+    "Bitter ExtraLight",
+    "Bitter ExtraLight Italic",
+    "Bitter-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPzOWHpzveWxBw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

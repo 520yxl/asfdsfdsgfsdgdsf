@@ -1,0 +1,22 @@
+{
+  "font": "incoming/BodoniModa_9pt-ExtraBoldItalic-94e9d7ece49b.ttf",
+  "sha256": "94e9d7ece49b33ed89f0863d0625bab0aa479f36530a1aca60367eabc34199ea",
+  "size": 62488,
+  "names": [
+    "Bodoni Moda 9pt",
+    "Bodoni Moda 9pt ExtraBold",
+    "Bodoni Moda 9pt ExtraBold Italic",
+    "BodoniModa9pt-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLn1bvZedvJtj-V7tIaZqMR4sXrJcwHqoQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

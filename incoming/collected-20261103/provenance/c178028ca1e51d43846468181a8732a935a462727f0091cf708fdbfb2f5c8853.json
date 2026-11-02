@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Asap-ExtraLight-c178028ca1e5.ttf",
+  "sha256": "c178028ca1e51d43846468181a8732a935a462727f0091cf708fdbfb2f5c8853",
+  "size": 75804,
+  "names": [
+    "Asap",
+    "Asap ExtraLight",
+    "Asap-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYEqUsLmOXoA7Glw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

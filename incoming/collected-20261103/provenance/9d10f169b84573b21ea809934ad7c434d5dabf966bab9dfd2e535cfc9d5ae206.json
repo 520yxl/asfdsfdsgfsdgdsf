@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Bitter-Black-9d10f169b845.ttf",
+  "sha256": "9d10f169b84573b21ea809934ad7c434d5dabf966bab9dfd2e535cfc9d5ae206",
+  "size": 197640,
+  "names": [
+    "Bitter",
+    "Bitter Black",
+    "Bitter-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YCL_EXFh2reU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

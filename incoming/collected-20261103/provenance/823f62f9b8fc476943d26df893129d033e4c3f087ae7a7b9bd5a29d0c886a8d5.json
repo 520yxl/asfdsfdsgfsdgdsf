@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_SemiCondensed-Bold-823f62f9b8fc.ttf",
+  "sha256": "823f62f9b8fc476943d26df893129d033e4c3f087ae7a7b9bd5a29d0c886a8d5",
+  "size": 120736,
+  "names": [
+    "Archivo SemiCondensed",
+    "Archivo SemiCondensed Bold",
+    "ArchivoSemiCondensed-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q9RsJaRE-NWIDdgffTT0zRp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

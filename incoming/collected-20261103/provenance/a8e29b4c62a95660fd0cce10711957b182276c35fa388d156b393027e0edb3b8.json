@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Bitter-SemiBoldItalic-a8e29b4c62a9.ttf",
+  "sha256": "a8e29b4c62a95660fd0cce10711957b182276c35fa388d156b393027e0edb3b8",
+  "size": 186568,
+  "names": [
+    "Bitter",
+    "Bitter SemiBold",
+    "Bitter SemiBold Italic",
+    "Bitter-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvvOWHpzveWxBw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

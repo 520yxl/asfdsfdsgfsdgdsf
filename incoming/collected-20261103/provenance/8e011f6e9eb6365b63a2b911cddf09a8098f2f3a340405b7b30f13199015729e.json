@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo_Condensed-ExtraBoldItalic-8e011f6e9eb6.ttf",
+  "sha256": "8e011f6e9eb6365b63a2b911cddf09a8098f2f3a340405b7b30f13199015729e",
+  "size": 133176,
+  "names": [
+    "Archivo Condensed",
+    "Archivo Condensed ExtraBold",
+    "Archivo Condensed ExtraBold Italic",
+    "ArchivoCondensed-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8jrYIRyOSVz60_PG_HABtBdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

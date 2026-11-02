@@ -1,0 +1,21 @@
+{
+  "font": "incoming/BodoniModa_72pt-Medium-afda29487a7c.ttf",
+  "sha256": "afda29487a7ca16e7d6981befe4294ab97eac248bf0e92289b73774b513bd0de",
+  "size": 58776,
+  "names": [
+    "Bodoni Moda 72pt",
+    "Bodoni Moda 72pt Medium",
+    "BodoniModa72pt-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-9PvfJMShrpsGFUt8oXzawIBytVjMYwE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

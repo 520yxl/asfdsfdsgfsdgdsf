@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Besley-Black-9fb4c29d66f8.ttf",
+  "sha256": "9fb4c29d66f84c95944d024d894ebb3c37725478e6b8bbccbb64ac30dd7fef43",
+  "size": 60536,
+  "names": [
+    "Besley",
+    "Besley Black",
+    "Besley-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Besley",
+      "file_url": "https://fonts.gstatic.com/s/besley/v22/PlIhFlO1MaNwaNGWUC92IOH_mtG4fR_GSdRoFPOl8-E.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d385562d750c664b-OFL.txt",
+    "incoming/collected-20261103/licenses/8f8c22b357f08894-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

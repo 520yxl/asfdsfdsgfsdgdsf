@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Besley-SemiBoldItalic-05ae9d7dfdbc.ttf",
+  "sha256": "05ae9d7dfdbc5739b6acd5d3dd14ff5c5326134c9c9e9e6230fac033111aaeac",
+  "size": 61588,
+  "names": [
+    "Besley",
+    "Besley SemiBold",
+    "Besley SemiBold Italic",
+    "Besley-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Besley",
+      "file_url": "https://fonts.gstatic.com/s/besley/v22/PlIjFlO1MaNwaNG8WR2J-IiUAH-_aH6Cf5BiENGg4-E04A.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d385562d750c664b-OFL.txt",
+    "incoming/collected-20261103/licenses/8f8c22b357f08894-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

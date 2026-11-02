@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Asap_Expanded-ExtraBoldItalic-088653370fea.ttf",
+  "sha256": "088653370fea8ffac4ad06de85aa6ec2d3b842555e2f1f84f6d9152f6011cecf",
+  "size": 81852,
+  "names": [
+    "Asap Expanded",
+    "Asap Expanded ExtraBold",
+    "Asap Expanded ExtraBold Italic",
+    "AsapExpanded-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOMCniXp96ayz4E7kSn66aGLdTylXIMQXC89YmC2DPNWuZEammTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Bitter-ExtraBold-1aeb89de25f7.ttf",
+  "sha256": "1aeb89de25f79543c58ddddc38c2a9e079a5e253883bd00de43c8d719003e45a",
+  "size": 198008,
+  "names": [
+    "Bitter",
+    "Bitter ExtraBold",
+    "Bitter-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYCL_EXFh2reU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

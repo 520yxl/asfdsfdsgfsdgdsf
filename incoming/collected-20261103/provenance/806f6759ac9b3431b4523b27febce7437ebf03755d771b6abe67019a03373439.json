@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Asap_SemiExpanded-ExtraLightItalic-806f6759ac9b.ttf",
+  "sha256": "806f6759ac9b3431b4523b27febce7437ebf03755d771b6abe67019a03373439",
+  "size": 81172,
+  "names": [
+    "Asap SemiExpanded",
+    "Asap SemiExpanded ExtraLight",
+    "Asap SemiExpanded ExtraLight Italic",
+    "AsapSemiExpanded-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOMCniXp96ayz4E7kSn66aGLdTylWkMQXC89YmC2DPNWuZEbWmTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

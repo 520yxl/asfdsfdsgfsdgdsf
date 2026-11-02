@@ -1,0 +1,21 @@
+{
+  "font": "incoming/BodoniModa_72pt-ExtraBold-cb6857a92d26.ttf",
+  "sha256": "cb6857a92d26ab7bcfc80bfe6e9696aa3a8aa1a08aefc6ce7508b848d201e3db",
+  "size": 58956,
+  "names": [
+    "Bodoni Moda 72pt",
+    "Bodoni Moda 72pt ExtraBold",
+    "BodoniModa72pt-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-9PvfJMShrpsGFUt8oc7dwIBytVjMYwE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

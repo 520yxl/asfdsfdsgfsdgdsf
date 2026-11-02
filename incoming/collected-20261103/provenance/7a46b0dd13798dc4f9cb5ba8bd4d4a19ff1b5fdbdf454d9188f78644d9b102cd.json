@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Asap_Condensed-Medium-7a46b0dd1379.ttf",
+  "sha256": "7a46b0dd13798dc4f9cb5ba8bd4d4a19ff1b5fdbdf454d9188f78644d9b102cd",
+  "size": 75660,
+  "names": [
+    "Asap Condensed",
+    "Asap Condensed Medium",
+    "AsapCondensed-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOOCniXp96a4Tc2DaTeuDAoKsFk17JFc49knOIYdjTYoKUsLmOXoA7Glw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

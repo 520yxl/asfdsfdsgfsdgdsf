@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo-Bold-fb0d3a7cf205.ttf",
+  "sha256": "fb0d3a7cf205466ed1147911f81dc80788b8e42b8b3b7602f25937a9224654f6",
+  "size": 120856,
+  "names": [
+    "Archivo",
+    "Archivo Bold",
+    "Archivo-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Asap_SemiExpanded-SemiBold-6268cd720d6a.ttf",
+  "sha256": "6268cd720d6a2c842bc926fcbb669fb90331830bc6f0bc42e6cb5da858a8e2a9",
+  "size": 76608,
+  "names": [
+    "Asap SemiExpanded",
+    "Asap SemiExpanded SemiBold",
+    "AsapSemiExpanded-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOOCniXp96a4Tc2DaTeuDAoKsET17JFc49knOIYdjTYTKIsLmOXoA7Glw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

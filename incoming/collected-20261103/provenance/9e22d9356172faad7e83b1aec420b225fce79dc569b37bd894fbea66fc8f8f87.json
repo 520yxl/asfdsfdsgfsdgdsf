@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Asap-Thin-9e22d9356172.ttf",
+  "sha256": "9e22d9356172faad7e83b1aec420b225fce79dc569b37bd894fbea66fc8f8f87",
+  "size": 75756,
+  "names": [
+    "Asap",
+    "Asap Thin",
+    "Asap-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYkqQsLmOXoA7Glw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

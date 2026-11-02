@@ -1,0 +1,21 @@
+{
+  "font": "incoming/BodoniModa_72pt-SemiBold-9e92639e94bd.ttf",
+  "sha256": "9e92639e94bd22dfa49252355d82d7ada0ee8643043f539dd3b46bbefc6016e7",
+  "size": 58824,
+  "names": [
+    "Bodoni Moda 72pt",
+    "Bodoni Moda 72pt SemiBold",
+    "BodoniModa72pt-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-9PvfJMShrpsGFUt8oZDdwIBytVjMYwE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

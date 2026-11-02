@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo-ExtraBoldItalic-73e3e63c2928.ttf",
+  "sha256": "73e3e63c29283e3dc7e729c68d7114e31447fe3a67e78778480d8768ed5571ee",
+  "size": 133628,
+  "names": [
+    "Archivo",
+    "Archivo ExtraBold",
+    "Archivo ExtraBold Italic",
+    "Archivo-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABtBdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

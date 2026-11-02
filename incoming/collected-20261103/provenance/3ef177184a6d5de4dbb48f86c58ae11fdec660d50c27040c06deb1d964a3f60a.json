@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo_Expanded-SemiBoldItalic-3ef177184a6d.ttf",
+  "sha256": "3ef177184a6d5de4dbb48f86c58ae11fdec660d50c27040c06deb1d964a3f60a",
+  "size": 133996,
+  "names": [
+    "Archivo Expanded",
+    "Archivo Expanded SemiBold",
+    "Archivo Expanded SemiBold Italic",
+    "ArchivoExpanded-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8lbYIRyOSVz60_PG_HBftBdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

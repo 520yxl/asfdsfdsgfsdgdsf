@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_Expanded-Italic-173c7fec0e87.ttf",
+  "sha256": "173c7fec0e8767b7a367a5fc3f0e3748d6e6472cec8022a63dac5323fc330bea",
+  "size": 132408,
+  "names": [
+    "Archivo Expanded",
+    "Archivo Expanded Italic",
+    "ArchivoExpanded-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8lbYIRyOSVz60_PG_HCBsxdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

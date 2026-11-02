@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo_Condensed-SemiBoldItalic-9938de889969.ttf",
+  "sha256": "9938de889969bba9af1800c39429a4fbd8e2d3c63b071f8dc518a1b65f36e4c6",
+  "size": 133152,
+  "names": [
+    "Archivo Condensed",
+    "Archivo Condensed SemiBold",
+    "Archivo Condensed SemiBold Italic",
+    "ArchivoCondensed-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8jrYIRyOSVz60_PG_HBftBdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

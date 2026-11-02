@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_Expanded-ExtraBold-de4c49a070e6.ttf",
+  "sha256": "de4c49a070e64e501f9fd814273269e4b564c27b25fd094cec86b133709e3032",
+  "size": 121024,
+  "names": [
+    "Archivo Expanded",
+    "Archivo Expanded ExtraBold",
+    "ArchivoExpanded-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTTtDRp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Besley-SemiBold-e50361b45c02.ttf",
+  "sha256": "e50361b45c02cf448d75a5969bfeb1b484ce89bebd9bcedd77afbc493ffece79",
+  "size": 60556,
+  "names": [
+    "Besley",
+    "Besley SemiBold",
+    "Besley-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Besley",
+      "file_url": "https://fonts.gstatic.com/s/besley/v22/PlIhFlO1MaNwaNGWUC92IOH_mtG4fWjGSdRoFPOl8-E.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d385562d750c664b-OFL.txt",
+    "incoming/collected-20261103/licenses/8f8c22b357f08894-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

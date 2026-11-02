@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_ExtraCondensed-Italic-28a4f996932a.ttf",
+  "sha256": "28a4f996932ad71d4d11e55932a8a9c489de4b9d338cc3fb0b9452b800cb46ff",
+  "size": 131344,
+  "names": [
+    "Archivo ExtraCondensed",
+    "Archivo ExtraCondensed Italic",
+    "ArchivoExtraCondensed-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8tbYIRyOSVz60_PG_HCBsxdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

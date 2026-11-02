@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo-ExtraLightItalic-09b499c0f01c.ttf",
+  "sha256": "09b499c0f01cd6b25303b6b527d5d7001190f39f01693c210f2b0766395bf1d3",
+  "size": 132124,
+  "names": [
+    "Archivo",
+    "Archivo ExtraLight",
+    "Archivo ExtraLight Italic",
+    "Archivo-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABsxdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

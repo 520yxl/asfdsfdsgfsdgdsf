@@ -1,0 +1,22 @@
+{
+  "font": "incoming/BodoniModa_48pt-SemiBoldItalic-3d34d20ed962.ttf",
+  "sha256": "3d34d20ed9628cee425caaff0c577fba7e452488cb9bab1ca3f7d782acecb69c",
+  "size": 62432,
+  "names": [
+    "Bodoni Moda 48pt",
+    "Bodoni Moda 48pt SemiBold",
+    "Bodoni Moda 48pt SemiBold Italic",
+    "BodoniModa48pt-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLmlbfZedvJtj-V7tIaZ9sR4sXrJcwHqoQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

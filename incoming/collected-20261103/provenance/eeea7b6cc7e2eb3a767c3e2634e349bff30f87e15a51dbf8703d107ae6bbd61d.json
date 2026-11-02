@@ -1,0 +1,22 @@
+{
+  "font": "incoming/BodoniModa_48pt-BlackItalic-eeea7b6cc7e2.ttf",
+  "sha256": "eeea7b6cc7e2eb3a767c3e2634e349bff30f87e15a51dbf8703d107ae6bbd61d",
+  "size": 62496,
+  "names": [
+    "Bodoni Moda 48pt",
+    "Bodoni Moda 48pt Black",
+    "Bodoni Moda 48pt Black Italic",
+    "BodoniModa48pt-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLmlbfZedvJtj-V7tIaZgcR4sXrJcwHqoQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

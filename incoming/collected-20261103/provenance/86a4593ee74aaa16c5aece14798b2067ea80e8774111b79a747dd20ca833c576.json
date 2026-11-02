@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo_Condensed-MediumItalic-86a4593ee74a.ttf",
+  "sha256": "86a4593ee74aaa16c5aece14798b2067ea80e8774111b79a747dd20ca833c576",
+  "size": 133384,
+  "names": [
+    "Archivo Condensed",
+    "Archivo Condensed Medium",
+    "Archivo Condensed Medium Italic",
+    "ArchivoCondensed-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8jrYIRyOSVz60_PG_HCzsxdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

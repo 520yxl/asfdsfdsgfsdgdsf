@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo-Black-da5bbe6b46a9.ttf",
+  "sha256": "da5bbe6b46a9d1e47128a4b2f3956b7867832902b337884d96080745f785fc7b",
+  "size": 120188,
+  "names": [
+    "Archivo",
+    "Archivo Black",
+    "Archivo-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTnTRp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

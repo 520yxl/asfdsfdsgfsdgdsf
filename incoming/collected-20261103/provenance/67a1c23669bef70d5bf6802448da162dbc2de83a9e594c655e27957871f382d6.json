@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Asap-MediumItalic-67a1c23669be.ttf",
+  "sha256": "67a1c23669bef70d5bf6802448da162dbc2de83a9e594c655e27957871f382d6",
+  "size": 80852,
+  "names": [
+    "Asap",
+    "Asap Medium",
+    "Asap Medium Italic",
+    "Asap-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOMCniXp96ayz4E7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Bitter-BlackItalic-ed19739ce5ea.ttf",
+  "sha256": "ed19739ce5eaa68d179657e03a8906c7ac5f6dd97ebb69daa4cac87c78cb48de",
+  "size": 189424,
+  "names": [
+    "Bitter",
+    "Bitter Black",
+    "Bitter Black Italic",
+    "Bitter-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfvOWHpzveWxBw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

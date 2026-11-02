@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Besley-BlackItalic-2c1386bc7f77.ttf",
+  "sha256": "2c1386bc7f770b60fef02a75ecb51dbe257e4a2d992a6520e48164372a8d55d8",
+  "size": 61580,
+  "names": [
+    "Besley",
+    "Besley Black",
+    "Besley Black Italic",
+    "Besley-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Besley",
+      "file_url": "https://fonts.gstatic.com/s/besley/v22/PlIjFlO1MaNwaNG8WR2J-IiUAH-_aH6CCJBiENGg4-E04A.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d385562d750c664b-OFL.txt",
+    "incoming/collected-20261103/licenses/8f8c22b357f08894-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

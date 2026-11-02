@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Besley-ExtraBoldItalic-745f0cf9c889.ttf",
+  "sha256": "745f0cf9c889a0ef86fec54225897b4336234b25aeed27f147a5a70ca373c885",
+  "size": 61616,
+  "names": [
+    "Besley",
+    "Besley ExtraBold",
+    "Besley ExtraBold Italic",
+    "Besley-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Besley",
+      "file_url": "https://fonts.gstatic.com/s/besley/v22/PlIjFlO1MaNwaNG8WR2J-IiUAH-_aH6CIZBiENGg4-E04A.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/d385562d750c664b-OFL.txt",
+    "incoming/collected-20261103/licenses/8f8c22b357f08894-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Bitter-ExtraLight-1465d8f6130b.ttf",
+  "sha256": "1465d8f6130b2e75b566c8a083cabe77e02c16f7b57c910971b8e37b26f5f7ec",
+  "size": 187060,
+  "names": [
+    "Bitter",
+    "Bitter ExtraLight",
+    "Bitter-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfCL_EXFh2reU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

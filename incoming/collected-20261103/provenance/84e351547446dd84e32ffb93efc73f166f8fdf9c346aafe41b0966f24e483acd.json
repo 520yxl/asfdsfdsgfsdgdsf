@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Asap-Bold-84e351547446.ttf",
+  "sha256": "84e351547446dd84e32ffb93efc73f166f8fdf9c346aafe41b0966f24e483acd",
+  "size": 76140,
+  "names": [
+    "Asap",
+    "Asap Bold",
+    "Asap-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYdaIsLmOXoA7Glw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Bitter-MediumItalic-94d45873d15c.ttf",
+  "sha256": "94d45873d15c5ccaa5c1427389427c70654bab8061687ad626fcf69eba3fde21",
+  "size": 186688,
+  "names": [
+    "Bitter",
+    "Bitter Medium",
+    "Bitter Medium Italic",
+    "Bitter-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bitter",
+      "file_url": "https://fonts.gstatic.com/s/bitter/v42/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vzOWHpzveWxBw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e500a8bcab3e2f22-OFL.txt",
+    "incoming/collected-20261103/licenses/23c1b0f782939bb4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

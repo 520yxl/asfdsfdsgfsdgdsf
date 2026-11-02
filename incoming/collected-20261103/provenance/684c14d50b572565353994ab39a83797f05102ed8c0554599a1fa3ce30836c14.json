@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Asap_Expanded-ThinItalic-684c14d50b57.ttf",
+  "sha256": "684c14d50b572565353994ab39a83797f05102ed8c0554599a1fa3ce30836c14",
+  "size": 81112,
+  "names": [
+    "Asap Expanded",
+    "Asap Expanded Thin",
+    "Asap Expanded Thin Italic",
+    "AsapExpanded-ThinItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOMCniXp96ayz4E7kSn66aGLdTylXIMQXC89YmC2DPNWubEbGmTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

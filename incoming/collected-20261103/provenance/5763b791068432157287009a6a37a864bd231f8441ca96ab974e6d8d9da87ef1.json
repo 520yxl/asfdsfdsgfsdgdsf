@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Asap_Condensed-SemiBoldItalic-5763b7910684.ttf",
+  "sha256": "5763b791068432157287009a6a37a864bd231f8441ca96ab974e6d8d9da87ef1",
+  "size": 81616,
+  "names": [
+    "Asap Condensed",
+    "Asap Condensed SemiBold",
+    "Asap Condensed SemiBold Italic",
+    "AsapCondensed-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOMCniXp96ayz4E7kSn66aGLdTylR4MQXC89YmC2DPNWuYaammTggvWl0Qn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Asap_Condensed-ExtraBold-ccbfd25308c7.ttf",
+  "sha256": "ccbfd25308c7890f1cf35c982979a17b596d648ea34ccdaeddaadcdc5ce17bba",
+  "size": 76232,
+  "names": [
+    "Asap Condensed",
+    "Asap Condensed ExtraBold",
+    "AsapCondensed-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Asap",
+      "file_url": "https://fonts.gstatic.com/s/asap/v34/KFOOCniXp96a4Tc2DaTeuDAoKsFk17JFc49knOIYdjTYEqIsLmOXoA7Glw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/fd57ed2c0fa82bae-OFL.txt",
+    "incoming/collected-20261103/licenses/7b468df11f21ca99-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

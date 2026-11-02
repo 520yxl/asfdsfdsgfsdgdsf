@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Archivo-MediumItalic-18410318f21f.ttf",
+  "sha256": "18410318f21ff97d7f6a69ad47015e42c9f885b0f9707fa0c73d2e6676c2e47c",
+  "size": 133496,
+  "names": [
+    "Archivo",
+    "Archivo Medium",
+    "Archivo Medium Italic",
+    "Archivo-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCzsxdsBU7iVdxQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

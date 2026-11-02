@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Archivo_Expanded-Regular-4c069bdd41ac.ttf",
+  "sha256": "4c069bdd41ace1ca24486ce20dabcebd9ac972ca59301b3df10de128ce42e8fe",
+  "size": 119776,
+  "names": [
+    "Archivo Expanded",
+    "Archivo Expanded Regular",
+    "ArchivoExpanded-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Archivo",
+      "file_url": "https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTTNDNp8B1oJ0vyVQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/51004e38ea59b26b-OFL.txt",
+    "incoming/collected-20261103/licenses/601a9aaacd7cd90c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/BodoniModa_9pt-SemiBoldItalic-18fee111b617.ttf",
+  "sha256": "18fee111b617de8b686539b2b1500698eb32a0f5eddf420806bb11bf459730f8",
+  "size": 62376,
+  "names": [
+    "Bodoni Moda 9pt",
+    "Bodoni Moda 9pt SemiBold",
+    "Bodoni Moda 9pt SemiBold Italic",
+    "BodoniModa9pt-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLn1bvZedvJtj-V7tIaZ9sR4sXrJcwHqoQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
