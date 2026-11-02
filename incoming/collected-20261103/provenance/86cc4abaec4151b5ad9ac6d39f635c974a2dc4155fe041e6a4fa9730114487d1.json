@@ -1,0 +1,18 @@
+{
+  "font": "incoming/GenWanMin2TW-SB-86cc4abaec41.otf",
+  "sha256": "86cc4abaec4151b5ad9ac6d39f635c974a2dc4155fe041e6a4fa9730114487d1",
+  "size": 22614524,
+  "names": [
+    "GenWanMin2 TW",
+    "GenWanMin2 TW SB",
+    "GenWanMin2TW-SB",
+    "源雲明體月",
+    "源雲明體月 SB"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt",
+    "incoming/collected-20261103/licenses/98c34301340787af-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

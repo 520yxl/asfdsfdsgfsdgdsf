@@ -1,0 +1,18 @@
+{
+  "font": "incoming/GenSenRounded2TW-L-ff029516dd1e.otf",
+  "sha256": "ff029516dd1e54acec1d8745c79c99c01dc9fda8a669a9b9fae5fd0ce81ba078",
+  "size": 16508604,
+  "names": [
+    "GenSenRounded2 TW",
+    "GenSenRounded2 TW L",
+    "GenSenRounded2TW-L",
+    "源泉圓體月",
+    "源泉圓體月 L"
+  ],
+  "sources": [],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt",
+    "incoming/collected-20261103/licenses/c46e5eedcdb7c815-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
