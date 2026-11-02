@@ -1,0 +1,57 @@
+{
+  "font": "incoming/K_Pagetext-4888124f4d46.ttf",
+  "sha256": "4888124f4d465774f439467a877fe50725b0128de9e2426064d787adbc36a33a",
+  "size": 9599244,
+  "names": [
+    "Nowar Grotesk CL UI Cn",
+    "Nowar Grotesk Classical",
+    "Nowar Grotesk Classical UI Condensed Bold",
+    "Nowar Linéale CL UI Cn",
+    "Nowar Linéale Classical",
+    "Nowar Linéale Classical UI Condensed Bold",
+    "Nowar Palo CL UI Cn",
+    "Nowar Palo Classical",
+    "Nowar Palo Classical UI Condensed Bold",
+    "Nowar Sans CL UI Cn",
+    "Nowar Sans Classical",
+    "Nowar Sans Classical UI Condensed Bold",
+    "Nowar Sem CL UI Cn",
+    "Nowar Sem Classical",
+    "Nowar Sem Classical UI Condensed Bold",
+    "Nowar Senza CL UI Cn",
+    "Nowar Senza Classical",
+    "Nowar Senza Classical UI Condensed Bold",
+    "NowarSans-2a56e9901fd43ef0a4adf4921a5f4d8ea7d5e18f",
+    "Νοωαρ Σανς CL UI Cn",
+    "Νοωαρ Σανς Classical",
+    "Νοωαρ Σανς Classical UI Condensed Bold",
+    "Новар Гротеск CL UI Cn",
+    "Новар Гротеск Classical",
+    "Новар Гротеск Classical UI Condensed Bold",
+    "有愛 고딕 CL UI Cn",
+    "有愛 고딕 Classical",
+    "有愛 고딕 Classical UI Condensed Bold",
+    "有愛角ゴシック CL UI Cn",
+    "有愛角ゴシック Classical",
+    "有愛角ゴシック Classical UI Condensed Bold",
+    "有愛黑體 CL UI Cn",
+    "有愛黑體 Classical",
+    "有愛黑體 Classical UI Condensed Bold",
+    "有爱黑体 CL UI Cn",
+    "有爱黑体 Classical",
+    "有爱黑体 Classical UI Condensed Bold"
+  ],
+  "sources": [
+    {
+      "repository": "nowar-fonts/Nowar-Sans",
+      "license_url": "https://github.com/nowar-fonts/Nowar-Sans/releases/download/v1.0.1-xlang/NowarSans-Romaja.CyR-700-1.0.1.7z",
+      "file_url": "https://github.com/nowar-fonts/Nowar-Sans/releases/download/v1.0.1-xlang/NowarSans-Romaja-700-1.0.1.7z"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cb2ffb5b6e6cef98-LICENSE.txt",
+    "incoming/collected-20261103/licenses/8ebb43924a794868-LICENSE.txt",
+    "incoming/collected-20261103/licenses/5a9db9d02d376fe9-README.upstream.md"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
