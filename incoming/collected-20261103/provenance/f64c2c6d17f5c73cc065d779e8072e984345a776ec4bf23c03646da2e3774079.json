@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Hahmlet-Light-f64c2c6d17f5.ttf",
+  "sha256": "f64c2c6d17f5c73cc065d779e8072e984345a776ec4bf23c03646da2e3774079",
+  "size": 1529944,
+  "names": [
+    "Hahmlet",
+    "Hahmlet Light",
+    "Hahmlet-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hahmlet",
+      "file_url": "https://fonts.gstatic.com/s/hahmlet/v21/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RgUONjobsO-aVxn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4923e4ab2396d9c7-OFL.txt",
+    "incoming/collected-20261103/licenses/bb5b3bbe72465513-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

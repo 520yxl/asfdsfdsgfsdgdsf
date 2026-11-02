@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GolosText-Bold-cac7fc9fd8c5.ttf",
+  "sha256": "cac7fc9fd8c577f0f2ed0119e01a4c1169c3142158b8bfb0b6ecf6cc6eb97cad",
+  "size": 67908,
+  "names": [
+    "Golos Text",
+    "Golos Text Bold",
+    "GolosText-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Golos+Text",
+      "file_url": "https://fonts.gstatic.com/s/golostext/v7/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plW2Qg5cEr8zXcyx.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/5ac3d4d0e71518ba-OFL.txt",
+    "incoming/collected-20261103/licenses/0a5ec55d4d7c916d-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

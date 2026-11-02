@@ -1,0 +1,21 @@
+{
+  "font": "incoming/IBMPlexSans_SemiCondensed-BoldItalic-62f626b2c104.ttf",
+  "sha256": "62f626b2c1042f67e8c3caa801830b28f31a0c1e8eaeeee35a218a9b98f8b56f",
+  "size": 233660,
+  "names": [
+    "IBM Plex Sans SemiCondensed",
+    "IBM Plex Sans SemiCondensed Bold Italic",
+    "IBMPlexSansSemiCondensed-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=IBM+Plex+Sans",
+      "file_url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXEKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598ZMbM4jw8V78x9OWIhp8RKg9tIOm6vje.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/954c8b2630faad44-OFL.txt",
+    "incoming/collected-20261103/licenses/6206ba8e92c96017-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

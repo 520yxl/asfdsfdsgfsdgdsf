@@ -1,0 +1,21 @@
+{
+  "font": "incoming/IBMPlexSans-ExtraLight-e2444483bb2b.ttf",
+  "sha256": "e2444483bb2b5b05ddc41f1853e564208cfcfda2286df95b8680347b46249574",
+  "size": 218948,
+  "names": [
+    "IBM Plex Sans",
+    "IBM Plex Sans ExtraLight",
+    "IBMPlexSans-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=IBM+Plex+Sans",
+      "file_url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDallzAKI5loa26g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/954c8b2630faad44-OFL.txt",
+    "incoming/collected-20261103/licenses/6206ba8e92c96017-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

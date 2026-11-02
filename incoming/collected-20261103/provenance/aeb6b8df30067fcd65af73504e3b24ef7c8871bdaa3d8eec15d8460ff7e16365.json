@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Inter_24pt-ExtraBoldItalic-aeb6b8df3006.ttf",
+  "sha256": "aeb6b8df30067fcd65af73504e3b24ef7c8871bdaa3d8eec15d8460ff7e16365",
+  "size": 348896,
+  "names": [
+    "Inter 24pt",
+    "Inter 24pt ExtraBold",
+    "Inter 24pt ExtraBold Italic",
+    "Inter24pt-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjZ-Ek-7MeA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

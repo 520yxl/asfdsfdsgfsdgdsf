@@ -1,0 +1,21 @@
+{
+  "font": "incoming/JetBrainsMono-Thin-a968566646c7.ttf",
+  "sha256": "a968566646c73d8be2354fffa3b937eefd6df0729a1a8e374797636da531797b",
+  "size": 114996,
+  "names": [
+    "JetBrains Mono",
+    "JetBrains Mono Thin",
+    "JetBrainsMono-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=JetBrains+Mono",
+      "file_url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yK1jPVmUsaaDhw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbffd3de8f9484c6-OFL.txt",
+    "incoming/collected-20261103/licenses/25459904436ed0c2-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Hahmlet-Thin-48ed0c6937e0.ttf",
+  "sha256": "48ed0c6937e058730e258df7811683774f9d14f048f76a5e6eb0ca7ea9c718cd",
+  "size": 1517664,
+  "names": [
+    "Hahmlet",
+    "Hahmlet Thin",
+    "Hahmlet-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hahmlet",
+      "file_url": "https://fonts.gstatic.com/s/hahmlet/v21/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RhKOdjobsO-aVxn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4923e4ab2396d9c7-OFL.txt",
+    "incoming/collected-20261103/licenses/bb5b3bbe72465513-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

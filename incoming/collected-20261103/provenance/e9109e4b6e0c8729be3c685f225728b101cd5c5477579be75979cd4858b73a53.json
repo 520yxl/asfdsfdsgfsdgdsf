@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inconsolata_Expanded-Light-e9109e4b6e0c.ttf",
+  "sha256": "e9109e4b6e0c8729be3c685f225728b101cd5c5477579be75979cd4858b73a53",
+  "size": 102624,
+  "names": [
+    "Inconsolata Expanded",
+    "Inconsolata Expanded Light",
+    "InconsolataExpanded-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inconsolata",
+      "file_url": "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmMQLYxYWI2qfdm7Lpp9s8aRr8lleY2co.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b0ff6c9fa5c8816-OFL.txt",
+    "incoming/collected-20261103/licenses/f3d21a3d3c4f2c71-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

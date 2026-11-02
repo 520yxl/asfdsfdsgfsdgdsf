@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Inter_28pt-ExtraLightItalic-125e44fb0176.ttf",
+  "sha256": "125e44fb017691c676c75e4190685a6e1720fadf03604adf14621eaad4a7535d",
+  "size": 347268,
+  "names": [
+    "Inter 28pt",
+    "Inter 28pt ExtraLight",
+    "Inter 28pt ExtraLight Italic",
+    "Inter28pt-ExtraLightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjZ-Ek-7MeA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

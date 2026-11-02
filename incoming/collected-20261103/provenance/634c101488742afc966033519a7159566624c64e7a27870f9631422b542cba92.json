@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Inter_18pt-SemiBoldItalic-634c10148874.ttf",
+  "sha256": "634c101488742afc966033519a7159566624c64e7a27870f9631422b542cba92",
+  "size": 347760,
+  "names": [
+    "Inter 18pt",
+    "Inter 18pt SemiBold",
+    "Inter 18pt SemiBold Italic",
+    "Inter18pt-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjZ-Ek-7MeA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

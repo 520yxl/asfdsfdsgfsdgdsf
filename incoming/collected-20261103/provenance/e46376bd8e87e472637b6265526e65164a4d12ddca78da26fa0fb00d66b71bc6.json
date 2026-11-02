@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GoogleSansFlex_9pt-ExtraLight-e46376bd8e87.ttf",
+  "sha256": "e46376bd8e87e472637b6265526e65164a4d12ddca78da26fa0fb00d66b71bc6",
+  "size": 133832,
+  "names": [
+    "Google Sans Flex 9pt",
+    "Google Sans Flex 9pt ExtraLight",
+    "GoogleSansFlex9pt-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Google+Sans+Flex",
+      "file_url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sI8wowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHgy8BzhI3W2cDmg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0c12218a31b5425e-OFL.txt",
+    "incoming/collected-20261103/licenses/73c001fbf3fcc719-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

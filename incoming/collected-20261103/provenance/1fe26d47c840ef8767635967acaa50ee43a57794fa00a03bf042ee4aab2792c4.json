@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inter_18pt-Italic-1fe26d47c840.ttf",
+  "sha256": "1fe26d47c840ef8767635967acaa50ee43a57794fa00a03bf042ee4aab2792c4",
+  "size": 346480,
+  "names": [
+    "Inter 18pt",
+    "Inter 18pt Italic",
+    "Inter18pt-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjZ-Ek-7MeA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

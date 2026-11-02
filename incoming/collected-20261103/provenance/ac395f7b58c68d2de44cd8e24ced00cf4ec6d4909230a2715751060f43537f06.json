@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inter_24pt-Italic-ac395f7b58c6.ttf",
+  "sha256": "ac395f7b58c68d2de44cd8e24ced00cf4ec6d4909230a2715751060f43537f06",
+  "size": 346580,
+  "names": [
+    "Inter 24pt",
+    "Inter 24pt Italic",
+    "Inter24pt-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjZ-Ek-7MeA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

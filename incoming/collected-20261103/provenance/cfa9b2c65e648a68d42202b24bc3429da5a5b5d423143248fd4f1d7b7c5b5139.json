@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inconsolata_UltraCondensed-Light-cfa9b2c65e64.ttf",
+  "sha256": "cfa9b2c65e648a68d42202b24bc3429da5a5b5d423143248fd4f1d7b7c5b5139",
+  "size": 101712,
+  "names": [
+    "Inconsolata UltraCondensed",
+    "Inconsolata UltraCondensed Light",
+    "InconsolataUltraCondensed-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inconsolata",
+      "file_url": "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmgwLYxYWI2qfdm7Lpp9s8aRr8lleY2co.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b0ff6c9fa5c8816-OFL.txt",
+    "incoming/collected-20261103/licenses/f3d21a3d3c4f2c71-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

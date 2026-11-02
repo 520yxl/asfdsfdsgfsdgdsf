@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GoogleSansFlex_36pt-ExtraBold-5cdb19caa55b.ttf",
+  "sha256": "5cdb19caa55b8f78e029a91058f40a22fb46ef1347330e5cb6620195acecb35e",
+  "size": 134364,
+  "names": [
+    "Google Sans Flex 36pt",
+    "Google Sans Flex 36pt ExtraBold",
+    "GoogleSansFlex36pt-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Google+Sans+Flex",
+      "file_url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sI8wkwNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHgygBzhI3W2cDmg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0c12218a31b5425e-OFL.txt",
+    "incoming/collected-20261103/licenses/73c001fbf3fcc719-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

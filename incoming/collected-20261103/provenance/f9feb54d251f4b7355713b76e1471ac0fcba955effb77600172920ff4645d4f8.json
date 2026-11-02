@@ -1,0 +1,22 @@
+{
+  "font": "incoming/Inter_24pt-SemiBoldItalic-f9feb54d251f.ttf",
+  "sha256": "f9feb54d251f4b7355713b76e1471ac0fcba955effb77600172920ff4645d4f8",
+  "size": 347616,
+  "names": [
+    "Inter 24pt",
+    "Inter 24pt SemiBold",
+    "Inter 24pt SemiBold Italic",
+    "Inter24pt-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjZ-Ek-7MeA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

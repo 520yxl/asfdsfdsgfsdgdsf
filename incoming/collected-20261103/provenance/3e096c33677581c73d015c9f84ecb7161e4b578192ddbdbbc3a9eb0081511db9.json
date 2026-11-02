@@ -1,0 +1,22 @@
+{
+  "font": "incoming/IntelOneMono-SemiBoldItalic-3e096c336775.ttf",
+  "sha256": "3e096c33677581c73d015c9f84ecb7161e4b578192ddbdbbc3a9eb0081511db9",
+  "size": 145056,
+  "names": [
+    "Intel One Mono",
+    "Intel One Mono SemiBold",
+    "Intel One Mono SemiBold Italic",
+    "IntelOneMono-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Intel+One+Mono",
+      "file_url": "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQn2DVXELi3YD27.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6ebfce7577bd76-OFL.txt",
+    "incoming/collected-20261103/licenses/583f972bcc8a2db4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

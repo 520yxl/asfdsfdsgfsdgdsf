@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inter_28pt-BoldItalic-486031654335.ttf",
+  "sha256": "4860316543350903cafa53b3ff6a3f7014d1d718c815602e5474b05b9c938ef1",
+  "size": 348088,
+  "names": [
+    "Inter 28pt",
+    "Inter 28pt Bold Italic",
+    "Inter28pt-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjZ-Ek-7MeA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

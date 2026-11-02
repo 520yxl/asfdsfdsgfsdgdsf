@@ -1,0 +1,21 @@
+{
+  "font": "incoming/IBMPlexSans-SemiBold-659f916ce192.ttf",
+  "sha256": "659f916ce1922bd4fecac7cd5f26018817a2946327a5dd00169c8bab14ae2c58",
+  "size": 218248,
+  "names": [
+    "IBM Plex Sans",
+    "IBM Plex Sans SemiBold",
+    "IBMPlexSans-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=IBM+Plex+Sans",
+      "file_url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDNF5zAKI5loa26g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/954c8b2630faad44-OFL.txt",
+    "incoming/collected-20261103/licenses/6206ba8e92c96017-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

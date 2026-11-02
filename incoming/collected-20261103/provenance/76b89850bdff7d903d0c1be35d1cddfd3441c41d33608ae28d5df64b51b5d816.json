@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GoogleSansFlex_24pt-SemiBold-76b89850bdff.ttf",
+  "sha256": "76b89850bdff7d903d0c1be35d1cddfd3441c41d33608ae28d5df64b51b5d816",
+  "size": 133980,
+  "names": [
+    "Google Sans Flex 24pt",
+    "Google Sans Flex 24pt SemiBold",
+    "GoogleSansFlex24pt-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Google+Sans+Flex",
+      "file_url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIIwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdH3SgBzhI3W2cDmg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0c12218a31b5425e-OFL.txt",
+    "incoming/collected-20261103/licenses/73c001fbf3fcc719-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

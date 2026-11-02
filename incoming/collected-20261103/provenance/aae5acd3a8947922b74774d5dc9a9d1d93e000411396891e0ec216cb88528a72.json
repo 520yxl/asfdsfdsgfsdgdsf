@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inconsolata_SemiCondensed-Light-aae5acd3a894.ttf",
+  "sha256": "aae5acd3a8947922b74774d5dc9a9d1d93e000411396891e0ec216cb88528a72",
+  "size": 102252,
+  "names": [
+    "Inconsolata SemiCondensed",
+    "Inconsolata SemiCondensed Light",
+    "InconsolataSemiCondensed-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inconsolata",
+      "file_url": "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmZALYxYWI2qfdm7Lpp9s8aRr8lleY2co.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b0ff6c9fa5c8816-OFL.txt",
+    "incoming/collected-20261103/licenses/f3d21a3d3c4f2c71-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GoogleSansFlex_120pt-Thin-50a20eda0a4a.ttf",
+  "sha256": "50a20eda0a4af6337b27be77d6450f7a45ad35fe42813490f8f7e9da5e817b85",
+  "size": 134068,
+  "names": [
+    "Google Sans Flex 120pt",
+    "Google Sans Flex 120pt Thin",
+    "GoogleSansFlex120pt-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Google+Sans+Flex",
+      "file_url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIEwkwNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHAy4BzhI3W2cDmg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0c12218a31b5425e-OFL.txt",
+    "incoming/collected-20261103/licenses/73c001fbf3fcc719-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

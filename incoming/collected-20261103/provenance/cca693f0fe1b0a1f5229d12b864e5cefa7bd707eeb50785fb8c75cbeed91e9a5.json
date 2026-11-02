@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inconsolata-SemiBold-cca693f0fe1b.ttf",
+  "sha256": "cca693f0fe1b0a1f5229d12b864e5cefa7bd707eeb50785fb8c75cbeed91e9a5",
+  "size": 102264,
+  "names": [
+    "Inconsolata",
+    "Inconsolata SemiBold",
+    "Inconsolata-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inconsolata",
+      "file_url": "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7aRr8lleY2co.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b0ff6c9fa5c8816-OFL.txt",
+    "incoming/collected-20261103/licenses/f3d21a3d3c4f2c71-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/IBMPlexSans_Condensed-Light-31f75f64740e.ttf",
+  "sha256": "31f75f64740ecb63adcd7c15af7457351d3dfb66970a81df129e0590d46037a8",
+  "size": 218888,
+  "names": [
+    "IBM Plex Sans Condensed",
+    "IBM Plex Sans Condensed Light",
+    "IBMPlexSansCondensed-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=IBM+Plex+Sans",
+      "file_url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-DmvrswZSAXcomDVmadSDtFlzAKI5loa26g.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/954c8b2630faad44-OFL.txt",
+    "incoming/collected-20261103/licenses/6206ba8e92c96017-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

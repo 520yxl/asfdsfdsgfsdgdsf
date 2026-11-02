@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inconsolata_ExtraExpanded-Medium-b5a8ed3f4842.ttf",
+  "sha256": "b5a8ed3f48427ca368d12000c3ce263d3684b486ab911c7e09f11ac6f913c63b",
+  "size": 103008,
+  "names": [
+    "Inconsolata ExtraExpanded",
+    "Inconsolata ExtraExpanded Medium",
+    "InconsolataExtraExpanded-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inconsolata",
+      "file_url": "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQm3QPYxYWI2qfdm7Lpp7c8aRr8lleY2co.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b0ff6c9fa5c8816-OFL.txt",
+    "incoming/collected-20261103/licenses/f3d21a3d3c4f2c71-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

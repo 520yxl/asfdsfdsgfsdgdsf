@@ -1,0 +1,21 @@
+{
+  "font": "incoming/JetBrainsMono-SemiBold-55987f26bab4.ttf",
+  "sha256": "55987f26bab41b3fc9f13ce5ca9db9d99a75e3be4bba0f7341d3c026ff6e4706",
+  "size": 114900,
+  "names": [
+    "JetBrains Mono",
+    "JetBrains Mono SemiBold",
+    "JetBrainsMono-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=JetBrains+Mono",
+      "file_url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8FqtjPVmUsaaDhw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbffd3de8f9484c6-OFL.txt",
+    "incoming/collected-20261103/licenses/25459904436ed0c2-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

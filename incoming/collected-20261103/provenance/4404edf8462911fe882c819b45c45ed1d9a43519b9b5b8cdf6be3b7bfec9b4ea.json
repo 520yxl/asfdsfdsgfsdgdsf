@@ -1,0 +1,21 @@
+{
+  "font": "incoming/IntelOneMono-Regular-4404edf84629.ttf",
+  "sha256": "4404edf8462911fe882c819b45c45ed1d9a43519b9b5b8cdf6be3b7bfec9b4ea",
+  "size": 121792,
+  "names": [
+    "Intel One Mono",
+    "Intel One Mono Regular",
+    "IntelOneMono-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Intel+One+Mono",
+      "file_url": "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgofcRnD9TMr2nYA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6ebfce7577bd76-OFL.txt",
+    "incoming/collected-20261103/licenses/583f972bcc8a2db4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

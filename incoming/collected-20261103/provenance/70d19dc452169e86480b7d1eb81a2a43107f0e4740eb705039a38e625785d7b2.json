@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GoogleSansFlex_72pt-Regular-70d19dc45216.ttf",
+  "sha256": "70d19dc452169e86480b7d1eb81a2a43107f0e4740eb705039a38e625785d7b2",
+  "size": 133916,
+  "names": [
+    "Google Sans Flex 72pt",
+    "Google Sans Flex 72pt Regular",
+    "GoogleSansFlex72pt-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Google+Sans+Flex",
+      "file_url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIcwkwNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHAy8BzhI3W2cDmg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0c12218a31b5425e-OFL.txt",
+    "incoming/collected-20261103/licenses/73c001fbf3fcc719-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

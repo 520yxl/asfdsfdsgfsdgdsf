@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GoogleSansFlex_120pt-ExtraBold-11ef06e0b7fd.ttf",
+  "sha256": "11ef06e0b7fdc9d0b4f6688c4fb89f917630609c7ac863f23ebd426b728e79a3",
+  "size": 134424,
+  "names": [
+    "Google Sans Flex 120pt",
+    "Google Sans Flex 120pt ExtraBold",
+    "GoogleSansFlex120pt-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Google+Sans+Flex",
+      "file_url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIEwkwNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHgygBzhI3W2cDmg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0c12218a31b5425e-OFL.txt",
+    "incoming/collected-20261103/licenses/73c001fbf3fcc719-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

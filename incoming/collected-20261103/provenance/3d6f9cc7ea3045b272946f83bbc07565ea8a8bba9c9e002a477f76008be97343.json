@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Hahmlet-ExtraLight-3d6f9cc7ea30.ttf",
+  "sha256": "3d6f9cc7ea3045b272946f83bbc07565ea8a8bba9c9e002a477f76008be97343",
+  "size": 1526148,
+  "names": [
+    "Hahmlet",
+    "Hahmlet ExtraLight",
+    "Hahmlet-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hahmlet",
+      "file_url": "https://fonts.gstatic.com/s/hahmlet/v21/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RjKONjobsO-aVxn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4923e4ab2396d9c7-OFL.txt",
+    "incoming/collected-20261103/licenses/bb5b3bbe72465513-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

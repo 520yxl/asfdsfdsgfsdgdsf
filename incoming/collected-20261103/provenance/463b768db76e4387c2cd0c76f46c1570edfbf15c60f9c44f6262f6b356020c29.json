@@ -1,0 +1,22 @@
+{
+  "font": "incoming/JetBrainsMono-ExtraBoldItalic-463b768db76e.ttf",
+  "sha256": "463b768db76e4387c2cd0c76f46c1570edfbf15c60f9c44f6262f6b356020c29",
+  "size": 117952,
+  "names": [
+    "JetBrains Mono",
+    "JetBrains Mono ExtraBold",
+    "JetBrains Mono ExtraBold Italic",
+    "JetBrainsMono-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=JetBrains+Mono",
+      "file_url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO8LeVOQk6OThxPA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbffd3de8f9484c6-OFL.txt",
+    "incoming/collected-20261103/licenses/25459904436ed0c2-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

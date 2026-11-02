@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Hahmlet-ExtraBold-d518f0db1133.ttf",
+  "sha256": "d518f0db113347c1d41ef646932aeb34ca6b1454b84df9fa8e67961f01d786e3",
+  "size": 1532864,
+  "names": [
+    "Hahmlet",
+    "Hahmlet ExtraBold",
+    "Hahmlet-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hahmlet",
+      "file_url": "https://fonts.gstatic.com/s/hahmlet/v21/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RjKP9jobsO-aVxn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4923e4ab2396d9c7-OFL.txt",
+    "incoming/collected-20261103/licenses/bb5b3bbe72465513-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

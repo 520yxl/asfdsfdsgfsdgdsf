@@ -1,0 +1,22 @@
+{
+  "font": "incoming/IntelOneMono-MediumItalic-a3175028604e.ttf",
+  "sha256": "a3175028604ec8398be22eeadf98058a08a12e7086879f13cce4c4c063ba04ac",
+  "size": 124052,
+  "names": [
+    "Intel One Mono",
+    "Intel One Mono Medium",
+    "Intel One Mono Medium Italic",
+    "IntelOneMono-MediumItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Intel+One+Mono",
+      "file_url": "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abTL3zVXELi3YD27.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6ebfce7577bd76-OFL.txt",
+    "incoming/collected-20261103/licenses/583f972bcc8a2db4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

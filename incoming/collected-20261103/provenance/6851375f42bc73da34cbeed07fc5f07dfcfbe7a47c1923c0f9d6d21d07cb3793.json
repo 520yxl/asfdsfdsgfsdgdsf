@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inter_28pt-Black-6851375f42bc.ttf",
+  "sha256": "6851375f42bc73da34cbeed07fc5f07dfcfbe7a47c1923c0f9d6d21d07cb3793",
+  "size": 344676,
+  "names": [
+    "Inter 28pt",
+    "Inter 28pt Black",
+    "Inter28pt-Black"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZhrib2Bg-4.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

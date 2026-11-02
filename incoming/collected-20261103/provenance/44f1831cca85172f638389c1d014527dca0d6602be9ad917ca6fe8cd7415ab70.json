@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inconsolata_ExtraCondensed-Bold-44f1831cca85.ttf",
+  "sha256": "44f1831cca85172f638389c1d014527dca0d6602be9ad917ca6fe8cd7415ab70",
+  "size": 101992,
+  "names": [
+    "Inconsolata ExtraCondensed",
+    "Inconsolata ExtraCondensed Bold",
+    "InconsolataExtraCondensed-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inconsolata",
+      "file_url": "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmsQLYxYWI2qfdm7Lpp2I7aRr8lleY2co.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b0ff6c9fa5c8816-OFL.txt",
+    "incoming/collected-20261103/licenses/f3d21a3d3c4f2c71-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,22 @@
+{
+  "font": "incoming/JetBrainsMono-LightItalic-f41d9977e668.ttf",
+  "sha256": "f41d9977e66883878fbd77af5df542dae09b623641c1bb0ab7c3fca4fd78113b",
+  "size": 118124,
+  "names": [
+    "JetBrains Mono",
+    "JetBrains Mono Light",
+    "JetBrains Mono Light Italic",
+    "JetBrainsMono-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=JetBrains+Mono",
+      "file_url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDba2o-flEEny0FZhsfKu5WU4xD-IQ-PuZJJXxfpAO_VflOQk6OThxPA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbffd3de8f9484c6-OFL.txt",
+    "incoming/collected-20261103/licenses/25459904436ed0c2-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

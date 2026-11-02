@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inter_18pt-Medium-7c7206c451a8.ttf",
+  "sha256": "7c7206c451a89a8fa8f38f3c217f67e60b830db9e21645e36155cc62cd1f9903",
+  "size": 343200,
+  "names": [
+    "Inter 18pt",
+    "Inter 18pt Medium",
+    "Inter18pt-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZhrib2Bg-4.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

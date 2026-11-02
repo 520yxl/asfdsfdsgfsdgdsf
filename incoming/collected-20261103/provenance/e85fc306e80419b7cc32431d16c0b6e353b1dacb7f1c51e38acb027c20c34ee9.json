@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Hahmlet-Bold-e85fc306e804.ttf",
+  "sha256": "e85fc306e80419b7cc32431d16c0b6e353b1dacb7f1c51e38acb027c20c34ee9",
+  "size": 1535060,
+  "names": [
+    "Hahmlet",
+    "Hahmlet Bold",
+    "Hahmlet-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hahmlet",
+      "file_url": "https://fonts.gstatic.com/s/hahmlet/v21/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RitP9jobsO-aVxn.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4923e4ab2396d9c7-OFL.txt",
+    "incoming/collected-20261103/licenses/bb5b3bbe72465513-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

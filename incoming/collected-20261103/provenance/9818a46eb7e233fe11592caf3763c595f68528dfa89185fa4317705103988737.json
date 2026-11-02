@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GoogleSansFlex_24pt-Thin-9818a46eb7e2.ttf",
+  "sha256": "9818a46eb7e233fe11592caf3763c595f68528dfa89185fa4317705103988737",
+  "size": 133888,
+  "names": [
+    "Google Sans Flex 24pt",
+    "Google Sans Flex 24pt Thin",
+    "GoogleSansFlex24pt-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Google+Sans+Flex",
+      "file_url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5hF8Ju1x5Vwd0N3l9sIIwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHAy4BzhI3W2cDmg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0c12218a31b5425e-OFL.txt",
+    "incoming/collected-20261103/licenses/73c001fbf3fcc719-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

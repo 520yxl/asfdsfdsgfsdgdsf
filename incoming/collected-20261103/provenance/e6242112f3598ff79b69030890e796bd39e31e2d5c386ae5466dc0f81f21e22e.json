@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inter_28pt-ExtraBold-e6242112f359.ttf",
+  "sha256": "e6242112f3598ff79b69030890e796bd39e31e2d5c386ae5466dc0f81f21e22e",
+  "size": 344692,
+  "names": [
+    "Inter 28pt",
+    "Inter 28pt ExtraBold",
+    "Inter28pt-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZhrib2Bg-4.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
