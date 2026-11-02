@@ -1,0 +1,20 @@
+{
+  "font": "incoming/GrandifloraOne-Regular-51d6abd8327a.ttf",
+  "sha256": "51d6abd8327a3df490640e985cf822343473bc71aa05dafc02fa1adbddc6d0cd",
+  "size": 2337944,
+  "names": [
+    "Grandiflora One",
+    "Grandiflora One Regular",
+    "GrandifloraOne-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Grandiflora+One",
+      "file_url": "https://fonts.gstatic.com/s/grandifloraone/v4/0ybmGD0g27bCk_5MGWZcKWhxwnUU_R3y8DOWGA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/a689304097342180-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

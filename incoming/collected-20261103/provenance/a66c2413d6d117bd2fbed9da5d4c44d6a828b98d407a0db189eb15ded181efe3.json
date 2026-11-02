@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraSans-ExtraBoldItalic-a66c2413d6d1.ttf",
+  "sha256": "a66c2413d6d117bd2fbed9da5d4c44d6a828b98d407a0db189eb15ded181efe3",
+  "size": 521088,
+  "names": [
+    "Fira Sans",
+    "Fira Sans ExtraBold",
+    "Fira Sans ExtraBold Italic",
+    "FiraSans-ExtraBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Sans",
+      "file_url": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrBuRxf_XljGllLX.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01cde0de02cac265-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

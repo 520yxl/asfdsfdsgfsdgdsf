@@ -1,0 +1,20 @@
+{
+  "font": "incoming/FiraMono-Bold-669c459f82d6.ttf",
+  "sha256": "669c459f82d635c170caffb95b91e4b1d4d844b2e39b57009b9f865b06baa56c",
+  "size": 201708,
+  "names": [
+    "Fira Mono",
+    "Fira Mono Bold",
+    "FiraMono-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Mono",
+      "file_url": "https://fonts.gstatic.com/s/firamono/v16/N0bS2SlFPv1weGeLZDtondv3mf3VaZBRBQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/08bd35ee87c3e0ab-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

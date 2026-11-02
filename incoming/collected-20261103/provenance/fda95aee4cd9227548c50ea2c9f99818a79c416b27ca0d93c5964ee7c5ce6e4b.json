@@ -1,0 +1,20 @@
+{
+  "font": "incoming/FiraSans-Thin-fda95aee4cd9.ttf",
+  "sha256": "fda95aee4cd9227548c50ea2c9f99818a79c416b27ca0d93c5964ee7c5ce6e4b",
+  "size": 426752,
+  "names": [
+    "Fira Sans",
+    "Fira Sans Thin",
+    "FiraSans-Thin"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Sans",
+      "file_url": "https://fonts.gstatic.com/s/firasans/v18/va9C4kDNxMZdWfMOD5Vn9IjOazP3dUTP.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01cde0de02cac265-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/GoogleSansFlex-VariableFont_ROND,opsz,slnt,wdth,wght-da64fec0bd5d.ttf",
+  "sha256": "da64fec0bd5dc8332f0bc052d88975ed0f252813b45b7d94530882a24e5bbdcb",
+  "size": 3910780,
+  "names": [
+    "Google Sans Flex",
+    "Google Sans Flex Regular",
+    "GoogleSansFlex-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Google+Sans+Flex",
+      "file_url": "https://fonts.gstatic.com/s/googlesansflex/v26/t5t7IQcYNIWbFgDgAAzZ34auoVyXipusfhcat2c.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/0c12218a31b5425e-OFL.txt",
+    "incoming/collected-20261103/licenses/73c001fbf3fcc719-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

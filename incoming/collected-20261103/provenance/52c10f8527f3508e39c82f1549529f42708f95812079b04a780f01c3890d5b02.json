@@ -1,0 +1,21 @@
+{
+  "font": "incoming/BodoniModa-VariableFont_opsz,wght-52c10f8527f3.ttf",
+  "sha256": "52c10f8527f3508e39c82f1549529f42708f95812079b04a780f01c3890d5b02",
+  "size": 161424,
+  "names": [
+    "Bodoni Moda",
+    "Bodoni Moda Regular",
+    "BodoniModa-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Bodoni+Moda",
+      "file_url": "https://fonts.gstatic.com/s/bodonimoda/v28/aFTQ7PxzY382XsXX63LUYKSNQqn0X0BO.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/202571122d89d790-OFL.txt",
+    "incoming/collected-20261103/licenses/10727372ce76e782-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

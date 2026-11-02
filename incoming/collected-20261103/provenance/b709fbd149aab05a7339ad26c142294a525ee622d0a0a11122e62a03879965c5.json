@@ -1,0 +1,20 @@
+{
+  "font": "incoming/CrimsonText-Bold-b709fbd149aa.ttf",
+  "sha256": "b709fbd149aab05a7339ad26c142294a525ee622d0a0a11122e62a03879965c5",
+  "size": 112116,
+  "names": [
+    "Crimson Text",
+    "Crimson Text Bold",
+    "CrimsonText-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Crimson+Text",
+      "file_url": "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12C9lR1LFffg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4ea218476e350505-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/GasoekOne-Regular-43f9552b9d68.ttf",
+  "sha256": "43f9552b9d68ad813857999ab027b4ddad1fc8f161de0bc4c49ba7d7df04720b",
+  "size": 1056732,
+  "names": [
+    "Gasoek One",
+    "Gasoek One Regular",
+    "GasoekOne-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gasoek+One",
+      "file_url": "https://fonts.gstatic.com/s/gasoekone/v4/EJRTQgQ_UMUKvDgnlX80zrq_cyb-vco.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/67d38a98837bbddb-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

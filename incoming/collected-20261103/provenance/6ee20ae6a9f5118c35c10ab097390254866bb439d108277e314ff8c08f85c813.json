@@ -1,0 +1,21 @@
+{
+  "font": "incoming/IBMPlexMono-SemiBoldItalic-6ee20ae6a9f5.ttf",
+  "sha256": "6ee20ae6a9f5118c35c10ab097390254866bb439d108277e314ff8c08f85c813",
+  "size": 145528,
+  "names": [
+    "IBM Plex Mono",
+    "IBM Plex Mono SemiBold",
+    "IBM Plex Mono SemiBold Italic",
+    "IBMPlexMono-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=IBM+Plex+Mono",
+      "file_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6sfjptAgt5VM-kVkqdyU8n1ioSClNFh8ARHNh4zg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/954c8b2630faad44-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

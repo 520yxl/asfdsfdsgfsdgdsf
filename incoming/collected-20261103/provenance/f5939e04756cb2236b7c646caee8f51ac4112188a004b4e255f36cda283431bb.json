@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Diphylleia-Regular-f5939e04756c.ttf",
+  "sha256": "f5939e04756cb2236b7c646caee8f51ac4112188a004b4e255f36cda283431bb",
+  "size": 1942984,
+  "names": [
+    "Diphylleia",
+    "Diphylleia Regular",
+    "Diphylleia-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Diphylleia",
+      "file_url": "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/055ee6cbe1633b8d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

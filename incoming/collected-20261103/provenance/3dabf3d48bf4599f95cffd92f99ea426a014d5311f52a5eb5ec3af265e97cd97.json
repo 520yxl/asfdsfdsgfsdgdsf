@@ -1,0 +1,20 @@
+{
+  "font": "incoming/FiraSans-Regular-3dabf3d48bf4.ttf",
+  "sha256": "3dabf3d48bf4599f95cffd92f99ea426a014d5311f52a5eb5ec3af265e97cd97",
+  "size": 440984,
+  "names": [
+    "Fira Sans",
+    "Fira Sans Regular",
+    "FiraSans-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Sans",
+      "file_url": "https://fonts.gstatic.com/s/firasans/v18/va9E4kDNxMZdWfMOD5VfkILKSTbndQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01cde0de02cac265-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

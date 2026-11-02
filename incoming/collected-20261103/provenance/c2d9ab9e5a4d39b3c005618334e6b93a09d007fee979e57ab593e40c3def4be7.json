@@ -1,0 +1,20 @@
+{
+  "font": "incoming/IBMPlexMono-BoldItalic-c2d9ab9e5a4d.ttf",
+  "sha256": "c2d9ab9e5a4d39b3c005618334e6b93a09d007fee979e57ab593e40c3def4be7",
+  "size": 142712,
+  "names": [
+    "IBM Plex Mono",
+    "IBM Plex Mono Bold Italic",
+    "IBMPlexMono-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=IBM+Plex+Mono",
+      "file_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJFh8ARHNh4zg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/954c8b2630faad44-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

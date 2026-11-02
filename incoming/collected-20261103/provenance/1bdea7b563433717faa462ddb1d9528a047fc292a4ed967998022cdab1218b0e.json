@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Chokokutai-Regular-1bdea7b56343.ttf",
+  "sha256": "1bdea7b563433717faa462ddb1d9528a047fc292a4ed967998022cdab1218b0e",
+  "size": 163004,
+  "names": [
+    "Chokokutai",
+    "Chokokutai Regular",
+    "Chokokutai-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Chokokutai",
+      "file_url": "https://fonts.gstatic.com/s/chokokutai/v12/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3201a684ad2a130d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

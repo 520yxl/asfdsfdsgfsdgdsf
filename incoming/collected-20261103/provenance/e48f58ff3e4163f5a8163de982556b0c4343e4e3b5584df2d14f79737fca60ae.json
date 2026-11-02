@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Gaegu-Bold-e48f58ff3e41.ttf",
+  "sha256": "e48f58ff3e4163f5a8163de982556b0c4343e4e3b5584df2d14f79737fca60ae",
+  "size": 2961780,
+  "names": [
+    "Gaegu",
+    "Gaegu Bold",
+    "Gaegu-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gaegu",
+      "file_url": "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU573jvw74sdtBk0x.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b504138f1512d6c-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

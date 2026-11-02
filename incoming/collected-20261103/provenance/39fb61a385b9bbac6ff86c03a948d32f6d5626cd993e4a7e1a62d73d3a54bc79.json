@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Geist-VariableFont_wght-39fb61a385b9.ttf",
+  "sha256": "39fb61a385b9bbac6ff86c03a948d32f6d5626cd993e4a7e1a62d73d3a54bc79",
+  "size": 168804,
+  "names": [
+    "Geist",
+    "Geist Regular",
+    "Geist-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Geist",
+      "file_url": "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMHwbElSvO5Tc.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/3bdbd4f54db32a2f-OFL.txt",
+    "incoming/collected-20261103/licenses/eb84e0994cb2eb6a-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/CrimsonText-Regular-7f8659a752e5.ttf",
+  "sha256": "7f8659a752e5daf18d667979b6308415663da22301827dc30ad384a6b03311a1",
+  "size": 106512,
+  "names": [
+    "Crimson Text",
+    "Crimson Text Regular",
+    "CrimsonText-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Crimson+Text",
+      "file_url": "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvaAJSA_JN3Q.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4ea218476e350505-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

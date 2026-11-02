@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraSans-BlackItalic-004573812797.ttf",
+  "sha256": "004573812797bd3c42bd9a41cff408fdb7d2d46db70b94419a0419a089eb3602",
+  "size": 511708,
+  "names": [
+    "Fira Sans",
+    "Fira Sans Black",
+    "Fira Sans Black Italic",
+    "FiraSans-BlackItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Sans",
+      "file_url": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrBKRhf_XljGllLX.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01cde0de02cac265-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

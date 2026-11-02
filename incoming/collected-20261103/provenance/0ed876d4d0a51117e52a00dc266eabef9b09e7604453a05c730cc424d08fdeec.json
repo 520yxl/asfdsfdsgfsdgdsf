@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KaiseiTokumin-Medium-0ed876d4d0a5.ttf",
+  "sha256": "0ed876d4d0a51117e52a00dc266eabef9b09e7604453a05c730cc424d08fdeec",
+  "size": 4330680,
+  "names": [
+    "Kaisei Tokumin",
+    "Kaisei Tokumin Medium",
+    "KaiseiTokumin-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Kaisei+Tokumin",
+      "file_url": "https://fonts.gstatic.com/s/kaiseitokumin/v12/Gg8vN5wdZg7xCwuMsylww2ZiQnqr_3khpMIzeI6v.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/58742a08ced8925a-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/GamjaFlower-Regular-39c519118fe8.ttf",
+  "sha256": "39c519118fe8a8e78a402d0977ca05c4dd585228acd8dbf24df492ecfe9399cf",
+  "size": 12614320,
+  "names": [
+    "Gamja Flower",
+    "Gamja Flower Regular",
+    "GamjaFlower-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gamja+Flower",
+      "file_url": "https://fonts.gstatic.com/s/gamjaflower/v26/6NUR8FiKJg-Pa0rM6uN40Z4kyf9Fdty2ew.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/8ee0c00dbec37e62-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

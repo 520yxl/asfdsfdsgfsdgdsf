@@ -1,0 +1,20 @@
+{
+  "font": "incoming/DoHyeon-Regular-7dfbed010e12.ttf",
+  "sha256": "7dfbed010e12bae0e8fb50dc61ba429c7687d8cea49419bd6c466b6a6682bdba",
+  "size": 858836,
+  "names": [
+    "Do Hyeon",
+    "Do Hyeon Regular",
+    "DoHyeon-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Do+Hyeon",
+      "file_url": "https://fonts.gstatic.com/s/dohyeon/v21/TwMN-I8CRRU2zM86HFE3ZwaH__-C.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/788627f96a29daed-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

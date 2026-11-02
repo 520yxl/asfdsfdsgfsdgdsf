@@ -1,0 +1,20 @@
+{
+  "font": "incoming/GentiumPlus-Italic-61136c37ab9e.ttf",
+  "sha256": "61136c37ab9e73615b6595a4535f5e603b2eca99697544c64fcfb7ccfb4415f8",
+  "size": 848992,
+  "names": [
+    "Gentium Plus",
+    "Gentium Plus Italic",
+    "GentiumPlus-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gentium+Plus",
+      "file_url": "https://fonts.gstatic.com/s/gentiumplus/v2/IurD6Ytw-oSPaZ00r2bNe8VZjpFIymg9957e.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b942fd1322e41868-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

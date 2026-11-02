@@ -1,0 +1,20 @@
+{
+  "font": "incoming/CrimsonText-Italic-39e05588f475.ttf",
+  "sha256": "39e05588f475a3f754f452c3ab1079902f990dca0c7ab912c93efa986189fbb7",
+  "size": 109440,
+  "names": [
+    "Crimson Text",
+    "Crimson Text Italic",
+    "CrimsonText-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Crimson+Text",
+      "file_url": "https://fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfaghWIfdd3ahG.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4ea218476e350505-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

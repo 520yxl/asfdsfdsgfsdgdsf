@@ -1,0 +1,20 @@
+{
+  "font": "incoming/FiraMono-Medium-5ebf0b580281.ttf",
+  "sha256": "5ebf0b5802814edb228b711b70c02736506bb8bce32da2608dcbf9e0df45798d",
+  "size": 169056,
+  "names": [
+    "Fira Mono",
+    "Fira Mono Medium",
+    "FiraMono-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Mono",
+      "file_url": "https://fonts.gstatic.com/s/firamono/v16/N0bS2SlFPv1weGeLZDto1d33mf3VaZBRBQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/08bd35ee87c3e0ab-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

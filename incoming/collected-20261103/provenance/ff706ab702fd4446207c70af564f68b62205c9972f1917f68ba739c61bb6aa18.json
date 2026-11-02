@@ -1,0 +1,20 @@
+{
+  "font": "incoming/DotGothic16-Regular-ff706ab702fd.ttf",
+  "sha256": "ff706ab702fd4446207c70af564f68b62205c9972f1917f68ba739c61bb6aa18",
+  "size": 2027048,
+  "names": [
+    "DotGothic16",
+    "DotGothic16 Regular",
+    "DotGothic16-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=DotGothic16",
+      "file_url": "https://fonts.gstatic.com/s/dotgothic16/v22/v6-QGYjBJFKgyw5nSoDAGE7L435YPFrT.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c5b72aa0a6763e8e-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

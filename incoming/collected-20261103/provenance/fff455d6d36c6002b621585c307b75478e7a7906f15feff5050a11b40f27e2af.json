@@ -1,0 +1,21 @@
+{
+  "font": "incoming/CrimsonPro-Italic-VariableFont_wght-fff455d6d36c.ttf",
+  "sha256": "fff455d6d36c6002b621585c307b75478e7a7906f15feff5050a11b40f27e2af",
+  "size": 251840,
+  "names": [
+    "Crimson Pro",
+    "Crimson Pro Italic",
+    "CrimsonPro-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Crimson+Pro",
+      "file_url": "https://fonts.gstatic.com/s/crimsonpro/v28/q5uBsoa5M_tv7IihmnkabAReoYR6DMKivlQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/c8238f248bcf36fe-OFL.txt",
+    "incoming/collected-20261103/licenses/a4d9ea9f0f66ed1c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

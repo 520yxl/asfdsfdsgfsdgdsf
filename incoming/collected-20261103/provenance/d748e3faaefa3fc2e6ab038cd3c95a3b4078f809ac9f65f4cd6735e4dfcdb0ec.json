@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraSans-LightItalic-d748e3faaefa.ttf",
+  "sha256": "d748e3faaefa3fc2e6ab038cd3c95a3b4078f809ac9f65f4cd6735e4dfcdb0ec",
+  "size": 447376,
+  "names": [
+    "Fira Sans",
+    "Fira Sans Light",
+    "Fira Sans Light Italic",
+    "FiraSans-LightItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Sans",
+      "file_url": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrBiQxf_XljGllLX.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01cde0de02cac265-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Figtree-VariableFont_wght-1851150b3564.ttf",
+  "sha256": "1851150b35645dab3a4ef935a349a2d1f5373221c0d5b6993d145210766c54de",
+  "size": 62412,
+  "names": [
+    "Figtree",
+    "Figtree Light",
+    "Figtree-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Figtree",
+      "file_url": "https://fonts.gstatic.com/s/figtree/v9/_Xms-HUzqDCFdgfMq4O3DIZs3ik.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/cc2e4481df3476f7-OFL.txt",
+    "incoming/collected-20261103/licenses/f6b9d7ffc962ded1-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

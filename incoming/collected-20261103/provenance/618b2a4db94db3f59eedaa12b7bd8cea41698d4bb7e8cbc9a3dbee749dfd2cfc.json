@@ -1,0 +1,19 @@
+{
+  "font": "incoming/Cardo-Regular-618b2a4db94d.ttf",
+  "sha256": "618b2a4db94db3f59eedaa12b7bd8cea41698d4bb7e8cbc9a3dbee749dfd2cfc",
+  "size": 391336,
+  "names": [
+    "Cardo",
+    "Cardo-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cardo",
+      "file_url": "https://fonts.gstatic.com/s/cardo/v21/wlp_gwjKBV1pqiv_1oAZ2H5O.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/aaceebf8c1e12d4d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

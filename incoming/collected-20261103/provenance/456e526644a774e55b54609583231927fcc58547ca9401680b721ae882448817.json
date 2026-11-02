@@ -1,0 +1,20 @@
+{
+  "font": "incoming/FiraSans-ExtraBold-456e526644a7.ttf",
+  "sha256": "456e526644a774e55b54609583231927fcc58547ca9401680b721ae882448817",
+  "size": 481124,
+  "names": [
+    "Fira Sans",
+    "Fira Sans ExtraBold",
+    "FiraSans-ExtraBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Sans",
+      "file_url": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnMK7uQR37fF3Wlg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01cde0de02cac265-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

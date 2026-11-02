@@ -1,0 +1,20 @@
+{
+  "font": "incoming/GentiumPlus-Bold-15e0237e9b04.ttf",
+  "sha256": "15e0237e9b0497f7d6749d5d2af6438075d59fbf5f15f7d6439ca88b3d797efd",
+  "size": 800924,
+  "names": [
+    "Gentium Plus",
+    "Gentium Plus Bold",
+    "GentiumPlus-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gentium+Plus",
+      "file_url": "https://fonts.gstatic.com/s/gentiumplus/v2/IurC6Ytw-oSPaZ00r2bNe8VRMLRo4EYx_ofHsw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b942fd1322e41868-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

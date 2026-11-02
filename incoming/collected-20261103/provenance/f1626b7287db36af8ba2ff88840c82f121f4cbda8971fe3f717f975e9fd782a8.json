@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Cousine-Italic-f1626b7287db.ttf",
+  "sha256": "f1626b7287db36af8ba2ff88840c82f121f4cbda8971fe3f717f975e9fd782a8",
+  "size": 298680,
+  "names": [
+    "Cousine",
+    "Cousine Italic",
+    "Cousine-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cousine",
+      "file_url": "https://fonts.gstatic.com/s/cousine/v31/d6lKkaiiRdih4SpP_SEvyRTo39l8hw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4ccdaf6c8b802399-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

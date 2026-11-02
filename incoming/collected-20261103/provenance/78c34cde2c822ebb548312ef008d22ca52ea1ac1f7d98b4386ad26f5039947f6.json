@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Cardo-Italic-78c34cde2c82.ttf",
+  "sha256": "78c34cde2c822ebb548312ef008d22ca52ea1ac1f7d98b4386ad26f5039947f6",
+  "size": 254968,
+  "names": [
+    "Cardo",
+    "Cardo Italic",
+    "Cardo-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cardo",
+      "file_url": "https://fonts.gstatic.com/s/cardo/v21/wlpxgwjKBV1pqhv93IQ73W5OcCk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/aaceebf8c1e12d4d-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

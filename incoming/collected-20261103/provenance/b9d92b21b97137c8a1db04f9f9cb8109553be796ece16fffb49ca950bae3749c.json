@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Hind-Bold-b9d92b21b971.ttf",
+  "sha256": "b9d92b21b97137c8a1db04f9f9cb8109553be796ece16fffb49ca950bae3749c",
+  "size": 279028,
+  "names": [
+    "Hind",
+    "Hind Bold",
+    "Hind-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hind",
+      "file_url": "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfNJdIRuYjDpf5Vw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/969531b1708ddbc8-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KaiseiTokumin-Bold-f3b00b75ec61.ttf",
+  "sha256": "f3b00b75ec617743411c9cde5ad6d9432e5ec2a725d114df18064a0cf54cfdb1",
+  "size": 4329252,
+  "names": [
+    "Kaisei Tokumin",
+    "Kaisei Tokumin Bold",
+    "KaiseiTokumin-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Kaisei+Tokumin",
+      "file_url": "https://fonts.gstatic.com/s/kaiseitokumin/v12/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-XkhpMIzeI6v.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/58742a08ced8925a-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

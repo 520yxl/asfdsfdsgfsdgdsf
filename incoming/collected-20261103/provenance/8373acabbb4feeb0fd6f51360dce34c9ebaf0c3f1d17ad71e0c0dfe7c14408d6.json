@@ -1,0 +1,19 @@
+{
+  "font": "incoming/GentiumBookPlus-Regular-8373acabbb4f.ttf",
+  "sha256": "8373acabbb4feeb0fd6f51360dce34c9ebaf0c3f1d17ad71e0c0dfe7c14408d6",
+  "size": 793708,
+  "names": [
+    "Gentium Book Plus",
+    "GentiumBookPlus"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gentium+Book+Plus",
+      "file_url": "https://fonts.gstatic.com/s/gentiumbookplus/v1/vEFL2-RHBgUK5fbjKxRpbBtJPyRpofKfdbLOrdPV.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/b942fd1322e41868-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

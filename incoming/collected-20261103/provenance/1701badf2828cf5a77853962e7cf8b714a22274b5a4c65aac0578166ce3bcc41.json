@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inconsolata-VariableFont_wdth,wght-1701badf2828.ttf",
+  "sha256": "1701badf2828cf5a77853962e7cf8b714a22274b5a4c65aac0578166ce3bcc41",
+  "size": 343368,
+  "names": [
+    "Inconsolata",
+    "Inconsolata Regular",
+    "Inconsolata-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inconsolata",
+      "file_url": "https://fonts.gstatic.com/s/inconsolata/v37/QldKNThLqRwH-OJ1UHjlKFle7KlmxuHx.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1b0ff6c9fa5c8816-OFL.txt",
+    "incoming/collected-20261103/licenses/f3d21a3d3c4f2c71-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

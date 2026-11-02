@@ -1,0 +1,20 @@
+{
+  "font": "incoming/BIZUDPGothic-Bold-1a995936e0f9.ttf",
+  "sha256": "1a995936e0f9de8a7c142c97cdb679e7087e89c13e663f946cd047f4283cedf8",
+  "size": 4485780,
+  "names": [
+    "BIZ UDPGothic",
+    "BIZ UDPGothic Bold",
+    "BIZUDPGothic-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=BIZ+UDPGothic",
+      "file_url": "https://fonts.gstatic.com/s/bizudpgothic/v16/hESq6X5pHAIBjmS84VL0Bue85skjZWEnTABCSQo.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/962b1b311a0dde16-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

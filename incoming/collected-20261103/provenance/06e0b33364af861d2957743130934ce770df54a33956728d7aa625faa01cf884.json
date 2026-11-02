@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KaiseiHarunoUmi-Medium-06e0b33364af.ttf",
+  "sha256": "06e0b33364af861d2957743130934ce770df54a33956728d7aa625faa01cf884",
+  "size": 4328924,
+  "names": [
+    "Kaisei HarunoUmi",
+    "Kaisei HarunoUmi Medium",
+    "KaiseiHarunoUmi-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Kaisei+HarunoUmi",
+      "file_url": "https://fonts.gstatic.com/s/kaiseiharunoumi/v12/HI_WiZQSLqBQoAHhK_C6N_nzy_jcIj_QlMcFwmC9FAU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/58742a08ced8925a-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

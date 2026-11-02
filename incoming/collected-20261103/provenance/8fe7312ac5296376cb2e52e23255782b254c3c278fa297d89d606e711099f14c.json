@@ -1,0 +1,19 @@
+{
+  "font": "incoming/Cookie-Regular-8fe7312ac529.ttf",
+  "sha256": "8fe7312ac5296376cb2e52e23255782b254c3c278fa297d89d606e711099f14c",
+  "size": 42132,
+  "names": [
+    "Cookie",
+    "Cookie-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cookie",
+      "file_url": "https://fonts.gstatic.com/s/cookie/v23/syky-y18lb0tSbfNlQCT9tPdpw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/03485b5eb1b0d94b-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

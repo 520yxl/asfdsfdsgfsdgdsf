@@ -1,0 +1,20 @@
+{
+  "font": "incoming/GreatVibes-Regular-8671b4332bff.ttf",
+  "sha256": "8671b4332bff26a2ca32c7388a2929320e0ade036e460bd76cd1a22abbd4d5b4",
+  "size": 445300,
+  "names": [
+    "Great Vibes",
+    "Great Vibes Regular",
+    "GreatVibes-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Great+Vibes",
+      "file_url": "https://fonts.gstatic.com/s/greatvibes/v21/RWmMoKWR9v4ksMfaWd_JN-XCg6UKDXlq.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ffd30c21d3e88d91-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

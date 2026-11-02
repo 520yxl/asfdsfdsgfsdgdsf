@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Cousine-BoldItalic-acb798f3629c.ttf",
+  "sha256": "acb798f3629cda0041fbd6234237cf549a1b932792f2a71b0986eb3e1382ed37",
+  "size": 300160,
+  "names": [
+    "Cousine",
+    "Cousine Bold Italic",
+    "Cousine-BoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cousine",
+      "file_url": "https://fonts.gstatic.com/s/cousine/v31/d6lPkaiiRdih4SpP_SEXdTvM1_JgjmRpOA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4ccdaf6c8b802399-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

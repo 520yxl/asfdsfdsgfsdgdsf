@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Gaegu-Light-1617fcdf8676.ttf",
+  "sha256": "1617fcdf867602bb0cfacc6968eddb53ee68f04319f474a2c8c320de64b62c2d",
+  "size": 3212072,
+  "names": [
+    "Gaegu",
+    "Gaegu Light",
+    "Gaegu-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gaegu",
+      "file_url": "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU57nifw74sdtBk0x.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b504138f1512d6c-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

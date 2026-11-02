@@ -1,0 +1,20 @@
+{
+  "font": "incoming/GowunBatang-Bold-0d34417080b7.ttf",
+  "sha256": "0d34417080b706037f3624ad2527f47f898dc333a5ff19262ef22ca064e2d580",
+  "size": 8178604,
+  "names": [
+    "Gowun Batang",
+    "Gowun Batang Bold",
+    "GowunBatang-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gowun+Batang",
+      "file_url": "https://fonts.gstatic.com/s/gowunbatang/v12/ijwNs5nhRMIjYsdSgcMa3wRZ4J7awssxJii23w.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/614ef599911a3d7a-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

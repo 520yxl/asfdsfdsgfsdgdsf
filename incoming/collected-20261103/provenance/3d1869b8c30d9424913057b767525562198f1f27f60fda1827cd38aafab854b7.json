@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Hind-Light-3d1869b8c30d.ttf",
+  "sha256": "3d1869b8c30d9424913057b767525562198f1f27f60fda1827cd38aafab854b7",
+  "size": 279588,
+  "names": [
+    "Hind",
+    "Hind Light",
+    "Hind-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hind",
+      "file_url": "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfMJaIRuYjDpf5Vw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/969531b1708ddbc8-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

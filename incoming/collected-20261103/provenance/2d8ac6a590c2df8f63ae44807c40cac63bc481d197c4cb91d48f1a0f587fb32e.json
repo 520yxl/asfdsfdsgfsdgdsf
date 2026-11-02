@@ -1,0 +1,21 @@
+{
+  "font": "incoming/JetBrainsMono-Italic-VariableFont_wght-2d8ac6a590c2.ttf",
+  "sha256": "2d8ac6a590c2df8f63ae44807c40cac63bc481d197c4cb91d48f1a0f587fb32e",
+  "size": 193160,
+  "names": [
+    "JetBrains Mono",
+    "JetBrains Mono Italic",
+    "JetBrainsMono-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=JetBrains+Mono",
+      "file_url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbX2o-flEEny0FZhsfKu5WU4xD-OwStSUrV_BE.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/bbffd3de8f9484c6-OFL.txt",
+    "incoming/collected-20261103/licenses/25459904436ed0c2-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

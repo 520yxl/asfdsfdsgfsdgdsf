@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KaiseiHarunoUmi-Bold-599adf8d0de6.ttf",
+  "sha256": "599adf8d0de6c4b1a4428deda107e35febba2b4f45d02bf765a171e3284eb6b2",
+  "size": 4317956,
+  "names": [
+    "Kaisei HarunoUmi",
+    "Kaisei HarunoUmi Bold",
+    "KaiseiHarunoUmi-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Kaisei+HarunoUmi",
+      "file_url": "https://fonts.gstatic.com/s/kaiseiharunoumi/v12/HI_WiZQSLqBQoAHhK_C6N_nzy_jcInfWlMcFwmC9FAU.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/58742a08ced8925a-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/DancingScript-VariableFont_wght-826667118e0b.ttf",
+  "sha256": "826667118e0b3a83d0f9e1ae28f239cbd90166b81d30aaa9d4bd67f4dd247663",
+  "size": 130480,
+  "names": [
+    "Dancing Script",
+    "Dancing Script Regular",
+    "DancingScript-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Dancing+Script",
+      "file_url": "https://fonts.gstatic.com/s/dancingscript/v29/If2RXTr6YS-zF4S-kcSWSVi_swLngOAliz4X.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/9bc6eca3717ad4c2-OFL.txt",
+    "incoming/collected-20261103/licenses/f935cc6560a1b30c-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

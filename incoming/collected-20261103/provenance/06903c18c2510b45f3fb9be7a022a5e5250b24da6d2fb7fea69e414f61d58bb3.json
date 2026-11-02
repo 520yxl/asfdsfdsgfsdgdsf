@@ -1,0 +1,19 @@
+{
+  "font": "incoming/BIZUDPMincho-Regular-06903c18c251.ttf",
+  "sha256": "06903c18c2510b45f3fb9be7a022a5e5250b24da6d2fb7fea69e414f61d58bb3",
+  "size": 5938536,
+  "names": [
+    "BIZ UDPMincho",
+    "BIZUDPMincho-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=BIZ+UDPMincho",
+      "file_url": "https://fonts.gstatic.com/s/bizudpmincho/v11/ypvfbXOBrmYppy7oWWTg1_58nhhYtUb0gZk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/2955365371330168-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

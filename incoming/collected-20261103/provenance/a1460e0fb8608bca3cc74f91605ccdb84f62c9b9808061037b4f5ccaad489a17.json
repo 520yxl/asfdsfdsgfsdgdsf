@@ -1,0 +1,20 @@
+{
+  "font": "incoming/HachiMaruPop-Regular-a1460e0fb860.ttf",
+  "sha256": "a1460e0fb8608bca3cc74f91605ccdb84f62c9b9808061037b4f5ccaad489a17",
+  "size": 4378804,
+  "names": [
+    "Hachi Maru Pop",
+    "Hachi Maru Pop Regular",
+    "HachiMaruPop-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hachi+Maru+Pop",
+      "file_url": "https://fonts.gstatic.com/s/hachimarupop/v23/HI_TiYoRLqpLrEiMAuO9Ysfz7rW1EM_btd8u.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ae9788248035cf1f-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

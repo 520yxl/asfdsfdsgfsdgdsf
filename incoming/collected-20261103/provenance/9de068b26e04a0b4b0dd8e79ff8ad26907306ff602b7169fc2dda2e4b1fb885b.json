@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Gaegu-Regular-9de068b26e04.ttf",
+  "sha256": "9de068b26e04a0b4b0dd8e79ff8ad26907306ff602b7169fc2dda2e4b1fb885b",
+  "size": 3164924,
+  "names": [
+    "Gaegu",
+    "Gaegu Regular",
+    "Gaegu-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Gaegu",
+      "file_url": "https://fonts.gstatic.com/s/gaegu/v23/TuGfUVB6Up9NU6ZLodgzydtk.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/6b504138f1512d6c-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

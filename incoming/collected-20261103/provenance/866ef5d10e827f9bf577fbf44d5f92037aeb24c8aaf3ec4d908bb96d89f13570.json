@@ -1,0 +1,20 @@
+{
+  "font": "incoming/KaiseiDecol-Bold-866ef5d10e82.ttf",
+  "sha256": "866ef5d10e827f9bf577fbf44d5f92037aeb24c8aaf3ec4d908bb96d89f13570",
+  "size": 4256124,
+  "names": [
+    "Kaisei Decol",
+    "Kaisei Decol Bold",
+    "KaiseiDecol-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Kaisei+Decol",
+      "file_url": "https://fonts.gstatic.com/s/kaiseidecol/v12/bMrvmSqP45sidWf3QmfFW6iK534r00i_qb57kA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/58742a08ced8925a-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

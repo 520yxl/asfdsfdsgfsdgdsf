@@ -1,0 +1,21 @@
+{
+  "font": "incoming/CrimsonText-SemiBoldItalic-64ea5935b594.ttf",
+  "sha256": "64ea5935b594bb9e52ebfe8d8bbfed0797a922ce3155606835077dbda7947f4b",
+  "size": 111332,
+  "names": [
+    "Crimson Text",
+    "Crimson Text SemiBold",
+    "Crimson Text SemiBold Italic",
+    "CrimsonText-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Crimson+Text",
+      "file_url": "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV9rRPfrKu.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4ea218476e350505-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

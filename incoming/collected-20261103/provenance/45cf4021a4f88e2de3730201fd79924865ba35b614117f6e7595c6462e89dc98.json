@@ -1,0 +1,20 @@
+{
+  "font": "incoming/FiraSans-ExtraLight-45cf4021a4f8.ttf",
+  "sha256": "45cf4021a4f88e2de3730201fd79924865ba35b614117f6e7595c6462e89dc98",
+  "size": 431308,
+  "names": [
+    "Fira Sans",
+    "Fira Sans ExtraLight",
+    "FiraSans-ExtraLight"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Sans",
+      "file_url": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnWKnuQR37fF3Wlg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01cde0de02cac265-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

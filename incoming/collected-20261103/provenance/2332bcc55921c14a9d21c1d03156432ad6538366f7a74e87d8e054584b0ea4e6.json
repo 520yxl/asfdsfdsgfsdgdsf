@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Dongle-Regular-2332bcc55921.ttf",
+  "sha256": "2332bcc55921c14a9d21c1d03156432ad6538366f7a74e87d8e054584b0ea4e6",
+  "size": 4458436,
+  "names": [
+    "Dongle",
+    "Dongle Regular",
+    "Dongle-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Dongle",
+      "file_url": "https://fonts.gstatic.com/s/dongle/v16/sJoF3Ltdjt6VPkqmveRPah6RxA.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/e792a6640f5ca340-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

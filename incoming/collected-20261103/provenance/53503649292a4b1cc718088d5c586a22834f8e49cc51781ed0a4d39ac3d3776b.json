@@ -1,0 +1,20 @@
+{
+  "font": "incoming/CrimsonText-SemiBold-53503649292a.ttf",
+  "sha256": "53503649292a4b1cc718088d5c586a22834f8e49cc51781ed0a4d39ac3d3776b",
+  "size": 110420,
+  "names": [
+    "Crimson Text",
+    "Crimson Text SemiBold",
+    "CrimsonText-SemiBold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Crimson+Text",
+      "file_url": "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2C9lR1LFffg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4ea218476e350505-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

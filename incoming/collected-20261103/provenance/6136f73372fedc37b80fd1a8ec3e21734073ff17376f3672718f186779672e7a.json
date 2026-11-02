@@ -1,0 +1,21 @@
+{
+  "font": "incoming/Inter-Italic-VariableFont_opsz,wght-6136f73372fe.ttf",
+  "sha256": "6136f73372fedc37b80fd1a8ec3e21734073ff17376f3672718f186779672e7a",
+  "size": 904532,
+  "names": [
+    "Inter",
+    "Inter Italic",
+    "Inter-Italic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Inter",
+      "file_url": "https://fonts.gstatic.com/s/inter/v20/UcCm3FwrK3iLTcvnYwMZ90A2B58.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/ca97b85cbcf276eb-OFL.txt",
+    "incoming/collected-20261103/licenses/b4753d7fc526b6fd-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

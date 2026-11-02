@@ -1,0 +1,21 @@
+{
+  "font": "incoming/FiraSans-SemiBoldItalic-4378c7f06922.ttf",
+  "sha256": "4378c7f069226189a08800df1ebf61b5c031be8ae0c026e79879db9d8dee26c9",
+  "size": 490704,
+  "names": [
+    "Fira Sans",
+    "Fira Sans SemiBold",
+    "Fira Sans SemiBold Italic",
+    "FiraSans-SemiBoldItalic"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Fira+Sans",
+      "file_url": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrAWRRf_XljGllLX.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/01cde0de02cac265-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

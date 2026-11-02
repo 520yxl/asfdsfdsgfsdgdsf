@@ -1,0 +1,21 @@
+{
+  "font": "incoming/IntelOneMono-VariableFont_wght-36747a0cd291.ttf",
+  "sha256": "36747a0cd2918333896399396d5f05b330cd9570df5de9500a2683710308686c",
+  "size": 153472,
+  "names": [
+    "Intel One Mono",
+    "Intel One Mono Light",
+    "IntelOneMono-Light"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Intel+One+Mono",
+      "file_url": "https://fonts.gstatic.com/s/intelonemono/v2/P5sbzZuLY8Lb_G1RikFkwPjBvvk3D4tEBiLF.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/1c6ebfce7577bd76-OFL.txt",
+    "incoming/collected-20261103/licenses/583f972bcc8a2db4-README.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

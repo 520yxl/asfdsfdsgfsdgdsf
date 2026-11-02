@@ -1,0 +1,20 @@
+{
+  "font": "incoming/BlackHanSans-Regular-24b7f51ab85c.ttf",
+  "sha256": "24b7f51ab85c91757f92a5767a4368b6bc68bf1cc667cd7d11278056bca7eaef",
+  "size": 979604,
+  "names": [
+    "Black Han Sans",
+    "Black Han Sans Regular",
+    "BlackHanSans-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Black+Han+Sans",
+      "file_url": "https://fonts.gstatic.com/s/blackhansans/v24/ea8Aad44WunzF9a-dL6toA8r8nqVIXSkH-Hc.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/f80c982620a8d937-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Jua-Regular-a1ad0976608d.ttf",
+  "sha256": "a1ad0976608d0dd6d298cb01de8431f20e9416b330dd8f58cb0e5f88cee39985",
+  "size": 2101500,
+  "names": [
+    "Jua",
+    "Jua Regular",
+    "Jua-Regular"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Jua",
+      "file_url": "https://fonts.gstatic.com/s/jua/v18/co3KmW9ljjAjc-DZCsKgsg.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/65c16b9ec6392332-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

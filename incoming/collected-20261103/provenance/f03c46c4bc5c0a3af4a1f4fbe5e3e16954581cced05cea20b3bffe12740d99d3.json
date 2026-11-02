@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Cousine-Bold-f03c46c4bc5c.ttf",
+  "sha256": "f03c46c4bc5c0a3af4a1f4fbe5e3e16954581cced05cea20b3bffe12740d99d3",
+  "size": 290500,
+  "names": [
+    "Cousine",
+    "Cousine Bold",
+    "Cousine-Bold"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Cousine",
+      "file_url": "https://fonts.gstatic.com/s/cousine/v31/d6lNkaiiRdih4SpP9Z8K6T7G09BlnmQ.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/4ccdaf6c8b802399-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}

@@ -1,0 +1,20 @@
+{
+  "font": "incoming/Hind-Medium-fd540d048ae2.ttf",
+  "sha256": "fd540d048ae24d46396e3c941eed6eeaad48b60ec850958812b2792bcc3281f7",
+  "size": 269616,
+  "names": [
+    "Hind",
+    "Hind Medium",
+    "Hind-Medium"
+  ],
+  "sources": [
+    {
+      "manifest_url": "https://fonts.google.com/download/list?family=Hind",
+      "file_url": "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfJpbIRuYjDpf5Vw.ttf"
+    }
+  ],
+  "license_documents": [
+    "incoming/collected-20261103/licenses/969531b1708ddbc8-OFL.txt"
+  ],
+  "note": "Source/license documents are preserved as collected; no new commercial-use or redistribution grant is asserted."
+}
