@@ -1,0 +1,7 @@
+文件说明：
+
+- LXGWNeoXiHei.ttf：字体名称为「霞鹜新晰黑」，除 GB/T 2312 范围内的字外，包含「外字初步整理一览表」第一部分和第二部分所收录的字（即支持简体和繁体）；
+- LXGWFasmartGothic.ttf：字体名称为「霞鹜尚智黑」或「霞鹜新晰黑 简」，将新晰黑字形按照 03 Smart Font UI 的样式修改，后续更新中随时撤销。
+
+> - 「外字初步整理一览表」第一部分：https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md
+> - 「外字初步整理一览表」第二部分：https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary_2.md
