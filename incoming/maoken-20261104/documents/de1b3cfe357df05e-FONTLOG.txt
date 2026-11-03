@@ -1,0 +1,21 @@
+FONTLOG for the Hangeuljaemin6.0 font
+--------------------------------------
+
+This file provides details on the development and release of the Hangeuljaemin6.0 font.
+
+Font Name: Hangeuljaemin6.0
+Version: 6.0
+License: SIL Open Font License, Version 1.1
+
+Authors:
+- 박재갑 (Jae-gahb Park)
+- 김민 (Min Kim)
+- 박윤정 (Yoon Jeong Park)
+- 진황가 (CHEN HUANGJIA)
+
+Initial Release Date: 2025-06-10
+
+Purpose:
+This font was designed to preserve the beauty of traditional Korean royal script while adapting it for modern digital environments.
+
+No modifications have been made since version 6.0.

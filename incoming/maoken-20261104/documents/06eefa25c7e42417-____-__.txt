@@ -1,0 +1,35 @@
+ToneOZ QuickSnow
+澳聲通 快雪拼音系列字體
+
+製作 : https://toneoz.com
+
+SIL Open Font License免費開源字體
+
+改作自谷歌開源字體「Quicksand流沙」，部分混合改作自「Noto sans思源黑體」。
+
+字型安裝說明
+===========================
+1. 下載網址
+
+	https://toneoz.com/blog/quicksnow/
+
+   有四種版本可選擇
+	- ToneOZ-Quicksnow英數半形固定字重版。
+	   有五種字種檔案: 
+	    300(Light)
+	    400(Regular)
+	    500(Medium)
+	    600(Semi-Bold)
+	    700(Bold) 
+	- 澳聲通快雪拼音楷體繁
+	- 澳声通快雪拼音楷体简
+	- ToneOZ-Quicksnow英數半形可變字重版。
+
+
+2. 檔案為zip，直接打開後再點擊其中的.ttf檔便可安裝。
+
+3. 繁簡拼音楷體均為教育規格標準楷體，支援一字多音（字嗨注音IVS通用規格），
+　  配備免安裝的免費線上拼音注音編輯器，能自動校正破音字。
+   或點網址：
+
+	https://toneoz.com/imez

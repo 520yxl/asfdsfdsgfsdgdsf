@@ -1,0 +1,88 @@
+﻿<html><head><meta name="author" content="MY1L"/><title>汇迹正楷 测试</title>
+<style>
+@font-face{font-family:Test;src:url('CooperZhengKai-2.0.ttf')}
+p{font-family:Test;font-size:2rem;padding:1rem;border:solid .3rem #37F6;border-radius:.5rem;line-height:1.5;transition:all 1s ease}
+p:hover{border-color:#07FD;transition:all .3s}
+p:focus{caret-color:#07F;border-color:#07FD;animation:wave 1s infinite linear;background:linear-gradient(50deg,#07FC 25%,#07F3 30% 73%,#07FC 78%) repeat-x;background-size:5rem .25rem}
+	@keyframes wave{from{background-position:0 0}to{background-position:-5rem 0}}
+p:focus-visible{outline:0}
+#old{border:none;font-size:1.5em}
+label,select,hr::after{font-family:Test;line-height:1.5;font-size:1em}
+option{font-family:monospace}
+#test,hr::after{border:none;text-align:center;font-size:3em;margin:auto}
+hr{border:none;text-align:center;padding:0 0 1em}hr::after{content:"❧";color:#EDE}
+pre{font-family:Test,sans-serif;font-size:1.5em;color:#07F;text-align:center;text-wrap:wrap;margin:0}
+a{color:#F07;text-decoration:none}
+a:hover{animation:wava 1s infinite linear;background:linear-gradient(39deg,#F078 25%,#F072 30% 70%,#F078 75%) repeat-x;background-size:2em .2rem}
+	@keyframes wava{from{background-position:0 100%}to{background-position:-2em 100%}}
+span{display:inline-block;width:2em}
+::selection{background:#FF99}
+	</style>
+	</head>
+<body>
+<label>
+纵横切换：<select onchange="test.style.writingMode = this.value;">
+<option value="horizontal-tb">横排</option>
+<option value="vertical-rl">竖排</option>
+	</select><br/>
+特性切换：<select onchange="test.style.fontFeatureSettings = this.value;">
+<option value="normal">默认</option>
+<option value="'liga'0">标准连字"liga"关</option>
+<option value="'kern'0">字偶间距"kern"关</option>
+<option value="'calt'0">上下文替"calt"关</option>
+<option value="'chws'0,'vchw'0">标点挤压"chws"关</option>
+<option value="'cpct'">标点置中"cpct"开</option>
+<option value="'swsh'">花饰字形"swsh"开</option>
+<option value="'vrt2'">竖排旋替"vrt2"开</option>
+<option value="'cpct'0" disabled>字形分合"ccmp"关</option>
+	</select><br/>
+字体切换：<select onchange="test.style.fontFamily = this.value;">
+<option value="Test">待测字体</option>
+<option value="serif">Serif=系统衬线</option>
+<option value="sans-serif">Sans=系统无衬线</option>
+<option value="Monu,sans-serif">Monu(自备)</option>
+	</select>
+</label>
+<pre><a target="_blank" href="https://github.com/MY1L">綿雲飴里</a>：若这行字显示为黑体，请检查本 .html 同目录下是否存在文件名为“CooperZhengKai-2.0”的 .ttf 文件</pre>
+<p id="test">
+|“非全角引号”|“︁全角[vs₂]引号”︁|<br/>
+「沁园春·雪」、竖排𖿣<br/>
+⿰口塌 President J. DAY 0:6<br/>
+𛊬𛉍𛊺𛉄Official……〡〡〢〢〣〣
+</p>
+<hr/>
+<pre>可在此↓打字测试</pre>
+<p contenteditable="true">
+汇迹正楷 2.0 版，22694个字形，对应23063个字码⸺<br/>
+⒈补字：〡〢〣〤〥〦〧〨〩〸𖿴𖿵𖿶龜艹𠚣𠫓𠠲㞢𡰣𰆊𠀁𠀀𠀅𢎘㐅𠙴ㄆㄖㄙㄝㄡ㓤㔿㕷㖡㖭㖿㗎㗳㗾㚷㥠㧟㧸㧾㩒㩧㬹㭎㮣㷧㷫㹴㻐䁥䁪䂻䃟䄷䘆䜣䟴䢵䢼䣅䣓䧑䨒䪸䲁䲅䲳䴈龰龱龴龵龶龷龸龹龺𣏕𠄏𠄔𨙨𠮟𠽌⦗补全诸多字表，如GB/T 12345⦘𪜈𬻿𬼂𬼀𬼖𰀄𰀠𭺛冒ɑɡɪꞔꟄʂꟅᶎꟆͶ⦗非И⦘ΞΣΦΨ⦗基本希腊大写集齐⦘ηιρυͻͼͽϽϾϿϴ◌⁇⁈⁉℡⦗仿汇文正楷作“Tel”⦘⬤⇵
+άέήίύώ<br/>
+⒉区分康熙部首：⾆⾵⾷⿔⦗并非汉字“舌風食龜”⦘<br/>
+⒊修改：㇓𠃋⽿⿇𣏕𣏟唆挣榲紅虍诉＾⓿~⓴⓪~⑳⦗与汉字居中对齐⦘
+将径茎浅践,屑烃⋯⋯<br/>
+⒋添映射：ΖΗΙΚΟΧαοϲϳϹόᴄᴋᴏꜱᴜᴠᴡᴢꞮⅬⅭⅮⅯⅼⅽⅾⅿ𠃊𠃋𠃌𠃎𠃑𠄌𠄎𡿨⻀𦉫⦗但形不太符⦘𤴔艹龜龜𨻶〹〺
+</p>
+<p id="old">
+⒌其它2.x版更新又见⦗<a href="https://at.zeoseven.com/@MYIL/5eeec735">atzs在线更新记录</a>⦘<br/>
+<br/>
+旧1.4版，22523个字形，对应22816个字码⸺<br/>
+⒈补字：𬬻𬭊𬭳𬭛𬭶鿏𫟼𬬭鿔鿭𫓧𫟷鿬鿫⦗补全元素字⦘,𪠽𣏕𣏟⦗←⿇的偏旁⦘,𰻝𰻞⦗麵⦘,𲎿𲰼⦗汉字扩癸⦘,𠉂⦗补全方正简繁字表⦘,﨎﨏﨑﨓﨔凞猪礼﨟蘒﨡諸﨣﨤都﨧﨨﨩⦗补全 GBK⦘⬚<br/>
+⒉区分康熙部首：⿇⦗并非汉字“麻”⦘<br/>
+⒊修改：叩召吓啵嗮嗵电姜碒磓磜秊耳葫⾍辅鄙鑙◌𖿰◌𖿱<br/>
+⒋添映射：郎凉秊裏隣兀嗀,塚益羽逸,猪諸<br/>
+<br/>
+旧1.3版，22481个字形，对应22762个字码，简单来说⸺<br/>
+⒈更加楷体——添加115个偏旁〖<a href="https://www.unicode.org/charts/PDF/U2E80.pdf">统一码表U2E80.pdf</a>〗：⺀⺁⺂⺃⺄⺅⺆⺇⺈⺉⺊⺋⺌⺍⺎⺏⺐⺑⺒⺓⺔⺕⺖⺗⺘⺙⺛⺜⺝⺞⺟⺠⺡⺢⺣⺤⺥⺦⺧⺨⺩⺪⺫⺬⺭⺮⺯⺰⺱⺲⺳⺴⺵⺶⺷⺸⺹⺺⺻⺼⺽⺾⺿⻀⻁⻂⻃⻄⻅⻆⻇⻈⻉⻊⻋⻌⻍⻎⻏⻐⻑⻒⻓⻔⻕⻖⻗⻘⻙⻚⻛⻜⻝⻞⻟⻠⻡⻢⻣⻤⻥⻦⻧⻨⻩⻪⻫⻬⻭⻮⻯⻰⻱⻲⻳<br/>
+只因汇文正楷缺字，且“彐旡艹虎角骨鬼龜⋯”字形与部首有差异<br/>
+<span></span>自制：⺀⺁⺆⺇⺈⺊⺋⺌⺍⺑⺕⺗⺛⺜⺝⺥⺧⺩⺪⺬⺮⺲⺳⺴⺵⺶⺷⺸⺻⺼⺽⺾⺿⻁⻆⻇⻊⻌⻍⻏⻕⻖⻗⻞⻡⻣⻤⻱⋯<br/>
+⒉区分康熙部首：⽚⽡⽿⾮⿍⦗并非汉字“片瓦耳非鼎”⦘<br/>
+⒊添加儿化韵“花𖿲果𖿳”：并非“儿兒”的缩小<br/>
+<span></span>补字：𠂊𫜹、古文标点：𖿢𖿣⦗仅竖排形式⦘、西文：ʘΓΘΛ(Ʌ)θτ∐℧(Ʊ)、喃字符：⬚𖿰⬚𖿱<br/>
+⒋修改：★<!-- 与☆搭配 -->・<!-- 适配竖排间隔号 -->₀₁₂₃₄₅₆₇₈₉⼄全礻讠龙<br/>
+⒌补充更多特性如 chws、vchw，尤其调整并添加约1252对 kern<!-- ：DAY、DOM、NAC、RU、J.、ek、Pr… --><br/>
+⒍添映射：ÅK∆ΠΩκ𝒜ℬℱ𝒢ℳ𝒩𝒫𝒯⦗注：汇文正楷的反∆“∇”是黑体的⦘<br/>
+⒎替换映射：ᎠᎡᏎ→𝒟ℛꜭ<!-- 因切罗基文非此造型 -->、Υ→ϒ<!-- 因不像希腊大写Upsilon，更像有钩Υ符号 -->，或影响使用旧版字体的文档<br/>
+<span></span>⦗现在还可以用𝒜ℬ𝒟ℱ𝒢ℳ𝒩𝒫ℛ𝒯ϒꜭ输出替代英数⦘<br/>
+🄀←注意全角序号字只适合放段首，如果段中需要序号，不如直接打“数字.”<br/>
+其它更改略，过长的注释隐藏在本 .html 源代码中
+</p>
+</body></html>

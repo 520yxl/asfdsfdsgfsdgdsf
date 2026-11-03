@@ -1,0 +1,48 @@
+ToneOZ QuickSnow
+澳聲通 快雪拼音系列字體
+
+Produced by: https://toneoz.com
+
+Free and open-source under the SIL Open Font License
+
+Adapted from Google's open-source font "Quicksand", with partial blending of "Noto Sans".
+
+
+Font Installation Instructions
+===========================
+
+1. Download link
+
+	https://toneoz.com/blog/quicksnow/
+
+There are four versions available:
+
+	- ToneOZ-Quicksnow (Latin/numeric, half-width, fixed weight version)
+	   Includes five font weights:
+	   300 (Light)
+	   400 (Regular)
+	   500 (Medium)
+	   600 (Semi-Bold)
+	   700 (Bold)
+
+	- 澳聲通快雪拼音楷體繁
+	   ToneOZ QuickSnow Pinyin Kai (Traditional Chinese)
+
+	- 澳声通快雪拼音楷体简
+	   ToneOZ QuickSnow Pinyin Kai (Simplified Chinese)
+
+	- ToneOZ-Quicksnow (Latin/numeric, half-width, variable weight version)
+
+
+2. Installation
+The files are in ZIP format. Open the ZIP file and click on the .ttf file inside to install.
+
+3. Features
+Both Traditional and Simplified Pinyin Kai fonts follow educational standard Kai style.
+They support multiple pronunciations for a single character (IVS standard for phonetic annotations 字嗨注音).
+
+They also come with a free online Pinyin/Zhuyin editor (no installation required), which can automatically correct mispronounced characters.
+
+Online editor:
+
+	https://toneoz.com/ime
