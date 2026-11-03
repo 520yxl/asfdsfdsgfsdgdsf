@@ -1,0 +1,984 @@
+[
+  {
+    "font": "incoming/SourceHanSansHC-ExtraLight-a527c4a49917804e.otf",
+    "sha256": "a527c4a49917804e66d630bde7ba4dc62d1e994db0d32d3b6a5f9ddf88177c0b",
+    "size": 14883124,
+    "names": [
+      "Regular",
+      "SourceHanSansHC",
+      "SourceHanSansHC-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/11_SourceHanSansHC(繁體中文—香港)/OTF/TraditionalChineseHK/SourceHanSansHC-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansHC-Heavy-4b3c46c9443e2e08.otf",
+    "sha256": "4b3c46c9443e2e087413549a8a3fd3c4ddb7fd7c7b9eb0b3065f0665e582bf71",
+    "size": 17604184,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Source Han Sans HC",
+      "Source Han Sans HC Heavy",
+      "SourceHanSansHC-Heavy",
+      "思源黑體 香港",
+      "思源黑體 香港 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/11_SourceHanSansHC(繁體中文—香港)/OTF/TraditionalChineseHK/SourceHanSansHC-Heavy.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansHC-Light-0666e9b61bc3520a.otf",
+    "sha256": "0666e9b61bc3520a0b356a8d01738fb650612180f42b16885b59673b1962613c",
+    "size": 16449808,
+    "names": [
+      "Light",
+      "Regular",
+      "Source Han Sans HC",
+      "Source Han Sans HC Light",
+      "SourceHanSansHC-Light",
+      "思源黑體 香港",
+      "思源黑體 香港 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/11_SourceHanSansHC(繁體中文—香港)/OTF/TraditionalChineseHK/SourceHanSansHC-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansHC-Medium-6e50c93593e2545f.otf",
+    "sha256": "6e50c93593e2545f0755a2478ad1246db1071af154b8c3252c956c2b28ff79df",
+    "size": 16536028,
+    "names": [
+      "Medium",
+      "Regular",
+      "Source Han Sans HC",
+      "Source Han Sans HC Medium",
+      "SourceHanSansHC-Medium",
+      "思源黑體 香港",
+      "思源黑體 香港 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/11_SourceHanSansHC(繁體中文—香港)/OTF/TraditionalChineseHK/SourceHanSansHC-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansHC-Normal-c2f65972e27b5f25.otf",
+    "sha256": "c2f65972e27b5f259d6889ec5f6457fbc4cbad8a79cac91a15a60f7d3267d2ce",
+    "size": 16515088,
+    "names": [
+      "Normal",
+      "Regular",
+      "Source Han Sans HC",
+      "Source Han Sans HC Normal",
+      "SourceHanSansHC-Normal",
+      "思源黑體 香港",
+      "思源黑體 香港 Normal"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/11_SourceHanSansHC(繁體中文—香港)/OTF/TraditionalChineseHK/SourceHanSansHC-Normal.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansHC-Regular-b2ec9fbf96fc77d9.otf",
+    "sha256": "b2ec9fbf96fc77d9d471a1e05d9dfa208c1e8ba539c394519b8d776b972ba17b",
+    "size": 16519524,
+    "names": [
+      "Regular",
+      "Source Han Sans HC",
+      "SourceHanSansHC-Regular",
+      "思源黑體 香港"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/11_SourceHanSansHC(繁體中文—香港)/OTF/TraditionalChineseHK/SourceHanSansHC-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansTC-Bold-179452727f1fc3b4.otf",
+    "sha256": "179452727f1fc3b4e6a558b577e826f024d822787844a3d4e3c9a59d2c2e0476",
+    "size": 16961872,
+    "names": [
+      "Bold",
+      "Source Han Sans TC",
+      "Source Han Sans TC Bold",
+      "SourceHanSansTC-Bold",
+      "思源黑體",
+      "思源黑體 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/10_SourceHanSansTC(繁體中文—臺灣)/OTF/TraditionalChinese/SourceHanSansTC-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansTC-ExtraLight-305367002f74e000.otf",
+    "sha256": "305367002f74e000c9f292cdbda5272e6adb9a6a85e04729a98f3c2e9eb98e28",
+    "size": 14892088,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Source Han Sans TC",
+      "Source Han Sans TC ExtraLight",
+      "SourceHanSansTC-ExtraLight",
+      "思源黑體",
+      "思源黑體 ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/10_SourceHanSansTC(繁體中文—臺灣)/OTF/TraditionalChinese/SourceHanSansTC-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansTC-Heavy-8628849815986155.otf",
+    "sha256": "86288498159861553276885013ae104cd0e2a9fd34de2e13533a958ce893f953",
+    "size": 17612928,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Source Han Sans TC",
+      "Source Han Sans TC Heavy",
+      "SourceHanSansTC-Heavy",
+      "思源黑體",
+      "思源黑體 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/10_SourceHanSansTC(繁體中文—臺灣)/OTF/TraditionalChinese/SourceHanSansTC-Heavy.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansTC-Light-89a1015b45ade0c7.otf",
+    "sha256": "89a1015b45ade0c7a0f36ec6a5db2d054a9f87b7e922a07d47082bd5f8d5e830",
+    "size": 16458556,
+    "names": [
+      "Light",
+      "Regular",
+      "Source Han Sans TC",
+      "Source Han Sans TC Light",
+      "SourceHanSansTC-Light",
+      "思源黑體",
+      "思源黑體 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/10_SourceHanSansTC(繁體中文—臺灣)/OTF/TraditionalChinese/SourceHanSansTC-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansTC-Medium-bd70262de8795ffd.otf",
+    "sha256": "bd70262de8795ffd38f7f8320efca63c7b6c3a0b8b5cc559bbc961b6f6e92750",
+    "size": 16544772,
+    "names": [
+      "Medium",
+      "Regular",
+      "Source Han Sans TC",
+      "Source Han Sans TC Medium",
+      "SourceHanSansTC-Medium",
+      "思源黑體",
+      "思源黑體 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/10_SourceHanSansTC(繁體中文—臺灣)/OTF/TraditionalChinese/SourceHanSansTC-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansTC-Normal-44a94b620f226eda.otf",
+    "sha256": "44a94b620f226edafdb675693a9bbeb6f51b050a0c3ca5c64c47be108d5be067",
+    "size": 16523832,
+    "names": [
+      "Normal",
+      "Regular",
+      "Source Han Sans TC",
+      "Source Han Sans TC Normal",
+      "SourceHanSansTC-Normal",
+      "思源黑體",
+      "思源黑體 Normal"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/10_SourceHanSansTC(繁體中文—臺灣)/OTF/TraditionalChinese/SourceHanSansTC-Normal.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansTC-Regular-10e6d832bc736508.otf",
+    "sha256": "10e6d832bc73650840aa7fbfec4e10c527f8136ae2aec71c3e1c13a67475c24a",
+    "size": 16528276,
+    "names": [
+      "Regular",
+      "Source Han Sans TC",
+      "SourceHanSansTC-Regular",
+      "思源黑體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/10_SourceHanSansTC(繁體中文—臺灣)/OTF/TraditionalChinese/SourceHanSansTC-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansSC-Bold-df2b90f5bcc6d01d.otf",
+    "sha256": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+    "size": 16963428,
+    "names": [
+      "Bold",
+      "Source Han Sans SC",
+      "Source Han Sans SC Bold",
+      "SourceHanSansSC-Bold",
+      "思源黑体",
+      "思源黑体 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/09_SourceHanSansSC(简体中文)/OTF/SimplifiedChinese/SourceHanSansSC-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansSC-ExtraLight-0f9697397cc71809.otf",
+    "sha256": "0f9697397cc718090b438ac7b03e9c6d81c85fe7b7032339be861c9f9cb42e56",
+    "size": 14893644,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Source Han Sans SC",
+      "Source Han Sans SC ExtraLight",
+      "SourceHanSansSC-ExtraLight",
+      "思源黑体",
+      "思源黑体 ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/09_SourceHanSansSC(简体中文)/OTF/SimplifiedChinese/SourceHanSansSC-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansSC-Heavy-6374b11bc4c2cd4b.otf",
+    "sha256": "6374b11bc4c2cd4bd7be1a1d64cf5047906c8a6a025c64e023c6792e50ba985e",
+    "size": 17614484,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Source Han Sans SC",
+      "Source Han Sans SC Heavy",
+      "SourceHanSansSC-Heavy",
+      "思源黑体",
+      "思源黑体 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/09_SourceHanSansSC(简体中文)/OTF/SimplifiedChinese/SourceHanSansSC-Heavy.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansSC-Light-b6dfc945aae0daf9.otf",
+    "sha256": "b6dfc945aae0daf9b15019f59c2f7b18d17da3b92f00c3ec32fb5f0333696d9c",
+    "size": 16460112,
+    "names": [
+      "Light",
+      "Regular",
+      "Source Han Sans SC",
+      "Source Han Sans SC Light",
+      "SourceHanSansSC-Light",
+      "思源黑体",
+      "思源黑体 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/09_SourceHanSansSC(简体中文)/OTF/SimplifiedChinese/SourceHanSansSC-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansSC-Medium-1df61d31687d04fd.otf",
+    "sha256": "1df61d31687d04fd2f928a3bb6ca6cd61f0e988cc267cf317f32406edbb49f70",
+    "size": 16546328,
+    "names": [
+      "Medium",
+      "Regular",
+      "Source Han Sans SC",
+      "Source Han Sans SC Medium",
+      "SourceHanSansSC-Medium",
+      "思源黑体",
+      "思源黑体 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/09_SourceHanSansSC(简体中文)/OTF/SimplifiedChinese/SourceHanSansSC-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansSC-Normal-7e5b7e586262f5e1.otf",
+    "sha256": "7e5b7e586262f5e187c3397935b3a0dfbe28e08a916be0f60ec7fee2b50abd6d",
+    "size": 16525388,
+    "names": [
+      "Normal",
+      "Regular",
+      "Source Han Sans SC",
+      "Source Han Sans SC Normal",
+      "SourceHanSansSC-Normal",
+      "思源黑体",
+      "思源黑体 Normal"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/09_SourceHanSansSC(简体中文)/OTF/SimplifiedChinese/SourceHanSansSC-Normal.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansSC-Regular-f1d8611151880c6c.otf",
+    "sha256": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+    "size": 16529832,
+    "names": [
+      "Regular",
+      "Source Han Sans SC",
+      "SourceHanSansSC-Regular",
+      "思源黑体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/09_SourceHanSansSC(简体中文)/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansK-Bold-b15ca0f485b4a055.otf",
+    "sha256": "b15ca0f485b4a055f2fb7b4055a11cbe4cddd18a73a380f49aeb01b11dc58201",
+    "size": 16959020,
+    "names": [
+      "Bold",
+      "Source Han Sans K",
+      "Source Han Sans K Bold",
+      "SourceHanSansK-Bold",
+      "본고딕",
+      "본고딕 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/08_SourceHanSansK(한국어)/OTF/Korean/SourceHanSansK-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansK-ExtraLight-834dbe846d515459.otf",
+    "sha256": "834dbe846d51545905317fec597a913db23be17d8861e9353b1352c5b4a7df7c",
+    "size": 14889236,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Source Han Sans K",
+      "Source Han Sans K ExtraLight",
+      "SourceHanSansK-ExtraLight",
+      "본고딕",
+      "본고딕 ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/08_SourceHanSansK(한국어)/OTF/Korean/SourceHanSansK-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansK-Heavy-368de9c5587d116d.otf",
+    "sha256": "368de9c5587d116de954e029bd6e2fd4d9afdb23a8c1464b8ca4b2ed3f9e7ffa",
+    "size": 17610080,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Source Han Sans K",
+      "Source Han Sans K Heavy",
+      "SourceHanSansK-Heavy",
+      "본고딕",
+      "본고딕 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/08_SourceHanSansK(한국어)/OTF/Korean/SourceHanSansK-Heavy.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansK-Light-557258edebf886bc.otf",
+    "sha256": "557258edebf886bce4d97a0584818eebbbcbe15b02c61f647269ad3ee7f7ff5f",
+    "size": 16455704,
+    "names": [
+      "Light",
+      "Regular",
+      "Source Han Sans K",
+      "Source Han Sans K Light",
+      "SourceHanSansK-Light",
+      "본고딕",
+      "본고딕 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/08_SourceHanSansK(한국어)/OTF/Korean/SourceHanSansK-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansK-Medium-2c01d8b5dfd59dfe.otf",
+    "sha256": "2c01d8b5dfd59dfe45d7bb1ee2360f3186266468fa5b036e2818ddf582f5bc9d",
+    "size": 16541920,
+    "names": [
+      "Medium",
+      "Regular",
+      "Source Han Sans K",
+      "Source Han Sans K Medium",
+      "SourceHanSansK-Medium",
+      "본고딕",
+      "본고딕 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/08_SourceHanSansK(한국어)/OTF/Korean/SourceHanSansK-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansK-Normal-406c4944cb31efd1.otf",
+    "sha256": "406c4944cb31efd1d217593ac319e2278cfd2e419af60677ede093549415a5df",
+    "size": 16520984,
+    "names": [
+      "Normal",
+      "Regular",
+      "Source Han Sans K",
+      "Source Han Sans K Normal",
+      "SourceHanSansK-Normal",
+      "본고딕",
+      "본고딕 Normal"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/08_SourceHanSansK(한국어)/OTF/Korean/SourceHanSansK-Normal.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSansK-Regular-14f0ac1c902bdb97.otf",
+    "sha256": "14f0ac1c902bdb973136a80c7f45bfcbe0cea9306bee323886dd94d98061941b",
+    "size": 16525428,
+    "names": [
+      "Regular",
+      "Source Han Sans K",
+      "SourceHanSansK-Regular",
+      "본고딕"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/08_SourceHanSansK(한국어)/OTF/Korean/SourceHanSansK-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSans-Bold-371a9376a7c4293c.otf",
+    "sha256": "371a9376a7c4293cfc7dcd9b09ea29084ceb71abea494350b6d3d8825bb71700",
+    "size": 16993648,
+    "names": [
+      "Bold",
+      "Source Han Sans",
+      "Source Han Sans Bold",
+      "SourceHanSans-Bold",
+      "源ノ角ゴシック",
+      "源ノ角ゴシック Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/07_SourceHanSansJ(日本语)/OTF/Japanese/SourceHanSans-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSans-ExtraLight-0bfb4c23b9386b6c.otf",
+    "sha256": "0bfb4c23b9386b6cb58dc0963c79ce33d83df8cc6314dd2f7cbc88dd116365d9",
+    "size": 14923864,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Source Han Sans",
+      "Source Han Sans ExtraLight",
+      "SourceHanSans-ExtraLight",
+      "源ノ角ゴシック",
+      "源ノ角ゴシック ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/07_SourceHanSansJ(日本语)/OTF/Japanese/SourceHanSans-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSans-Heavy-8fa22ee85d97f6d3.otf",
+    "sha256": "8fa22ee85d97f6d35131c819476a2b0d10efc2b35b4c11f6f081a79b527ec827",
+    "size": 17644704,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Source Han Sans",
+      "Source Han Sans Heavy",
+      "SourceHanSans-Heavy",
+      "源ノ角ゴシック",
+      "源ノ角ゴシック Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/07_SourceHanSansJ(日本语)/OTF/Japanese/SourceHanSans-Heavy.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSans-Light-8df543f096d23f1e.otf",
+    "sha256": "8df543f096d23f1e98350aa98d93ca1894db776d8b7baa5df76e29e2a7eb3371",
+    "size": 16490332,
+    "names": [
+      "Light",
+      "Regular",
+      "Source Han Sans",
+      "Source Han Sans Light",
+      "SourceHanSans-Light",
+      "源ノ角ゴシック",
+      "源ノ角ゴシック Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/07_SourceHanSansJ(日本语)/OTF/Japanese/SourceHanSans-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSans-Medium-377372ded6fd6958.otf",
+    "sha256": "377372ded6fd6958c971cc69e8ac5ae2f97140a014f14f3dfc2f281cfb3d2a1b",
+    "size": 16576548,
+    "names": [
+      "Medium",
+      "Regular",
+      "Source Han Sans",
+      "Source Han Sans Medium",
+      "SourceHanSans-Medium",
+      "源ノ角ゴシック",
+      "源ノ角ゴシック Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/07_SourceHanSansJ(日本语)/OTF/Japanese/SourceHanSans-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSans-Normal-2e2875e2028430aa.otf",
+    "sha256": "2e2875e2028430aaeb4c467a4b2a86ffde774243996556ba0769615caaa4e503",
+    "size": 16555608,
+    "names": [
+      "Normal",
+      "Regular",
+      "Source Han Sans",
+      "Source Han Sans Normal",
+      "SourceHanSans-Normal",
+      "源ノ角ゴシック",
+      "源ノ角ゴシック Normal"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/07_SourceHanSansJ(日本语)/OTF/Japanese/SourceHanSans-Normal.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SourceHanSans-Regular-6fe3b72967986ccd.otf",
+    "sha256": "6fe3b72967986ccdef600128752d1ade57c13c68129a548cdebe4c7d3c0f8543",
+    "size": 16560052,
+    "names": [
+      "Regular",
+      "Source Han Sans",
+      "SourceHanSans-Regular",
+      "源ノ角ゴシック"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(Adobe完整版2.005R)_猫啃网/思源黑体(Adobe完整版2.005R)/07_SourceHanSansJ(日本语)/OTF/Japanese/SourceHanSans-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/60eb3a4d6d32805f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fcac737e761ec63d-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKsc-Black-2c2af226af6170ac.otf",
+    "sha256": "2c2af226af6170ac28730be03b16ee7ffa6144fe54471d9ebe8a03de97b58160",
+    "size": 24063000,
+    "names": [
+      "Black",
+      "Noto Serif CJK SC",
+      "Noto Serif CJK SC Black",
+      "NotoSerifCJKsc-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌简体版2.003)_猫啃网/思源宋体(谷歌简体版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Black.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Black.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/SimplifiedChinese/NotoSerifCJKsc-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKsc-Bold-8af07d4b6c2e82bc.otf",
+    "sha256": "8af07d4b6c2e82bcc72a30e066eaf295f11b9424f4aad2eaa9fe0e9c3b38fc73",
+    "size": 25521460,
+    "names": [
+      "Bold",
+      "Noto Serif CJK SC",
+      "Noto Serif CJK SC Bold",
+      "NotoSerifCJKsc-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌简体版2.003)_猫啃网/思源宋体(谷歌简体版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Bold.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Bold.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/SimplifiedChinese/NotoSerifCJKsc-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKsc-ExtraLight-12270613d011f70c.otf",
+    "sha256": "12270613d011f70c0e1875affc845ba272e0ce1d78ca9a4398dc34cc67984b62",
+    "size": 21406072,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK SC",
+      "Noto Serif CJK SC ExtraLight",
+      "NotoSerifCJKsc-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌简体版2.003)_猫啃网/思源宋体(谷歌简体版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-ExtraLight.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-ExtraLight.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/SimplifiedChinese/NotoSerifCJKsc-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKsc-Light-7da07efb309a89b1.otf",
+    "sha256": "7da07efb309a89b156090848aab55d9dc57f15b08387b51184b08b89501a382c",
+    "size": 24501028,
+    "names": [
+      "Light",
+      "Noto Serif CJK SC",
+      "Noto Serif CJK SC Light",
+      "NotoSerifCJKsc-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌简体版2.003)_猫啃网/思源宋体(谷歌简体版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Light.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Light.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/SimplifiedChinese/NotoSerifCJKsc-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKsc-Medium-19322be2ecf5dd2a.otf",
+    "sha256": "19322be2ecf5dd2abd546db7a86cc83c286026cbd28593583bfcfd721e48c9fe",
+    "size": 24805308,
+    "names": [
+      "Medium",
+      "Noto Serif CJK SC",
+      "Noto Serif CJK SC Medium",
+      "NotoSerifCJKsc-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌简体版2.003)_猫啃网/思源宋体(谷歌简体版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Medium.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Medium.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/SimplifiedChinese/NotoSerifCJKsc-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKsc-Regular-2a2eae2628df8355.otf",
+    "sha256": "2a2eae2628df83556c54018c41e20fa532c1b862c5256ae8b3f23feb918d12ca",
+    "size": 24543080,
+    "names": [
+      "Noto Serif CJK SC",
+      "NotoSerifCJKsc-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌简体版2.003)_猫啃网/思源宋体(谷歌简体版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Regular.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-Regular.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/SimplifiedChinese/NotoSerifCJKsc-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKsc-SemiBold-d627b53dbcde61e0.otf",
+    "sha256": "d627b53dbcde61e07de1498d2623a8b287f78585ffbc90cc0618d0caaa2ed6b0",
+    "size": 24700256,
+    "names": [
+      "Noto Serif CJK SC",
+      "Noto Serif CJK SC SemiBold",
+      "NotoSerifCJKsc-SemiBold",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌简体版2.003)_猫啃网/思源宋体(谷歌简体版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-SemiBold.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKsc-Language Specific OTFs Simplified Chinese/OTF/SimplifiedChinese/NotoSerifCJKsc-SemiBold.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/SimplifiedChinese/NotoSerifCJKsc-SemiBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKtc-Black-3ad2c936d8757c8c.otf",
+    "sha256": "3ad2c936d8757c8c4d661394592a40d29bd66351d0e6971310f19b159d380db7",
+    "size": 24061824,
+    "names": [
+      "Black",
+      "Noto Serif CJK TC",
+      "Noto Serif CJK TC Black",
+      "NotoSerifCJKtc-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKtc-Language Specific OTFs Traditional Chinese — Taiwan/OTF/TraditionalChinese/NotoSerifCJKtc-Black.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/TraditionalChinese/NotoSerifCJKtc-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKtc-Bold-a4441a76dbf56719.otf",
+    "sha256": "a4441a76dbf56719600c5dcbd5b5e5a068a20944cc41c959487a657133576ee6",
+    "size": 25520284,
+    "names": [
+      "Bold",
+      "Noto Serif CJK TC",
+      "Noto Serif CJK TC Bold",
+      "NotoSerifCJKtc-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKtc-Language Specific OTFs Traditional Chinese — Taiwan/OTF/TraditionalChinese/NotoSerifCJKtc-Bold.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/TraditionalChinese/NotoSerifCJKtc-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKtc-ExtraLight-42c933e8de6ec460.otf",
+    "sha256": "42c933e8de6ec460cff7ac3452ae0849672eb7631a789431eb02ac057fe46d3b",
+    "size": 21404896,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK TC",
+      "Noto Serif CJK TC ExtraLight",
+      "NotoSerifCJKtc-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJKtc-Language Specific OTFs Traditional Chinese — Taiwan/OTF/TraditionalChinese/NotoSerifCJKtc-ExtraLight.otf",
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/TraditionalChinese/NotoSerifCJKtc-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
