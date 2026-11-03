@@ -1,0 +1,711 @@
+[
+  {
+    "font": "incoming/ChironGoRoundTC-600SB-5ac59de2eb7d180f.ttf",
+    "sha256": "5ac59de2eb7d180f24a59530eb17525f5effec4efcb54aa5b40e555625cb2cfd",
+    "size": 24425100,
+    "names": [
+      "Chiron GoRound TC",
+      "Chiron GoRound TC SB",
+      "ChironGoRoundTC-SemiBold",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源环方1.010_猫啃网/昭源環方/STATIC_TTF/ChironGoRoundTC-600SB.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/5879b5dc97a9d4b3-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/bac4063b6379dfed-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironGoRoundTC-700B-e8856bc31924f88c.ttf",
+    "sha256": "e8856bc31924f88cc50f25b513b73d24a5e7219b3b13a32748d375f426d3061a",
+    "size": 24323292,
+    "names": [
+      "Bold",
+      "Chiron GoRound TC",
+      "Chiron GoRound TC Bold",
+      "ChironGoRoundTC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源环方1.010_猫啃网/昭源環方/STATIC_TTF/ChironGoRoundTC-700B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/5879b5dc97a9d4b3-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/bac4063b6379dfed-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironGoRoundTC-800EB-94584b4c1c144910.ttf",
+    "sha256": "94584b4c1c1449100a6f98292e73fb31bc4ff83ba0c1026dcbe51bd6d4ffef46",
+    "size": 24150480,
+    "names": [
+      "Chiron GoRound TC",
+      "Chiron GoRound TC EB",
+      "ChironGoRoundTC-ExtraBold",
+      "ExtraBold",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源环方1.010_猫啃网/昭源環方/STATIC_TTF/ChironGoRoundTC-800EB.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/5879b5dc97a9d4b3-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/bac4063b6379dfed-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironGoRoundTC-900H-5b9238b7e6989785.ttf",
+    "sha256": "5b9238b7e6989785cb68f5c7bac363a02b9bbd63242e5e782930b330f388f5fc",
+    "size": 23885772,
+    "names": [
+      "Chiron GoRound TC",
+      "Chiron GoRound TC H",
+      "ChironGoRoundTC-Heavy",
+      "Heavy",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源环方1.010_猫啃网/昭源環方/STATIC_TTF/ChironGoRoundTC-900H.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/5879b5dc97a9d4b3-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/bac4063b6379dfed-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironGoRoundTCVF-0b02d87ec5d7e3e5.ttf",
+    "sha256": "0b02d87ec5d7e3e58bde5167bd29c7833eae05d8981ea836ecdaf30104271323",
+    "size": 50834392,
+    "names": [
+      "Chiron GoRound TC VF",
+      "ChironGoRoundTCVF-ExtraLight",
+      "ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源环方1.010_猫啃网/昭源環方/VAR_TTF/ChironGoRoundTCVF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/5879b5dc97a9d4b3-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/bac4063b6379dfed-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-B-It-470a973c0d54ffda.ttf",
+    "sha256": "470a973c0d54ffda937d065158a6c5ea1a4a2f7eeb65172e392c2248078fc216",
+    "size": 25396164,
+    "names": [
+      "Bold Italic",
+      "Chiron Sung HK",
+      "Chiron Sung HK Bold Italic",
+      "ChironSungHK-BoldIt"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-B-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-B-b8eda8aa9affeac4.ttf",
+    "sha256": "b8eda8aa9affeac49ad69665b8b43ad2c472124a18d6bd2ba2d3b9ffa3f44351",
+    "size": 24528284,
+    "names": [
+      "Bold",
+      "Chiron Sung HK",
+      "Chiron Sung HK Bold",
+      "ChironSungHK-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-EL-It-dce4c8c6f3e8d55f.ttf",
+    "sha256": "dce4c8c6f3e8d55fb6bc8e5e2d6582cc58bd8e317641167d13c30932e0ef3cdc",
+    "size": 25356680,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK EL",
+      "Chiron Sung HK EL Italic",
+      "ChironSungHK-ExtraLightIt",
+      "ExtraLight Italic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-EL-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-EL-ad352bfd9df57847.ttf",
+    "sha256": "ad352bfd9df57847767ab1f2330528f1a081a340f9ae49ec48b70978f478f802",
+    "size": 24423556,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK EL",
+      "ChironSungHK-ExtraLight",
+      "ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-EL.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-H-It-4bf5b418ec94d574.ttf",
+    "sha256": "4bf5b418ec94d574d5265100bbe260e666a3ee8254f89bc358efc7d226caf627",
+    "size": 25302280,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK H",
+      "Chiron Sung HK H Italic",
+      "ChironSungHK-HeavyIt",
+      "Heavy Italic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-H-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-H-df0595ffdf04fbf8.ttf",
+    "sha256": "df0595ffdf04fbf8ca6a4d358b1a3b9b69b6a977b8a017224f885f1c2b01653f",
+    "size": 24456728,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK H",
+      "ChironSungHK-Heavy",
+      "Heavy",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-H.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-L-It-d20c3264f90f46c7.ttf",
+    "sha256": "d20c3264f90f46c78a9bc26bfbaf65d737061c411aac40d554a0fa9268b715cb",
+    "size": 25419708,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK L",
+      "Chiron Sung HK L Italic",
+      "ChironSungHK-LightIt",
+      "Italic",
+      "Light Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-L-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-L-90e9d668457f68c4.ttf",
+    "sha256": "90e9d668457f68c4f6b37b42d31b687670179ae55d51d7ecd334c653c8f24c5a",
+    "size": 24519472,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK L",
+      "ChironSungHK-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-L.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-M-It-fb8d087f56cdcfc9.ttf",
+    "sha256": "fb8d087f56cdcfc9502331c6e804fe99546c2a53ac88121460e9dc437044c4bc",
+    "size": 25429552,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK M",
+      "Chiron Sung HK M Italic",
+      "ChironSungHK-MediumIt",
+      "Italic",
+      "Medium Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-M-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-M-55c19c2870e912a6.ttf",
+    "sha256": "55c19c2870e912a6d756380de78ee0e65f4ad0e54982efa7f587d9298fc0c034",
+    "size": 24547088,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK M",
+      "ChironSungHK-Medium",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-M.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-N-It-bef255678cf05c58.ttf",
+    "sha256": "bef255678cf05c588441c07fe785499348713bd6145fd4af501b6481d5e27043",
+    "size": 25425004,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK N",
+      "Chiron Sung HK N Italic",
+      "ChironSungHK-NormalIt",
+      "Italic",
+      "Normal Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-N-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-N-6fda905f2f53081e.ttf",
+    "sha256": "6fda905f2f53081edaa961a9467e00cfe6616990b4d04d97d646a13da88708d6",
+    "size": 24533184,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK N",
+      "ChironSungHK-Normal",
+      "Normal",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-N.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-R-It-ec9c226ab48b0cf3.ttf",
+    "sha256": "ec9c226ab48b0cf36e2249ec3c7307682c0bd9bd3dd167dfacf279bb82fc721f",
+    "size": 25431944,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK Italic",
+      "ChironSungHK-Italic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-R-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-R-ea2d3a171eea0fd3.ttf",
+    "sha256": "ea2d3a171eea0fd3e5c4bd265ad6363403381ff54686dab8060570a61396a046",
+    "size": 24540516,
+    "names": [
+      "Chiron Sung HK",
+      "ChironSungHK-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-R.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-SB-It-77307d0401b87dcf.ttf",
+    "sha256": "77307d0401b87dcf0bcb269c72f875ae702a68e4f563ce8950dd6363537d66fe",
+    "size": 25416212,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK SB",
+      "Chiron Sung HK SB Italic",
+      "ChironSungHK-SemiBoldIt",
+      "Italic",
+      "SemiBold Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-SB-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-SB-fbb0286789c0deb7.ttf",
+    "sha256": "fbb0286789c0deb73ac24af29f4dd47699915c5e293bcd13c39fdfeb9e6462e1",
+    "size": 24530628,
+    "names": [
+      "Chiron Sung HK",
+      "Chiron Sung HK SB",
+      "ChironSungHK-SemiBold",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-SB.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-B-It-6b486c39fe6f31fc.ttf",
+    "sha256": "6b486c39fe6f31fcc2a72ce4433d97102508e28d1999b9632c0c891630b3db47",
+    "size": 25290688,
+    "names": [
+      "Bold Italic",
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text Bold Italic",
+      "ChironSungHKSP-BoldIt"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-B-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-B-6e0d823326585b22.ttf",
+    "sha256": "6e0d823326585b22ea57974d27d1b7b4badc0758ff5767de7c9ba1e50554639a",
+    "size": 24433540,
+    "names": [
+      "Bold",
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text Bold",
+      "ChironSungHKSP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-EL-It-e0a4395bfadeceab.ttf",
+    "sha256": "e0a4395bfadeceaba550019eb034f5c9fd7b75cb841c9f0d1c0ac06c83131076",
+    "size": 25268384,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text EL",
+      "Chiron Sung HK Text EL Italic",
+      "ChironSungHKSP-ExtraLightIt",
+      "ExtraLight Italic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-EL-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-EL-496a4737488afd5d.ttf",
+    "sha256": "496a4737488afd5df20c4398692147e203b48afe3d52ad4d298851ed1b08169c",
+    "size": 24348688,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text EL",
+      "ChironSungHKSP-ExtraLight",
+      "ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-EL.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-H-It-11047096546233e7.ttf",
+    "sha256": "11047096546233e7ce34d75a2b5cfa0f7115abcd0b97715ca987b2bed8e84c52",
+    "size": 25230320,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text H",
+      "Chiron Sung HK Text H Italic",
+      "ChironSungHKSP-HeavyIt",
+      "Heavy Italic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-H-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-H-49a36d8b2ad99ccb.ttf",
+    "sha256": "49a36d8b2ad99ccb22919bd36861e1bf927d9450aaa2cae1d30cfc7c9c09a31c",
+    "size": 24369380,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text H",
+      "ChironSungHKSP-Heavy",
+      "Heavy",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-H.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-L-It-fb6355811e989571.ttf",
+    "sha256": "fb6355811e9895710695c68780aefbe4581c427a6ba9a0f1c453e2ef00e6d745",
+    "size": 25311056,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text L",
+      "Chiron Sung HK Text L Italic",
+      "ChironSungHKSP-LightIt",
+      "Italic",
+      "Light Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-L-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-L-d2b66d97d63d342a.ttf",
+    "sha256": "d2b66d97d63d342abffeb6cef3404dfc051497b13ee3d0cc036817458057b409",
+    "size": 24427776,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text L",
+      "ChironSungHKSP-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-L.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-M-It-f2a97d5ea1d18044.ttf",
+    "sha256": "f2a97d5ea1d180448f1b4891da4984684dfd5fa7e2bd41699f1ff2a0a03afa6f",
+    "size": 25341292,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text M",
+      "Chiron Sung HK Text M Italic",
+      "ChironSungHKSP-MediumIt",
+      "Italic",
+      "Medium Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-M-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-M-ec3b604ab62ab5f5.ttf",
+    "sha256": "ec3b604ab62ab5f53754c6fc2a9061d19efbf7f433c97ce18557e2a8f5e34ccf",
+    "size": 24446504,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text M",
+      "ChironSungHKSP-Medium",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-M.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
