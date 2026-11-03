@@ -1,0 +1,1395 @@
+[
+  {
+    "font": "incoming/IBMPlexSansKR-Thin-900f2905f84321c4.ttf",
+    "sha256": "900f2905f84321c465660e2bcb2846a955e31c54552a8f965b20db9ba6385d25",
+    "size": 2606344,
+    "names": [
+      "IBM Plex Sans KR",
+      "IBM Plex Sans KR Thin",
+      "IBMPlexSansKR-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansKR-Bold-bbb3bfaf5fb2ca41.ttf",
+    "sha256": "bbb3bfaf5fb2ca4114d5f12ed52baf17ced45230c9736538fd630dcaf69bfcc9",
+    "size": 2484848,
+    "names": [
+      "Bold",
+      "IBM Plex Sans KR",
+      "IBM Plex Sans KR Bold",
+      "IBMPlexSansKR-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/unhinted/IBMPlexSansKR-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansKR-ExtraLight-3a12592023a71a3a.ttf",
+    "sha256": "3a12592023a71a3af64c0dee2d070633b9e6e5c9d0fc0751c7faef056709dd3f",
+    "size": 2569408,
+    "names": [
+      "ExtraLight",
+      "IBM Plex Sans KR",
+      "IBM Plex Sans KR ExtLt",
+      "IBMPlexSansKR-ExtLt",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/unhinted/IBMPlexSansKR-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansKR-Light-968fb1aca77409b8.ttf",
+    "sha256": "968fb1aca77409b8b6e87df2baa68d16bee96c495d923637065902495a7f1248",
+    "size": 2547504,
+    "names": [
+      "IBM Plex Sans KR",
+      "IBM Plex Sans KR Light",
+      "IBMPlexSansKR-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/unhinted/IBMPlexSansKR-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansKR-Medium-284c2b2c470791f3.ttf",
+    "sha256": "284c2b2c470791f3eaf6fd3c93f1aa95d5bd4bb42a14b9754375d839a91d8a50",
+    "size": 2512352,
+    "names": [
+      "IBM Plex Sans KR",
+      "IBM Plex Sans KR Medm",
+      "IBMPlexSansKR-Medm",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/unhinted/IBMPlexSansKR-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansKR-Regular-9b9a2fd392af19b1.ttf",
+    "sha256": "9b9a2fd392af19b1bd6535fb506e4f4a80bfc23f5421b1772983502394ade125",
+    "size": 2539548,
+    "names": [
+      "IBM Plex Sans KR",
+      "IBMPlexSansKR",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/unhinted/IBMPlexSansKR-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansKR-SemiBold-c957e30a0744bd98.ttf",
+    "sha256": "c957e30a0744bd98d1f7e8c19ee7fcd3740ab59a92e4d9b8168a82eda91d25ea",
+    "size": 2487044,
+    "names": [
+      "IBM Plex Sans KR",
+      "IBM Plex Sans KR SmBld",
+      "IBMPlexSansKR-SmBld",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/unhinted/IBMPlexSansKR-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansKR-Text-30896c61a122d65e.ttf",
+    "sha256": "30896c61a122d65e51edbcca895c8041cbeda961f034a2ed90af90d2ba28fbb1",
+    "size": 2524708,
+    "names": [
+      "IBM Plex Sans KR",
+      "IBM Plex Sans KR Text",
+      "IBMPlexSansKR-Text",
+      "Regular",
+      "Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/unhinted/IBMPlexSansKR-Text.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansKR-Thin-9d876b4ef6f13f08.ttf",
+    "sha256": "9d876b4ef6f13f087d863114c8910f33f5219ea6134e9e50834a02fe33b3e9a7",
+    "size": 2614568,
+    "names": [
+      "IBM Plex Sans KR",
+      "IBM Plex Sans KR Thin",
+      "IBMPlexSansKR-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-kr/fonts/complete/ttf/unhinted/IBMPlexSansKR-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Bold-31f6db78780f92ba.ttf",
+    "sha256": "31f6db78780f92ba26666a5d46c1f8ef268a04ddd33321892986af45f22d8e04",
+    "size": 2398332,
+    "names": [
+      "Bold",
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Bold",
+      "IBMPlexSansJP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-ExtraLight-64ed3ae7d55a310b.ttf",
+    "sha256": "64ed3ae7d55a310bb21bf806f491ce2e389d051c2f17bef5209de24b2227ca81",
+    "size": 2434228,
+    "names": [
+      "ExtraLight",
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP ExtLt",
+      "IBMPlexSansJP-ExtLt",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Light-f80aa4bebc291b14.ttf",
+    "sha256": "f80aa4bebc291b14228b3497a7a2e7598c49fd50bea0d114c8acc2b5d6f54834",
+    "size": 2425568,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Light",
+      "IBMPlexSansJP-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Medium-dc51299f5ccf2dd1.ttf",
+    "sha256": "dc51299f5ccf2dd1bf3364552158503ff4f9efa409d2b0bd3b3cf520fe9d5aa8",
+    "size": 2408116,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Medm",
+      "IBMPlexSansJP-Medm",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Regular-b0f1098d93801e99.ttf",
+    "sha256": "b0f1098d93801e99521a50a05d92a9b255081e598814e48979e0319e5deedb89",
+    "size": 2415244,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBMPlexSansJP",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-SemiBold-b1f629f90dff93a0.ttf",
+    "sha256": "b1f629f90dff93a015271299ea19cb8039b2191c2b9c3e56165415287baf730a",
+    "size": 2407804,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP SmBld",
+      "IBM Plex Sans JP Smbld",
+      "IBMPlexSansJP-SmBld",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Text-ef871e154b680702.ttf",
+    "sha256": "ef871e154b68070294467425d11e994a86ee9c55dbfe02c4d54b5fa587ea0c90",
+    "size": 2411904,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Text",
+      "IBMPlexSansJP-Text",
+      "Regular",
+      "Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Text.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Thin-40bc189cfa5ea918.ttf",
+    "sha256": "40bc189cfa5ea918806350e307ce976c5972956636fecd9d491ef22f1ee78cc8",
+    "size": 2439068,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Thin",
+      "IBMPlexSansJP-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Bold-3e0998fc8fee764c.ttf",
+    "sha256": "3e0998fc8fee764c8eb67e8ae93023994a12b89db2718fa3e4d4f75a71690b76",
+    "size": 2381248,
+    "names": [
+      "Bold",
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Bold",
+      "IBMPlexSansJP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/unhinted/IBMPlexSansJP-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-ExtraLight-8a9de7de7d1387e2.ttf",
+    "sha256": "8a9de7de7d1387e2ee25ab379361644fb015e4c541a7c3e7428edd9a73ff177e",
+    "size": 2416940,
+    "names": [
+      "ExtraLight",
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP ExtLt",
+      "IBMPlexSansJP-ExtLt",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/unhinted/IBMPlexSansJP-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Light-6f6e2a903a173ded.ttf",
+    "sha256": "6f6e2a903a173dedf544c8fa6e8da10449bc24330a6b9c36226c87536b7f50c0",
+    "size": 2408292,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Light",
+      "IBMPlexSansJP-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/unhinted/IBMPlexSansJP-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Medium-fb6a44b71778349f.ttf",
+    "sha256": "fb6a44b71778349fd88d18412c614b96ae0008659ba10cca604ea3a9eb6fa8e5",
+    "size": 2390920,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Medm",
+      "IBMPlexSansJP-Medm",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/unhinted/IBMPlexSansJP-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Regular-9dd896cc4c4bff5d.ttf",
+    "sha256": "9dd896cc4c4bff5dde463c2c43386dacfd4bbbeda4647082d3bbab428ae7ea40",
+    "size": 2398088,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBMPlexSansJP",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/unhinted/IBMPlexSansJP-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-SemiBold-63ab3988125a8d72.ttf",
+    "sha256": "63ab3988125a8d726b984a57b20e789bbbdb4dd06531f5016e5fc19f889f871f",
+    "size": 2390516,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP SmBld",
+      "IBM Plex Sans JP Smbld",
+      "IBMPlexSansJP-SmBld",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/unhinted/IBMPlexSansJP-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Text-08a4798052b64280.ttf",
+    "sha256": "08a4798052b642805acbb096a3a484779a5ebe7ce737a79ab3ca7156ab6a33ee",
+    "size": 2394548,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Text",
+      "IBMPlexSansJP-Text",
+      "Regular",
+      "Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/unhinted/IBMPlexSansJP-Text.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Thin-808bdd5a68bb711e.ttf",
+    "sha256": "808bdd5a68bb711e1a7e3e8ee231e322686bc1479bd0dd6082aa3bc5998c0ccc",
+    "size": 2421448,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Thin",
+      "IBMPlexSansJP-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/ttf/unhinted/IBMPlexSansJP-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Bold-0e940d1542d595fa.otf",
+    "sha256": "0e940d1542d595fa210e8e67d9af620c5ad17e10901637284fe76332b69427a7",
+    "size": 1915480,
+    "names": [
+      "Bold",
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Bold",
+      "IBMPlexSansJP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/hinted/IBMPlexSansJP-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-ExtraLight-875d73973ac4ff22.otf",
+    "sha256": "875d73973ac4ff2243775b7cdaecec9550c67e50c1ada1ae89cb3534b1a4583c",
+    "size": 1970404,
+    "names": [
+      "ExtraLight",
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP ExtLt",
+      "IBMPlexSansJP-ExtLt",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/hinted/IBMPlexSansJP-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Light-32281970a8b59789.otf",
+    "sha256": "32281970a8b5978906fe7fbad97c7c1a8e3249ae009d1746e9371d25ed1410f2",
+    "size": 1975868,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Light",
+      "IBMPlexSansJP-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/hinted/IBMPlexSansJP-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Medium-d05ae7db6fe2042d.otf",
+    "sha256": "d05ae7db6fe2042d99267f17d5976d5a2d4eaab212eba08d8ab72f040b5310f5",
+    "size": 1962648,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Medm",
+      "IBMPlexSansJP-Medm",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/hinted/IBMPlexSansJP-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Regular-22fb9ee653bf8ba5.otf",
+    "sha256": "22fb9ee653bf8ba54ecd67620bd8c8c6925c662ae18cfaf33f8fa1c84b1b7ac6",
+    "size": 1933944,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBMPlexSansJP",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/hinted/IBMPlexSansJP-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-SemiBold-5d603ad6a754ab14.otf",
+    "sha256": "5d603ad6a754ab14ee04cb3c40243ed841b9b8f4563161f959135afa9ba72b32",
+    "size": 1959556,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP SmBld",
+      "IBM Plex Sans JP Smbld",
+      "IBMPlexSansJP-SmBld",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/hinted/IBMPlexSansJP-SemiBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Text-97f361ba5838ceaf.otf",
+    "sha256": "97f361ba5838ceaf4146ddbc7c2889f067adb658813f6ad902b73d89ddfe2173",
+    "size": 1968980,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Text",
+      "IBMPlexSansJP-Text",
+      "Regular",
+      "Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/hinted/IBMPlexSansJP-Text.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Thin-9bfd0163e5799315.otf",
+    "sha256": "9bfd0163e579931534f697ec963c32ea1525e5c2ecca569e5b0d894b4f13059d",
+    "size": 1889140,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Thin",
+      "IBMPlexSansJP-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/hinted/IBMPlexSansJP-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Bold-6515d138da1cc295.otf",
+    "sha256": "6515d138da1cc2957ea920e3a6d23f48a7eb7c18f953deedc7f30dcabbe1b72c",
+    "size": 1908024,
+    "names": [
+      "Bold",
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Bold",
+      "IBMPlexSansJP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/unhinted/IBMPlexSansJP-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-ExtraLight-b918e58e65a50bb5.otf",
+    "sha256": "b918e58e65a50bb5165791c58364f7b4f875b612986ce9fdf97b879c7628300a",
+    "size": 1965088,
+    "names": [
+      "ExtraLight",
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP ExtLt",
+      "IBMPlexSansJP-ExtLt",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/unhinted/IBMPlexSansJP-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Light-4b224e84f483e605.otf",
+    "sha256": "4b224e84f483e605f05f430378337bb6f26775885bef7c6991534eea75b3fbe0",
+    "size": 1970312,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Light",
+      "IBMPlexSansJP-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/unhinted/IBMPlexSansJP-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Medium-7299405872518015.otf",
+    "sha256": "7299405872518015106cd45d9865a0d10cdd8d58672fea9383ce7eeef76a743a",
+    "size": 1956592,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Medm",
+      "IBMPlexSansJP-Medm",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/unhinted/IBMPlexSansJP-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Regular-004ec4fc23bb38ee.otf",
+    "sha256": "004ec4fc23bb38eebb03bdb9235ee580d1d3c187172b146064e1b548215d8724",
+    "size": 1928080,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBMPlexSansJP",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/unhinted/IBMPlexSansJP-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-SemiBold-36bc86cc2149898a.otf",
+    "sha256": "36bc86cc2149898a7be32a8a0ff0dbeeddc1f413d93e59b5990673ead2be260f",
+    "size": 1952448,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP SmBld",
+      "IBM Plex Sans JP Smbld",
+      "IBMPlexSansJP-SmBld",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/unhinted/IBMPlexSansJP-SemiBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Text-702ad8ba40a901da.otf",
+    "sha256": "702ad8ba40a901dac4ad4b9539dbfd87c33c29ff9ee1ae0cc0492a686a8373e6",
+    "size": 1963092,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Text",
+      "IBMPlexSansJP-Text",
+      "Regular",
+      "Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/unhinted/IBMPlexSansJP-Text.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansJP-Thin-db0cf70045e9709c.otf",
+    "sha256": "db0cf70045e9709c5d5acf1f3267b893398fd43a4065eb8e06f5c48429b7816e",
+    "size": 1883444,
+    "names": [
+      "IBM Plex Sans JP",
+      "IBM Plex Sans JP Thin",
+      "IBMPlexSansJP-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-jp/fonts/complete/otf/unhinted/IBMPlexSansJP-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansHebrew-Bold-f8b3da40a6faf0ac.otf",
+    "sha256": "f8b3da40a6faf0acb890c8f4b6087a77eea6a421e1902a492ec999f8b7817dbf",
+    "size": 63260,
+    "names": [
+      "Bold",
+      "IBM Plex Sans Hebrew",
+      "IBM Plex Sans Hebrew Bold",
+      "IBMPlexSansHebrew-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-hebrew/fonts/complete/otf/IBMPlexSansHebrew-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansHebrew-ExtraLight-3c1c8be751ac1b91.otf",
+    "sha256": "3c1c8be751ac1b91531f72f7b49b07cf13666880f25c8c8ceb951ebd1ab8d675",
+    "size": 62776,
+    "names": [
+      "ExtraLight",
+      "IBM Plex Sans Hebrew",
+      "IBM Plex Sans Hebrew ExtLt",
+      "IBMPlexSansHebrew-ExtLt",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-hebrew/fonts/complete/otf/IBMPlexSansHebrew-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansHebrew-Light-3f5fac91c20e0604.otf",
+    "sha256": "3f5fac91c20e0604be8b487512201807fa7061610eebbc3723843965b7775213",
+    "size": 62640,
+    "names": [
+      "IBM Plex Sans Hebrew",
+      "IBM Plex Sans Hebrew Light",
+      "IBMPlexSansHebrew-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-hebrew/fonts/complete/otf/IBMPlexSansHebrew-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansHebrew-Medium-f5c4e523179d12f8.otf",
+    "sha256": "f5c4e523179d12f851dd055dfc2df635ff122bde4fe3f4f279f1cfa884b65012",
+    "size": 63036,
+    "names": [
+      "IBM Plex Sans Hebrew",
+      "IBM Plex Sans Hebrew Medm",
+      "IBMPlexSansHebrew-Medm",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-hebrew/fonts/complete/otf/IBMPlexSansHebrew-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansHebrew-Regular-1802e70e675f120a.otf",
+    "sha256": "1802e70e675f120aedfff98abc8160058e0c4ccbcf7020f500f33d028bae6725",
+    "size": 60900,
+    "names": [
+      "IBM Plex Sans Hebrew",
+      "IBMPlexSansHebrew",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-hebrew/fonts/complete/otf/IBMPlexSansHebrew-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansHebrew-SemiBold-d72d9f87523be9a6.otf",
+    "sha256": "d72d9f87523be9a639ccbbf54b88c0a571e001c57b38e3e970f5f20ea68e44b5",
+    "size": 63880,
+    "names": [
+      "IBM Plex Sans Hebrew",
+      "IBM Plex Sans Hebrew SmBld",
+      "IBMPlexSansHebrew-SmBld",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-hebrew/fonts/complete/otf/IBMPlexSansHebrew-SemiBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansHebrew-Text-5f79e492ec41f2d0.otf",
+    "sha256": "5f79e492ec41f2d080de745b40aad9bf47fe000c89194b98ab1ed1f33176e732",
+    "size": 62192,
+    "names": [
+      "IBM Plex Sans Hebrew",
+      "IBM Plex Sans Hebrew Text",
+      "IBMPlexSansHebrew-Text",
+      "Regular",
+      "Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-hebrew/fonts/complete/otf/IBMPlexSansHebrew-Text.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansHebrew-Thin-2fe62339d910ca34.otf",
+    "sha256": "2fe62339d910ca3406ecd06f7ea479906f4105a730e779ef499bfab4737d80ae",
+    "size": 61480,
+    "names": [
+      "IBM Plex Sans Hebrew",
+      "IBM Plex Sans Hebrew Thin",
+      "IBMPlexSansHebrew-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-hebrew/fonts/complete/otf/IBMPlexSansHebrew-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansDevanagari-Bold-60b5f0aea7004b42.otf",
+    "sha256": "60b5f0aea7004b42ad3a20a093a811c2e757f0793493a7c4235ca7c10a839dfc",
+    "size": 173908,
+    "names": [
+      "Bold",
+      "IBM Plex Sans Devanagari",
+      "IBM Plex Sans Devanagari Bold",
+      "IBMPlexSansDevanagari-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-devanagari/fonts/complete/otf/IBMPlexSansDevanagari-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansDevanagari-ExtraLight-0c69e21abfe8710d.otf",
+    "sha256": "0c69e21abfe8710d3216d099d9f34c60ac805922ec24a705260a99617fbb9724",
+    "size": 195888,
+    "names": [
+      "ExtraLight",
+      "IBM Plex Sans Devanagari",
+      "IBM Plex Sans Devanagari ExtLt",
+      "IBMPlexSansDevanagari-ExtLt",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-devanagari/fonts/complete/otf/IBMPlexSansDevanagari-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansDevanagari-Light-566204cc9e513f76.otf",
+    "sha256": "566204cc9e513f76e9c36d4344bf9a21d18f0d3c7e1ba7daa5c3d6897650c536",
+    "size": 196604,
+    "names": [
+      "IBM Plex Sans Devanagari",
+      "IBM Plex Sans Devanagari Light",
+      "IBMPlexSansDevanagari-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-devanagari/fonts/complete/otf/IBMPlexSansDevanagari-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansDevanagari-Medium-66e48b83e9383ec5.otf",
+    "sha256": "66e48b83e9383ec593b9be79cf44698abe28404751e4dc1c454c6606f03f3e9f",
+    "size": 189592,
+    "names": [
+      "IBM Plex Sans Devanagari",
+      "IBM Plex Sans Devanagari Medm",
+      "IBMPlexSansDevanagari-Medm",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-devanagari/fonts/complete/otf/IBMPlexSansDevanagari-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansDevanagari-Regular-ae123bae0fb95306.otf",
+    "sha256": "ae123bae0fb95306189b4a9c240b76caffbf6adf33c294aec5080c090219c13a",
+    "size": 177132,
+    "names": [
+      "IBM Plex Sans Devanagari",
+      "IBMPlexSansDevanagari",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-devanagari/fonts/complete/otf/IBMPlexSansDevanagari-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansDevanagari-SemiBold-5cea20c195e9e023.otf",
+    "sha256": "5cea20c195e9e02370c94d246843b1e155f51404d57ed6070b5d1aadb6ed2f05",
+    "size": 191800,
+    "names": [
+      "IBM Plex Sans Devanagari",
+      "IBM Plex Sans Devanagari SmBld",
+      "IBMPlexSansDevanagari-SmBld",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-devanagari/fonts/complete/otf/IBMPlexSansDevanagari-SemiBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansDevanagari-Text-c77326d398e7ccec.otf",
+    "sha256": "c77326d398e7ccec64513971c2dd271f08e4185cd2255b41a380a5f362fc1903",
+    "size": 188640,
+    "names": [
+      "IBM Plex Sans Devanagari",
+      "IBM Plex Sans Devanagari Text",
+      "IBMPlexSansDevanagari-Text",
+      "Regular",
+      "Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-devanagari/fonts/complete/otf/IBMPlexSansDevanagari-Text.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansDevanagari-Thin-89dca571e0fd972d.otf",
+    "sha256": "89dca571e0fd972d7c6b2dc17e5d01266f114a270a62fdab37c22fbc266d0308",
+    "size": 185052,
+    "names": [
+      "IBM Plex Sans Devanagari",
+      "IBM Plex Sans Devanagari Thin",
+      "IBMPlexSansDevanagari-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-devanagari/fonts/complete/otf/IBMPlexSansDevanagari-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansCondensed-Bold-eacd809caf3f2b81.otf",
+    "sha256": "eacd809caf3f2b81d1e577539fb165addb119b71d400bdfdabb882cd05a52456",
+    "size": 72828,
+    "names": [
+      "Bold",
+      "IBM Plex Sans Cond",
+      "IBM Plex Sans Cond Bold",
+      "IBM Plex Sans Condensed",
+      "IBMPlexSansCond-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-condensed/fonts/complete/otf/IBMPlexSansCondensed-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansCondensed-BoldItalic-50cd093fe7cf4a32.otf",
+    "sha256": "50cd093fe7cf4a3261e45f6b7a476d27bc4f251f496d0abfe5ac453e89dc113e",
+    "size": 76844,
+    "names": [
+      "Bold Italic",
+      "IBM Plex Sans Cond",
+      "IBM Plex Sans Cond Bold Italic",
+      "IBM Plex Sans Condensed",
+      "IBMPlexSansCond-BoldItalic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-condensed/fonts/complete/otf/IBMPlexSansCondensed-BoldItalic.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansCondensed-ExtraLight-69086078c026a971.otf",
+    "sha256": "69086078c026a971bfad98a2bd500af2d849ae38193556ba307b6c355ea55757",
+    "size": 72108,
+    "names": [
+      "ExtraLight",
+      "IBM Plex Sans Cond ExtLt",
+      "IBM Plex Sans Condensed",
+      "IBMPlexSansCond-ExtLt",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-condensed/fonts/complete/otf/IBMPlexSansCondensed-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansCondensed-ExtraLightItalic-9ebb40752f2a515b.otf",
+    "sha256": "9ebb40752f2a515b0519cea2e589e28396fed2caa73e47a900477d6c9058825c",
+    "size": 75628,
+    "names": [
+      "ExtraLight Italic",
+      "IBM Plex Sans Cond ExtLt",
+      "IBM Plex Sans Cond ExtLt Italic",
+      "IBM Plex Sans Condensed",
+      "IBMPlexSansCond-ExtLtItalic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-condensed/fonts/complete/otf/IBMPlexSansCondensed-ExtraLightItalic.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansCondensed-Italic-d63d5b4c7e243412.otf",
+    "sha256": "d63d5b4c7e243412884c9bba749e0a39726a4ffaaf57918573ff2949614655d8",
+    "size": 75908,
+    "names": [
+      "IBM Plex Sans Cond",
+      "IBM Plex Sans Cond Italic",
+      "IBM Plex Sans Condensed",
+      "IBMPlexSansCond-Italic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-condensed/fonts/complete/otf/IBMPlexSansCondensed-Italic.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansCondensed-Light-4b9417866a58a4b2.otf",
+    "sha256": "4b9417866a58a4b270eaff46edd116dc4f306abf031cafd6b7b5051918f5eb6c",
+    "size": 73352,
+    "names": [
+      "IBM Plex Sans Cond Light",
+      "IBM Plex Sans Condensed",
+      "IBMPlexSansCond-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-condensed/fonts/complete/otf/IBMPlexSansCondensed-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/IBMPlexSansCondensed-LightItalic-d616b0c6053fcfde.otf",
+    "sha256": "d616b0c6053fcfdea97fd166404364450010f5fb3cacd08ef3d9ee6b662c5856",
+    "size": 75896,
+    "names": [
+      "IBM Plex Sans Cond Light",
+      "IBM Plex Sans Cond Light Italic",
+      "IBM Plex Sans Condensed",
+      "IBMPlexSansCond-LightItalic",
+      "Italic",
+      "Light Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/IBM Plex字体1.1.0_猫啃网/IBM Plex字体1.1.0/ibm-plex-sans-condensed/fonts/complete/otf/IBMPlexSansCondensed-LightItalic.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/91c25c350d3cac39-license.txt",
+      "incoming/maoken-20261104/licenses-exact/7e6b2818edbd8f6a-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
