@@ -1,0 +1,817 @@
+[
+  {
+    "font": "incoming/SweiMarkerLegCJKtc-Regular-b0fccf734c6d9d80.ttf",
+    "sha256": "b0fccf734c6d9d804c6f87da6166d66971ebec651ea502014a02bd6edd358e57",
+    "size": 18956060,
+    "names": [
+      "Regular",
+      "Swei Marker Leg CJK TC",
+      "Swei Marker Leg CJKtc Regular",
+      "SweiMarkerLegCJKtc-Regular",
+      "獅尾麥腿黑體",
+      "獅尾麥腿黑體-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾麦克黑体2.129_猫啃网/麦腿黑体2.129/CJK TC/SweiMarkerLegCJKtc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiMarkerLegCJKtc-Thin-8af3d23152da83ef.ttf",
+    "sha256": "8af3d23152da83ef3368a5a5f099b46b6ebcbd41efb987861ca38f5ac8733d39",
+    "size": 19251308,
+    "names": [
+      "Swei Marker Leg CJK TC",
+      "Swei Marker Leg CJKtc Thin",
+      "SweiMarkerLegCJKtc-Thin",
+      "Thin",
+      "獅尾麥腿黑體",
+      "獅尾麥腿黑體-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾麦克黑体2.129_猫啃网/麦腿黑体2.129/CJK TC/SweiMarkerLegCJKtc-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKjp-Black-cf785a7ae2ea0ede.ttf",
+    "sha256": "cf785a7ae2ea0edec6f117a55a89c33cede8868702eece565bb584f138872527",
+    "size": 27698184,
+    "names": [
+      "Black",
+      "Swei Bone Sans CJK JP",
+      "Swei Bone Sans CJKjp Black",
+      "SweiBoneSansCJKjp-Black",
+      "獅尾骨頭黑體JP",
+      "獅尾骨頭黑體JP-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK JP/SweiBoneSansCJKjp-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKjp-DemiLight-788237c668a8cbf4.ttf",
+    "sha256": "788237c668a8cbf4643527100d13cb295d605b9fb8b96163fd4c496919811a0f",
+    "size": 31229560,
+    "names": [
+      "DemiLight",
+      "Swei Bone Sans CJK JP",
+      "Swei Bone Sans CJKjp DemiLight",
+      "SweiBoneSansCJKjp-DemiLight",
+      "獅尾骨頭黑體JP",
+      "獅尾骨頭黑體JP-DemiLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK JP/SweiBoneSansCJKjp-DemiLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKjp-Light-b6816f79a18011e6.ttf",
+    "sha256": "b6816f79a18011e656dd3a82b08c1e7f89e609044e49cfc98fc798192a0262f7",
+    "size": 31623944,
+    "names": [
+      "Light",
+      "Swei Bone Sans CJK JP",
+      "Swei Bone Sans CJKjp Light",
+      "SweiBoneSansCJKjp-Light",
+      "獅尾骨頭黑體JP",
+      "獅尾骨頭黑體JP-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK JP/SweiBoneSansCJKjp-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKjp-Medium-a4e272a1d9cbd513.ttf",
+    "sha256": "a4e272a1d9cbd51357153f62a3422dd9d94c25fb59ef2a8a06a3ac47da0eb51a",
+    "size": 30249384,
+    "names": [
+      "Medium",
+      "Swei Bone Sans CJK JP",
+      "Swei Bone Sans CJKjp Medium",
+      "SweiBoneSansCJKjp-Medium",
+      "獅尾骨頭黑體JP",
+      "獅尾骨頭黑體JP-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK JP/SweiBoneSansCJKjp-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKjp-Regular-877009db6f811bec.ttf",
+    "sha256": "877009db6f811becacd7822d691b6c7a9f0f075c01cdd611816a6d6cbd3c3c4d",
+    "size": 31120548,
+    "names": [
+      "Regular",
+      "Swei Bone Sans CJK JP",
+      "Swei Bone Sans CJKjp Regular",
+      "SweiBoneSansCJKjp-Regular",
+      "獅尾骨頭黑體JP",
+      "獅尾骨頭黑體JP-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK JP/SweiBoneSansCJKjp-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKjp-Thin-9279fba546dd9aa1.ttf",
+    "sha256": "9279fba546dd9aa16b84ac7ffedc01603b7187c93a77a416571ad820e8885d0c",
+    "size": 31899852,
+    "names": [
+      "Swei Bone Sans CJK JP",
+      "Swei Bone Sans CJKjp Thin",
+      "SweiBoneSansCJKjp-Thin",
+      "Thin",
+      "獅尾骨頭黑體JP",
+      "獅尾骨頭黑體JP-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK JP/SweiBoneSansCJKjp-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKsc-Black-a5d41c814cc8250f.ttf",
+    "sha256": "a5d41c814cc8250f0f150549c365aa312a59c5e9ca60a606f4e1ff8cf1894079",
+    "size": 27963324,
+    "names": [
+      "Black",
+      "Swei Bone Sans CJK SC",
+      "Swei Bone Sans CJKsc Black",
+      "SweiBoneSansCJKsc-Black",
+      "獅尾骨頭黑體SC",
+      "獅尾骨頭黑體SC-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK SC/SweiBoneSansCJKsc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKsc-Bold-8bc1bf469ed59615.ttf",
+    "sha256": "8bc1bf469ed596151aa93048080d37c7ab6290e9076b5ff82fb06351376a1cb7",
+    "size": 29368136,
+    "names": [
+      "Bold",
+      "Swei Bone Sans CJK SC",
+      "Swei Bone Sans CJKsc Bold",
+      "SweiBoneSansCJKsc-Bold",
+      "獅尾骨頭黑體SC",
+      "獅尾骨頭黑體SC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK SC/SweiBoneSansCJKsc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKsc-DemiLight-29107bc61cc8bc75.ttf",
+    "sha256": "29107bc61cc8bc753fc32d741ba607a716ae59a3cc2df585fee0194954d30365",
+    "size": 31447768,
+    "names": [
+      "DemiLight",
+      "Swei Bone Sans CJK SC",
+      "Swei Bone Sans CJKsc DemiLight",
+      "SweiBoneSansCJKsc-DemiLight",
+      "獅尾骨頭黑體SC",
+      "獅尾骨頭黑體SC-DemiLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK SC/SweiBoneSansCJKsc-DemiLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKsc-Light-9b9dfa4c5a4a9e6e.ttf",
+    "sha256": "9b9dfa4c5a4a9e6e7ec04243b016ecd81b191632b7c2ef9e0703db7259c50d0d",
+    "size": 31807636,
+    "names": [
+      "Light",
+      "Swei Bone Sans CJK SC",
+      "Swei Bone Sans CJKsc Light",
+      "SweiBoneSansCJKsc-Light",
+      "獅尾骨頭黑體SC",
+      "獅尾骨頭黑體SC-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK SC/SweiBoneSansCJKsc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKsc-Medium-a97ed298c84bf798.ttf",
+    "sha256": "a97ed298c84bf79895ad232ae59afccbeb69243c9d1ea55d9f443a7696f55bfa",
+    "size": 30520404,
+    "names": [
+      "Medium",
+      "Swei Bone Sans CJK SC",
+      "Swei Bone Sans CJKsc Medium",
+      "SweiBoneSansCJKsc-Medium",
+      "獅尾骨頭黑體SC",
+      "獅尾骨頭黑體SC-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK SC/SweiBoneSansCJKsc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKsc-Regular-daea2816067f798d.ttf",
+    "sha256": "daea2816067f798d17d8ab397e3cbabc31ba21baf273d82b3c887db466a120ce",
+    "size": 31358448,
+    "names": [
+      "Regular",
+      "Swei Bone Sans CJK SC",
+      "Swei Bone Sans CJKsc Regular",
+      "SweiBoneSansCJKsc-Regular",
+      "獅尾骨頭黑體SC",
+      "獅尾骨頭黑體SC-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK SC/SweiBoneSansCJKsc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKsc-Thin-02cd3c7bcdcb78c6.ttf",
+    "sha256": "02cd3c7bcdcb78c65998425a1a78aabb12fd637a6e65f85d63d6d66b4d8746fc",
+    "size": 32046124,
+    "names": [
+      "Swei Bone Sans CJK SC",
+      "Swei Bone Sans CJKsc Thin",
+      "SweiBoneSansCJKsc-Thin",
+      "Thin",
+      "獅尾骨頭黑體SC",
+      "獅尾骨頭黑體SC-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK SC/SweiBoneSansCJKsc-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKtc-Black-140dd35dcd6b175a.ttf",
+    "sha256": "140dd35dcd6b175a44df407700730dfb0e1e55164b193749f41a7ec3d6183f18",
+    "size": 28095236,
+    "names": [
+      "Black",
+      "Swei Bone Sans CJK TC",
+      "Swei Bone Sans CJKtc Black",
+      "SweiBoneSansCJKtc-Black",
+      "獅尾骨頭黑體",
+      "獅尾骨頭黑體-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK TC/SweiBoneSansCJKtc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKtc-Bold-f89433c29d982d71.ttf",
+    "sha256": "f89433c29d982d71ebb50336f970c90ecc35fa3fdfb9a7ab0bd5bdec59918e70",
+    "size": 29570956,
+    "names": [
+      "Bold",
+      "Swei Bone Sans CJK TC",
+      "Swei Bone Sans CJKtc Bold",
+      "SweiBoneSansCJKtc-Bold",
+      "獅尾骨頭黑體",
+      "獅尾骨頭黑體-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK TC/SweiBoneSansCJKtc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKtc-DemiLight-4c503b69f5157da7.ttf",
+    "sha256": "4c503b69f5157da7803f4da1075cbd08573e7287325d996cee1508da0e58a844",
+    "size": 31710312,
+    "names": [
+      "Demi-Light",
+      "DemiLight",
+      "Swei Bone Sans CJK TC",
+      "Swei Bone Sans CJKtc DemiLight",
+      "SweiBoneSansCJKtc-DemiLight",
+      "獅尾骨頭黑體",
+      "獅尾骨頭黑體-Demi-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK TC/SweiBoneSansCJKtc-DemiLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKtc-Light-407caea1f6efe8ea.ttf",
+    "sha256": "407caea1f6efe8ea5c9101d0d125ac348984c2a8c88f786141a6e23fa2da56c9",
+    "size": 32060284,
+    "names": [
+      "Light",
+      "Swei Bone Sans CJK TC",
+      "Swei Bone Sans CJKtc Light",
+      "SweiBoneSansCJKtc-Light",
+      "獅尾骨頭黑體",
+      "獅尾骨頭黑體-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK TC/SweiBoneSansCJKtc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKtc-Medium-2ce6a3d52de21d92.ttf",
+    "sha256": "2ce6a3d52de21d92e866caf596e8735ebd6d169d2a1c79bee809ac29dd7c00df",
+    "size": 30754400,
+    "names": [
+      "Medium",
+      "Swei Bone Sans CJK TC",
+      "Swei Bone Sans CJKtc Medium",
+      "SweiBoneSansCJKtc-Medium",
+      "獅尾骨頭黑體",
+      "獅尾骨頭黑體-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK TC/SweiBoneSansCJKtc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKtc-Regular-ad7ef09176574b74.ttf",
+    "sha256": "ad7ef09176574b74d4738dc59d1a47583b8a1cca0f9981cf724e07fe43a62fea",
+    "size": 31617272,
+    "names": [
+      "Regular",
+      "Swei Bone Sans CJK TC",
+      "Swei Bone Sans CJKtc Regular",
+      "SweiBoneSansCJKtc-Regular",
+      "獅尾骨頭黑體",
+      "獅尾骨頭黑體-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK TC/SweiBoneSansCJKtc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiBoneSansCJKtc-Thin-9557e3b366ff5293.ttf",
+    "sha256": "9557e3b366ff5293fce24505f9c67cfbdcaa3bf6625c62503b8f68f3de5c8835",
+    "size": 32291916,
+    "names": [
+      "Swei Bone Sans CJK TC",
+      "Swei Bone Sans CJKtc Thin",
+      "SweiBoneSansCJKtc-Thin",
+      "Thin",
+      "獅尾骨頭黑體",
+      "獅尾骨頭黑體-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾骨头黑体2.130_猫啃网/狮尾骨头黑体2.130/CJK TC/SweiBoneSansCJKtc-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKjp-Black-d79ce817a6276ad5.ttf",
+    "sha256": "d79ce817a6276ad50264b94004c334e3712237ae64d6724ed0be5035c22315cc",
+    "size": 9595948,
+    "names": [
+      "Black",
+      "Swei Dart Sans CJK JP",
+      "Swei Dart Sans CJKjp Black",
+      "SweiDartSansCJKjp-Black",
+      "獅尾飛鏢黑體JP",
+      "獅尾飛鏢黑體JP-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK JP/SweiDartSansCJKjp-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKjp-Bold-b53e42bcd978cf28.ttf",
+    "sha256": "b53e42bcd978cf281bd9a3acaddf6934b5a71a0727bc45664aa9dda4427987f2",
+    "size": 9599284,
+    "names": [
+      "Bold",
+      "Swei Dart Sans CJK JP",
+      "Swei Dart Sans CJKjp Bold",
+      "SweiDartSansCJKjp-Bold",
+      "獅尾飛鏢黑體JP",
+      "獅尾飛鏢黑體JP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK JP/SweiDartSansCJKjp-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKjp-DemiLight-a7133ffd50acb206.ttf",
+    "sha256": "a7133ffd50acb206af8d3bba9e44ee5323ebeffca416bb61f5c273954c8af96e",
+    "size": 9817848,
+    "names": [
+      "DemiLight",
+      "Swei Dart Sans CJK JP",
+      "Swei Dart Sans CJKjp DemiLight",
+      "SweiDartSansCJKjp-DemiLight",
+      "獅尾飛鏢黑體JP",
+      "獅尾飛鏢黑體JP-DemiLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK JP/SweiDartSansCJKjp-DemiLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKjp-Light-3a0424693538c01e.ttf",
+    "sha256": "3a0424693538c01e89d4ad3a924979859b7db87df20c23aeb7c28f0544be5fdf",
+    "size": 9932464,
+    "names": [
+      "Light",
+      "Swei Dart Sans CJK JP",
+      "Swei Dart Sans CJKjp Light",
+      "SweiDartSansCJKjp-Light",
+      "獅尾飛鏢黑體JP",
+      "獅尾飛鏢黑體JP-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK JP/SweiDartSansCJKjp-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKjp-Medium-264e3dad3344d311.ttf",
+    "sha256": "264e3dad3344d3117db658df0cbac8380735a7e76a4e9199aa8f65b3072d2621",
+    "size": 9684684,
+    "names": [
+      "Medium",
+      "Swei Dart Sans CJK JP",
+      "Swei Dart Sans CJKjp Medium",
+      "SweiDartSansCJKjp-Medium",
+      "獅尾飛鏢黑體JP",
+      "獅尾飛鏢黑體JP-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK JP/SweiDartSansCJKjp-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKjp-Regular-aea9459edd49be69.ttf",
+    "sha256": "aea9459edd49be69b70033337cd3b5d4e3d14dfc2d24167c8bc664b6b5039f11",
+    "size": 9848480,
+    "names": [
+      "Regular",
+      "Swei Dart Sans CJK JP",
+      "Swei Dart Sans CJKjp Regular",
+      "SweiDartSansCJKjp-Regular",
+      "獅尾飛鏢黑體JP",
+      "獅尾飛鏢黑體JP-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK JP/SweiDartSansCJKjp-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKjp-Thin-8a5ec72b439baf61.ttf",
+    "sha256": "8a5ec72b439baf6102b3086c78d4612ad02624deb883383e89e0aeac2cab5d81",
+    "size": 10067936,
+    "names": [
+      "Swei Dart Sans CJK JP",
+      "Swei Dart Sans CJKjp Thin",
+      "SweiDartSansCJKjp-Thin",
+      "Thin",
+      "獅尾飛鏢黑體JP",
+      "獅尾飛鏢黑體JP-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK JP/SweiDartSansCJKjp-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKsc-Black-f6a39e5ac56ef516.ttf",
+    "sha256": "f6a39e5ac56ef5160b2bbdb4e9d173fe168943cdfd3ad028299d2d982ccbfcf0",
+    "size": 9684716,
+    "names": [
+      "Black",
+      "Swei Dart Sans CJK SC",
+      "Swei Dart Sans CJKsc Black",
+      "SweiDartSansCJKsc-Black",
+      "獅尾飛鏢黑體SC",
+      "獅尾飛鏢黑體SC-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK SC/SweiDartSansCJKsc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKsc-Bold-7f9041f87b4251a3.ttf",
+    "sha256": "7f9041f87b4251a38672c2a421e567c81a2182df8c79cd306c53e8b5103adc12",
+    "size": 9680096,
+    "names": [
+      "Bold",
+      "Swei Dart Sans CJK SC",
+      "Swei Dart Sans CJKsc Bold",
+      "SweiDartSansCJKsc-Bold",
+      "獅尾飛鏢黑體SC",
+      "獅尾飛鏢黑體SC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK SC/SweiDartSansCJKsc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKsc-DemiLight-4d17270639d9abce.ttf",
+    "sha256": "4d17270639d9abce968dde56c84cb1c49bf01fe0892bebbb5070a88889b11e70",
+    "size": 9911304,
+    "names": [
+      "DemiLight",
+      "Swei Dart Sans CJK SC",
+      "Swei Dart Sans CJKsc DemiLight",
+      "SweiDartSansCJKsc-DemiLight",
+      "獅尾飛鏢黑體SC",
+      "獅尾飛鏢黑體SC-DemiLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK SC/SweiDartSansCJKsc-DemiLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKsc-Light-7f80588344c06c76.ttf",
+    "sha256": "7f80588344c06c76ab64c46e830e11f5fb4910e854838a1a51421d9d23f46760",
+    "size": 10040144,
+    "names": [
+      "Light",
+      "Swei Dart Sans CJK SC",
+      "Swei Dart Sans CJKsc Light",
+      "SweiDartSansCJKsc-Light",
+      "獅尾飛鏢黑體SC",
+      "獅尾飛鏢黑體SC-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK SC/SweiDartSansCJKsc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKsc-Medium-de22e3fc3c5c05c0.ttf",
+    "sha256": "de22e3fc3c5c05c0e6b69f392627feda700d2bf77fc2c9c5605fce9721248fb8",
+    "size": 9767900,
+    "names": [
+      "Medium",
+      "Swei Dart Sans CJK SC",
+      "Swei Dart Sans CJKsc Medium",
+      "SweiDartSansCJKsc-Medium",
+      "獅尾飛鏢黑體SC",
+      "獅尾飛鏢黑體SC-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK SC/SweiDartSansCJKsc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKsc-Regular-93d6a6470876359b.ttf",
+    "sha256": "93d6a6470876359b1be2fc33a066ee2dd9d4fef6fed49d39be0c0c3744ba5c55",
+    "size": 9943284,
+    "names": [
+      "Regular",
+      "Swei Dart Sans CJK SC",
+      "Swei Dart Sans CJKsc Regular",
+      "SweiDartSansCJKsc-Regular",
+      "獅尾飛鏢黑體SC",
+      "獅尾飛鏢黑體SC-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK SC/SweiDartSansCJKsc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKsc-Thin-3bf33706c5799982.ttf",
+    "sha256": "3bf33706c5799982e48fb780583742c43c1a8c7d17dc57668986b7f1035c573a",
+    "size": 10190992,
+    "names": [
+      "Swei Dart Sans CJK SC",
+      "Swei Dart Sans CJKsc Thin",
+      "SweiDartSansCJKsc-Thin",
+      "Thin",
+      "獅尾飛鏢黑體SC",
+      "獅尾飛鏢黑體SC-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK SC/SweiDartSansCJKsc-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiDartSansCJKtc-Black-867dd18d33276bfc.ttf",
+    "sha256": "867dd18d33276bfc5af2376d3fc049ab668feeb936ffd8a577690dcd464f1c01",
+    "size": 9657948,
+    "names": [
+      "Black",
+      "Swei Dart Sans CJK TC",
+      "Swei Dart Sans CJKtc Black",
+      "SweiDartSansCJKtc-Black",
+      "獅尾飛鏢黑體",
+      "獅尾飛鏢黑體-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾飞镖黑体2.130_猫啃网/狮尾飞镖黑体2.130/CJK TC/SweiDartSansCJKtc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
