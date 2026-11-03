@@ -1,0 +1,1553 @@
+[
+  {
+    "font": "incoming/QynFlavorGroteskJPN-Medium-bb4fa56fef34b87d.ttf",
+    "sha256": "bb4fa56fef34b87df6c6e69d4946adb3747a6d2bcac90342ebecbbc23adbeaaa",
+    "size": 13358068,
+    "names": [
+      "Medium",
+      "Qyn Flavor Grotesk JPN",
+      "Qyn Flavor Grotesk JPN Medium",
+      "Qyn-Flavor-Grotesk-JPN-Medium",
+      "Regular",
+      "檎風ゴシック JPN",
+      "檎風ゴシック JPN Medium",
+      "檎風黑體 JPN",
+      "檎風黑體 JPN Medium",
+      "檎风黑体 JPN",
+      "檎风黑体 JPN Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGrotesk-TTF-JPN/QynFlavorGroteskJPN-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorGroteskJPN-Regular-7d14330963d6b0ba.ttf",
+    "sha256": "7d14330963d6b0bacceeecc35630de272b7626c8d99a3a4007bfdadbca4e5cee",
+    "size": 13463548,
+    "names": [
+      "Qyn Flavor Grotesk JPN",
+      "Qyn-Flavor-Grotesk-JPN-Regular",
+      "Regular",
+      "檎風ゴシック JPN",
+      "檎風黑體 JPN",
+      "檎风黑体 JPN"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGrotesk-TTF-JPN/QynFlavorGroteskJPN-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorGroteskJPN-Thin-bb95ee400c9a8476.ttf",
+    "sha256": "bb95ee400c9a84768d1848b35ba2c76b082e6a01b0440ce02f2336c410b45caa",
+    "size": 13649736,
+    "names": [
+      "Qyn Flavor Grotesk JPN",
+      "Qyn Flavor Grotesk JPN Thin",
+      "Qyn-Flavor-Grotesk-JPN-Thin",
+      "Regular",
+      "Thin",
+      "檎風ゴシック JPN",
+      "檎風ゴシック JPN Thin",
+      "檎風黑體 JPN",
+      "檎風黑體 JPN Thin",
+      "檎风黑体 JPN",
+      "檎风黑体 JPN Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGrotesk-TTF-JPN/QynFlavorGroteskJPN-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHS-Bold-a79bdfa7b919410c.ttf",
+    "sha256": "a79bdfa7b919410c2f48be4937ccd7f1dd8f444a71816e0b5ed3366245b47fea",
+    "size": 12898432,
+    "names": [
+      "Bold",
+      "Qyn Flavor Grotesk Alt CHS",
+      "Qyn Flavor Grotesk Alt CHS Bold",
+      "Qyn-Flavor-Grotesk-Alt-CHS-Bold",
+      "檎風ゴシック Alt CHS",
+      "檎風ゴシック Alt CHS Bold",
+      "檎風黑體 Alt CHS",
+      "檎風黑體 Alt CHS Bold",
+      "檎风黑体 Alt CHS",
+      "檎风黑体 Alt CHS Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHS/QynFlavorAltCHS-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHS-Heavy-f2fa8a66f06d67dd.ttf",
+    "sha256": "f2fa8a66f06d67dd6ba7d47c0fc5dc77e7e096c9e62f2e757c6d20c8f8a00e53",
+    "size": 12809944,
+    "names": [
+      "Heavy",
+      "Qyn Flavor Grotesk Alt CHS",
+      "Qyn Flavor Grotesk Alt CHS Heavy",
+      "Qyn-Flavor-Grotesk-Alt-CHS-Heavy",
+      "Regular",
+      "檎風ゴシック Alt CHS",
+      "檎風ゴシック Alt CHS Heavy",
+      "檎風黑體 Alt CHS",
+      "檎風黑體 Alt CHS Heavy",
+      "檎风黑体 Alt CHS",
+      "檎风黑体 Alt CHS Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHS/QynFlavorAltCHS-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHS-Light-639b85df6fb26999.ttf",
+    "sha256": "639b85df6fb26999c4bcd052ea206df95e953535b0fb92db6be0f6638125dde1",
+    "size": 13244488,
+    "names": [
+      "Light",
+      "Qyn Flavor Grotesk Alt CHS",
+      "Qyn Flavor Grotesk Alt CHS Light",
+      "Qyn-Flavor-Grotesk-Alt-CHS-Light",
+      "Regular",
+      "檎風ゴシック Alt CHS",
+      "檎風ゴシック Alt CHS Light",
+      "檎風黑體 Alt CHS",
+      "檎風黑體 Alt CHS Light",
+      "檎风黑体 Alt CHS",
+      "檎风黑体 Alt CHS Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHS/QynFlavorAltCHS-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHS-Medium-c6f6c4957718bef1.ttf",
+    "sha256": "c6f6c4957718bef1165d34461034c0a9336a38d3a91e0b65b026b760852793c8",
+    "size": 13007020,
+    "names": [
+      "Medium",
+      "Qyn Flavor Grotesk Alt CHS",
+      "Qyn Flavor Grotesk Alt CHS Medium",
+      "Qyn-Flavor-Grotesk-Alt-CHS-Medium",
+      "Regular",
+      "檎風ゴシック Alt CHS",
+      "檎風ゴシック Alt CHS Medium",
+      "檎風黑體 Alt CHS",
+      "檎風黑體 Alt CHS Medium",
+      "檎风黑体 Alt CHS",
+      "檎风黑体 Alt CHS Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHS/QynFlavorAltCHS-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHS-Regular-9cd8daa69349a53e.ttf",
+    "sha256": "9cd8daa69349a53e730925a4d1af53866f04392e31f4cc93d845211a532d1700",
+    "size": 13112888,
+    "names": [
+      "Qyn Flavor Grotesk Alt CHS",
+      "Qyn-Flavor-Grotesk-Alt-CHS-Regular",
+      "Regular",
+      "檎風ゴシック Alt CHS",
+      "檎風黑體 Alt CHS",
+      "檎风黑体 Alt CHS"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHS/QynFlavorAltCHS-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHS-Thin-e6539540f6ed80d1.ttf",
+    "sha256": "e6539540f6ed80d1cb1f88526c3f09f39773bcf7d9ee0444f3a4d1f078264680",
+    "size": 13295036,
+    "names": [
+      "Qyn Flavor Grotesk Alt CHS",
+      "Qyn Flavor Grotesk Alt CHS Thin",
+      "Qyn-Flavor-Grotesk-Alt-CHS-Thin",
+      "Regular",
+      "Thin",
+      "檎風ゴシック Alt CHS",
+      "檎風ゴシック Alt CHS Thin",
+      "檎風黑體 Alt CHS",
+      "檎風黑體 Alt CHS Thin",
+      "檎风黑体 Alt CHS",
+      "檎风黑体 Alt CHS Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHS/QynFlavorAltCHS-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHT-Bold-34b2d9500b0f23b9.ttf",
+    "sha256": "34b2d9500b0f23b9a9daf73ec3714f82ce1aed54beff9d8334749dbbbe1b1ce0",
+    "size": 12896936,
+    "names": [
+      "Bold",
+      "Qyn Flavor Grotesk Alt CHT",
+      "Qyn Flavor Grotesk Alt CHT Bold",
+      "Qyn-Flavor-Grotesk-Alt-CHT-Bold",
+      "檎風ゴシック Alt CHT",
+      "檎風ゴシック Alt CHT Bold",
+      "檎風黑體 Alt CHT",
+      "檎風黑體 Alt CHT Bold",
+      "檎风黑体 Alt CHT",
+      "檎风黑体 Alt CHT Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHT/QynFlavorAltCHT-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHT-Heavy-48ca033066846d85.ttf",
+    "sha256": "48ca033066846d852f77fa3736900e2ff3584a2f298e2afe85c056f4af67abdc",
+    "size": 12754888,
+    "names": [
+      "Heavy",
+      "Qyn Flavor Grotesk Alt CHT",
+      "Qyn Flavor Grotesk Alt CHT Heavy",
+      "Qyn-Flavor-Grotesk-Alt-CHT-Heavy",
+      "Regular",
+      "檎風ゴシック Alt CHT",
+      "檎風ゴシック Alt CHT Heavy",
+      "檎風黑體 Alt CHT",
+      "檎風黑體 Alt CHT Heavy",
+      "檎风黑体 Alt CHT",
+      "檎风黑体 Alt CHT Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHT/QynFlavorAltCHT-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHT-Light-7669b0d9ad5e785b.ttf",
+    "sha256": "7669b0d9ad5e785bfe00c6b14665022fa7ea42080613c364b9a43cc1134f1633",
+    "size": 13372772,
+    "names": [
+      "Light",
+      "Qyn Flavor Grotesk Alt CHT",
+      "Qyn Flavor Grotesk Alt CHT Light",
+      "Qyn-Flavor-Grotesk-Alt-CHT-Light",
+      "Regular",
+      "檎風ゴシック Alt CHT",
+      "檎風ゴシック Alt CHT Light",
+      "檎風黑體 Alt CHT",
+      "檎風黑體 Alt CHT Light",
+      "檎风黑体 Alt CHT",
+      "檎风黑体 Alt CHT Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHT/QynFlavorAltCHT-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHT-Medium-5661de2ba2da5443.ttf",
+    "sha256": "5661de2ba2da5443eea81de4799c0f854a022fc0ad46db02c16e8145254c32ad",
+    "size": 13054824,
+    "names": [
+      "Medium",
+      "Qyn Flavor Grotesk Alt CHT",
+      "Qyn Flavor Grotesk Alt CHT Medium",
+      "Qyn-Flavor-Grotesk-Alt-CHT-Medium",
+      "Regular",
+      "檎風ゴシック Alt CHT",
+      "檎風ゴシック Alt CHT Medium",
+      "檎風黑體 Alt CHT",
+      "檎風黑體 Alt CHT Medium",
+      "檎风黑体 Alt CHT",
+      "檎风黑体 Alt CHT Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHT/QynFlavorAltCHT-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHT-Regular-5257ba6d78eb2366.ttf",
+    "sha256": "5257ba6d78eb2366b299fa7afcf98d6ed82c56bfc7ac08e93ce94fae7071e1e0",
+    "size": 13183632,
+    "names": [
+      "Qyn Flavor Grotesk Alt CHT",
+      "Qyn-Flavor-Grotesk-Alt-CHT-Regular",
+      "Regular",
+      "檎風ゴシック Alt CHT",
+      "檎風黑體 Alt CHT",
+      "檎风黑体 Alt CHT"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHT/QynFlavorAltCHT-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltCHT-Thin-1879db9230ccfc13.ttf",
+    "sha256": "1879db9230ccfc13651f1b5608c3f2ea371755073aa679c08b0a95474fa9cad3",
+    "size": 13480048,
+    "names": [
+      "Qyn Flavor Grotesk Alt CHT",
+      "Qyn Flavor Grotesk Alt CHT Thin",
+      "Qyn-Flavor-Grotesk-Alt-CHT-Thin",
+      "Regular",
+      "Thin",
+      "檎風ゴシック Alt CHT",
+      "檎風ゴシック Alt CHT Thin",
+      "檎風黑體 Alt CHT",
+      "檎風黑體 Alt CHT Thin",
+      "檎风黑体 Alt CHT",
+      "檎风黑体 Alt CHT Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-CHT/QynFlavorAltCHT-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltJPN-Bold-fee38efab2c3d5c9.ttf",
+    "sha256": "fee38efab2c3d5c94d5c7eb0d313e4505d6f5cd16a9f031a19288e445387247e",
+    "size": 13237328,
+    "names": [
+      "Bold",
+      "Qyn Flavor Grotesk Alt JPN",
+      "Qyn Flavor Grotesk Alt JPN Bold",
+      "Qyn-Flavor-Grotesk-Alt-JPN-Bold",
+      "檎風ゴシック Alt JPN",
+      "檎風ゴシック Alt JPN Bold",
+      "檎風黑體 Alt JPN",
+      "檎風黑體 Alt JPN Bold",
+      "檎风黑体 Alt JPN",
+      "檎风黑体 Alt JPN Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-JPN/QynFlavorAltJPN-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltJPN-Heavy-bdc35286280af066.ttf",
+    "sha256": "bdc35286280af0661469d004052d4c69176abc391c6cd3d0dd525ed13fd1879f",
+    "size": 13136568,
+    "names": [
+      "Heavy",
+      "Qyn Flavor Grotesk Alt JPN",
+      "Qyn Flavor Grotesk Alt JPN Heavy",
+      "Qyn-Flavor-Grotesk-Alt-JPN-Heavy",
+      "Regular",
+      "檎風ゴシック Alt JPN",
+      "檎風ゴシック Alt JPN Heavy",
+      "檎風黑體 Alt JPN",
+      "檎風黑體 Alt JPN Heavy",
+      "檎风黑体 Alt JPN",
+      "檎风黑体 Alt JPN Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-JPN/QynFlavorAltJPN-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltJPN-Light-d3f213bf00faa3c1.ttf",
+    "sha256": "d3f213bf00faa3c1be3e02d8e56ac509692a4462f1c13df0c9c1af75184194bc",
+    "size": 13595096,
+    "names": [
+      "Light",
+      "Qyn Flavor Grotesk Alt JPN",
+      "Qyn Flavor Grotesk Alt JPN Light",
+      "Qyn-Flavor-Grotesk-Alt-JPN-Light",
+      "Regular",
+      "檎風ゴシック Alt JPN",
+      "檎風ゴシック Alt JPN Light",
+      "檎風黑體 Alt JPN",
+      "檎風黑體 Alt JPN Light",
+      "檎风黑体 Alt JPN",
+      "檎风黑体 Alt JPN Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-JPN/QynFlavorAltJPN-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltJPN-Medium-88756de85d0517c2.ttf",
+    "sha256": "88756de85d0517c27c8e47650963f76a63a51d53da66b917d12c39ec9e26abd8",
+    "size": 13355364,
+    "names": [
+      "Medium",
+      "Qyn Flavor Grotesk Alt JPN",
+      "Qyn Flavor Grotesk Alt JPN Medium",
+      "Qyn-Flavor-Grotesk-Alt-JPN-Medium",
+      "Regular",
+      "檎風ゴシック Alt JPN",
+      "檎風ゴシック Alt JPN Medium",
+      "檎風黑體 Alt JPN",
+      "檎風黑體 Alt JPN Medium",
+      "檎风黑体 Alt JPN",
+      "檎风黑体 Alt JPN Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-JPN/QynFlavorAltJPN-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltJPN-Regular-bd0dd52f8c58ba40.ttf",
+    "sha256": "bd0dd52f8c58ba40437239027d4ab45191b8464700729f5b49bac5078d4edcf3",
+    "size": 13460908,
+    "names": [
+      "Qyn Flavor Grotesk Alt JPN",
+      "Qyn-Flavor-Grotesk-Alt-JPN-Regular",
+      "Regular",
+      "檎風ゴシック Alt JPN",
+      "檎風黑體 Alt JPN",
+      "檎风黑体 Alt JPN"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-JPN/QynFlavorAltJPN-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/QynFlavorAltJPN-Thin-ea2a091c39e76567.ttf",
+    "sha256": "ea2a091c39e76567f69f8b66806b5150bd92782363a6e162dc2978cdc32ae51b",
+    "size": 13646956,
+    "names": [
+      "Qyn Flavor Grotesk Alt JPN",
+      "Qyn Flavor Grotesk Alt JPN Thin",
+      "Qyn-Flavor-Grotesk-Alt-JPN-Thin",
+      "Regular",
+      "Thin",
+      "檎風ゴシック Alt JPN",
+      "檎風ゴシック Alt JPN Thin",
+      "檎風黑體 Alt JPN",
+      "檎風黑體 Alt JPN Thin",
+      "檎风黑体 Alt JPN",
+      "檎风黑体 Alt JPN Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/檎风黑体2.0.0_猫啃网/檎风黑体2.0.0/QynFlavorGroteskAlt-TTF-JPN/QynFlavorAltJPN-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/028256d6392bb258-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/02393abfffd0f1ad-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Bold-0aac5f5407cdb773.otf",
+    "sha256": "0aac5f5407cdb7736af322f5ac1ff93d5de16059e4f09d80471ff1423e6f022f",
+    "size": 2783844,
+    "names": [
+      "Bold",
+      "Frex Sans GB",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Bold",
+      "FrexSansGBVF-Bold",
+      "械黑 GB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/otf/FrexSansGB-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-ExtraLight-30c83c146b6a3e73.otf",
+    "sha256": "30c83c146b6a3e735b1d06e54057b3f8b89177d3c39fc9e02b60779886887f3e",
+    "size": 2801784,
+    "names": [
+      "ExtraLight",
+      "Frex Sans GB ExtraLight",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF ExtraLight",
+      "FrexSansGBVF-ExtraLight",
+      "Regular",
+      "械黑 GB",
+      "械黑 GB ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/otf/FrexSansGB-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Light-39dc86e1d9e3eb8d.otf",
+    "sha256": "39dc86e1d9e3eb8d29ca7fe2299bce9c6822cf0cc545a227fc05dd8806544e3e",
+    "size": 2803676,
+    "names": [
+      "Frex Sans GB Light",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Light",
+      "FrexSansGBVF-Light",
+      "Light",
+      "Regular",
+      "械黑 GB",
+      "械黑 GB Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/otf/FrexSansGB-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Medium-7bdc5f1a99a1391f.otf",
+    "sha256": "7bdc5f1a99a1391fabe609c955fe569997c8609e0f7217cde29d6cf0994b5923",
+    "size": 2812808,
+    "names": [
+      "Frex Sans GB Medium",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Medium",
+      "FrexSansGBVF-Medium",
+      "Medium",
+      "Regular",
+      "械黑 GB",
+      "械黑 GB Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/otf/FrexSansGB-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Regular-c5f71f6bef767123.otf",
+    "sha256": "c5f71f6bef767123fbdc658111c05b0bdb551af8fdc8597833a40150960aeae9",
+    "size": 2772448,
+    "names": [
+      "Frex Sans GB",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Regular",
+      "FrexSansGBVF-Regular",
+      "Regular",
+      "械黑 GB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/otf/FrexSansGB-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-SemiBold-4dc1cd0c21c39feb.otf",
+    "sha256": "4dc1cd0c21c39feb3ad2c51726ad5bee3530993e524a0e2b5b503c3703d62345",
+    "size": 2812600,
+    "names": [
+      "Bold",
+      "Frex Sans GB SemiBold",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF SemiBold",
+      "FrexSansGBVF-Semibold",
+      "SemiBold",
+      "械黑 GB",
+      "械黑 GB SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/otf/FrexSansGB-SemiBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Text-b5af7a63c39e5765.otf",
+    "sha256": "b5af7a63c39e576582fc87bab4b63d76a87ad8908980d9e8f6f8acc838e06ba7",
+    "size": 2815180,
+    "names": [
+      "Frex Sans GB Text",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Text",
+      "FrexSansGBVF-Text",
+      "Regular",
+      "Text",
+      "械黑 GB",
+      "械黑 GB Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/otf/FrexSansGB-Text.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Thin-5686e040e7c145d7.otf",
+    "sha256": "5686e040e7c145d758c863c8431f37c7375cdcaeced48041748ade60c25dc503",
+    "size": 2715944,
+    "names": [
+      "Frex Sans GB Thin",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Thin",
+      "FrexSansGBVF-Thin",
+      "Regular",
+      "Thin",
+      "械黑 GB",
+      "械黑 GB Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/otf/FrexSansGB-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Bold-1f9ec1e4ad5f8ca7.ttf",
+    "sha256": "1f9ec1e4ad5f8ca731491a5eec7f4b1bb08ab4c43a3138e90776d3b0bc384055",
+    "size": 3615812,
+    "names": [
+      "Bold",
+      "Frex Sans GB",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Bold",
+      "FrexSansGBVF-Bold",
+      "械黑 GB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/ttf/FrexSansGB-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-ExtraLight-84fcee4cb425660d.ttf",
+    "sha256": "84fcee4cb425660da24b4838caacd913f0abc0d742fd8a0d8796f6b9bcb60f31",
+    "size": 3657516,
+    "names": [
+      "ExtraLight",
+      "Frex Sans GB ExtraLight",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF ExtraLight",
+      "FrexSansGBVF-ExtraLight",
+      "Regular",
+      "械黑 GB",
+      "械黑 GB ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/ttf/FrexSansGB-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Light-4b1c6df5a4bddb42.ttf",
+    "sha256": "4b1c6df5a4bddb42bca5b7708c2b8955644244b2acd46fc0a1611fb92906bbe8",
+    "size": 3638276,
+    "names": [
+      "Frex Sans GB Light",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Light",
+      "FrexSansGBVF-Light",
+      "Light",
+      "Regular",
+      "械黑 GB",
+      "械黑 GB Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/ttf/FrexSansGB-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Medium-6a3311a251a40553.ttf",
+    "sha256": "6a3311a251a40553f6ae56d075077de774d6d7bd9ac57bf5ca5449e7c9b103e6",
+    "size": 3617116,
+    "names": [
+      "Frex Sans GB Medium",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Medium",
+      "FrexSansGBVF-Medium",
+      "Medium",
+      "Regular",
+      "械黑 GB",
+      "械黑 GB Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/ttf/FrexSansGB-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Regular-825021d30f5df8cf.ttf",
+    "sha256": "825021d30f5df8cf1540fc57ff1a2d53059ca8f0b2dba864f6cf806d356853e1",
+    "size": 3627180,
+    "names": [
+      "Frex Sans GB",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Regular",
+      "FrexSansGBVF-Regular",
+      "Regular",
+      "械黑 GB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/ttf/FrexSansGB-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-SemiBold-0c02ebc2da1e432b.ttf",
+    "sha256": "0c02ebc2da1e432b105a6008edc927d92293fb0780ecd59fc4e011de386f3e08",
+    "size": 3611960,
+    "names": [
+      "Bold",
+      "Frex Sans GB SemiBold",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF SemiBold",
+      "FrexSansGBVF-Semibold",
+      "SemiBold",
+      "械黑 GB",
+      "械黑 GB SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/ttf/FrexSansGB-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Text-5333b950d174f922.ttf",
+    "sha256": "5333b950d174f92289e27618601be16b1593c848cdd2670e8192bb220b1a69d0",
+    "size": 3624852,
+    "names": [
+      "Frex Sans GB Text",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Text",
+      "FrexSansGBVF-Text",
+      "Regular",
+      "Text",
+      "械黑 GB",
+      "械黑 GB Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/ttf/FrexSansGB-Text.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FrexSansGB-Thin-81f7a3ca2a9823ee.ttf",
+    "sha256": "81f7a3ca2a9823ee82e11094468bac5e38b04f489de988d116021bad593b55a1",
+    "size": 3672760,
+    "names": [
+      "Frex Sans GB Thin",
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Thin",
+      "FrexSansGBVF-Thin",
+      "Regular",
+      "Thin",
+      "械黑 GB",
+      "械黑 GB Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/ttf/FrexSansGB-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Frex_Sans_GB_wght-19d8c81fb9a8d13b.ttf",
+    "sha256": "19d8c81fb9a8d13b7d50e1e31b5dfc8c650663d0748d3766122f727817c252c0",
+    "size": 8252716,
+    "names": [
+      "Frex Sans GB VF",
+      "Frex Sans GB VF Regular",
+      "FrexSansGBVF-Regular",
+      "Regular",
+      "械黑 GB VF"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/械黑GB_1.100_猫啃网/械黑GB_1.100/fonts/variable/Frex Sans GB[wght].ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/0e56ca0bef2b70bb-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/51d5f63560dc1922-OFL_ZHS.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W1-855061b20082653f.ttf",
+    "sha256": "855061b20082653ff1a108a87cdc09c16a14d70cfaa40ab26556353c3d8f792a",
+    "size": 11614276,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W1",
+      "DreamHanSansCN-W1",
+      "Regular",
+      "W1",
+      "梦源黑体 CN",
+      "梦源黑体 CN W1"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W1.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W10-b8a446995c5f5478.ttf",
+    "sha256": "b8a446995c5f54787ef8cd5bb46902f4ab519e444b6a7d77d7cc247031bf63a8",
+    "size": 11477128,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W10",
+      "DreamHanSansCN-W10",
+      "Regular",
+      "W10",
+      "梦源黑体 CN",
+      "梦源黑体 CN W10"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W10.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W11-e34a17ff835ba630.ttf",
+    "sha256": "e34a17ff835ba630524a09d0c0b3d2bf1e2e002c4cb2affc72b052314871f94f",
+    "size": 11461112,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W11",
+      "DreamHanSansCN-W11",
+      "Regular",
+      "W11",
+      "梦源黑体 CN",
+      "梦源黑体 CN W11"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W11.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W12-08597eb1dbe74ed7.ttf",
+    "sha256": "08597eb1dbe74ed778e92856297ff67a3a6336b3f68a0c9de8ab27d58669b9dc",
+    "size": 11447736,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W12",
+      "DreamHanSansCN-W12",
+      "Regular",
+      "W12",
+      "梦源黑体 CN",
+      "梦源黑体 CN W12"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W12.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W13-96651566b92c8be7.ttf",
+    "sha256": "96651566b92c8be7baa52532dbdae317f4ed312af7a220dbdf2054f189a2eee9",
+    "size": 11432904,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W13",
+      "DreamHanSansCN-W13",
+      "Regular",
+      "W13",
+      "梦源黑体 CN",
+      "梦源黑体 CN W13"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W13.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W14-b5474e4a53ddce0c.ttf",
+    "sha256": "b5474e4a53ddce0c3339f20fbd7564a47b425aee6e2aca9b274933935c2120d4",
+    "size": 11418640,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W14",
+      "DreamHanSansCN-W14",
+      "Regular",
+      "W14",
+      "梦源黑体 CN",
+      "梦源黑体 CN W14"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W14.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W15-7deda2ea569d5aa0.ttf",
+    "sha256": "7deda2ea569d5aa00c4af84d281c5e3e13eca7e1670e272d134d29fe7df52945",
+    "size": 11402628,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W15",
+      "DreamHanSansCN-W15",
+      "Regular",
+      "W15",
+      "梦源黑体 CN",
+      "梦源黑体 CN W15"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W15.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W16-0ee3c2a3006e8dc6.ttf",
+    "sha256": "0ee3c2a3006e8dc661b9546ceaef3fccbf44982a5b1f18b83d2173b8d6453bd3",
+    "size": 11388860,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W16",
+      "DreamHanSansCN-W16",
+      "Regular",
+      "W16",
+      "梦源黑体 CN",
+      "梦源黑体 CN W16"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W16.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W17-c68af08051be0aa9.ttf",
+    "sha256": "c68af08051be0aa9b193800f7362d9d2be998c533c0321c46ae576478659fd32",
+    "size": 11375452,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W17",
+      "DreamHanSansCN-W17",
+      "Regular",
+      "W17",
+      "梦源黑体 CN",
+      "梦源黑体 CN W17"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W17.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W18-13fbed177910a028.ttf",
+    "sha256": "13fbed177910a028648b25e8ae5135f3399d738c629e0f42620f5e54a936c0b2",
+    "size": 11362044,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W18",
+      "DreamHanSansCN-W18",
+      "Regular",
+      "W18",
+      "梦源黑体 CN",
+      "梦源黑体 CN W18"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W18.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W19-0dec032f332e2446.ttf",
+    "sha256": "0dec032f332e2446d8977d999edbbd15cfef12936aa76c0935ebcb90af841520",
+    "size": 11348528,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W19",
+      "DreamHanSansCN-W19",
+      "Regular",
+      "W19",
+      "梦源黑体 CN",
+      "梦源黑体 CN W19"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W19.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W2-1bd93ef1b92ae8d9.ttf",
+    "sha256": "1bd93ef1b92ae8d9206b9f01812f7f25000c59e7524a70f54d472d6e4f86effd",
+    "size": 11595604,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W2",
+      "DreamHanSansCN-W2",
+      "Regular",
+      "W2",
+      "梦源黑体 CN",
+      "梦源黑体 CN W2"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W2.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W20-c177a2f45ec5f97a.ttf",
+    "sha256": "c177a2f45ec5f97a197d51d770ab928fb30ee1a414271c4cc98420bc1c7867d3",
+    "size": 11334076,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W20",
+      "DreamHanSansCN-W20",
+      "Regular",
+      "W20",
+      "梦源黑体 CN",
+      "梦源黑体 CN W20"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W20.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W21-0f82b72f3a5c4b07.ttf",
+    "sha256": "0f82b72f3a5c4b0760bc1e45ee7daeeafc76a79309a447f62e314702153d2c25",
+    "size": 11323944,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W21",
+      "DreamHanSansCN-W21",
+      "Regular",
+      "W21",
+      "梦源黑体 CN",
+      "梦源黑体 CN W21"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W21.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W22-fa3e8b3d065057ca.ttf",
+    "sha256": "fa3e8b3d065057ca1f06890dc140c8e6a690e2da11514dabf8d03948fa393822",
+    "size": 11313508,
+    "names": [
+      "Bold",
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W22",
+      "DreamHanSansCN-W22",
+      "W22",
+      "梦源黑体 CN",
+      "梦源黑体 CN W22"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W22.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W23-6d1658512455b74e.ttf",
+    "sha256": "6d1658512455b74e3987e2d1599806eb2116f61a15a588126beceef020cd2758",
+    "size": 11311560,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W23",
+      "DreamHanSansCN-W23",
+      "Regular",
+      "W23",
+      "梦源黑体 CN",
+      "梦源黑体 CN W23"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W23.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W24-0e82157fd63667fb.ttf",
+    "sha256": "0e82157fd63667fb8008bc9ab4ad94ae43d234b8180eceac88829dbeacb4cacd",
+    "size": 11318496,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W24",
+      "DreamHanSansCN-W24",
+      "Regular",
+      "W24",
+      "梦源黑体 CN",
+      "梦源黑体 CN W24"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W24.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W25-1bbcf9f076d5c45a.ttf",
+    "sha256": "1bbcf9f076d5c45a70c31107dd68be9ff062128ce93c855170c36bed68f6efed",
+    "size": 11329784,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W25",
+      "DreamHanSansCN-W25",
+      "Regular",
+      "W25",
+      "梦源黑体 CN",
+      "梦源黑体 CN W25"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W25.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W26-7c1b9f1f25516d8c.ttf",
+    "sha256": "7c1b9f1f25516d8c1189b3891c1e186ef0f150e885912c4c265c551621b17172",
+    "size": 11353988,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W26",
+      "DreamHanSansCN-W26",
+      "Regular",
+      "W26",
+      "梦源黑体 CN",
+      "梦源黑体 CN W26"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W26.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W27-0781f4d4b18543fe.ttf",
+    "sha256": "0781f4d4b18543fe546127b4c5dda46af5962d074628fc98ae2fc7f9024b98d4",
+    "size": 11342160,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W27",
+      "DreamHanSansCN-W27",
+      "Regular",
+      "W27",
+      "梦源黑体 CN",
+      "梦源黑体 CN W27"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W27.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W3-5cde9510996174fa.ttf",
+    "sha256": "5cde9510996174fae58616c51d37d107038df3c9fc1a415d24308b934db1bb32",
+    "size": 11576984,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W3",
+      "DreamHanSansCN-W3",
+      "Regular",
+      "W3",
+      "梦源黑体 CN",
+      "梦源黑体 CN W3"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W3.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W4-187649ee7d712a27.ttf",
+    "sha256": "187649ee7d712a27cfb0cea10fd28ee50b1ea35161d6ff8e6eee2dd92ce5673e",
+    "size": 11561460,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W4",
+      "DreamHanSansCN-W4",
+      "Regular",
+      "W4",
+      "梦源黑体 CN",
+      "梦源黑体 CN W4"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W4.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W5-32e6f5dc79a437ec.ttf",
+    "sha256": "32e6f5dc79a437ec38838a9cc7d8b2b273c4fec937ec4db8023a05884bf7cfe1",
+    "size": 11547140,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W5",
+      "DreamHanSansCN-W5",
+      "Regular",
+      "W5",
+      "梦源黑体 CN",
+      "梦源黑体 CN W5"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W5.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W6-dcf08250c04a1618.ttf",
+    "sha256": "dcf08250c04a16181bab068a0487421292653f1fba917ce09b82cdf12b11d432",
+    "size": 11531920,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W6",
+      "DreamHanSansCN-W6",
+      "Regular",
+      "W6",
+      "梦源黑体 CN",
+      "梦源黑体 CN W6"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W6.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W7-0738e12bf59b27aa.ttf",
+    "sha256": "0738e12bf59b27aaeae920979986f3994b46a1c283d9c4d1d30a92ae08dde946",
+    "size": 11517784,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W7",
+      "DreamHanSansCN-W7",
+      "Regular",
+      "W7",
+      "梦源黑体 CN",
+      "梦源黑体 CN W7"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W7.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DreamHanSansCN-W8-ee35c6514db1bda4.ttf",
+    "sha256": "ee35c6514db1bda4668ce9b0f54b56f05fd6807df45ab8f37f6e9bcdb05dea89",
+    "size": 11502320,
+    "names": [
+      "Dream Han Sans CN",
+      "Dream Han Sans CN W8",
+      "DreamHanSansCN-W8",
+      "Regular",
+      "W8",
+      "梦源黑体 CN",
+      "梦源黑体 CN W8"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/梦源黑体3.0_猫啃网/梦源黑体/DreamHanSansCN/DreamHanSansCN-W8.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
