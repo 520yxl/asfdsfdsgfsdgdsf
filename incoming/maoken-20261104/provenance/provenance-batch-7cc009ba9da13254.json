@@ -1,0 +1,1272 @@
+[
+  {
+    "font": "incoming/WenYuanSansSC-CondBold-4f838e2f47edea5c.ttf",
+    "sha256": "4f838e2f47edea5c00f55d36f68d90b32e1fc852afe4ec4d2bf30b1782cfc18e",
+    "size": 10848528,
+    "names": [
+      "Bold",
+      "Cond Bold",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Cond",
+      "WenYuan Sans SC Cond Bold",
+      "WenYuanSansSC-CondBold",
+      "文渊黑体",
+      "文渊黑体 Cond",
+      "文渊黑体 Cond Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-CondBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-CondHeavy-1bd87b68fd3bd3f4.ttf",
+    "sha256": "1bd87b68fd3bd3f49307a6ec77f7943e386a71898dbd280a58b36b1fcaaa8527",
+    "size": 10817928,
+    "names": [
+      "Cond Heavy",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Cond Heavy",
+      "WenYuanSansSC-CondHeavy",
+      "文渊黑体",
+      "文渊黑体 Cond Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-CondHeavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-CondLight-a017e7bc736a0fa4.ttf",
+    "sha256": "a017e7bc736a0fa485da955ddd1964586d57f478b19dea64788c6d36c5c91102",
+    "size": 11117688,
+    "names": [
+      "Cond Light",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Cond Light",
+      "WenYuanSansSC-CondLight",
+      "文渊黑体",
+      "文渊黑体 Cond Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-CondLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-CondMedium-6f862d34789a5865.ttf",
+    "sha256": "6f862d34789a5865982b2c0832b10c04affcc6dc642c80757c2840ad84832451",
+    "size": 10926820,
+    "names": [
+      "Cond Medium",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Cond Medium",
+      "WenYuanSansSC-CondMedium",
+      "文渊黑体",
+      "文渊黑体 Cond Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-CondMedium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-CondThin-8dcb332e5cf4bc22.ttf",
+    "sha256": "8dcb332e5cf4bc229a55465e2dbdf234b72fc9f19efd04fdcbab96e42cffc06b",
+    "size": 11146752,
+    "names": [
+      "Cond Thin",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Cond Thin",
+      "WenYuanSansSC-CondThin",
+      "文渊黑体",
+      "文渊黑体 Cond Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-CondThin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-ExCond-2b15846dd68a5b5d.ttf",
+    "sha256": "2b15846dd68a5b5de1dd5e5f773c60d709a2032618c30d785a3f11bbc3f8e94e",
+    "size": 10901912,
+    "names": [
+      "ExCond",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC ExCond",
+      "WenYuanSansSC-ExCond",
+      "文渊黑体",
+      "文渊黑体 ExCond"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-ExCond.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-ExCondBold-2ab75d494b1fd0b9.ttf",
+    "sha256": "2ab75d494b1fd0b91d3ad6b1aef509cc86fdc466c77fa8c9e6560253a8cacc8f",
+    "size": 10724856,
+    "names": [
+      "Bold",
+      "ExCond Bold",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC ExCond",
+      "WenYuan Sans SC ExCond Bold",
+      "WenYuanSansSC-ExCondBold",
+      "文渊黑体",
+      "文渊黑体 ExCond",
+      "文渊黑体 ExCond Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-ExCondBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-ExCondHeavy-b6633ccc1745a420.ttf",
+    "sha256": "b6633ccc1745a42002d68d80d384a722b3044ada3706e050f9e366ae3730d542",
+    "size": 10724804,
+    "names": [
+      "ExCond Heavy",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC ExCond Heavy",
+      "WenYuanSansSC-ExCondHeavy",
+      "文渊黑体",
+      "文渊黑体 ExCond Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-ExCondHeavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-ExCondLight-fe575fdbf3f0f788.ttf",
+    "sha256": "fe575fdbf3f0f7885f1f37b3067101662f1b060e933646c514da664c192e9eb2",
+    "size": 11023560,
+    "names": [
+      "ExCond Light",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC ExCond Light",
+      "WenYuanSansSC-ExCondLight",
+      "文渊黑体",
+      "文渊黑体 ExCond Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-ExCondLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-ExCondMedium-ed11f00d1d0d0341.ttf",
+    "sha256": "ed11f00d1d0d034116934055874bb82ff4c78d5194bd7a6b2fccfe12bb5daf0e",
+    "size": 10799112,
+    "names": [
+      "ExCond Medium",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC ExCond Medium",
+      "WenYuanSansSC-ExCondMedium",
+      "文渊黑体",
+      "文渊黑体 ExCond Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-ExCondMedium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-ExCondThin-e8f50a08ba8df646.ttf",
+    "sha256": "e8f50a08ba8df6461286982cdd811bb07d90d6c88b036c6167a64cdbc4c54f42",
+    "size": 11053152,
+    "names": [
+      "ExCond Thin",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC ExCond Thin",
+      "WenYuanSansSC-ExCondThin",
+      "文渊黑体",
+      "文渊黑体 ExCond Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-ExCondThin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-Heavy-677635d201b1fa48.ttf",
+    "sha256": "677635d201b1fa48673cbd9cce5e84dd6c828d765db4aa5466902e061a8a7e52",
+    "size": 10857920,
+    "names": [
+      "Heavy",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Heavy",
+      "WenYuanSansSC-Heavy",
+      "文渊黑体",
+      "文渊黑体 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-Light-a676f3b94d46d133.ttf",
+    "sha256": "a676f3b94d46d1339a5b197d645b04d66c4710ce050bb54cf1cd1a48435ea1c2",
+    "size": 11205036,
+    "names": [
+      "Light",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Light",
+      "WenYuanSansSC-Light",
+      "文渊黑体",
+      "文渊黑体 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-Medium-054299fad516e86e.ttf",
+    "sha256": "054299fad516e86e1b955b6bf806cfa2755d0f4c07a7bee5c4028794a030041e",
+    "size": 11035728,
+    "names": [
+      "Medium",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Medium",
+      "WenYuanSansSC-Medium",
+      "文渊黑体",
+      "文渊黑体 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-Regular-26dc9f0b4fffe0ac.ttf",
+    "sha256": "26dc9f0b4fffe0ac95d61bd28cec245dd72cbccfbc7b2d9bacfdae554fbba8b0",
+    "size": 11113292,
+    "names": [
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuanSansSC-Regular",
+      "文渊黑体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-SmCond-0def3710ea351cf3.ttf",
+    "sha256": "0def3710ea351cf3c51c9b70dac1c377a8910f69c0299501e981e02478adce34",
+    "size": 11153740,
+    "names": [
+      "Regular",
+      "SmCond",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC SmCond",
+      "WenYuanSansSC-SmCond",
+      "文渊黑体",
+      "文渊黑体 SmCond"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-SmCond.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-SmCondBold-264bcb67fcd6efd1.ttf",
+    "sha256": "264bcb67fcd6efd1fe9365fad6e47c40d67e743c2538e8bd4fd0c9c78a531747",
+    "size": 10996360,
+    "names": [
+      "Bold",
+      "SmCond Bold",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC SmCond",
+      "WenYuan Sans SC SmCond Bold",
+      "WenYuanSansSC-SmCondBold",
+      "文渊黑体",
+      "文渊黑体 SmCond",
+      "文渊黑体 SmCond Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-SmCondBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-SmCondHeavy-16f5dccb57b95cd1.ttf",
+    "sha256": "16f5dccb57b95cd1bfc3d3245a803a83588edebd570615160ca1fdd871163e04",
+    "size": 10937428,
+    "names": [
+      "Regular",
+      "SmCond Heavy",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC SmCond Heavy",
+      "WenYuanSansSC-SmCondHeavy",
+      "文渊黑体",
+      "文渊黑体 SmCond Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-SmCondHeavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-SmCondLight-f8e0ad17a221deb3.ttf",
+    "sha256": "f8e0ad17a221deb31beecce9cabf4833b68c925e629786549c721d5747076039",
+    "size": 11252476,
+    "names": [
+      "Regular",
+      "SmCond Light",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC SmCond Light",
+      "WenYuanSansSC-SmCondLight",
+      "文渊黑体",
+      "文渊黑体 SmCond Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-SmCondLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-SmCondMedium-362b3c838f728674.ttf",
+    "sha256": "362b3c838f72867437a33473f663237290f47ee79525aaea74e4e61ad354c0e3",
+    "size": 11072628,
+    "names": [
+      "Regular",
+      "SmCond Medium",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC SmCond Medium",
+      "WenYuanSansSC-SmCondMedium",
+      "文渊黑体",
+      "文渊黑体 SmCond Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-SmCondMedium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-SmCondThin-7d11b006eabea9b5.ttf",
+    "sha256": "7d11b006eabea9b5a409be8274981c36894b44d3fadfe9bd98a4d49b6e722733",
+    "size": 11277560,
+    "names": [
+      "Regular",
+      "SmCond Thin",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC SmCond Thin",
+      "WenYuanSansSC-SmCondThin",
+      "文渊黑体",
+      "文渊黑体 SmCond Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-SmCondThin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-Thin-0b156f61fb02c29b.ttf",
+    "sha256": "0b156f61fb02c29bd2396ab386b2e507ac55fbcb5bcdfd20d177e31a5cff6e5c",
+    "size": 11223016,
+    "names": [
+      "Regular",
+      "Thin",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Thin",
+      "WenYuanSansSC-Thin",
+      "文渊黑体",
+      "文渊黑体 Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSerifSCVF-04bf8f556cf9247a.ttf",
+    "sha256": "04bf8f556cf9247a5a0ee6ba85730233bc5b93559f3d469ec76058652f9d6d22",
+    "size": 38308132,
+    "names": [
+      "Regular",
+      "WenYuan Serif SC VF",
+      "WenYuanSerifSCVF",
+      "文渊宋体 VF"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊宋体1.000_猫啃网/文渊宋体1.000/WenYuanSerifSCVF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e5a2b76d977afead-LICENSE-zh.md",
+      "incoming/maoken-20261104/licenses-exact/f791bb5d07d92689-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSerifSC-Bold-8ee46f847cce0822.ttf",
+    "sha256": "8ee46f847cce08226e361347964774ccfb5c3906afe0cb2d011accfb5d59ee8e",
+    "size": 15238244,
+    "names": [
+      "Bold",
+      "WenYuan Serif SC",
+      "WenYuan Serif SC Bold",
+      "WenYuanSerifSC-Bold",
+      "文渊宋体",
+      "文渊宋体 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊宋体1.000_猫啃网/文渊宋体1.000/WenYuanSerifSC-TTF/WenYuanSerifSC-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e5a2b76d977afead-LICENSE-zh.md",
+      "incoming/maoken-20261104/licenses-exact/f791bb5d07d92689-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSerifSC-ExtraLight-6b03627a7c157fe2.ttf",
+    "sha256": "6b03627a7c157fe222ae54ddaa1127a354e08680a16c200103f4d64c20703b63",
+    "size": 15089360,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "WenYuan Serif SC",
+      "WenYuan Serif SC ExtraLight",
+      "WenYuanSerifSC-ExtraLight",
+      "文渊宋体",
+      "文渊宋体 ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊宋体1.000_猫啃网/文渊宋体1.000/WenYuanSerifSC-TTF/WenYuanSerifSC-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e5a2b76d977afead-LICENSE-zh.md",
+      "incoming/maoken-20261104/licenses-exact/f791bb5d07d92689-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSerifSC-Heavy-02635a98e9327cf7.ttf",
+    "sha256": "02635a98e9327cf75a74d63714a06f9b56d3a8e005124edc64a6c106b0f9b64d",
+    "size": 15280388,
+    "names": [
+      "Heavy",
+      "Regular",
+      "WenYuan Serif SC",
+      "WenYuan Serif SC Heavy",
+      "WenYuanSerifSC-Heavy",
+      "文渊宋体",
+      "文渊宋体 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊宋体1.000_猫啃网/文渊宋体1.000/WenYuanSerifSC-TTF/WenYuanSerifSC-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e5a2b76d977afead-LICENSE-zh.md",
+      "incoming/maoken-20261104/licenses-exact/f791bb5d07d92689-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSerifSC-Light-7eeab03f8529ba9b.ttf",
+    "sha256": "7eeab03f8529ba9b3e7719fb3d6576f719bd005631606a3d6d6034b6d5305adc",
+    "size": 15137456,
+    "names": [
+      "Light",
+      "Regular",
+      "WenYuan Serif SC",
+      "WenYuan Serif SC Light",
+      "WenYuanSerifSC-Light",
+      "文渊宋体",
+      "文渊宋体 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊宋体1.000_猫啃网/文渊宋体1.000/WenYuanSerifSC-TTF/WenYuanSerifSC-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e5a2b76d977afead-LICENSE-zh.md",
+      "incoming/maoken-20261104/licenses-exact/f791bb5d07d92689-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSerifSC-Medium-60b1b4ef3f8aeee1.ttf",
+    "sha256": "60b1b4ef3f8aeee19d773f9cb77cac6fbcdddd114b592cc0111e86fe849ecc2f",
+    "size": 15157956,
+    "names": [
+      "Medium",
+      "Regular",
+      "WenYuan Serif SC",
+      "WenYuan Serif SC Medium",
+      "WenYuanSerifSC-Medium",
+      "文渊宋体",
+      "文渊宋体 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊宋体1.000_猫啃网/文渊宋体1.000/WenYuanSerifSC-TTF/WenYuanSerifSC-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e5a2b76d977afead-LICENSE-zh.md",
+      "incoming/maoken-20261104/licenses-exact/f791bb5d07d92689-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSerifSC-Regular-4246a3dc931bb8b9.ttf",
+    "sha256": "4246a3dc931bb8b93c834b7ac4d609719888d860e5cd6de50a0dec79a600f5b1",
+    "size": 15145100,
+    "names": [
+      "Regular",
+      "WenYuan Serif SC",
+      "WenYuanSerifSC-Regular",
+      "文渊宋体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊宋体1.000_猫啃网/文渊宋体1.000/WenYuanSerifSC-TTF/WenYuanSerifSC-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e5a2b76d977afead-LICENSE-zh.md",
+      "incoming/maoken-20261104/licenses-exact/f791bb5d07d92689-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanRoundedSCVF-faab0b0f3fe3126b.ttf",
+    "sha256": "faab0b0f3fe3126b1a0d7b5d7688409caaeb61ee0f3760b1b84d48805f97cabb",
+    "size": 48770664,
+    "names": [
+      "Regular",
+      "WenYuan Rounded SC VF",
+      "WenYuanRoundedSCVF",
+      "文渊圆体 VF"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊圆体1.000_猫啃网/文渊圆体1.000/WenYuanRoundedSCVF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanRoundedSC-Bold-9f5fbe2da0a066c0.ttf",
+    "sha256": "9f5fbe2da0a066c0287a4ee5e29caba1405a6e7f8f2c222f03704e7324433321",
+    "size": 19087344,
+    "names": [
+      "Bold",
+      "WenYuan Rounded SC",
+      "WenYuan Rounded SC Bold",
+      "WenYuanRoundedSC-Bold",
+      "文渊圆体",
+      "文渊圆体 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊圆体1.000_猫啃网/文渊圆体1.000/WenYuanRoundedSC-TTF/WenYuanRoundedSC-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanRoundedSC-Heavy-54fefedc2684205e.ttf",
+    "sha256": "54fefedc2684205e555e3283c0fb4c0aa497ec40bc2f532ba6a87993feb64442",
+    "size": 18640656,
+    "names": [
+      "Heavy",
+      "Regular",
+      "WenYuan Rounded SC",
+      "WenYuan Rounded SC Heavy",
+      "WenYuanRoundedSC-Heavy",
+      "文渊圆体",
+      "文渊圆体 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊圆体1.000_猫啃网/文渊圆体1.000/WenYuanRoundedSC-TTF/WenYuanRoundedSC-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanRoundedSC-Light-c9100d192df743f0.ttf",
+    "sha256": "c9100d192df743f0a20189a65018080d936cd9c7e79b509791a5165f40636992",
+    "size": 19026924,
+    "names": [
+      "Light",
+      "Regular",
+      "WenYuan Rounded SC",
+      "WenYuan Rounded SC Light",
+      "WenYuanRoundedSC-Light",
+      "文渊圆体",
+      "文渊圆体 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊圆体1.000_猫啃网/文渊圆体1.000/WenYuanRoundedSC-TTF/WenYuanRoundedSC-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanRoundedSC-Medium-dbafe8c5fb9a9706.ttf",
+    "sha256": "dbafe8c5fb9a9706cc0e7030b8868ce63108c642583748a5f5eb1705d0eabf8c",
+    "size": 19240016,
+    "names": [
+      "Medium",
+      "Regular",
+      "WenYuan Rounded SC",
+      "WenYuan Rounded SC Medium",
+      "WenYuanRoundedSC-Medium",
+      "文渊圆体",
+      "文渊圆体 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊圆体1.000_猫啃网/文渊圆体1.000/WenYuanRoundedSC-TTF/WenYuanRoundedSC-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanRoundedSC-Regular-1a10bae8f1d84e7d.ttf",
+    "sha256": "1a10bae8f1d84e7db12b3e00df75f06a2177bc613e3a9179e6d37f30f6011595",
+    "size": 19261648,
+    "names": [
+      "Regular",
+      "WenYuan Rounded SC",
+      "WenYuanRoundedSC-Regular",
+      "文渊圆体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊圆体1.000_猫啃网/文渊圆体1.000/WenYuanRoundedSC-TTF/WenYuanRoundedSC-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanRoundedSC-Thin-3231812d121018ca.ttf",
+    "sha256": "3231812d121018ca21ff88844044aee41121de9307cb7e898733d9ca3a338537",
+    "size": 17522396,
+    "names": [
+      "Regular",
+      "Thin",
+      "WenYuan Rounded SC",
+      "WenYuan Rounded SC Thin",
+      "WenYuanRoundedSC-Thin",
+      "文渊圆体",
+      "文渊圆体 Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊圆体1.000_猫啃网/文渊圆体1.000/WenYuanRoundedSC-TTF/WenYuanRoundedSC-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoP0-Regular-94ce7c83ed680537.ttf",
+    "sha256": "94ce7c83ed68053798e033b7c77d9aa72fdabd11443976de297b64c515b33219",
+    "size": 21636464,
+    "names": [
+      "Regular",
+      "WenJin Mincho Plane 0",
+      "WenJinMinchoP0-Regular",
+      "常規",
+      "常规",
+      "文津宋体 第0平面",
+      "文津宋體 第0平面",
+      "文津明朝 第0平面",
+      "標準",
+      "문진(文津) 명조 평면 0",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.012_猫啃网/文津宋体2.012/WenJinMincho-TTF/WenJinMinchoP0-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoP2-Regular-f609b7213b217027.ttf",
+    "sha256": "f609b7213b217027d250cc557ce61c08a5c121a7a21fea52085830d820c52ba6",
+    "size": 28876604,
+    "names": [
+      "Regular",
+      "WenJin Mincho Plane 2",
+      "WenJinMinchoP2-Regular",
+      "常規",
+      "常规",
+      "文津宋体 第2平面",
+      "文津宋體 第2平面",
+      "文津明朝 第2平面",
+      "標準",
+      "문진(文津) 명조 평면 2",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.012_猫啃网/文津宋体2.012/WenJinMincho-TTF/WenJinMinchoP2-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoP3-Regular-b5009a47200bdc29.ttf",
+    "sha256": "b5009a47200bdc29c22e0365f60f6c22f7dee08253c8be7337f9744d3f5e8950",
+    "size": 5994064,
+    "names": [
+      "Regular",
+      "WenJin Mincho Plane 3",
+      "WenJinMinchoP3-Regular",
+      "常規",
+      "常规",
+      "文津宋体 第3平面",
+      "文津宋體 第3平面",
+      "文津明朝 第3平面",
+      "標準",
+      "문진(文津) 명조 평면 3",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.012_猫啃网/文津宋体2.012/WenJinMincho-TTF/WenJinMinchoP3-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoP0-Regular-5b22a7c50e71bd1f.ttf",
+    "sha256": "5b22a7c50e71bd1f20e20cd190256019195ca60ae4204ea765f0554509c32933",
+    "size": 22180860,
+    "names": [
+      "Regular",
+      "WenJin Mincho Plane 0",
+      "WenJinMinchoP0-Regular",
+      "常規",
+      "常规",
+      "文津宋体 第0平面",
+      "文津宋體 第0平面",
+      "文津明朝 第0平面",
+      "標準",
+      "문진(文津) 명조 평면 0",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMincho-TTF/WenJinMinchoP0-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoP2-Regular-550b688542f5576a.ttf",
+    "sha256": "550b688542f5576a4989d5927fb098a0af8c6af52f1d29f234289676daea3581",
+    "size": 29574796,
+    "names": [
+      "Regular",
+      "WenJin Mincho Plane 2",
+      "WenJinMinchoP2-Regular",
+      "常規",
+      "常规",
+      "文津宋体 第2平面",
+      "文津宋體 第2平面",
+      "文津明朝 第2平面",
+      "標準",
+      "문진(文津) 명조 평면 2",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMincho-TTF/WenJinMinchoP2-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoP3-Regular-89a4d3ec43e85b90.ttf",
+    "sha256": "89a4d3ec43e85b90e0fe79a87ac76c70542fbf0e61b494d50a811a5e3927e689",
+    "size": 6142792,
+    "names": [
+      "Regular",
+      "WenJin Mincho Plane 3",
+      "WenJinMinchoP3-Regular",
+      "常規",
+      "常规",
+      "文津宋体 第3平面",
+      "文津宋體 第3平面",
+      "文津明朝 第3平面",
+      "標準",
+      "문진(文津) 명조 평면 3",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMincho-TTF/WenJinMinchoP3-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoCP0-Regular-8144c8f1bd51264e.ttf",
+    "sha256": "8144c8f1bd51264e8df4bc7d2809dda92ccdb076ae562b116a1aa2cd846cfe75",
+    "size": 22180876,
+    "names": [
+      "Regular",
+      "WenJin Mincho C Plane 0",
+      "WenJinMinchoCP0-Regular",
+      "常規",
+      "常规",
+      "文津宋体C 第0平面",
+      "文津宋體C 第0平面",
+      "文津明朝C 第0平面",
+      "標準",
+      "문진(文津) 명조 C 평면 0",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMinchoC-TTF/WenJinMinchoCP0-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoCP2-Regular-297be18c49bc0eb8.ttf",
+    "sha256": "297be18c49bc0eb81e808e070b2ec75101068a3e8b084174f0a81db5ecb2c8fe",
+    "size": 29574812,
+    "names": [
+      "Regular",
+      "WenJin Mincho C Plane 2",
+      "WenJinMinchoCP2-Regular",
+      "常規",
+      "常规",
+      "文津宋体C 第2平面",
+      "文津宋體C 第2平面",
+      "文津明朝C 第2平面",
+      "標準",
+      "문진(文津) 명조 C 평면 2",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMinchoC-TTF/WenJinMinchoCP2-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoCP3-Regular-2304b285434f1eda.ttf",
+    "sha256": "2304b285434f1edaf4e3cb455f1d8cf51a53777d0abc9e8d896412c914b18f30",
+    "size": 6142804,
+    "names": [
+      "Regular",
+      "WenJin Mincho C Plane 3",
+      "WenJinMinchoCP3-Regular",
+      "常規",
+      "常规",
+      "文津宋体C 第3平面",
+      "文津宋體C 第3平面",
+      "文津明朝C 第3平面",
+      "標準",
+      "문진(文津) 명조 C 평면 3",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMinchoC-TTF/WenJinMinchoCP3-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoWP0-Regular-bc7d6b3286b3c84f.ttf",
+    "sha256": "bc7d6b3286b3c84f256dfb36a90f64950552b0e3f792fb3f770d9dcc311610d8",
+    "size": 22174004,
+    "names": [
+      "Regular",
+      "WenJin Mincho W Plane 0",
+      "WenJinMinchoWP0-Regular",
+      "常規",
+      "常规",
+      "文津宋体W 第0平面",
+      "文津宋體W 第0平面",
+      "文津明朝W 第0平面",
+      "標準",
+      "문진(文津) 명조 W 평면 0",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMinchoW-TTF/WenJinMinchoWP0-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoWP2-Regular-556a30b34520dec6.ttf",
+    "sha256": "556a30b34520dec6f5eff22ee3b5398a3bf7c9c68fc6a1bf6b15131cbd9ac5da",
+    "size": 29574412,
+    "names": [
+      "Regular",
+      "WenJin Mincho W Plane 2",
+      "WenJinMinchoWP2-Regular",
+      "常規",
+      "常规",
+      "文津宋体W 第2平面",
+      "文津宋體W 第2平面",
+      "文津明朝W 第2平面",
+      "標準",
+      "문진(文津) 명조 W 평면 2",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMinchoW-TTF/WenJinMinchoWP2-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenJinMinchoWP3-Regular-5384ed7dc85eff0c.ttf",
+    "sha256": "5384ed7dc85eff0c3e41fd22860a249d8c6e8bfd148ac6ffb5d79e9d8669e9f6",
+    "size": 6142404,
+    "names": [
+      "Regular",
+      "WenJin Mincho W Plane 3",
+      "WenJinMinchoWP3-Regular",
+      "常規",
+      "常规",
+      "文津宋体W 第3平面",
+      "文津宋體W 第3平面",
+      "文津明朝W 第3平面",
+      "標準",
+      "문진(文津) 명조 W 평면 3",
+      "일반"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文津宋体2.000_猫啃网/文津宋体2.000/WenJinMinchoW-TTF/WenJinMinchoWP3-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/99ad97cedc3c4f65-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenQuanYi_Bitmap_Song_12px-ce94c20796987a16.ttf",
+    "sha256": "ce94c20796987a169ea08d24207c7a00ff457fe3b5dae5db21c7b51eab60eb3c",
+    "size": 6410560,
+    "names": [
+      "Medium",
+      "WenQuanYi Bitmap Song 12px",
+      "WenQuanYiBitmapSong12px",
+      "文泉驿点阵宋体12px"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文泉驿点阵宋体1.0.0_猫啃网/文泉驿点阵宋体/WenQuanYi Bitmap Song 12px.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8177f97513213526-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenQuanYi_Bitmap_Song_13px-46ab2524897b1cc5.ttf",
+    "sha256": "46ab2524897b1cc5ae0e05e132d08787c841bfc40f8bd2851070bebdb75d77f4",
+    "size": 6898152,
+    "names": [
+      "Medium",
+      "WenQuanYi Bitmap Song 13px",
+      "WenQuanYiBitmapSong13px",
+      "文泉驿点阵宋体13px"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文泉驿点阵宋体1.0.0_猫啃网/文泉驿点阵宋体/WenQuanYi Bitmap Song 13px.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8177f97513213526-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenQuanYi_Bitmap_Song_14px-1da8cb17abb4fd34.ttf",
+    "sha256": "1da8cb17abb4fd34d4cfc83be7e16baeb49f3822f9236499d29cd9ca7a4f68f6",
+    "size": 5639720,
+    "names": [
+      "Medium",
+      "WenQuanYi Bitmap Song 14px",
+      "WenQuanYiBitmapSong14px",
+      "文泉驿点阵宋体14px"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文泉驿点阵宋体1.0.0_猫啃网/文泉驿点阵宋体/WenQuanYi Bitmap Song 14px.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8177f97513213526-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenQuanYi_Bitmap_Song_15px-f6cee919184896fb.ttf",
+    "sha256": "f6cee919184896fbcb2dd9ca3f9ec51e697665c56215d13941d5837c4c12c42d",
+    "size": 7880324,
+    "names": [
+      "Medium",
+      "WenQuanYi Bitmap Song 15px",
+      "WenQuanYiBitmapSong15px",
+      "文泉驿点阵宋体15px"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文泉驿点阵宋体1.0.0_猫啃网/文泉驿点阵宋体/WenQuanYi Bitmap Song 15px.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8177f97513213526-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenQuanYi_Bitmap_Song_16px-09ebd60aa1900d8d.ttf",
+    "sha256": "09ebd60aa1900d8d09b61dfc786cbe51454c38b26f0374ead786d7ab96de51be",
+    "size": 8531984,
+    "names": [
+      "Medium",
+      "WenQuanYi Bitmap Song 16px",
+      "WenQuanYiBitmapSong16px",
+      "文泉驿点阵宋体16px"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文泉驿点阵宋体1.0.0_猫啃网/文泉驿点阵宋体/WenQuanYi Bitmap Song 16px.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8177f97513213526-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/JFZSKSealScript_V3.5-e54e442249c9f9d3.ttf",
+    "sha256": "e54e442249c9f9d3423c32346ce68dc0fa2abc28b8707768217b40127b8882b5",
+    "size": 2471004,
+    "names": [
+      "JFZSKSealScript",
+      "Jingfeng_ZSKSS",
+      "Regular",
+      "大学论语敬峰中山王篆",
+      "敬峰中山王篆",
+      "正常"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/敬峰中山王篆3.5_猫啃网/敬峰中山王篆3.5/JFZSKSealScript_V3.5.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/da6e8c04f3eba2c9-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
