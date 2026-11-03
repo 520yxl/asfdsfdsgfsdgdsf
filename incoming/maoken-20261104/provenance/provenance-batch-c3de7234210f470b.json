@@ -1,0 +1,780 @@
+[
+  {
+    "font": "incoming/SweiHalfMoonCJKsc-Light-066391091175e9c9.ttf",
+    "sha256": "066391091175e9c9b68360a128be1753f64020d31d5ea9e9782aa2c5aeeb95c2",
+    "size": 13894568,
+    "names": [
+      "Light",
+      "Swei Half Moon CJK SC",
+      "Swei Half Moon CJKsc Light",
+      "SweiHalfMoonCJKsc-Light",
+      "獅尾半月SC",
+      "獅尾半月SC-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾半月体2.125(简体版)_猫啃网/狮尾半月体2.125/CJK SC/SweiHalfMoonCJKsc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiHalfMoonCJKsc-Medium-182dfdcdcc40a484.ttf",
+    "sha256": "182dfdcdcc40a48486847bf5346b0005ba5f763a5cd7f258e4982377efdeeaec",
+    "size": 13529696,
+    "names": [
+      "Medium",
+      "Swei Half Moon CJK SC",
+      "Swei Half Moon CJKsc Medium",
+      "SweiHalfMoonCJKsc-Medium",
+      "獅尾半月SC",
+      "獅尾半月SC-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾半月体2.125(简体版)_猫啃网/狮尾半月体2.125/CJK SC/SweiHalfMoonCJKsc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiHalfMoonCJKsc-Regular-3c8e863928395900.ttf",
+    "sha256": "3c8e863928395900fffdc559b7bec474f2aaafbf4719cc08dcca3293bb804347",
+    "size": 13712680,
+    "names": [
+      "Regular",
+      "Swei Half Moon CJK SC",
+      "Swei Half Moon CJKsc Regular",
+      "SweiHalfMoonCJKsc-Regular",
+      "獅尾半月SC",
+      "獅尾半月SC-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾半月体2.125(简体版)_猫啃网/狮尾半月体2.125/CJK SC/SweiHalfMoonCJKsc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiHalfMoonCJKsc-Thin-4e62b1b48d91d8b4.ttf",
+    "sha256": "4e62b1b48d91d8b4ecfc6d8e9b8b0fc1b6f2aacdeae99250e1e9330067f97a1d",
+    "size": 14097672,
+    "names": [
+      "Swei Half Moon CJK SC",
+      "Swei Half Moon CJKsc Thin",
+      "SweiHalfMoonCJKsc-Thin",
+      "Thin",
+      "獅尾半月SC",
+      "獅尾半月SC-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾半月体2.125(简体版)_猫啃网/狮尾半月体2.125/CJK SC/SweiHalfMoonCJKsc-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKjp-Black-493d229ade9311b1.ttf",
+    "sha256": "493d229ade9311b1eb1c7479838415e11a199854686cad791dac967a583ed774",
+    "size": 28593708,
+    "names": [
+      "Black",
+      "Swei Sugar CJK JP",
+      "Swei Sugar CJKjp Black",
+      "SweiSugarCJKjp-Black",
+      "獅尾加糖宋體JP",
+      "獅尾加糖宋體JP-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK JP/SweiSugarCJKjp-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKjp-Bold-1a85277745a87006.ttf",
+    "sha256": "1a85277745a87006f2916dafc57617c2f3636987752c7805f99b16a4e11ab7cf",
+    "size": 28570324,
+    "names": [
+      "Bold",
+      "Swei Sugar CJK JP",
+      "Swei Sugar CJKjp Bold",
+      "SweiSugarCJKjp-Bold",
+      "獅尾加糖宋體JP",
+      "獅尾加糖宋體JP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK JP/SweiSugarCJKjp-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKjp-ExtraLight-c2f4328b86463813.ttf",
+    "sha256": "c2f4328b86463813d1ae0b0feeb87ebc603f82e8a6bcc255e258641aa30bec05",
+    "size": 17949144,
+    "names": [
+      "ExtraLight",
+      "Swei Sugar CJK JP",
+      "Swei Sugar CJKjp ExtraLight",
+      "SweiSugarCJKjp-ExtraLight",
+      "獅尾加糖宋體JP",
+      "獅尾加糖宋體JP-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK JP/SweiSugarCJKjp-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKjp-Light-d74d5c2bc3db2d9d.ttf",
+    "sha256": "d74d5c2bc3db2d9d25e1ea3e62a9bb80d1e81e53315434fa6a5545fd18330540",
+    "size": 27787516,
+    "names": [
+      "Light",
+      "Swei Sugar CJK JP",
+      "Swei Sugar CJKjp Light",
+      "SweiSugarCJKjp-Light",
+      "獅尾加糖宋體JP",
+      "獅尾加糖宋體JP-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK JP/SweiSugarCJKjp-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKjp-Medium-2934b33df1a35baa.ttf",
+    "sha256": "2934b33df1a35baa8cbf40a005a7b0cb1012fc46e7ac7c6ff3184d4690f7d041",
+    "size": 28498752,
+    "names": [
+      "Medium",
+      "Swei Sugar CJK JP",
+      "Swei Sugar CJKjp Medium",
+      "SweiSugarCJKjp-Medium",
+      "獅尾加糖宋體JP",
+      "獅尾加糖宋體JP-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK JP/SweiSugarCJKjp-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKjp-Regular-067afbc6306efcfb.ttf",
+    "sha256": "067afbc6306efcfb84ea4393429fcff9d9c1acdda760733acee26532bceb06fb",
+    "size": 28517536,
+    "names": [
+      "Regular",
+      "Swei Sugar CJK JP",
+      "Swei Sugar CJKjp Regular",
+      "SweiSugarCJKjp-Regular",
+      "獅尾加糖宋體JP",
+      "獅尾加糖宋體JP-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK JP/SweiSugarCJKjp-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKjp-SemiBold-1538509f2a0adfa1.ttf",
+    "sha256": "1538509f2a0adfa12604acebf925a9340c8f5cdb8b60592c25c821ae2ecec262",
+    "size": 28505640,
+    "names": [
+      "SemiBold",
+      "Swei Sugar CJK JP",
+      "Swei Sugar CJKjp SemiBold",
+      "SweiSugarCJKjp-SemiBold",
+      "獅尾加糖宋體JP",
+      "獅尾加糖宋體JP-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK JP/SweiSugarCJKjp-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKsc-Black-b380166a35451e18.ttf",
+    "sha256": "b380166a35451e18834dd8c2353367e5a0cfb599339ea70b52d1895fc97a949e",
+    "size": 28752452,
+    "names": [
+      "Black",
+      "Swei Sugar CJK SC",
+      "Swei Sugar CJKsc Black",
+      "SweiSugarCJKsc-Black",
+      "獅尾加糖宋體SC",
+      "獅尾加糖宋體SC-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK SC/SweiSugarCJKsc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKsc-Bold-11d3eb8d55cbdd30.ttf",
+    "sha256": "11d3eb8d55cbdd30cfb48a4000987512f9877b3a07e98e5f1e629228a68efac8",
+    "size": 28742636,
+    "names": [
+      "Bold",
+      "Swei Sugar CJK SC",
+      "Swei Sugar CJKsc Bold",
+      "SweiSugarCJKsc-Bold",
+      "獅尾加糖宋體SC",
+      "獅尾加糖宋體SC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK SC/SweiSugarCJKsc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKsc-ExtraLight-13187b319cc52f77.ttf",
+    "sha256": "13187b319cc52f77aec4a7e0a75536fd83966dba780c11dccbe24cdc8398104b",
+    "size": 18013504,
+    "names": [
+      "ExtraLight",
+      "Swei Sugar CJK SC",
+      "Swei Sugar CJKsc ExtraLight",
+      "SweiSugarCJKsc-ExtraLight",
+      "獅尾加糖宋體SC",
+      "獅尾加糖宋體SC-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK SC/SweiSugarCJKsc-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKsc-Light-b7f8613a9f483eae.ttf",
+    "sha256": "b7f8613a9f483eae604d370a6e9ef39965caba90acf56b7d81f641f7e513333b",
+    "size": 27991648,
+    "names": [
+      "Light",
+      "Swei Sugar CJK SC",
+      "Swei Sugar CJKsc Light",
+      "SweiSugarCJKsc-Light",
+      "獅尾加糖宋體SC",
+      "獅尾加糖宋體SC-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK SC/SweiSugarCJKsc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKsc-Medium-8a215f56715901d2.ttf",
+    "sha256": "8a215f56715901d238c412c2ddd1fa140915cc1349260ee255bfc025894d7941",
+    "size": 28702024,
+    "names": [
+      "Medium",
+      "Swei Sugar CJK SC",
+      "Swei Sugar CJKsc Medium",
+      "SweiSugarCJKsc-Medium",
+      "獅尾加糖宋體SC",
+      "獅尾加糖宋體SC-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK SC/SweiSugarCJKsc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKsc-Regular-078ad8482dfd15f4.ttf",
+    "sha256": "078ad8482dfd15f4358221cfa5bb6b224824d4895309b58ddea533ceee834874",
+    "size": 28725804,
+    "names": [
+      "Regular",
+      "Swei Sugar CJK SC",
+      "Swei Sugar CJKsc Regular",
+      "SweiSugarCJKsc-Regular",
+      "獅尾加糖宋體SC",
+      "獅尾加糖宋體SC-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK SC/SweiSugarCJKsc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKsc-SemiBold-b5280d9ca2bbe763.ttf",
+    "sha256": "b5280d9ca2bbe7638c7182f43e7c3a95b0a87d01bc98d7fb032d0f95a72aa0d5",
+    "size": 28698144,
+    "names": [
+      "SemiBold",
+      "Swei Sugar CJK SC",
+      "Swei Sugar CJKsc SemiBold",
+      "SweiSugarCJKsc-SemiBold",
+      "獅尾加糖宋體SC",
+      "獅尾加糖宋體SC-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK SC/SweiSugarCJKsc-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKtc-Black-f39f956fc4a7f9f6.ttf",
+    "sha256": "f39f956fc4a7f9f6729c62047da0c9376c56653ff7d6912a3b7032c490b449e3",
+    "size": 29001120,
+    "names": [
+      "Black",
+      "Swei Sugar CJK TC",
+      "Swei Sugar CJKtc Black",
+      "SweiSugarCJKtc-Black",
+      "獅尾加糖宋體",
+      "獅尾加糖宋體-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK TC/SweiSugarCJKtc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKtc-Bold-c71c1d5196e49211.ttf",
+    "sha256": "c71c1d5196e49211c5232df39210df2c6fbea0b60245cb8ef9fc7edd37a1a30c",
+    "size": 28989908,
+    "names": [
+      "Bold",
+      "Swei Spring CJK TC",
+      "Swei Sugar CJKtc Bold",
+      "SweiSugarCJKtc-Bold",
+      "獅尾加糖宋體",
+      "獅尾加糖宋體-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK TC/SweiSugarCJKtc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKtc-ExtraLight-e0ffab8d9786acf5.ttf",
+    "sha256": "e0ffab8d9786acf562631a574ef11334464223be53c088550e8c31ba0a22acc9",
+    "size": 18133528,
+    "names": [
+      "ExtraLight",
+      "Swei Sugar CJK TC",
+      "Swei Sugar CJKtc ExtraLight",
+      "SweiSugarCJKtc-ExtraLight",
+      "獅尾加糖宋體",
+      "獅尾加糖宋體-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK TC/SweiSugarCJKtc-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKtc-Light-cfb0700543fe65ed.ttf",
+    "sha256": "cfb0700543fe65eda344a46e107b857f1ccf2fbc2c594051feb30223f3884a04",
+    "size": 28204468,
+    "names": [
+      "Light",
+      "Swei Sugar CJK TC",
+      "Swei Sugar CJKtc Light",
+      "SweiSugarCJKtc-Light",
+      "獅尾加糖宋體",
+      "獅尾加糖宋體-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK TC/SweiSugarCJKtc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKtc-Medium-258ba06bc3e87e50.ttf",
+    "sha256": "258ba06bc3e87e50ccdc9ebbce9ad67de7e7c4f63fdd92618e2149d1f53a81c9",
+    "size": 28935724,
+    "names": [
+      "Medium",
+      "Swei Sugar CJK TC",
+      "Swei Sugar CJKtc Medium",
+      "SweiSugarCJKtc-Medium",
+      "獅尾加糖宋體",
+      "獅尾加糖宋體-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK TC/SweiSugarCJKtc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKtc-Regular-2e930dbafa3f5878.ttf",
+    "sha256": "2e930dbafa3f5878df4de9fb773c5a4c9da0b658dd9219d62fd1a928db61447a",
+    "size": 28960864,
+    "names": [
+      "Regular",
+      "Swei Sugar CJK TC",
+      "Swei Sugar CJKtc Regular",
+      "SweiSugarCJKtc-Regular",
+      "獅尾加糖宋體",
+      "獅尾加糖宋體-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK TC/SweiSugarCJKtc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiSugarCJKtc-SemiBold-76b340e403089a8f.ttf",
+    "sha256": "76b340e403089a8fac99cb4c2ed707f0755d6a6a2343e1d7a1c819ee3f5845b3",
+    "size": 28943512,
+    "names": [
+      "SemiBold",
+      "Swei Sugar CJK TC",
+      "Swei Sugar CJKtc SemiBold",
+      "SweiSugarCJKtc-SemiBold",
+      "獅尾加糖宋體",
+      "獅尾加糖宋體-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾加糖宋体1.061_猫啃网/狮尾加糖宋体1.061/CJK TC/SweiSugarCJKtc-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKsc-Black-0fc8ac0c855e20f0.ttf",
+    "sha256": "0fc8ac0c855e20f0adb884abd175753f4939487e4d73582af25f2fb1cffeb490",
+    "size": 14953192,
+    "names": [
+      "Black",
+      "Swei 3T Sans CJK SC",
+      "Swei 3T Sans CJKsc Black",
+      "Swei3TSansCJKsc-Black",
+      "獅尾三角黑體SC",
+      "獅尾三角黑體SC-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK SC/Swei3TSansCJKsc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKsc-Bold-fc9229456f5fc19f.ttf",
+    "sha256": "fc9229456f5fc19ffe6f0d6e1ffd6ba48a2a3b0293fb132810857ceeda8d095f",
+    "size": 15316312,
+    "names": [
+      "Bold",
+      "Swei 3T Sans CJK SC",
+      "Swei 3T Sans CJKsc Bold",
+      "Swei3TSansCJKsc-Bold",
+      "獅尾三角黑體SC",
+      "獅尾三角黑體SC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK SC/Swei3TSansCJKsc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKsc-DemiLight-76a25090e5abe54b.ttf",
+    "sha256": "76a25090e5abe54b9bd2a17c8e06c7e2eaf3fbf89309269dc14117b925f050c8",
+    "size": 16150788,
+    "names": [
+      "DemiLight",
+      "Swei 3T Sans CJK SC",
+      "Swei 3T Sans CJKsc DemiLight",
+      "Swei3TSansCJKsc-DemiLight",
+      "獅尾三角黑體SC",
+      "獅尾三角黑體SC-DemiLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK SC/Swei3TSansCJKsc-DemiLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKsc-Light-f1aabfb60c31f472.ttf",
+    "sha256": "f1aabfb60c31f4720cd2c1fbd5e59fe88c9ffbee36bd2b9e23677c388e2b0770",
+    "size": 16367896,
+    "names": [
+      "Light",
+      "Swei 3T Sans CJK SC",
+      "Swei 3T Sans CJKsc Light",
+      "Swei3TSansCJKsc-Light",
+      "獅尾三角黑體SC",
+      "獅尾三角黑體SC-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK SC/Swei3TSansCJKsc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKsc-Medium-7fbcbfc04fb8d48f.ttf",
+    "sha256": "7fbcbfc04fb8d48f0568d2a14a073df20fdfbae1f8739fc5a05cddbca94efe39",
+    "size": 15738328,
+    "names": [
+      "Medium",
+      "Swei 3T Sans CJK SC",
+      "Swei 3T Sans CJKsc Medium",
+      "Swei3TSansCJKsc-Medium",
+      "獅尾三角黑體SC",
+      "獅尾三角黑體SC-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK SC/Swei3TSansCJKsc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKsc-Regular-e76ff859d1676b34.ttf",
+    "sha256": "e76ff859d1676b343272ef1975028c939baf44fc49f6cbdf49626174532bc79c",
+    "size": 16135784,
+    "names": [
+      "Regular",
+      "Swei 3T Sans CJK SC",
+      "Swei 3T Sans CJKsc Regular",
+      "Swei3TSansCJKsc-Regular",
+      "獅尾三角黑體SC",
+      "獅尾三角黑體SC-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK SC/Swei3TSansCJKsc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKsc-Thin-dfea46286fab057d.ttf",
+    "sha256": "dfea46286fab057d1f2374a1331a9552f137e36fcf3a5c781158fc69df0c022c",
+    "size": 16516692,
+    "names": [
+      "Swei 3T Sans CJK SC",
+      "Swei 3T Sans CJKsc Thin",
+      "Swei3TSansCJKsc-Thin",
+      "Thin",
+      "獅尾三角黑體SC",
+      "獅尾三角黑體SC-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK SC/Swei3TSansCJKsc-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKtc-Black-0d45dc9e082eae3e.ttf",
+    "sha256": "0d45dc9e082eae3e7d8559ea15fe76bf258a39cba59ff82d5c7fffe726921fc6",
+    "size": 14988432,
+    "names": [
+      "Black",
+      "Swei 3T Sans CJK TC",
+      "Swei 3T Sans CJKtc Black",
+      "Swei3TSansCJKtc-Black",
+      "獅尾三角黑體",
+      "獅尾三角黑體-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK TC/Swei3TSansCJKtc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKtc-Bold-3ba2a2316bdd3e04.ttf",
+    "sha256": "3ba2a2316bdd3e049edee4c98573982b79c530aaf746435bf258414f258fc395",
+    "size": 15359040,
+    "names": [
+      "Bold",
+      "Swei 3T Sans CJK TC",
+      "Swei 3T Sans CJKtc Bold",
+      "Swei3TSansCJKtc-Bold",
+      "獅尾三角黑體",
+      "獅尾三角黑體-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK TC/Swei3TSansCJKtc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKtc-DemiLight-764063070ef4bb0f.ttf",
+    "sha256": "764063070ef4bb0fbc8c6837653a4c444cbd401b53b9b4a8f443d6c6bd885043",
+    "size": 16180920,
+    "names": [
+      "Demi-Light",
+      "DemiLight",
+      "Swei 3T Sans CJK TC",
+      "Swei 3T Sans CJKtc DemiLight",
+      "Swei3TSansCJKtc-DemiLight",
+      "獅尾三角黑體",
+      "獅尾三角黑體-Demi-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK TC/Swei3TSansCJKtc-DemiLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Swei3TSansCJKtc-Light-d243c3c2940afcfa.ttf",
+    "sha256": "d243c3c2940afcfa38d1476672b80370953205d98e1be0102d1b03969cc3447e",
+    "size": 16381120,
+    "names": [
+      "Light",
+      "Swei 3T Sans CJK TC",
+      "Swei 3T Sans CJKtc Light",
+      "Swei3TSansCJKtc-Light",
+      "獅尾三角黑體",
+      "獅尾三角黑體-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾三角黑体2.129_猫啃网/狮尾三角黑/CJK TC/Swei3TSansCJKtc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
