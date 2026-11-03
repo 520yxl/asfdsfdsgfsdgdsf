@@ -1,0 +1,1324 @@
+[
+  {
+    "font": "incoming/ZenMaruGothic-Bold-fe24426b9c8b5523.ttf",
+    "sha256": "fe24426b9c8b5523a0146a8235c8674eccf0493af354a53ec895c3596d9eb745",
+    "size": 3779008,
+    "names": [
+      "Bold",
+      "Zen Maru Gothic",
+      "Zen Maru Gothic Bold",
+      "ZenMaruGothic-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen圆体_猫啃网/Zen圆体/ZenMaruGothic-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/2826a7f43399b58b-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenMaruGothic-Light-c4e6fa10ff517df3.ttf",
+    "sha256": "c4e6fa10ff517df37cb0c13038fe2813f3c47afe6577fa4a5573200e4508b2c1",
+    "size": 3723392,
+    "names": [
+      "Light",
+      "Regular",
+      "Zen Maru Gothic",
+      "Zen Maru Gothic Light",
+      "ZenMaruGothic-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen圆体_猫啃网/Zen圆体/ZenMaruGothic-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/2826a7f43399b58b-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenMaruGothic-Medium-3cfdb98a13571ede.ttf",
+    "sha256": "3cfdb98a13571ede17fcc769f5093a97c38b80a7b9b2ab754a26b4d822092b3b",
+    "size": 3810988,
+    "names": [
+      "Medium",
+      "Regular",
+      "Zen Maru Gothic",
+      "Zen Maru Gothic Medium",
+      "ZenMaruGothic-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen圆体_猫啃网/Zen圆体/ZenMaruGothic-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/2826a7f43399b58b-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenMaruGothic-Regular-d38657d92bbb343a.ttf",
+    "sha256": "d38657d92bbb343a1c6c4f9133025c7991efc52419444d16e31e3a97aaef2d9d",
+    "size": 3832700,
+    "names": [
+      "Regular",
+      "Zen Maru Gothic",
+      "Zen Maru Gothic Regular",
+      "ZenMaruGothic-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen圆体_猫啃网/Zen圆体/ZenMaruGothic-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/2826a7f43399b58b-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenAntique-Regular-3ac6f457ab6da79c.ttf",
+    "sha256": "3ac6f457ab6da79cc16f8f09a537aeb737ef75715b5b46b799a28a035fe4fe4a",
+    "size": 5491864,
+    "names": [
+      "Regular",
+      "Zen Antique",
+      "Zen Antique Regular",
+      "ZenAntique-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen古董_猫啃网/Zen古董/ZenAntique-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicAntique-Black-e3982fe5ef67dd8f.ttf",
+    "sha256": "e3982fe5ef67dd8fbeeea6609e6870885856377e901927ff0d0a65ca0eee0358",
+    "size": 2323808,
+    "names": [
+      "Black",
+      "Regular",
+      "Zen Kaku Gothic Antique",
+      "Zen Kaku Gothic Antique Black",
+      "ZenKakuGothicAntique-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicAntique-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicAntique-Bold-bf1266b04defd3ef.ttf",
+    "sha256": "bf1266b04defd3efabd91602c3de8c14fb52758a1afae97312571eaeab3d8b97",
+    "size": 2339544,
+    "names": [
+      "Bold",
+      "Zen Kaku Gothic Antique",
+      "Zen Kaku Gothic Antique Bold",
+      "ZenKakuGothicAntique-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicAntique-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicAntique-Light-36deef40cdba70da.ttf",
+    "sha256": "36deef40cdba70daa1fa3e79e5472e48aac06d90bf813da6711c843ca91303f5",
+    "size": 2199412,
+    "names": [
+      "Light",
+      "Regular",
+      "Zen Kaku Gothic Antique",
+      "Zen Kaku Gothic Antique Light",
+      "ZenKakuGothicAntique-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicAntique-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicAntique-Medium-e7ef2b5ffbc27eff.ttf",
+    "sha256": "e7ef2b5ffbc27efffc12bec5a399d8a3c09ac28cd9e4268f1ed2530f7eab2ec0",
+    "size": 2353020,
+    "names": [
+      "Medium",
+      "Regular",
+      "Zen Kaku Gothic Antique",
+      "Zen Kaku Gothic Antique Medium",
+      "ZenKakuGothicAntique-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicAntique-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicAntique-Regular-29186ae8c68066e6.ttf",
+    "sha256": "29186ae8c68066e6f5efa8c77c1a955550c5772da90f3e98fe8ab9e674250dd7",
+    "size": 2385480,
+    "names": [
+      "Regular",
+      "Zen Kaku Gothic Antique",
+      "Zen Kaku Gothic Antique Regular",
+      "ZenKakuGothicAntique-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicAntique-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicNew-Black-e38bfa667ff356c3.ttf",
+    "sha256": "e38bfa667ff356c353f0f2f920f4ea89cac4f2a3969434fec1b90cd4cab07371",
+    "size": 2315668,
+    "names": [
+      "Black",
+      "Regular",
+      "Zen Kaku Gothic New",
+      "Zen Kaku Gothic New Black",
+      "ZenKakuGothicNew-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicNew-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicNew-Bold-50c0586ac7e8b9b4.ttf",
+    "sha256": "50c0586ac7e8b9b41e9b67e6867bc42ef2dc6796c84a74d8067f61027e83564e",
+    "size": 2329492,
+    "names": [
+      "Bold",
+      "Zen Kaku Gothic New",
+      "Zen Kaku Gothic New Bold",
+      "ZenKakuGothicNew-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicNew-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicNew-Light-0184fbc7c5df5b61.ttf",
+    "sha256": "0184fbc7c5df5b6135f1f311e88065a8511251e22dc1f8569a82802055a335a8",
+    "size": 2196088,
+    "names": [
+      "Light",
+      "Regular",
+      "Zen Kaku Gothic New",
+      "Zen Kaku Gothic New Light",
+      "ZenKakuGothicNew-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicNew-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicNew-Medium-7b6fa0389bfc58ca.ttf",
+    "sha256": "7b6fa0389bfc58caf9960d2a54f9cd622659796d677763004be1d1b90fbabfd7",
+    "size": 2343244,
+    "names": [
+      "Medium",
+      "Regular",
+      "Zen Kaku Gothic New",
+      "Zen Kaku Gothic New Medium",
+      "ZenKakuGothicNew-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicNew-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZenKakuGothicNew-Regular-6e5cd3c3b8650114.ttf",
+    "sha256": "6e5cd3c3b8650114b422f7de433b51b799e1ee4c68b2702e68c1cd3805ec59c4",
+    "size": 2375316,
+    "names": [
+      "Regular",
+      "Zen Kaku Gothic New",
+      "Zen Kaku Gothic New Regular",
+      "ZenKakuGothicNew-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Zen Kaku黑体_猫啃网/Zen Kaku黑体/ZenKakuGothicNew-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YuseiMagic-Regular-4b99c428c0dd4460.ttf",
+    "sha256": "4b99c428c0dd4460a5c37dc71dbeec8bdbe9a5a8b51d9d686005fab0f2c4d21d",
+    "size": 6042400,
+    "names": [
+      "Regular",
+      "Yusei Magic",
+      "Yusei Magic Regular",
+      "YuseiMagic-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Yusei魔法手写体1.8.3_猫啃网/Yusei魔法手写体/YuseiMagic-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c74e8c47951ddd9c-License.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YOzM90-2549e2cccaf3aff4.ttf",
+    "sha256": "2549e2cccaf3aff4ac1ba465fc0c9646e344bfa4291fa26846ee3be8db7183f0",
+    "size": 4666286,
+    "names": [
+      "Regular",
+      "YOzFontM90",
+      "YOzFontM90-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/YOzFont毛笔楷书_猫啃网/YOzFont毛笔楷书/YOzM90.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/901b890dfd4f535e-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/6bed979909554098-Readme.txt",
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YOzMB90-ff23f2a95990c606.ttf",
+    "sha256": "ff23f2a95990c606dad15de5a50f074da9ff0831a812317b1d939edef434a8af",
+    "size": 4613850,
+    "names": [
+      "Bold",
+      "YOzFontM90",
+      "YOzFontM90 Bold",
+      "YOzFontM90-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/YOzFont毛笔楷书_猫啃网/YOzFont毛笔楷书/YOzMB90.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/901b890dfd4f535e-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/6bed979909554098-Readme.txt",
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YOzBS-556b02bea3602d4f.otf",
+    "sha256": "556b02bea3602d4ff01b4a5784648dab29f86a787657aca62bfce0ddcf5739c2",
+    "size": 11638200,
+    "names": [
+      "B",
+      "Bold",
+      "YOzS Pr6N",
+      "YOzS Pr6N B",
+      "YOzS-Pr6N-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/YOzFont手写体(标准版)_猫啃网/YOzFont手写体(标准版)/YOzBS_.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/da6edc571e3db5ab-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/08101675ef678b4d-Readme.txt",
+      "incoming/maoken-20261104/licenses-exact/bfbbf388bd702632-Readme_E.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YOzBS_90-794794ce09dc002a.otf",
+    "sha256": "794794ce09dc002addb07a481f285e0b17fd95640bb0135a8ee1599ebc10b5a5",
+    "size": 8876644,
+    "names": [
+      "B",
+      "Bold",
+      "YOzS Pro",
+      "YOzS Pro B",
+      "YOzS-Pro-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/YOzFont手写体(标准版)_猫啃网/YOzFont手写体(标准版)/YOzBS_90.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/da6edc571e3db5ab-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/08101675ef678b4d-Readme.txt",
+      "incoming/maoken-20261104/licenses-exact/bfbbf388bd702632-Readme_E.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YOzRS-58f628562e3923b0.otf",
+    "sha256": "58f628562e3923b0174cf4df51548e8375864e8532788f89d3394deb231d8777",
+    "size": 11660148,
+    "names": [
+      "R",
+      "Regular",
+      "YOzS Pr6N",
+      "YOzS Pr6N R",
+      "YOzS-Pr6N-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/YOzFont手写体(标准版)_猫啃网/YOzFont手写体(标准版)/YOzRS_.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/da6edc571e3db5ab-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/08101675ef678b4d-Readme.txt",
+      "incoming/maoken-20261104/licenses-exact/bfbbf388bd702632-Readme_E.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YOzRS_90-221f2ee48c9bf48a.otf",
+    "sha256": "221f2ee48c9bf48a4a7a6ca10ddcc45d21d2f3bbf2d188585c5a6dab626322c3",
+    "size": 8893144,
+    "names": [
+      "R",
+      "Regular",
+      "YOzS Pro",
+      "YOzS Pro R",
+      "YOzS-Pro-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/YOzFont手写体(标准版)_猫啃网/YOzFont手写体(标准版)/YOzRS_90.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/da6edc571e3db5ab-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/08101675ef678b4d-Readme.txt",
+      "incoming/maoken-20261104/licenses-exact/bfbbf388bd702632-Readme_E.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Yomogi-Regular-3424e34bb951e89b.ttf",
+    "sha256": "3424e34bb951e89bf5dd2554a65d8964335ea3c0560f8d1ea9aa3591ef73cba9",
+    "size": 4039220,
+    "names": [
+      "Regular",
+      "Yomogi",
+      "Yomogi Regular",
+      "Yomogi-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Yomogi字体_猫啃网/Yomogi字体_猫啃网/Yomogi-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/de2f50189ab7b6a3-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/07YasashisaGothic_Regular-d950993bd9341783.ttf",
+    "sha256": "d950993bd9341783d852efab87d19bf5f4b920d5f644a7cf9564e48ba5d05912",
+    "size": 4615092,
+    "names": [
+      "07YasashisaGothic",
+      "07やさしさゴシック",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Yasashisa黑体_猫啃网/Yasashisa黑体/07YasashisaGothic Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Xim-Sans-Brahmic-ee6f79193ebf98b4.ttf",
+    "sha256": "ee6f79193ebf98b49d3c50e54a6617c64e8f13f7ceb8bbb91e73c96287f36378",
+    "size": 7195504,
+    "names": [
+      "Regular",
+      "Xim Sans Brahmic",
+      "Xim-Sans-Brahmic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Xim Sans手写体1.62_猫啃网/Xim Sans手写体1.62/Xim-Sans-Brahmic.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Xim-Sans-Conlang-ddd2b877096a2e95.ttf",
+    "sha256": "ddd2b877096a2e95b6525300996e5911db798b696d5b31d71a908422cdfd90d4",
+    "size": 15307084,
+    "names": [
+      "Regular",
+      "Xim Sans Conlang",
+      "Xim-Sans-Conlang"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Xim Sans手写体1.62_猫啃网/Xim Sans手写体1.62/Xim-Sans-Conlang.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Xim-Sans-Handwritten-8dfd3d30e2efd0c6.ttf",
+    "sha256": "8dfd3d30e2efd0c6e1204fee6b6978a3011ead7778dd000b827a10a4d50dd135",
+    "size": 17829276,
+    "names": [
+      "Regular",
+      "Xim Sans Handwritten",
+      "Xim Sans 手書き風",
+      "Xim-Sans-Handwritten"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Xim Sans手写体1.62_猫啃网/Xim Sans手写体1.62/Xim-Sans-Handwritten.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TsunagiGothic-847de1a1c7baf5c7.ttf",
+    "sha256": "847de1a1c7baf5c7edbda3b26fd18e5dbdfbe470d3eaa77f354e16b3c6d3e895",
+    "size": 4525596,
+    "names": [
+      "Black",
+      "Regular",
+      "Tsunagi Gothic Black",
+      "TsunagiGothic-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Tsunagi黑体_猫啃网/つなぎゴシック_1001/TsunagiGothic.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TRTaishoMinStd-R-e54df2c859056297.otf",
+    "sha256": "e54df2c859056297891f8fde7cc47e47336816140224c76d2f7eb3c4c14d00cc",
+    "size": 4065324,
+    "names": [
+      "R",
+      "Regular",
+      "TR TaishoMin Std",
+      "TR TaishoMin Std R",
+      "TRTaishoMinStd-R",
+      "TR大正明朝体Std",
+      "TR大正明朝体Std R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/TR大正明朝体3.003_猫啃网/TR大正明朝体3.003/TRTaishoMinStd-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1c-black-f40ef1f286e6d2e7.ttf",
+    "sha256": "f40ef1f286e6d2e7231e6457ee756147c5e05468f400cf940d16cefe19d1cf6e",
+    "size": 3592144,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 1c",
+      "Rounded-L M+ 1c black",
+      "black",
+      "rounded-l-mplus-1c-black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1c-black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1c-bold-c6ad8e98607ddc44.ttf",
+    "sha256": "c6ad8e98607ddc44d141485b27e25b1d1933bcd2332121505d2f7cb8c8d54f4e",
+    "size": 3594564,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 1c",
+      "Rounded-L M+ 1c bold",
+      "bold",
+      "rounded-l-mplus-1c-bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1c-bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1c-heavy-93257760ec295ba6.ttf",
+    "sha256": "93257760ec295ba60948b1e720df8fccb77ed0ab0a5b93278c0c6c544d2b3862",
+    "size": 3596952,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 1c",
+      "Rounded-L M+ 1c heavy",
+      "heavy",
+      "rounded-l-mplus-1c-heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1c-heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1c-light-61e406a226c6eea0.ttf",
+    "sha256": "61e406a226c6eea0d5c2bc0b5847d7cc8448544b998f38e80c4f5fe2f879618a",
+    "size": 3218216,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1c",
+      "Rounded-L M+ 1c light",
+      "light",
+      "rounded-l-mplus-1c-light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1c-light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1c-medium-ab7d890aef60c270.ttf",
+    "sha256": "ab7d890aef60c27052377a5e0e846f0e4f5ec531f244508ed0309782ba0c615c",
+    "size": 3587768,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1c",
+      "Rounded-L M+ 1c medium",
+      "medium",
+      "rounded-l-mplus-1c-medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1c-medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1c-regular-10e1227681a8ad0e.ttf",
+    "sha256": "10e1227681a8ad0ec945aa8daa641745f588c0119beb15a70facd671f8912f6a",
+    "size": 3405660,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1c",
+      "Rounded-L M+ 1c regular",
+      "regular",
+      "rounded-l-mplus-1c-regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1c-regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1c-thin-a06b0e9989226865.ttf",
+    "sha256": "a06b0e99892268651325e25d8881a6a0cfbac40e65a3e220919f2864b36951a1",
+    "size": 2828688,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1c",
+      "Rounded-L M+ 1c thin",
+      "rounded-l-mplus-1c-thin",
+      "thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1c-thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1m-bold-5d794f3f82ca18fc.ttf",
+    "sha256": "5d794f3f82ca18fc23a81e311f39ef660de9a15728883468189f76627cfec211",
+    "size": 3452800,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 1m",
+      "Rounded-L M+ 1m bold",
+      "bold",
+      "rounded-l-mplus-1m-bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1m-bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1m-light-657343057e40e1a1.ttf",
+    "sha256": "657343057e40e1a178c7b6e437e5c59f3fe96357b0f10d28eda2cdea68695cd9",
+    "size": 3088412,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1m",
+      "Rounded-L M+ 1m light",
+      "light",
+      "rounded-l-mplus-1m-light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1m-light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1m-medium-841e2d9aa3cc5182.ttf",
+    "sha256": "841e2d9aa3cc51828700f63b8b51ea1ab20d0e585558be09180533e63a30eba3",
+    "size": 3445532,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1m",
+      "Rounded-L M+ 1m medium",
+      "medium",
+      "rounded-l-mplus-1m-medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1m-medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1m-regular-db04fd3a3bf939f5.ttf",
+    "sha256": "db04fd3a3bf939f5faf777a458773c52eed8cc85d34071d576d5baeb03743573",
+    "size": 3270640,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1m",
+      "Rounded-L M+ 1m regular",
+      "regular",
+      "rounded-l-mplus-1m-regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1m-regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1m-thin-99ee2dd81bfdb545.ttf",
+    "sha256": "99ee2dd81bfdb5454bca4ff055c7f2811cb80c1b8d853294c6061e2cbca45417",
+    "size": 2710332,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1m",
+      "Rounded-L M+ 1m thin",
+      "rounded-l-mplus-1m-thin",
+      "thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1m-thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1mn-bold-4a99fb6a4a1822b9.ttf",
+    "sha256": "4a99fb6a4a1822b906380df5404aa0f430d4d6e4e8d952c255ca7e0655645cc1",
+    "size": 3451048,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 1mn",
+      "Rounded-L M+ 1mn bold",
+      "bold",
+      "rounded-l-mplus-1mn-bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1mn-bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1mn-light-3e8f28009d8913f4.ttf",
+    "sha256": "3e8f28009d8913f47da61a909661e1eca14b6bf52ed826b14f5d0eae168107ee",
+    "size": 3086412,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1mn",
+      "Rounded-L M+ 1mn light",
+      "light",
+      "rounded-l-mplus-1mn-light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1mn-light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1mn-medium-d915769348d19a3f.ttf",
+    "sha256": "d915769348d19a3fdd30c3a8b3906ebc0ec6d456ebf9e4a3964497039c14e8ef",
+    "size": 3443908,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1mn",
+      "Rounded-L M+ 1mn medium",
+      "medium",
+      "rounded-l-mplus-1mn-medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1mn-medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1mn-regular-71985337204f5979.ttf",
+    "sha256": "71985337204f5979ed81bdc4085e96c5635d160bc2a146f519d56b10ac7bc273",
+    "size": 3266976,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1mn",
+      "Rounded-L M+ 1mn regular",
+      "regular",
+      "rounded-l-mplus-1mn-regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1mn-regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1mn-thin-bd3eec6fec23375f.ttf",
+    "sha256": "bd3eec6fec23375f488aceed4da44283f7c552a0199c4b387eab43e135f8b1ca",
+    "size": 2708700,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1mn",
+      "Rounded-L M+ 1mn thin",
+      "rounded-l-mplus-1mn-thin",
+      "thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1mn-thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1p-black-d6078a13a11466d2.ttf",
+    "sha256": "d6078a13a11466d277a1b375fe860fccb47f8c3c56a7e177c4b2e558ee28b63b",
+    "size": 3594684,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 1p",
+      "Rounded-L M+ 1p black",
+      "black",
+      "rounded-l-mplus-1p-black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1p-black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1p-bold-93e20cfc8570c0ff.ttf",
+    "sha256": "93e20cfc8570c0ff79491a7a7ee89183098e7c2c1d38b2f68f033f1cbc02ec85",
+    "size": 3598420,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 1p",
+      "Rounded-L M+ 1p bold",
+      "bold",
+      "rounded-l-mplus-1p-bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1p-bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1p-heavy-de21d9e310306209.ttf",
+    "sha256": "de21d9e310306209d9e57868720a5555df943e1826a62b0a0a31d177d01a0def",
+    "size": 3600076,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 1p",
+      "Rounded-L M+ 1p heavy",
+      "heavy",
+      "rounded-l-mplus-1p-heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1p-heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1p-light-f465fbbace01b275.ttf",
+    "sha256": "f465fbbace01b275b71ffde098f24b0c11a0eec81d16a0a349627c300a8d4ca2",
+    "size": 3220472,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1p",
+      "Rounded-L M+ 1p light",
+      "light",
+      "rounded-l-mplus-1p-light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1p-light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1p-medium-c168eabd8235c84f.ttf",
+    "sha256": "c168eabd8235c84f95b2aa410b271d91b6842c1b07408431ede63fc7c0149ddd",
+    "size": 3590704,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1p",
+      "Rounded-L M+ 1p medium",
+      "medium",
+      "rounded-l-mplus-1p-medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1p-medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1p-regular-857503f9bef25a53.ttf",
+    "sha256": "857503f9bef25a538726676181082e51014cf777edf8aafe4faa93e2b4378f57",
+    "size": 3408124,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1p",
+      "Rounded-L M+ 1p regular",
+      "regular",
+      "rounded-l-mplus-1p-regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1p-regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-1p-thin-987de00d345726b3.ttf",
+    "sha256": "987de00d345726b31004570d5b261c23034e0dfc7db58df4f554f06da460ea93",
+    "size": 2827980,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 1p",
+      "Rounded-L M+ 1p thin",
+      "rounded-l-mplus-1p-thin",
+      "thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-1p-thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2c-black-5cfd1e17867a96b4.ttf",
+    "sha256": "5cfd1e17867a96b4f80db92e764a531c26f81842a301eb7ef8f3244223d95d26",
+    "size": 3593632,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 2c",
+      "Rounded-L M+ 2c black",
+      "black",
+      "rounded-l-mplus-2c-black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2c-black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2c-bold-ce618df6e8dad1ee.ttf",
+    "sha256": "ce618df6e8dad1ee3ae83f25956e3a1c4f8c438c28a1e9c1987ebfbba848f5af",
+    "size": 3595476,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 2c",
+      "Rounded-L M+ 2c bold",
+      "bold",
+      "rounded-l-mplus-2c-bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2c-bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2c-heavy-07d745c8bffedcd1.ttf",
+    "sha256": "07d745c8bffedcd1bf16e61e43b99e714b4f84f7676d25c1f153c92c05ba327c",
+    "size": 3597844,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 2c",
+      "Rounded-L M+ 2c heavy",
+      "heavy",
+      "rounded-l-mplus-2c-heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2c-heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2c-light-69672a62c528d3b2.ttf",
+    "sha256": "69672a62c528d3b27c4e7c055e3c17066cc2d6611c4d805ba1c293ac6eb55017",
+    "size": 3213136,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 2c",
+      "Rounded-L M+ 2c light",
+      "light",
+      "rounded-l-mplus-2c-light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2c-light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2c-medium-a2d10b66d70a5f91.ttf",
+    "sha256": "a2d10b66d70a5f917a1d8b99d07af679ea08a3b9fb6b490bf2262a04c567ea02",
+    "size": 3584748,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 2c",
+      "Rounded-L M+ 2c medium",
+      "medium",
+      "rounded-l-mplus-2c-medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2c-medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2c-regular-e32b70ce0a581bed.ttf",
+    "sha256": "e32b70ce0a581beddb0888a1ee80b822d6196813621c2d667fa1343d6029d91f",
+    "size": 3404156,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 2c",
+      "Rounded-L M+ 2c regular",
+      "regular",
+      "rounded-l-mplus-2c-regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2c-regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2c-thin-caec7541f5fd537f.ttf",
+    "sha256": "caec7541f5fd537f5510ce6997f606adb3e96dc71c06b7b78fe411fef0a3ce3e",
+    "size": 2864292,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 2c",
+      "Rounded-L M+ 2c thin",
+      "rounded-l-mplus-2c-thin",
+      "thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2c-thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2m-bold-c74a825ab87b8751.ttf",
+    "sha256": "c74a825ab87b8751e2f82059e9ab00b0bf71aafab2d31ed54d36fb4653ffa675",
+    "size": 3452320,
+    "names": [
+      "Bold",
+      "Rounded-L M+ 2m",
+      "Rounded-L M+ 2m bold",
+      "bold",
+      "rounded-l-mplus-2m-bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2m-bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2m-light-c854c40821d9a712.ttf",
+    "sha256": "c854c40821d9a712579654064bf609176de57a1a974d08562a6e189920ff7bf2",
+    "size": 3082140,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 2m",
+      "Rounded-L M+ 2m light",
+      "light",
+      "rounded-l-mplus-2m-light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2m-light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2m-medium-ce6b7a5be8631f13.ttf",
+    "sha256": "ce6b7a5be8631f136c915ac0843bb9bd07d4e7d298a587c317acf458305800fd",
+    "size": 3441196,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 2m",
+      "Rounded-L M+ 2m medium",
+      "medium",
+      "rounded-l-mplus-2m-medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2m-medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/rounded-l-mplus-2m-regular-377eaee6ead84575.ttf",
+    "sha256": "377eaee6ead84575985034c83eb63ec3b9fb8278d7909c0ef1aefcdb67715479",
+    "size": 3268212,
+    "names": [
+      "Regular",
+      "Rounded-L M+ 2m",
+      "Rounded-L M+ 2m regular",
+      "regular",
+      "rounded-l-mplus-2m-regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/Rounded Mgen_猫啃网/Rounded Mgen+/rounded-l-mplus-20150529/rounded-l-mplus-2m-regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b84303c414e00c10-README_E_Rounded.txt",
+      "incoming/maoken-20261104/licenses-exact/a2ee06a2010e320e-README_J_Rounded.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
