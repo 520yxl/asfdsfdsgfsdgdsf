@@ -1,0 +1,22 @@
+{
+  "font": "incoming/aosagi-2392c87eb4fab405.otf",
+  "sha256": "2392c87eb4fab405f196f57d88113f69caec4f5e0790c7c52759a84c1389b40b",
+  "size": 1602580,
+  "names": [
+    "R",
+    "Regular",
+    "aosagi",
+    "aosagiR",
+    "あおさぎ",
+    "あおさぎ R"
+  ],
+  "collection": "猫啃网字体大全2026.08.12",
+  "source_relative_paths": [
+    "日本汉字/青鹭明朝_猫啃网/青鹭明朝/aosagi.otf"
+  ],
+  "license_documents": [
+    "incoming/maoken-20261104/licenses/3c824e0c8b47590f-______.txt",
+    "incoming/maoken-20261104/licenses/5737a7d08f63b631-aosagi_readme.txt"
+  ],
+  "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+}

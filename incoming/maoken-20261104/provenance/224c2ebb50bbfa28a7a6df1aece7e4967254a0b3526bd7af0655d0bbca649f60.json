@@ -1,0 +1,18 @@
+{
+  "font": "incoming/Enkasokkifont-224c2ebb50bbfa28.ttf",
+  "sha256": "224c2ebb50bbfa28a7a6df1aece7e4967254a0b3526bd7af0655d0bbca649f60",
+  "size": 4824176,
+  "names": [
+    "Enkasokkifont",
+    "Regular",
+    "塩化速記フォント"
+  ],
+  "collection": "猫啃网字体大全2026.08.12",
+  "source_relative_paths": [
+    "日本汉字/速记字体_猫啃网/速记字体/Enkasokkifont.ttf"
+  ],
+  "license_documents": [
+    "incoming/maoken-20261104/licenses/3c824e0c8b47590f-______.txt"
+  ],
+  "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+}

@@ -1,0 +1,21 @@
+{
+  "font": "incoming/KaiseiDecol-Bold-00956458dcc8fed8.ttf",
+  "sha256": "00956458dcc8fed876c1558ac1d287f9953fac24b3b9c007b0606449a6ec6aac",
+  "size": 4286856,
+  "names": [
+    "Bold",
+    "Kaisei Decol",
+    "Kaisei Decol Bold",
+    "KaiseiDecol-Bold",
+    "解星-デコール"
+  ],
+  "collection": "猫啃网字体大全2026.08.12",
+  "source_relative_paths": [
+    "日本汉字/解星(Kaisei)/解星(Kaisei)/decol/KaiseiDecol-Bold.ttf"
+  ],
+  "license_documents": [
+    "incoming/maoken-20261104/licenses/3c824e0c8b47590f-______.txt",
+    "incoming/maoken-20261104/licenses/6c5445d4febbf6d8-OFL.txt"
+  ],
+  "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+}

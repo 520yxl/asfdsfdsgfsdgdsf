@@ -1,0 +1,23 @@
+{
+  "font": "incoming/TekitouPoem_ExtraBold-dd38ceffb7847581.ttf",
+  "sha256": "dd38ceffb78475812d69ed6e0b40163f9f11a81ecff1631f6fa3442b35a7b924",
+  "size": 5514604,
+  "names": [
+    "Extra-Bold",
+    "Regular",
+    "TekitouPoem",
+    "TekitouPoem Extra-Bold",
+    "TekitouPoemExtra-Bold",
+    "適当ポエム",
+    "適当ポエム Extra-Bold"
+  ],
+  "collection": "猫啃网字体大全2026.08.12",
+  "source_relative_paths": [
+    "日本汉字/適当ポエム1.043_猫啃网/適当ポエム1.043_猫啃网/TekitouPoem_ExtraBold.ttf"
+  ],
+  "license_documents": [
+    "incoming/maoken-20261104/licenses/3c824e0c8b47590f-______.txt",
+    "incoming/maoken-20261104/licenses/52454b9b5c224054-OFL.txt"
+  ],
+  "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+}

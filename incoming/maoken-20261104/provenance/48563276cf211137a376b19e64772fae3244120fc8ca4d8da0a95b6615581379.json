@@ -1,0 +1,19 @@
+{
+  "font": "incoming/TekitouPoem-48563276cf211137.ttf",
+  "sha256": "48563276cf211137a376b19e64772fae3244120fc8ca4d8da0a95b6615581379",
+  "size": 5544300,
+  "names": [
+    "Regular",
+    "TekitouPoem",
+    "適当ポエム"
+  ],
+  "collection": "猫啃网字体大全2026.08.12",
+  "source_relative_paths": [
+    "日本汉字/適当ポエム1.043_猫啃网/適当ポエム1.043_猫啃网/TekitouPoem.ttf"
+  ],
+  "license_documents": [
+    "incoming/maoken-20261104/licenses/3c824e0c8b47590f-______.txt",
+    "incoming/maoken-20261104/licenses/52454b9b5c224054-OFL.txt"
+  ],
+  "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+}

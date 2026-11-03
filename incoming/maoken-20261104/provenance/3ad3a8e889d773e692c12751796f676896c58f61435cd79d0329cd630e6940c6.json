@@ -1,0 +1,18 @@
+{
+  "font": "incoming/uzura-3ad3a8e889d773e6.ttf",
+  "sha256": "3ad3a8e889d773e692c12751796f676896c58f61435cd79d0329cd630e6940c6",
+  "size": 9247356,
+  "names": [
+    "Regular",
+    "uzura_font",
+    "うずらフォント"
+  ],
+  "collection": "猫啃网字体大全2026.08.12",
+  "source_relative_paths": [
+    "日本汉字/鹌鹑字体_猫啃网/鹌鹑字体/uzura.ttf"
+  ],
+  "license_documents": [
+    "incoming/maoken-20261104/licenses/7138a5a3fd9bcdfd-readme.txt"
+  ],
+  "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+}

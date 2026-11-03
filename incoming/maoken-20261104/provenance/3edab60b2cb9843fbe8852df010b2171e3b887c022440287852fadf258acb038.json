@@ -1,0 +1,22 @@
+{
+  "font": "incoming/SukimaGothicSub-Regular_ver11.2-3edab60b2cb9843f.ttf",
+  "sha256": "3edab60b2cb9843fbe8852df010b2171e3b887c022440287852fadf258acb038",
+  "size": 20287556,
+  "names": [
+    "Regular",
+    "Sukima Gothic SUB",
+    "Sukima Gothic SUB Regular",
+    "SukimaGothicSub-Regular",
+    "すきまゴシックSUB",
+    "すきまゴシックSUB Regular"
+  ],
+  "collection": "猫啃网字体大全2026.08.12",
+  "source_relative_paths": [
+    "日本汉字/间隙黑体(すきまゴシック)11.2_猫啃网/间隙黑体(すきまゴシック)11.2/SukimaGothicSub-Regular ver11.2.ttf"
+  ],
+  "license_documents": [
+    "incoming/maoken-20261104/licenses/3c824e0c8b47590f-______.txt",
+    "incoming/maoken-20261104/licenses/a944cef5a8b8fcda-readme.txt"
+  ],
+  "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+}
