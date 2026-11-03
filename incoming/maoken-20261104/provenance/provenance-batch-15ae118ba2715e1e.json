@@ -1,0 +1,726 @@
+[
+  {
+    "font": "incoming/edukai-4.0-66d9665513ac529b.ttf",
+    "sha256": "66d9665513ac529beaa9ec74a843c4152800dca7495285d7c993382a407bb558",
+    "size": 15785556,
+    "names": [
+      "Regular",
+      "TW-MOE-Std-Kai",
+      "教育部标准楷书",
+      "教育部標準楷書"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台湾教育部标准楷书4.0_猫啃网/台湾教育部标准楷书4.0/edukai-4.0.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TaiwanPearl-ExtraLight-96d8dc4d7705b22a.ttf",
+    "sha256": "96d8dc4d7705b22a2c9e34abf935a007dba49f5c2fecd2450e9175055f279eb4",
+    "size": 27767684,
+    "names": [
+      "ExtraLight",
+      "TaiwanPearl",
+      "TaiwanPearl-ExtraLight",
+      "台灣圓體",
+      "台灣圓體-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台湾圆体2.125_猫啃网/台湾圆体/TaiwanPearl-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TaiwanPearl-Light-d4703a3226dd81a0.ttf",
+    "sha256": "d4703a3226dd81a00c53f05bcd6691d906e4ce626e4a31b8d8582a495da1c54c",
+    "size": 26915568,
+    "names": [
+      "Light",
+      "TaiwanPearl",
+      "TaiwanPearl-Light",
+      "台灣圓體",
+      "台灣圓體-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台湾圆体2.125_猫啃网/台湾圆体/TaiwanPearl-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TaiwanPearl-Medium-4936bddad814c968.ttf",
+    "sha256": "4936bddad814c96831f8d82357133c1f1b2041aa56c256971ad2f198b7c19764",
+    "size": 22228204,
+    "names": [
+      "Medium",
+      "TaiwanPearl",
+      "TaiwanPearl-Medium",
+      "台灣圓體",
+      "台灣圓體-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台湾圆体2.125_猫啃网/台湾圆体/TaiwanPearl-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TaiwanPearl-Regular-bf021e90511fe157.ttf",
+    "sha256": "bf021e90511fe157c2ecb1472fa3f8ed22f356e2823bcbd413117209cd99b786",
+    "size": 21756404,
+    "names": [
+      "Regular",
+      "TaiwanPearl",
+      "TaiwanPearl-Regular",
+      "台灣圓體",
+      "台灣圓體-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台湾圆体2.125_猫啃网/台湾圆体/TaiwanPearl-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TaiwanPearl-SemiBold-1856cd48874b30dc.ttf",
+    "sha256": "1856cd48874b30dcdea07075c30bfb49f6da68e8a83e6895a5dfb77751d39d32",
+    "size": 22816380,
+    "names": [
+      "SemiBold",
+      "TaiwanPearl",
+      "TaiwanPearl-SemiBold",
+      "台灣圓體",
+      "台灣圓體-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台湾圆体2.125_猫啃网/台湾圆体/TaiwanPearl-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TaipeiSansTCBeta-Bold-0b47a71131c45692.ttf",
+    "sha256": "0b47a71131c45692873953eeadba6659fa1f2e45b9867e13d08f2a17d2b85c9c",
+    "size": 21737496,
+    "names": [
+      "Bold",
+      "Taipei Sans TC Beta",
+      "Taipei Sans TC Beta Bold",
+      "TaipeiSansTCBeta-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台北黑体_猫啃网/台北黑体/TaipeiSansTCBeta-Bold.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TaipeiSansTCBeta-Regular-9ab2396bcc005035.ttf",
+    "sha256": "9ab2396bcc00503585b8b67d55372235247615083a3de369032b58cd1194546b",
+    "size": 20659408,
+    "names": [
+      "Regular",
+      "Taipei Sans TC Beta",
+      "Taipei Sans TC Beta Regular",
+      "TaipeiSansTCBeta-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台北黑体_猫啃网/台北黑体/TaipeiSansTCBeta-Regular.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-Bold-99c7faea86a551b1.ttf",
+    "sha256": "99c7faea86a551b14018485d613b189c709d5215f8d9ff13bc2712935b1ae051",
+    "size": 23929964,
+    "names": [
+      "Bold",
+      "NaikaiFont",
+      "NaikaiFont-Bold",
+      "内海フォント-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/jp/NaikaiFont-Bold.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-ExtraLight-23fbe08b32dafcdd.ttf",
+    "sha256": "23fbe08b32dafcdd38934b3118e9c2dcd18b587c5d8fab053d78e986acd3a905",
+    "size": 18987804,
+    "names": [
+      "ExtraLight",
+      "NaikaiFont",
+      "NaikaiFont-ExtraLight",
+      "内海フォント-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/jp/NaikaiFont-ExtraLight.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-Light-660c35f66f046064.ttf",
+    "sha256": "660c35f66f04606404f9e2b2fd830bc5c9e29d159a1942162af20b812edf663f",
+    "size": 18817748,
+    "names": [
+      "Light",
+      "NaikaiFont",
+      "NaikaiFont-Light",
+      "内海フォント-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/jp/NaikaiFont-Light.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-Regular-714d2e8417a390c8.ttf",
+    "sha256": "714d2e8417a390c80a1333a1d811377fdad6f3e275b24738f29afc904fdce032",
+    "size": 13836832,
+    "names": [
+      "NaikaiFont",
+      "NaikaiFont-Regular",
+      "Regular",
+      "内海フォント-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/jp/NaikaiFont-Regular.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-SemiBold-4230018e83333773.ttf",
+    "sha256": "4230018e83333773e3589f19c4074363ada49f1fb7a0a763a323c40f73c9da2f",
+    "size": 23639996,
+    "names": [
+      "NaikaiFont",
+      "NaikaiFont-SemiBold",
+      "SemiBold",
+      "内海フォント-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/jp/NaikaiFont-SemiBold.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-Bold-5b17a3097257a936.ttf",
+    "sha256": "5b17a3097257a9369a1b815e2f252720717df1551d2d26ed619cb1cae3f96727",
+    "size": 23929804,
+    "names": [
+      "Bold",
+      "NaikaiFont",
+      "NaikaiFont-Bold",
+      "内海フォント-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/tw/NaikaiFont-Bold.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-ExtraLight-59bb9c88414aa9f6.ttf",
+    "sha256": "59bb9c88414aa9f643c086a357c1454c8c4fbb5232ba653127ffb3122e9db4f3",
+    "size": 18987580,
+    "names": [
+      "ExtraLight",
+      "NaikaiFont",
+      "NaikaiFont-ExtraLight",
+      "内海フォント-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/tw/NaikaiFont-ExtraLight.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-Light-ad89555b96e238f2.ttf",
+    "sha256": "ad89555b96e238f2d315bd968cd95db5d4d6741012cb2eafa673c9b208e0ca90",
+    "size": 18817492,
+    "names": [
+      "Light",
+      "NaikaiFont",
+      "NaikaiFont-Light",
+      "内海フォント-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/tw/NaikaiFont-Light.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-Regular-e39c2b09b67ecb30.ttf",
+    "sha256": "e39c2b09b67ecb3038a64ea2e0b833b338ac1636a6aa313a54b1835274c5ed26",
+    "size": 13836692,
+    "names": [
+      "NaikaiFont",
+      "NaikaiFont-Regular",
+      "Regular",
+      "内海フォント-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/tw/NaikaiFont-Regular.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaikaiFont-SemiBold-3524c9447b8af43d.ttf",
+    "sha256": "3524c9447b8af43d7fd42e69435b1d7399da62ab526bb806fb9ed818c3f6c0ef",
+    "size": 23639832,
+    "names": [
+      "NaikaiFont",
+      "NaikaiFont-SemiBold",
+      "SemiBold",
+      "内海フォント-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/内海字体_猫啃网/内海字体/tw/NaikaiFont-SemiBold.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/cjkFonts_allseto_v1.11-1a8a2423bb5924f5.ttf",
+    "sha256": "1a8a2423bb5924f5932b2636c780d8fc5be6b117dab0eb2aa3d847c0d0a77ea6",
+    "size": 31337144,
+    "names": [
+      "Regular",
+      "cjkFonts ",
+      "cjkFonts 全瀨體",
+      "cjkFonts-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/全濑体1.11_猫啃网/全濑体1.11/cjkFonts_allseto_v1.11.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/0fc6827ab5aa1779-license.txt",
+      "incoming/maoken-20261104/licenses-exact/dcecfdd2e738d479-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TW-Kai-98_1-de8ae6f332718332.ttf",
+    "sha256": "de8ae6f3327183324f7174b7a681942fd86656d97ca0f10239be840a96a98df5",
+    "size": 48943032,
+    "names": [
+      "Regular",
+      "TW-Kai",
+      "TW-Kai-98_1",
+      "全字庫正楷體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/全字库正楷体103.1_猫啃网/全字库正楷体/TW-Kai-98_1.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TW-Kai-Ext-B-98_1-f69d76f3ad439270.ttf",
+    "sha256": "f69d76f3ad43927004a71f309627e744cd08920f2cd4be01ac5bde0ddef66bd5",
+    "size": 65102848,
+    "names": [
+      "Regular",
+      "TW-Kai-Ext-B",
+      "TW-Kai-Ext-B-98_1",
+      "全字庫正楷體 Ext-B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/全字库正楷体103.1_猫啃网/全字库正楷体/TW-Kai-Ext-B-98_1.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TW-Kai-Plus-98_1-b19b4d9caa0d569b.ttf",
+    "sha256": "b19b4d9caa0d569bf6576a67048c3fa09e703156ea4b72ffad0bbdef5f257689",
+    "size": 33418480,
+    "names": [
+      "Regular",
+      "TW-Kai-Plus",
+      "TW-Kai-Plus-98_1",
+      "全字庫正楷體 Plus"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/全字库正楷体103.1_猫啃网/全字库正楷体/TW-Kai-Plus-98_1.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TW-Sung-98_1-9fbe9dbec5de12bb.ttf",
+    "sha256": "9fbe9dbec5de12bb4f9a11baf5dfe391eb06bce4e1bf24eed381100b21289558",
+    "size": 35372108,
+    "names": [
+      "Regular",
+      "TW-Sung",
+      "TW-Sung-98_1",
+      "全字庫正宋體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/全字库正宋体103.1_猫啃网/全字库正宋体/TW-Sung-98_1.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TW-Sung-Ext-B-98_1-102e8838fb73713a.ttf",
+    "sha256": "102e8838fb73713ad45719e8a93a66af3be001f6869a016e965adc0b22822fc0",
+    "size": 67161636,
+    "names": [
+      "Regular",
+      "TW-Sung-Ext-B",
+      "TW-Sung-Ext-B-98_1",
+      "全字庫正宋體 Ext-B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/全字库正宋体103.1_猫啃网/全字库正宋体/TW-Sung-Ext-B-98_1.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TW-Sung-Plus-98_1-460b772668a0e8d5.ttf",
+    "sha256": "460b772668a0e8d517dfa6bc57e7731a3a6b31738751045c38cc75f7b232839b",
+    "size": 29767480,
+    "names": [
+      "Regular",
+      "TW-Sung-Plus",
+      "TW-Sung-Plus-98_1",
+      "全字庫正宋體 Plus"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/全字库正宋体103.1_猫啃网/全字库正宋体/TW-Sung-Plus-98_1.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-b83308bfe4772b5c.ttf",
+    "sha256": "b83308bfe4772b5c02fb5364cafbcf25288e5904416229c3145e3b4c43dd5a54",
+    "size": 6396120,
+    "names": [
+      "Free HK Kai 4700",
+      "Regular",
+      "自由香港楷書 (4700字)"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/免费香港楷书_猫啃网/免费香港楷书/免费香港楷书.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FakePearl-ExtraLight-b872b500b5113a83.ttf",
+    "sha256": "b872b500b5113a833970ca8cf67331ea5033300439852ef361052ac5eaa068e3",
+    "size": 5230644,
+    "names": [
+      "ExtraLight",
+      "FakePearl",
+      "FakePearl ExtraLight",
+      "FakePearl-ExtraLight",
+      "假粉圓",
+      "假粉圓-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/假粉圆体(jf粉圆多字重版)_猫啃网/JustFont粉圆字体(多字重版)/FakePearl-ExtraLight.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FakePearl-Light-12bd14e0411bd5a5.ttf",
+    "sha256": "12bd14e0411bd5a586dc7d65080ac48dcbf954af1c33ba045ef354f07c269c7b",
+    "size": 5198480,
+    "names": [
+      "FakePearl",
+      "FakePearl Light",
+      "FakePearl-Light",
+      "Light",
+      "假粉圓",
+      "假粉圓-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/假粉圆体(jf粉圆多字重版)_猫啃网/JustFont粉圆字体(多字重版)/FakePearl-Light.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FakePearl-Medium-c1b9260f8c3ebb9d.ttf",
+    "sha256": "c1b9260f8c3ebb9d2f9aa522cba695fa2afa1de979f602abb72a50cf69691436",
+    "size": 5078184,
+    "names": [
+      "FakePearl",
+      "FakePearl Medium",
+      "FakePearl-Medium",
+      "Medium",
+      "假粉圓",
+      "假粉圓-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/假粉圆体(jf粉圆多字重版)_猫啃网/JustFont粉圆字体(多字重版)/FakePearl-Medium.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FakePearl-Regular-11496fac08e13f79.ttf",
+    "sha256": "11496fac08e13f79ca7981c61ef65cee4c3cf7d4716edca88e83d5e036d4bd72",
+    "size": 7695356,
+    "names": [
+      "FakePearl",
+      "FakePearl Regular",
+      "FakePearl-Regular",
+      "Regular",
+      "假粉圓",
+      "假粉圓-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/假粉圆体(jf粉圆多字重版)_猫啃网/JustFont粉圆字体(多字重版)/FakePearl-Regular.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/FakePearl-SemiBold-8b6dfa10ae24e027.ttf",
+    "sha256": "8b6dfa10ae24e027ad00b7337def2c0fe51834642289131401582088110f197d",
+    "size": 5078008,
+    "names": [
+      "FakePearl",
+      "FakePearl SemiBold",
+      "FakePearl-SemiBold",
+      "Semi-Bold",
+      "SemiBold",
+      "假粉圓",
+      "假粉圓-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/假粉圆体(jf粉圆多字重版)_猫啃网/JustFont粉圆字体(多字重版)/FakePearl-SemiBold.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Cubic_11_1.100_R-9dc59fc034c78c06.ttf",
+    "sha256": "9dc59fc034c78c06aee7584d8b95627d672fd5a882967f64817692143a576166",
+    "size": 2761212,
+    "names": [
+      "Cubic 11",
+      "Cubic_11",
+      "Regular",
+      "俐方体11号",
+      "俐方體11号",
+      "俐方體11號"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/俐方体11号1.100_猫啃网/俐方体11号1.100/fonts/ttf/Cubic_11_1.100_R.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/2b6e5938e5cffa0b-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YuPearl-ExtraLight-c685e3cd8168a9c4.ttf",
+    "sha256": "c685e3cd8168a9c4e0a967cf1d4c3033efef198d251631803b8add670bb6f771",
+    "size": 5579640,
+    "names": [
+      "ExtraLight",
+      "YuPearl",
+      "YuPearl-ExtraLight",
+      "俊羽圓體-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/俊羽圆体_猫啃网/俊羽圆体/YuPearl-ExtraLight.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YuPearl-Light-9671070345b727d7.ttf",
+    "sha256": "9671070345b727d761f70f8d09ad01000fa1211ad4bfdb6b8e316cb7881e26c1",
+    "size": 5470900,
+    "names": [
+      "Light",
+      "YuPearl",
+      "YuPearl-Light",
+      "俊羽圓體",
+      "俊羽圓體-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/俊羽圆体_猫啃网/俊羽圆体/YuPearl-Light.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YuPearl-Medium-8bd9d2bf9b082c7f.ttf",
+    "sha256": "8bd9d2bf9b082c7f54c3b663e705cd8ba45c84333037e8758946844040343041",
+    "size": 5458496,
+    "names": [
+      "Medium",
+      "YuPearl",
+      "YuPearl-Medium",
+      "俊羽圓體-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/俊羽圆体_猫啃网/俊羽圆体/YuPearl-Medium.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YuPearl-Regular-2d62bb6ca1592b17.ttf",
+    "sha256": "2d62bb6ca1592b17aac9c74a515ded64284c0b05db3b8e823529665bbdcfc921",
+    "size": 4204844,
+    "names": [
+      "Regular",
+      "YuPearl",
+      "YuPearl-Regular",
+      "俊羽圓體-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/俊羽圆体_猫啃网/俊羽圆体/YuPearl-Regular.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/YuPearl-SemiBold-89ab4aa5aad76827.ttf",
+    "sha256": "89ab4aa5aad76827055a93a701d2fcfee7aefaa33324e1f8c8ef9fee5950df07",
+    "size": 5553452,
+    "names": [
+      "SemiBold",
+      "YuPearl",
+      "YuPearl-SemiBold",
+      "俊羽圓體-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/俊羽圆体_猫啃网/俊羽圆体/YuPearl-SemiBold.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaniFont-Bold-57c8f9355c06d6f9.ttf",
+    "sha256": "57c8f9355c06d6f902f61b74f27a2c60dd688ac8186050e76ea228f0b11256d5",
+    "size": 18508772,
+    "names": [
+      "Bold",
+      "NaniFont",
+      "NaniFont Bold",
+      "NaniFont-Bold",
+      "何某手寫",
+      "何某手寫-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/何某手写体1.036_猫啃网/何某手写体1.036/NaniFont-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NaniFont-ExtraLight-235fb31f767c2b10.ttf",
+    "sha256": "235fb31f767c2b10cd6bf2a077409d270ea8ab260a00613d209a2dbc2d6c27b2",
+    "size": 19006644,
+    "names": [
+      "ExtraLight",
+      "NaniFont",
+      "NaniFont ExtraLight",
+      "NaniFont-ExtraLight",
+      "何某手寫",
+      "何某手寫-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/何某手写体1.036_猫啃网/何某手写体1.036/NaniFont-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
