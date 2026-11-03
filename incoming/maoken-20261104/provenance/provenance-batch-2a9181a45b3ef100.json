@@ -1,0 +1,1286 @@
+[
+  {
+    "font": "incoming/ark-pixel-10px-proportional-zh_hk-cec7bf4ea8fab177.otf",
+    "sha256": "cec7bf4ea8fab1771309d0e7267c6372499d226837925de6ee62c2b1ca8fe328",
+    "size": 216872,
+    "names": [
+      "Ark Pixel 10px Proportional zh_hk",
+      "Ark-Pixel-10px-Proportional-zh_hk-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-10px-proportional-otf-v2023.06.12/ark-pixel-10px-proportional-zh_hk.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-10px-proportional-zh_tr-b4f0847757c7af3c.otf",
+    "sha256": "b4f0847757c7af3c6bdfdcf7933e9a8d75a50ae249b1d58ac23b0d24e0517755",
+    "size": 216932,
+    "names": [
+      "Ark Pixel 10px Proportional zh_tr",
+      "Ark-Pixel-10px-Proportional-zh_tr-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-10px-proportional-otf-v2023.06.12/ark-pixel-10px-proportional-zh_tr.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-10px-proportional-zh_tw-5e89bf7eed82fb70.otf",
+    "sha256": "5e89bf7eed82fb70a9c23ec3aee90f99da05810d9436dca6df95f4d9836952b0",
+    "size": 216908,
+    "names": [
+      "Ark Pixel 10px Proportional zh_tw",
+      "Ark-Pixel-10px-Proportional-zh_tw-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-10px-proportional-otf-v2023.06.12/ark-pixel-10px-proportional-zh_tw.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-monospaced-ja-5238b5be87239174.otf",
+    "sha256": "5238b5be872391746b08cce03cd8c69dbfc522dd345ea6a1430defb1d2bb817c",
+    "size": 1853216,
+    "names": [
+      "Ark Pixel 12px Monospaced ja",
+      "Ark-Pixel-12px-Monospaced-ja-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-monospaced-otf-v2023.06.12/ark-pixel-12px-monospaced-ja.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-monospaced-ko-f858e2fe5a6009fa.otf",
+    "sha256": "f858e2fe5a6009faf6c2bd9cb2a58f869e4e35a1a63f08e4b04494b8d4dd712f",
+    "size": 1854212,
+    "names": [
+      "Ark Pixel 12px Monospaced ko",
+      "Ark-Pixel-12px-Monospaced-ko-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-monospaced-otf-v2023.06.12/ark-pixel-12px-monospaced-ko.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-monospaced-latin-d9e15af26a2fa0c0.otf",
+    "sha256": "d9e15af26a2fa0c0994c743749842751208ae941090af912636e6acfd5cdc17e",
+    "size": 1852772,
+    "names": [
+      "Ark Pixel 12px Monospaced latin",
+      "Ark-Pixel-12px-Monospaced-latin-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-monospaced-otf-v2023.06.12/ark-pixel-12px-monospaced-latin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-monospaced-zh_cn-f033f3c801c90749.otf",
+    "sha256": "f033f3c801c90749774e4357f333a10bcea8725e9d64f3bb87dcb85ca15b949d",
+    "size": 1853296,
+    "names": [
+      "Ark Pixel 12px Monospaced zh_cn",
+      "Ark-Pixel-12px-Monospaced-zh_cn-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-monospaced-otf-v2023.06.12/ark-pixel-12px-monospaced-zh_cn.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-monospaced-zh_hk-ea51bef361758c2f.otf",
+    "sha256": "ea51bef361758c2fd109b481f1f5b483006ae99ad4ffb90346be1dc61a83bd6c",
+    "size": 1855320,
+    "names": [
+      "Ark Pixel 12px Monospaced zh_hk",
+      "Ark-Pixel-12px-Monospaced-zh_hk-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-monospaced-otf-v2023.06.12/ark-pixel-12px-monospaced-zh_hk.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-monospaced-zh_tr-5be3835e18ccbf60.otf",
+    "sha256": "5be3835e18ccbf60f17bbc22bf75594e68c0d9759a548628f96e99d989237afc",
+    "size": 1854664,
+    "names": [
+      "Ark Pixel 12px Monospaced zh_tr",
+      "Ark-Pixel-12px-Monospaced-zh_tr-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-monospaced-otf-v2023.06.12/ark-pixel-12px-monospaced-zh_tr.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-monospaced-zh_tw-a38c6b1abfc3f9ad.otf",
+    "sha256": "a38c6b1abfc3f9ad216b6b11cca8aeb30d71bd6a1d7384df5ec439862264f89c",
+    "size": 1856256,
+    "names": [
+      "Ark Pixel 12px Monospaced zh_tw",
+      "Ark-Pixel-12px-Monospaced-zh_tw-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-monospaced-otf-v2023.06.12/ark-pixel-12px-monospaced-zh_tw.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-proportional-ja-e201d6a696966870.otf",
+    "sha256": "e201d6a696966870bb51e7363aa6fa6ad9100b9b8fbb7552a0e8523b38f8dc8a",
+    "size": 1856608,
+    "names": [
+      "Ark Pixel 12px Proportional ja",
+      "Ark-Pixel-12px-Proportional-ja-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-proportional-otf-v2023.06.12/ark-pixel-12px-proportional-ja.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-proportional-ko-6e0e490af81389b2.otf",
+    "sha256": "6e0e490af81389b2d75708064ab86e39cf10aae73bfe8cfbb1df62788b50cd3c",
+    "size": 1857604,
+    "names": [
+      "Ark Pixel 12px Proportional ko",
+      "Ark-Pixel-12px-Proportional-ko-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-proportional-otf-v2023.06.12/ark-pixel-12px-proportional-ko.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-proportional-latin-fa94e884431cc65d.otf",
+    "sha256": "fa94e884431cc65d4b01930c516b2658e2d46b20c837e4f1317094c2fceafc87",
+    "size": 1856168,
+    "names": [
+      "Ark Pixel 12px Proportional latin",
+      "Ark-Pixel-12px-Proportional-latin-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-proportional-otf-v2023.06.12/ark-pixel-12px-proportional-latin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-proportional-zh_cn-af19a5b5f923e3a0.otf",
+    "sha256": "af19a5b5f923e3a05b1681887086801c1edef9676693eed9f44e9a3b8c229374",
+    "size": 1856696,
+    "names": [
+      "Ark Pixel 12px Proportional zh_cn",
+      "Ark-Pixel-12px-Proportional-zh_cn-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-proportional-otf-v2023.06.12/ark-pixel-12px-proportional-zh_cn.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-proportional-zh_hk-76e2a533d157c941.otf",
+    "sha256": "76e2a533d157c941a56352f151b7c8e0a5896579552a354b52620fe23a6f0223",
+    "size": 1858712,
+    "names": [
+      "Ark Pixel 12px Proportional zh_hk",
+      "Ark-Pixel-12px-Proportional-zh_hk-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-proportional-otf-v2023.06.12/ark-pixel-12px-proportional-zh_hk.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-proportional-zh_tr-8b9ebb6a60b3e89e.otf",
+    "sha256": "8b9ebb6a60b3e89ef3658cc3f6d147219f0ea8d8660eee05288bb37104dc7f8c",
+    "size": 1858056,
+    "names": [
+      "Ark Pixel 12px Proportional zh_tr",
+      "Ark-Pixel-12px-Proportional-zh_tr-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-proportional-otf-v2023.06.12/ark-pixel-12px-proportional-zh_tr.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-12px-proportional-zh_tw-c72c606a2cff171c.otf",
+    "sha256": "c72c606a2cff171cbc57a133377fa246b7730cd300fbfbcddb61fd9c2abb4fcf",
+    "size": 1859644,
+    "names": [
+      "Ark Pixel 12px Proportional zh_tw",
+      "Ark-Pixel-12px-Proportional-zh_tw-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-12px-proportional-otf-v2023.06.12/ark-pixel-12px-proportional-zh_tw.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-monospaced-ja-ebfd1a0ce1719d45.otf",
+    "sha256": "ebfd1a0ce1719d45bb39b6cd1ab053f4e50d792b2ae6367306c00e4a8ff61cfc",
+    "size": 184748,
+    "names": [
+      "Ark Pixel 16px Monospaced ja",
+      "Ark-Pixel-16px-Monospaced-ja-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-monospaced-otf-v2023.06.12/ark-pixel-16px-monospaced-ja.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-monospaced-ko-fff12b7b099210bb.otf",
+    "sha256": "fff12b7b099210bbc59240cbf8256f4d512963a1aca3dab704835ec86a3731b7",
+    "size": 184764,
+    "names": [
+      "Ark Pixel 16px Monospaced ko",
+      "Ark-Pixel-16px-Monospaced-ko-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-monospaced-otf-v2023.06.12/ark-pixel-16px-monospaced-ko.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-monospaced-latin-eaed441916487957.otf",
+    "sha256": "eaed441916487957992cfc5a70b811a0b713ca129c673a000841cd884e0cc9e0",
+    "size": 184800,
+    "names": [
+      "Ark Pixel 16px Monospaced latin",
+      "Ark-Pixel-16px-Monospaced-latin-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-monospaced-otf-v2023.06.12/ark-pixel-16px-monospaced-latin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-monospaced-zh_cn-3091f92447421757.otf",
+    "sha256": "3091f92447421757c16ee2ac241a464a010169b7cee0cb1bdff3988adac657d6",
+    "size": 184792,
+    "names": [
+      "Ark Pixel 16px Monospaced zh_cn",
+      "Ark-Pixel-16px-Monospaced-zh_cn-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-monospaced-otf-v2023.06.12/ark-pixel-16px-monospaced-zh_cn.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-monospaced-zh_hk-ad4c9e51cdfae413.otf",
+    "sha256": "ad4c9e51cdfae413f854d4c31a273808615d129c39366eb13489523e52d766b6",
+    "size": 184812,
+    "names": [
+      "Ark Pixel 16px Monospaced zh_hk",
+      "Ark-Pixel-16px-Monospaced-zh_hk-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-monospaced-otf-v2023.06.12/ark-pixel-16px-monospaced-zh_hk.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-monospaced-zh_tr-88a6e70a720616c5.otf",
+    "sha256": "88a6e70a720616c53886c3d9f19d336693d44784ea5d9c57b14b045899da39eb",
+    "size": 184808,
+    "names": [
+      "Ark Pixel 16px Monospaced zh_tr",
+      "Ark-Pixel-16px-Monospaced-zh_tr-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-monospaced-otf-v2023.06.12/ark-pixel-16px-monospaced-zh_tr.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-monospaced-zh_tw-4b14a38480f9b11d.otf",
+    "sha256": "4b14a38480f9b11db5e08220a6c929027a4998019d8d68c86c6d324efa42481d",
+    "size": 184892,
+    "names": [
+      "Ark Pixel 16px Monospaced zh_tw",
+      "Ark-Pixel-16px-Monospaced-zh_tw-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-monospaced-otf-v2023.06.12/ark-pixel-16px-monospaced-zh_tw.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-proportional-ja-abda84d351f6b7e4.otf",
+    "sha256": "abda84d351f6b7e410d5241272e85858d964fe305bbbd784dc649e8d8e9e1d7a",
+    "size": 185936,
+    "names": [
+      "Ark Pixel 16px Proportional ja",
+      "Ark-Pixel-16px-Proportional-ja-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-proportional-otf-v2023.06.12/ark-pixel-16px-proportional-ja.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-proportional-ko-46b93f9271603008.otf",
+    "sha256": "46b93f9271603008ad1277abac597bd094977075c0cc1cd2bbc2780cc46b17f0",
+    "size": 185952,
+    "names": [
+      "Ark Pixel 16px Proportional ko",
+      "Ark-Pixel-16px-Proportional-ko-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-proportional-otf-v2023.06.12/ark-pixel-16px-proportional-ko.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-proportional-latin-a7ff7f004289de2c.otf",
+    "sha256": "a7ff7f004289de2c0d121efe12facc2ad087bdaedcef6654b33b998875697285",
+    "size": 185992,
+    "names": [
+      "Ark Pixel 16px Proportional latin",
+      "Ark-Pixel-16px-Proportional-latin-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-proportional-otf-v2023.06.12/ark-pixel-16px-proportional-latin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-proportional-zh_cn-beca7adeec495a99.otf",
+    "sha256": "beca7adeec495a99c782472e8b99fa24779d1fe5a27ecb90d244cc368975625f",
+    "size": 185980,
+    "names": [
+      "Ark Pixel 16px Proportional zh_cn",
+      "Ark-Pixel-16px-Proportional-zh_cn-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-proportional-otf-v2023.06.12/ark-pixel-16px-proportional-zh_cn.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-proportional-zh_hk-b9a4368206a2a305.otf",
+    "sha256": "b9a4368206a2a3051744816b094efdcb3148ac955f2541808e1f15205ee0ecac",
+    "size": 185996,
+    "names": [
+      "Ark Pixel 16px Proportional zh_hk",
+      "Ark-Pixel-16px-Proportional-zh_hk-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-proportional-otf-v2023.06.12/ark-pixel-16px-proportional-zh_hk.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-proportional-zh_tr-41d390ff2ffe062e.otf",
+    "sha256": "41d390ff2ffe062e65c84c3654364c800342f1e77382de853e78b3c21518e042",
+    "size": 185996,
+    "names": [
+      "Ark Pixel 16px Proportional zh_tr",
+      "Ark-Pixel-16px-Proportional-zh_tr-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-proportional-otf-v2023.06.12/ark-pixel-16px-proportional-zh_tr.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ark-pixel-16px-proportional-zh_tw-e91a9cd9178306bb.otf",
+    "sha256": "e91a9cd9178306bb1fb80940d8b58cccf324868e450e5daeac6830e1e1d04296",
+    "size": 186076,
+    "names": [
+      "Ark Pixel 16px Proportional zh_tw",
+      "Ark-Pixel-16px-Proportional-zh_tw-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方舟像素字体2023.06.12_猫啃网/方舟像素字体/ark-pixel-font-16px-proportional-otf-v2023.06.12/ark-pixel-16px-proportional-zh_tw.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/09fc89469494a884-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-bd99fe368b31c62e.ttf",
+    "sha256": "bd99fe368b31c62e29ee8456c8fdeb86277786a17e8e40be00ecbe5e4fc7c275",
+    "size": 3190376,
+    "names": [
+      "FZHTJW--GB1-0",
+      "FZHei-B01S",
+      "Regular",
+      "方正黑体简体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方正黑体_猫啃网/方正黑体简体/方正黑体简体_猫啃网.TTF"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-87ea93770f77a039.ttf",
+    "sha256": "87ea93770f77a039f1e818f23eaa6233ec25061123dd8471c2b0bee1a1009e91",
+    "size": 2657836,
+    "names": [
+      "FZJIAGW",
+      "FZJiaGuWen",
+      "Regular",
+      "方正甲骨文"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方正甲骨文_猫啃网/方正甲骨文/方正甲骨文.TTF"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-2239b43b9decc6c7.ttf",
+    "sha256": "2239b43b9decc6c74b353c2dc41e15f7fdede652148afcae6eb959bb03d82aa2",
+    "size": 3927980,
+    "names": [
+      "FZKTJW--GB1-0",
+      "FZKai-Z03S",
+      "Regular",
+      "方正楷体简体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方正楷体_猫啃网/方正楷体简体/方正楷体简体_猫啃网.TTF"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-e7134308aa1638ba.ttf",
+    "sha256": "e7134308aa1638ba13365f83e82cbdd3629b908c39350d47c395e100463f0314",
+    "size": 3724408,
+    "names": [
+      "FZFSJW--GB1-0",
+      "FZFangSong-Z02S",
+      "Regular",
+      "方正仿宋简体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方正仿宋简体_猫啃网/方正仿宋简体/方正仿宋简体_猫啃网.TTF"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-b5e4a745d7132abc.ttf",
+    "sha256": "b5e4a745d7132abc8bbc482c3c096d30ef4c36fe3260a630fc12cfb16394e675",
+    "size": 3081292,
+    "names": [
+      "FZSSJW--GB1-0",
+      "FZShuSong-Z01S",
+      "Regular",
+      "方正书宋简体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/方正书宋_猫啃网/方正书宋简体/方正书宋简体_猫啃网.TTF"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-d35e61655552c6c4.ttf",
+    "sha256": "d35e61655552c6c4524a5ca93477a460dddd8a238ca1821dd6d5894e17348ad1",
+    "size": 7503768,
+    "names": [
+      "Regular",
+      "SentyVanilla",
+      "新蒂香草体",
+      "新蒂香草體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新蒂香草体_猫啃网/新蒂香草体/新蒂香草体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/484498bb23e047f9-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a44900d368e0b774-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/A-64e2fe1aa83246cc.ttf",
+    "sha256": "64e2fe1aa83246ccd9aa6b1c33a88a65d181092c7678de45729063fe60214b27",
+    "size": 19085760,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Source Han Serif CN",
+      "Source Han Serif CN Heavy",
+      "SourceHanSerifCN-Heavy",
+      "XinYuGongZhangJiaSongA",
+      "新愚公装甲宋A"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公装甲宋_猫啃网/新愚公装甲宋/新愚公装甲宋A.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SILOFL1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/B-af6e2ae3de594e67.ttf",
+    "sha256": "af6e2ae3de594e67e9d0b7d185f3ef595d6a467baab25b17b718625d0e363034",
+    "size": 18008184,
+    "names": [
+      "",
+      "-",
+      "Heavy ",
+      "Regular",
+      "Source Han Serif CN ",
+      "XinYuGongZhuangJiaSongB",
+      "新愚公装甲宋B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公装甲宋_猫啃网/新愚公装甲宋/新愚公装甲宋B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-SILOFL1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/B-8c7103b73941f4ed.ttf",
+    "sha256": "8c7103b73941f4edd17596f67243be00c49af7d5b8b0cdf4bc426742c20b269f",
+    "size": 16098580,
+    "names": [
+      "Bold",
+      "XinYuGongHeXieSong-B",
+      "XinYuGongHeXieSong-B Bold",
+      "XinYuGongHeXieSong-B-Bold",
+      "XinYuGongZiYouSong-B",
+      "新愚公自由宋-B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.10_猫啃网/新愚公自由宋1.10/新愚公自由宋-B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/H-5f8bd8a048c55075.ttf",
+    "sha256": "5f8bd8a048c55075db62ba4a8c23ee1065c3e4af8be9d1c0000ea3b4ca0e77a7",
+    "size": 16650408,
+    "names": [
+      "Heavy",
+      "XinYuGongHeXieSong-H",
+      "XinYuGongHeXieSong-H Heavy",
+      "XinYuGongHeXieSong-H-Heavy",
+      "XinYuGongZiYouSong-H",
+      "新愚公自由宋-H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.10_猫啃网/新愚公自由宋1.10/新愚公自由宋-H.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/L-84cb4dc8e2e4d40b.ttf",
+    "sha256": "84cb4dc8e2e4d40bb83de34e8a9ee280a5d78343265ccb117d3feb4ad5eb7e74",
+    "size": 16641592,
+    "names": [
+      "Light",
+      "XinYuGongHeXieSong-L",
+      "XinYuGongHeXieSong-L Light",
+      "XinYuGongHeXieSong-L-Light",
+      "XinYuGongZiYouSong-L",
+      "新愚公自由宋-L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.10_猫啃网/新愚公自由宋1.10/新愚公自由宋-L.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/M-ed49408aae1d89fb.ttf",
+    "sha256": "ed49408aae1d89fbec4a2ac87b3c30b492f8c6cca281868e1edd1563d1af7a8f",
+    "size": 16810572,
+    "names": [
+      "Medium",
+      "XinYuGongHeXieSong-M",
+      "XinYuGongHeXieSong-M Medium",
+      "XinYuGongHeXieSong-M-Medium",
+      "XinYuGongZiYouSong-M",
+      "新愚公自由宋-M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.10_猫啃网/新愚公自由宋1.10/新愚公自由宋-M.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/R-48a7ba3ddc4d9bf6.ttf",
+    "sha256": "48a7ba3ddc4d9bf6e7793933894a157982590151858d888889a9675c7c67b018",
+    "size": 16676432,
+    "names": [
+      "Regular",
+      "XinYuGongHeXieSong-R",
+      "XinYuGongZiYouSong-R",
+      "新愚公自由宋-R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.10_猫啃网/新愚公自由宋1.10/新愚公自由宋-R.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/S-abb9840fa95f271f.ttf",
+    "sha256": "abb9840fa95f271f0dd363da46527d37fe19b4d7d1817851758ed452f4bb71bb",
+    "size": 16811432,
+    "names": [
+      "SemiBold",
+      "XinYuGongHeXieSong-S",
+      "XinYuGongHeXieSong-S SemiBold",
+      "XinYuGongHeXieSong-S-SemiBold",
+      "XinYuGongZiYouSong-S",
+      "新愚公自由宋-S"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.10_猫啃网/新愚公自由宋1.10/新愚公自由宋-S.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/B-6454e0843eb24d3e.ttf",
+    "sha256": "6454e0843eb24d3ecb4434c065aaee97373801c43ddd33d433c22e3466ff3c4f",
+    "size": 16098764,
+    "names": [
+      "Bold",
+      "XinYuGongHeXieSong-B",
+      "XinYuGongHeXieSong-B Bold",
+      "XinYuGongHeXieSong-B-Bold",
+      "XinYuGongZiYouSong-B",
+      "新愚公自由宋-B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.00_猫啃网/新愚公自由宋1.0/新愚公自由宋-B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/H-1cefa8eff568cec0.ttf",
+    "sha256": "1cefa8eff568cec0e07f89ed5b22fc66fade23d54f6225b66e8f3f2f127d293e",
+    "size": 16650592,
+    "names": [
+      "Heavy",
+      "XinYuGongHeXieSong-H",
+      "XinYuGongHeXieSong-H Heavy",
+      "XinYuGongHeXieSong-H-Heavy",
+      "XinYuGongZiYouSong-H",
+      "新愚公自由宋-H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.00_猫啃网/新愚公自由宋1.0/新愚公自由宋-H.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/L-79da157de7b65a4f.ttf",
+    "sha256": "79da157de7b65a4fb4bc87821ca4a132ed76a8f495c87117e414e15aa06507d2",
+    "size": 16641776,
+    "names": [
+      "Light",
+      "XinYuGongHeXieSong-L",
+      "XinYuGongHeXieSong-L Light",
+      "XinYuGongHeXieSong-L-Light",
+      "XinYuGongZiYouSong-L",
+      "新愚公自由宋-L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.00_猫啃网/新愚公自由宋1.0/新愚公自由宋-L.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/M-a60dd33210409542.ttf",
+    "sha256": "a60dd3321040954204ba8e4fde56f9242e1db4e69cc92ca4601b76ea41dc445f",
+    "size": 16810756,
+    "names": [
+      "Medium",
+      "XinYuGongHeXieSong-M",
+      "XinYuGongHeXieSong-M Medium",
+      "XinYuGongHeXieSong-M-Medium",
+      "XinYuGongZiYouSong-M",
+      "新愚公自由宋-M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.00_猫啃网/新愚公自由宋1.0/新愚公自由宋-M.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/R-355ceb8649a19efd.ttf",
+    "sha256": "355ceb8649a19efd4571c097543cc9dca8d73dcbcf8c1948e0d46f239a7d42e8",
+    "size": 16676616,
+    "names": [
+      "Regular",
+      "XinYuGongHeXieSong-R",
+      "XinYuGongZiYouSong-R",
+      "新愚公自由宋-R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.00_猫啃网/新愚公自由宋1.0/新愚公自由宋-R.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/S-fb0b90d9967c006f.ttf",
+    "sha256": "fb0b90d9967c006f0bd20da09f29908bd07b715d9089b70dee8154d510c32e32",
+    "size": 16811616,
+    "names": [
+      "SemiBold",
+      "XinYuGongHeXieSong-S",
+      "XinYuGongHeXieSong-S SemiBold",
+      "XinYuGongHeXieSong-S-SemiBold",
+      "XinYuGongZiYouSong-S",
+      "新愚公自由宋-S"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公自由宋1.00_猫啃网/新愚公自由宋1.0/新愚公自由宋-S.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-9e234fc9663ed64a.ttf",
+    "sha256": "9e234fc9663ed64ae6d6d78670e189fee4d725dcfec842140ca9d2a93684bc3b",
+    "size": 12732500,
+    "names": [
+      "Regular",
+      "XinYuGongCangSangTi",
+      "新愚公沧桑体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公沧桑体1.20_猫啃网/新愚公沧桑体1.20/新愚公沧桑体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-ee903fe434c09022.ttf",
+    "sha256": "ee903fe434c09022391e01a628546e450edfe3413a7f461f9d1b2a41c8d3e871",
+    "size": 12563524,
+    "names": [
+      "Regular",
+      "XinYuGongZhengRongTi",
+      "XinYuGongZhengRongTiSTB",
+      "新愚公峥嵘体宋体版"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公峥嵘体1.20_猫啃网/新愚公峥嵘体1.20/新愚公峥嵘体宋体版.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/B-0ac96b2c0ac0230c.ttf",
+    "sha256": "0ac96b2c0ac0230c153c4bdddb6a75a74ba3a8798b65ee25acd991776bf2b595",
+    "size": 17692516,
+    "names": [
+      "Bold",
+      "XinYuGongHeXieSong",
+      "XinYuGongHeXieSong Bold",
+      "XinYuGongHeXieSong-B",
+      "XinYuGongHeXieSong-Bold",
+      "新愚公和谐宋",
+      "新愚公和谐宋-B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公和谐宋1.10_猫啃网/新愚公和谐宋1.10/新愚公和谐宋-B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/H-fbf3bb16d7c7a93c.ttf",
+    "sha256": "fbf3bb16d7c7a93c06add8dbf3e362b33d68f8d7f8a74c641a33e0a5b78743c1",
+    "size": 17952564,
+    "names": [
+      "Heavy",
+      "XinYuGongHeXieSong",
+      "XinYuGongHeXieSong Heavy",
+      "XinYuGongHeXieSong-H",
+      "XinYuGongHeXieSong-Heavy",
+      "新愚公和谐宋",
+      "新愚公和谐宋-H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公和谐宋1.10_猫啃网/新愚公和谐宋1.10/新愚公和谐宋-H.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/L-c7197601683255f2.ttf",
+    "sha256": "c7197601683255f283eb3b4306968e7c133e30d8044f9b38ad2d1e89f81b4d4a",
+    "size": 17732736,
+    "names": [
+      "Light",
+      "XinYuGongHeXieSong",
+      "XinYuGongHeXieSong Light",
+      "XinYuGongHeXieSong-L",
+      "XinYuGongHeXieSong-Light",
+      "新愚公和谐宋",
+      "新愚公和谐宋-L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公和谐宋1.10_猫啃网/新愚公和谐宋1.10/新愚公和谐宋-L.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/M-180a74041174b0fc.ttf",
+    "sha256": "180a74041174b0fc4caf1779b3f4f5887bd2628ffe80e4dbc557664ec1f404e9",
+    "size": 18027888,
+    "names": [
+      "Medium",
+      "XinYuGongHeXieSong",
+      "XinYuGongHeXieSong Medium",
+      "XinYuGongHeXieSong-M",
+      "XinYuGongHeXieSong-Medium",
+      "新愚公和谐宋",
+      "新愚公和谐宋-M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公和谐宋1.10_猫啃网/新愚公和谐宋1.10/新愚公和谐宋-M.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/R-828e423859e5b316.ttf",
+    "sha256": "828e423859e5b316de29b67860fb5f6aede36890abfe30dbd3ff9f87662ae922",
+    "size": 17844288,
+    "names": [
+      "Regular",
+      "XinYuGongHeXieSong",
+      "XinYuGongHeXieSong Regular",
+      "XinYuGongHeXieSong-R",
+      "XinYuGongHeXieSong-Regular",
+      "新愚公和谐宋",
+      "新愚公和谐宋-R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公和谐宋1.10_猫啃网/新愚公和谐宋1.10/新愚公和谐宋-R.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/S-6390e1d6a14abf41.ttf",
+    "sha256": "6390e1d6a14abf411a468787d99e3b3e7875cb99beffcc7e44bbcd81a405adc8",
+    "size": 18087364,
+    "names": [
+      "SemiBold",
+      "XinYuGongHeXieSong",
+      "XinYuGongHeXieSong SemiBold",
+      "XinYuGongHeXieSong-S",
+      "XinYuGongHeXieSong-SemiBold",
+      "新愚公和谐宋",
+      "新愚公和谐宋-S"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/新愚公和谐宋1.10_猫啃网/新愚公和谐宋1.10/新愚公和谐宋-S.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/2.0-4eb4a487af4eccac.ttf",
+    "sha256": "4eb4a487af4eccacc1b6398fe28b284bb9b4ecf3f4490c58c795f57d9b49fa38",
+    "size": 5159720,
+    "names": [
+      "DOUYU",
+      "DOUYUFont",
+      "DOUYUFont2.0",
+      "Regular",
+      "常规体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/斗鱼追光体2.0_猫啃网/斗鱼追光体2.0/斗鱼追光体2.0.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSCFlexVF-d7a276b1142b06cc.ttf",
+    "sha256": "d7a276b1142b06cc0c0caa4c653f74a083d9be92de86b8793974daf8389b204d",
+    "size": 79176692,
+    "names": [
+      "Regular",
+      "WenYuan Sans SC Flex VF",
+      "WenYuanSansSCFlexVF",
+      "文渊黑体 三轴VF"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSCFlexVF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSCVF-5f3230ab48005af0.ttf",
+    "sha256": "5f3230ab48005af0c589a2636b996f2656225afc6e7a40974feb9eb98fb9f0d6",
+    "size": 27271580,
+    "names": [
+      "Regular",
+      "WenYuan Sans SC VF",
+      "WenYuanSansSCVF",
+      "文渊黑体 VF"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSCVF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-Bold-b194fe57b0af3376.ttf",
+    "sha256": "b194fe57b0af33765ac936305654fa5a2bd3f0a310fe08e6c525bb609ea6f741",
+    "size": 10941172,
+    "names": [
+      "Bold",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Bold",
+      "WenYuanSansSC-Bold",
+      "文渊黑体",
+      "文渊黑体 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/WenYuanSansSC-Cond-02f6837cc28e49d1.ttf",
+    "sha256": "02f6837cc28e49d139105d8488ed2212e837eefed8f479496a7b4810e9fcf684",
+    "size": 11010916,
+    "names": [
+      "Cond",
+      "Regular",
+      "WenYuan Sans SC",
+      "WenYuan Sans SC Cond",
+      "WenYuanSansSC-Cond",
+      "文渊黑体",
+      "文渊黑体 Cond"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/文渊黑体1.000_猫啃网/文渊黑体1.000/WenYuanSansSC-TTF/WenYuanSansSC-Cond.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6850b0e5d07bed32-LICENSE-zh.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
