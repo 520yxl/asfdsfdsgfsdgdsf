@@ -1,0 +1,929 @@
+[
+  {
+    "font": "incoming/ChironSungHK-Text-N-It-11a8e66ab25da896.ttf",
+    "sha256": "11a8e66ab25da896288dce78ca85a29f1726b4aade845a748dee1ef1a5027f8d",
+    "size": 25344424,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text N",
+      "Chiron Sung HK Text N Italic",
+      "ChironSungHKSP-NormalIt",
+      "Italic",
+      "Normal Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-N-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-N-d3f727898f94e4ea.ttf",
+    "sha256": "d3f727898f94e4ead71727d1d4396b144c4cf094b2a423c1603888edf5535973",
+    "size": 24443284,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text N",
+      "ChironSungHKSP-Normal",
+      "Normal",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-N.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-R-It-d9a4355e36847130.ttf",
+    "sha256": "d9a4355e36847130b3ff4a7498a8d97dada7de0892b550827f25136c4a1fdf4d",
+    "size": 25335892,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text Italic",
+      "ChironSungHKSP-Italic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-R-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-R-d44caa0cd2336860.ttf",
+    "sha256": "d44caa0cd2336860a6831addbbfe5e7785b960e0578d977045d5bc0da34bfad4",
+    "size": 24438212,
+    "names": [
+      "Chiron Sung HK Text",
+      "ChironSungHKSP-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-R.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-SB-It-53b24035b7715720.ttf",
+    "sha256": "53b24035b771572097959f9c5bb1db2bcbea7802f1bb4f74f89082c5fb173bc6",
+    "size": 25315104,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text SB",
+      "Chiron Sung HK Text SB Italic",
+      "ChironSungHKSP-SemiBoldIt",
+      "Italic",
+      "SemiBold Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-SB-It.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHK-Text-SB-c7e863f81d656c06.ttf",
+    "sha256": "c7e863f81d656c06f285ba1ad33bcd39ddc00226a51a1302629a5204d630c7a0",
+    "size": 24441256,
+    "names": [
+      "Chiron Sung HK Text",
+      "Chiron Sung HK Text SB",
+      "ChironSungHKSP-SemiBold",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/STATIC_TTF/ChironSungHK-Text-SB.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHKItVF-cbcbf89a2f9b1e5a.ttf",
+    "sha256": "cbcbf89a2f9b1e5ae8752f52cb9fcd341e883c5328404848fe1fd7ec3e06e9c0",
+    "size": 87574408,
+    "names": [
+      "Chiron Sung HK VF",
+      "Chiron Sung HK VF Italic",
+      "ChironSungHKVF-ExtraLightIt",
+      "ExtraLight Italic",
+      "Italic"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/VAR_TTF/ChironSungHKItVF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChironSungHKVF-47596b82522147e5.ttf",
+    "sha256": "47596b82522147e563a16986f0fb2603ebc5a36c6412e8c797b05571b93c8823",
+    "size": 82506372,
+    "names": [
+      "Chiron Sung HK VF",
+      "ChironSungHKVF-ExtraLight",
+      "ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/昭源宋体1.024_猫啃网/昭源宋体1.024/VAR_TTF/ChironSungHKVF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/f610abd1c4f410c0-LICENSE.md",
+      "incoming/maoken-20261104/licenses-exact/5a19078bbfe28549-README.en.md",
+      "incoming/maoken-20261104/licenses-exact/9f8791c4bbf9c614-README.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-b78c61380610b0b0.ttf",
+    "sha256": "b78c61380610b0b0fe1d7f592131bc37783355e1a1d7ae3277fb6180b20ceacd",
+    "size": 26101496,
+    "names": [
+      "Ming A",
+      "MingA",
+      "Regular",
+      "明朝體 其一"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/明朝体_猫啃网/明朝体/明朝體 其一.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-21f7b44c90e2983f.ttf",
+    "sha256": "21f7b44c90e2983f9671798dde1fc0cc2a9eae8df796afdabc4b49192a04ec49",
+    "size": 26106944,
+    "names": [
+      "Ming B",
+      "MingB",
+      "Regular",
+      "明朝體 其二"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/明朝体_猫啃网/明朝体/明朝體 其二.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-6825e4d1c1771046.ttf",
+    "sha256": "6825e4d1c1771046ca000f505de4779e8d7132b2e5e00fb222dfc13cee3ff751",
+    "size": 26107544,
+    "names": [
+      "Ming",
+      "Regular",
+      "明朝體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/明朝体_猫啃网/明朝体/明朝體.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PL-06b1af510de7a396.ttf",
+    "sha256": "06b1af510de7a396b694b8c2ac0d71a6d1dc1b35c66409c7d8070a7b3515ad56",
+    "size": 15443432,
+    "names": [
+      "AR PL New Sung",
+      "AR-PL-New-Sung",
+      "Regular",
+      "文鼎ＰＬ新宋"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/文鼎PL新宋-1.3.0_猫啃网/文鼎PL新宋-1.3.0/文鼎PL新宋.ttf",
+      "中国大陆/文鼎PL新宋-1.3.0_猫啃网/文鼎PL新宋-1.3.0/文鼎PL新宋.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/235424741c3f9bc0-ARPHICPL.TXT",
+      "incoming/maoken-20261104/licenses-exact/3a5e90c0957524a8-ARPHICPL.TXT",
+      "incoming/maoken-20261104/licenses-exact/0f4119eb7a7bbbb1-ARPHICPL.TXT"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/chongxi_seal-44724e59f9dc7198.otf",
+    "sha256": "44724e59f9dc7198df3e275beb7a6964004f1d7d8eeadc94fbb91f1de2ba70df",
+    "size": 21818036,
+    "names": [
+      "Chong Xi Small Seal",
+      "ChongXiSmallSeal",
+      "Regular",
+      "崇羲篆體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/崇羲篆体_猫啃网/崇羲篆体/chongxi_seal.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZevHeiTC-F-VF-9652771663dde73f.otf",
+    "sha256": "9652771663dde73f5eced638772e2f9a130a2ac199aeb0bc748b7805a59f5f2d",
+    "size": 32751672,
+    "names": [
+      "200",
+      "Regular",
+      "ZevHeiTC-F Dev",
+      "ZevHeiTC-F-VF-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/宙黑体_猫啃网/宙黑体/VAR_OTF/ZevHeiTC-F-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/9159835517d023b1-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZevHeiTC-N-VF-75744877b49d5455.otf",
+    "sha256": "75744877b49d54557d5f73f04a0f6dc2715cd3976dddc202ee834a28e1ce2fdb",
+    "size": 32557552,
+    "names": [
+      "200",
+      "Regular",
+      "ZevHeiTC-N Dev",
+      "ZevHeiTC-N-VF-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/宙黑体_猫啃网/宙黑体/VAR_OTF/ZevHeiTC-N-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/9159835517d023b1-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZevHeiTC-F-VF-a9054c413d77e7c3.ttf",
+    "sha256": "a9054c413d77e7c326cbc1d79fade43926505b6ec387e3809310fb0bbc768787",
+    "size": 58977104,
+    "names": [
+      "200",
+      "Regular",
+      "ZevHeiTC-F Dev",
+      "ZevHeiTC-F-VF-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/宙黑体_猫啃网/宙黑体/VAR_TTF/ZevHeiTC-F-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/9159835517d023b1-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ZevHeiTC-N-VF-f4d75884d6c3cbf2.ttf",
+    "sha256": "f4d75884d6c3cbf2375e4a9fc58bea035189aab4a2dc3b3aa9ae14ad60377e1f",
+    "size": 58747332,
+    "names": [
+      "200",
+      "Regular",
+      "ZevHeiTC-N Dev",
+      "ZevHeiTC-N-VF-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/宙黑体_猫啃网/宙黑体/VAR_TTF/ZevHeiTC-N-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/9159835517d023b1-LICENSE.md"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/UoqMunThenKhung-Regular-dc2686b6c640b351.otf",
+    "sha256": "dc2686b6c640b351c6ddc30863d8f25eb198a6367d26459e9400e01c9a930cdc",
+    "size": 5467988,
+    "names": [
+      "Regular",
+      "UoqMunThenKhung",
+      "UoqMunThenKhung Regular",
+      "UoqMunThenKhung-Regular",
+      "宇文天穹"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/宇文天穹1.005_猫啃网/宇文天穹1.005/UoqMunThenKhung-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/d03c13bf0c490364-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/UoqMunThenKhung-Regular-d5802b4ed30c37e6.ttf",
+    "sha256": "d5802b4ed30c37e69ea2af8adf3ea71a5287d62a551c5158dc8bce50e058c064",
+    "size": 4901688,
+    "names": [
+      "Regular",
+      "UoqMunThenKhung",
+      "UoqMunThenKhung Regular",
+      "UoqMunThenKhung-Regular",
+      "宇文天穹"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/宇文天穹1.005_猫啃网/宇文天穹1.005/UoqMunThenKhung-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/d03c13bf0c490364-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Fancy-FreeFont1-09c89347322f2a9a.ttf",
+    "sha256": "09c89347322f2a9a590130a776c579f2b651626f7905410c13f631c896036158",
+    "size": 5173708,
+    "names": [
+      "Fancy-FreeFont1",
+      "Fancy-FreeFont1-R",
+      "Regular",
+      "字言字型免費中文字體1—手繪體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/字言字型免費中文字體1—手繪體_猫啃网/字言字型免費中文字體1—手繪體/Fancy-FreeFont1.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fe31af868723bec0-Fancy-FreeFont1_Licence.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-957c930f183be385.ttf",
+    "sha256": "957c930f183be3855545fb1cddddfd74ce32771b4c4b6af87662a935aae56b0c",
+    "size": 18921524,
+    "names": [
+      "Regular",
+      "ZY-yunyoushoushu-TC",
+      "字嶼雲遊手書TC",
+      "常規體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/字屿云游手书_猫啃网/字屿云游手书/字嶼雲遊手書.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Uranus_Pixel_11Px-23c700fb18af1e3c.ttf",
+    "sha256": "23c700fb18af1e3cccf29fff53fdba6f4e405764e366f93b1fe0f898382c3d2e",
+    "size": 1344764,
+    "names": [
+      "Uranus Pixel 11Px",
+      "Uranus_Pixel_11Px",
+      "regular",
+      "天王星像素 11Px"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/天王星像素_猫啃网/天王星像素/Uranus_Pixel_11Px.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/871c2a85e6bbf7be-COPYING.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkJp-Bold-1666ee49f51cab8b.ttf",
+    "sha256": "1666ee49f51cab8b92da88f34c853efd30e319ed077bc83d77d4338971c7a294",
+    "size": 8472084,
+    "names": [
+      "Bold",
+      "Pop Gothic CJK JP",
+      "Pop Gothic CJK JP Bold",
+      "PopGothicCjkJp Bold",
+      "PopGothicCjkJp-Bold",
+      "大波浪圓體 CJK JP",
+      "大波浪圓體 CJK JP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK JP/PopGothicCjkJp-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkJp-ExtraLight-c6b30fbe239703b4.ttf",
+    "sha256": "c6b30fbe239703b4d1a22b2abfb4f0f99985de588b0a29e35ebf47747b246b7a",
+    "size": 10627012,
+    "names": [
+      "ExtraLight",
+      "Pop Gothic CJK JP",
+      "Pop Gothic CJK JP ExtraLight",
+      "PopGothicCjkJp ExtraLight",
+      "PopGothicCjkJp-ExtraLight",
+      "大波浪圓體 CJK JP",
+      "大波浪圓體 CJK JP-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK JP/PopGothicCjkJp-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkJp-Light-d037f734f715769f.ttf",
+    "sha256": "d037f734f715769fb8e8d84b6eb6048bbadadc7a0a67aa0959afe624674b30d5",
+    "size": 10467144,
+    "names": [
+      "Light",
+      "Pop Gothic CJK JP",
+      "Pop Gothic CJK JP Light",
+      "PopGothicCjkJp Light",
+      "PopGothicCjkJp-Light",
+      "大波浪圓體 CJK JP",
+      "大波浪圓體 CJK JP-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK JP/PopGothicCjkJp-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkJp-Regular-fdcb5448e8b1039b.ttf",
+    "sha256": "fdcb5448e8b1039b308a88c9a89b6a40d8bc6f5f145bc336bc96380761fde37e",
+    "size": 8694756,
+    "names": [
+      "Pop Gothic CJK JP",
+      "Pop Gothic CJK JP Regular",
+      "PopGothicCjkJp Regular",
+      "PopGothicCjkJp-Regular",
+      "Regular",
+      "大波浪圓體 CJK JP",
+      "大波浪圓體 CJK JP-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK JP/PopGothicCjkJp-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkJp-SemiBold-24098330852e0304.ttf",
+    "sha256": "24098330852e030420ad1bd51f91492c549a2295027905d33121724536fe6b1f",
+    "size": 8424404,
+    "names": [
+      "Pop Gothic CJK JP",
+      "Pop Gothic CJK JP SemiBold",
+      "PopGothicCjkJp SemiBold",
+      "PopGothicCjkJp-SemiBold",
+      "SemiBold",
+      "大波浪圓體 CJK JP",
+      "大波浪圓體 CJK JP-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK JP/PopGothicCjkJp-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkTc-Bold-ac7f927bbeeaea48.ttf",
+    "sha256": "ac7f927bbeeaea48e06bf36f30e1b3b1114800abf617287f532d2e8b4bf0b4b9",
+    "size": 8526760,
+    "names": [
+      "Bold",
+      "Pop Gothic CJK TC",
+      "Pop Gothic CJK TC Bold",
+      "PopGothicCjkTc Bold",
+      "PopGothicCjkTc-Bold",
+      "大波浪圓體 CJK TC",
+      "大波浪圓體 CJK TC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK TC/PopGothicCjkTc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkTc-ExtraLight-6450eb8eecd86506.ttf",
+    "sha256": "6450eb8eecd86506c9ec6a46c94f599f789c0e04f2ce5900c7350525f1d19b80",
+    "size": 10677544,
+    "names": [
+      "ExtraLight",
+      "Pop Gothic CJK TC",
+      "Pop Gothic CJK TC ExtraLight",
+      "PopGothicCjkTc ExtraLight",
+      "PopGothicCjkTc-ExtraLight",
+      "大波浪圓體 CJK TC",
+      "大波浪圓體 CJK TC-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK TC/PopGothicCjkTc-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkTc-Light-dd3cb2080a9a8d3b.ttf",
+    "sha256": "dd3cb2080a9a8d3bf357e6a469478ad949b5cecc72df7150edd86bf29ab30cc6",
+    "size": 10517416,
+    "names": [
+      "Light",
+      "Pop Gothic CJK TC",
+      "Pop Gothic CJK TC Light",
+      "PopGothicCjkTc Light",
+      "PopGothicCjkTc-Light",
+      "大波浪圓體 CJK TC",
+      "大波浪圓體 CJK TC-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK TC/PopGothicCjkTc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkTc-Regular-dc0e5ff2e5219708.ttf",
+    "sha256": "dc0e5ff2e5219708c4e652972bd92dea961d2f79da696d348bb6bd741fd02cff",
+    "size": 8751072,
+    "names": [
+      "Pop Gothic CJK TC",
+      "Pop Gothic CJK TC Regular",
+      "PopGothicCjkTc Regular",
+      "PopGothicCjkTc-Regular",
+      "Regular",
+      "大波浪圓體 CJK TC",
+      "大波浪圓體 CJK TC-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK TC/PopGothicCjkTc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PopGothicCjkTc-SemiBold-a0b9d04f9bd3dff1.ttf",
+    "sha256": "a0b9d04f9bd3dff10cd36a0fafb6d0516b8ee5c6b5d2518acc024080850b10ea",
+    "size": 8478244,
+    "names": [
+      "Pop Gothic CJK TC",
+      "Pop Gothic CJK TC SemiBold",
+      "PopGothicCjkTc SemiBold",
+      "PopGothicCjkTc-SemiBold",
+      "SemiBold",
+      "大波浪圓體 CJK TC",
+      "大波浪圓體 CJK TC-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/大波浪圆体2.122_猫啃网/大波浪圆体2.122/CJK TC/PopGothicCjkTc-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer12-dc19c3e72c6eed9d.ttf",
+    "sha256": "dc19c3e72c6eed9d6eb3f18daa055c2cf40e511da143337d16261f35fa8ea60e",
+    "size": 3406944,
+    "names": [
+      "Nightgazer 12",
+      "Nightgazer-12",
+      "Regular",
+      "夜照飛 12",
+      "夜照飞 12"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer12.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer12B-eab3d8e30bec7e5b.ttf",
+    "sha256": "eab3d8e30bec7e5bdfd7d03ac9a97c60c1485a6cb74d89a46a961782a32a25c4",
+    "size": 3280988,
+    "names": [
+      "Bold",
+      "Nightgazer 12",
+      "Nightgazer 12 B",
+      "Nightgazer-12-B",
+      "夜照飛 12 B",
+      "夜照飞 12 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer12B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer13-9b0a36e165c08350.ttf",
+    "sha256": "9b0a36e165c083503a7eb642a8f0504d79f5968de72900d7a0d15f3e2241835b",
+    "size": 3580528,
+    "names": [
+      "Nightgazer 13",
+      "Nightgazer-13",
+      "Regular",
+      "夜照飛 13",
+      "夜照飞 13"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer13.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer13B-652aa7dc2ea3f588.ttf",
+    "sha256": "652aa7dc2ea3f5880e0253c53a927ba01aea533cb93fe5d50c48eab8c64003a2",
+    "size": 3431824,
+    "names": [
+      "Bold",
+      "Nightgazer 13",
+      "Nightgazer 13 B",
+      "Nightgazer-13-B",
+      "夜照飛 13 B",
+      "夜照飞 13 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer13B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer14-67bdda81e4f2ffae.ttf",
+    "sha256": "67bdda81e4f2ffae5f461fd2a8a82cdbee07265ebee906a8d397aa70487fbf67",
+    "size": 3922584,
+    "names": [
+      "Nightgazer 14",
+      "Nightgazer-14",
+      "Regular",
+      "夜照飛 14",
+      "夜照飞 14"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer14.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer14B-37ed570e984ada7c.ttf",
+    "sha256": "37ed570e984ada7c8f135a3640188d4847ef156d81a5e43050b79cbf60cc5699",
+    "size": 3744500,
+    "names": [
+      "Bold",
+      "Nightgazer 14",
+      "Nightgazer 14 B",
+      "Nightgazer-14-B",
+      "夜照飛 14 B",
+      "夜照飞 14 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer14B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer15-426b768fe3a5aaf1.ttf",
+    "sha256": "426b768fe3a5aaf1d23daacacb777b0b86d39c62dc595ef3ce99ee90e707f1fe",
+    "size": 4123676,
+    "names": [
+      "Nightgazer 15",
+      "Nightgazer-15",
+      "Regular",
+      "夜照飛 15",
+      "夜照飛 15\r\n",
+      "夜照飞 15"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer15.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer15B-d0c404c6963a0af2.ttf",
+    "sha256": "d0c404c6963a0af2095848b253da19820e87272224e4814ef6310fbc861912c8",
+    "size": 3933932,
+    "names": [
+      "Bold",
+      "Nightgazer 15",
+      "Nightgazer 15 B",
+      "Nightgazer-15-B",
+      "夜照飛 15 B",
+      "夜照飞 15 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer15B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer16-5f3645952c8f1fcd.ttf",
+    "sha256": "5f3645952c8f1fcd3719fd76ca98e7a31eeed42d72a4514e23987660c80b6d15",
+    "size": 4396296,
+    "names": [
+      "Nightgazer 16",
+      "Nightgazer-16",
+      "Regular",
+      "夜照飛 16",
+      "夜照飞 16"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer16.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Nightgazer16B-7b0cf1e0ec0653b8.ttf",
+    "sha256": "7b0cf1e0ec0653b8cc4b5c46171eff324a275a56518efa0e75d7008f4c862f23",
+    "size": 4173980,
+    "names": [
+      "Bold",
+      "Nightgazer 16",
+      "Nightgazer 16 B",
+      "Nightgazer-16-B",
+      "夜照飛 16 B",
+      "夜照飞 16 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/夜照飞1.0_猫啃网/夜照飞1.0/Nightgazer16B.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3972dc9744f6499f-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MoeLI___3.0-f0ba5eda31727ad8.ttf",
+    "sha256": "f0ba5eda31727ad89cc0b1f6b9a7dfda02f061fa101c18548b6f8ea0145c108b",
+    "size": 5243908,
+    "names": [
+      "Regular",
+      "TW-MOE-Li",
+      "TW-MOE-Li ",
+      "教育部隶书",
+      "教育部隸書"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/台湾教育部标准隶书3.0_猫啃网/台湾教育部标准隶书3.0/MoeLI(隸書3.0版).ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
