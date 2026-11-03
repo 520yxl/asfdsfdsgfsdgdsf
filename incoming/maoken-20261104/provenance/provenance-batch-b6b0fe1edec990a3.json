@@ -1,0 +1,863 @@
+[
+  {
+    "font": "incoming/SweiB2SansCJKtc-Thin-18766f055aea9ac1.ttf",
+    "sha256": "18766f055aea9ac1370fc3c975428a9a1304d683624a87eaaefe07920e4dddd5",
+    "size": 17116000,
+    "names": [
+      "Swei B2 Sans CJK TC",
+      "Swei B2 Sans CJKtc Thin",
+      "SweiB2SansCJKtc-Thin",
+      "Thin",
+      "獅尾B2黑體",
+      "獅尾B2黑體-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2黑体_猫啃网/狮尾B2黑体/CJK TC/SweiB2SansCJKtc-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/e564f06d018e7b95-SIL_Open_Font_License_1.1.txt",
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKsc-Black-bcc1ca163bfba3ac.ttf",
+    "sha256": "bcc1ca163bfba3acbc0412faf4ba07c8facb31dcc6bce323dd9bf351cf0fe5d6",
+    "size": 23526720,
+    "names": [
+      "Black",
+      "Swei B2 Serif CJK SC",
+      "Swei B2 Serif CJKsc Black",
+      "SweiB2SerifCJKsc-Black",
+      "獅尾B2宋朝SC",
+      "獅尾B2宋朝SC-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK SC/SweiB2SerifCJKsc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKsc-Bold-97d35aeb07c3c203.ttf",
+    "sha256": "97d35aeb07c3c2037d71280aaafa48f69b2fe7adcc25824b4707fa242a450535",
+    "size": 23624700,
+    "names": [
+      "Bold",
+      "Swei B2 Serif CJK SC",
+      "Swei B2 Serif CJKsc Bold",
+      "SweiB2SerifCJKsc-Bold",
+      "獅尾B2宋朝SC",
+      "獅尾B2宋朝SC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK SC/SweiB2SerifCJKsc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKsc-ExtraLight-009e5f8ef597529e.ttf",
+    "sha256": "009e5f8ef597529e9d0403c646220c9f7812c32abe46482881c342b864ec3379",
+    "size": 23192464,
+    "names": [
+      "ExtraLight",
+      "Swei B2 Serif CJK SC",
+      "Swei B2 Serif CJKsc ExtraLight",
+      "SweiB2SerifCJKsc-ExtraLight",
+      "獅尾B2宋朝SC",
+      "獅尾B2宋朝SC-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK SC/SweiB2SerifCJKsc-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKsc-Light-a209b7344a276335.ttf",
+    "sha256": "a209b7344a276335ea8e585ac0806b512e53ce399f178f67bad878d0a6817feb",
+    "size": 23379592,
+    "names": [
+      "Light",
+      "Swei B2 Serif CJK SC",
+      "Swei B2 Serif CJKsc Light",
+      "SweiB2SerifCJKsc-Light",
+      "獅尾B2宋朝SC",
+      "獅尾B2宋朝SC-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK SC/SweiB2SerifCJKsc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKsc-Medium-5826cee1505b6444.ttf",
+    "sha256": "5826cee1505b64446bed7d89be42d4bb3c459872d182acead5dfa21e4cd305e0",
+    "size": 23913260,
+    "names": [
+      "Medium",
+      "Swei B2 Serif CJK SC",
+      "Swei B2 Serif CJKsc Medium",
+      "SweiB2SerifCJKsc-Medium",
+      "獅尾B2宋朝SC",
+      "獅尾B2宋朝SC-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK SC/SweiB2SerifCJKsc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKsc-Regular-f94b7f7de5d263a0.ttf",
+    "sha256": "f94b7f7de5d263a0b3bb16b1503d0f3871da6ca41a89a0a38ae3df779187af01",
+    "size": 23671820,
+    "names": [
+      "Regular",
+      "Swei B2 Serif CJK SC",
+      "Swei B2 Serif CJKsc Regular",
+      "SweiB2SerifCJKsc-Regular",
+      "獅尾B2宋朝SC",
+      "獅尾B2宋朝SC-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK SC/SweiB2SerifCJKsc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKsc-SemiBold-c1b71ec3875fb18d.ttf",
+    "sha256": "c1b71ec3875fb18d021e872a4c3ad0ed2c1fe953305c84fe96893a4211fd9507",
+    "size": 23708604,
+    "names": [
+      "SemiBold",
+      "Swei B2 Serif CJK SC",
+      "Swei B2 Serif CJKsc SemiBold",
+      "SweiB2SerifCJKsc-SemiBold",
+      "獅尾B2宋朝SC",
+      "獅尾B2宋朝SC-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK SC/SweiB2SerifCJKsc-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKtc-Black-e188d5f8c8d4329e.ttf",
+    "sha256": "e188d5f8c8d4329e474bce7f77ce4f9b9ca481e6ae23e5b7a3a3eeb189d92b72",
+    "size": 23626328,
+    "names": [
+      "Black",
+      "Swei B2 Serif CJK TC",
+      "Swei B2 Serif CJKtc Black",
+      "SweiB2SerifCJKtc-Black",
+      "獅尾B2宋朝",
+      "獅尾B2宋朝-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK TC/SweiB2SerifCJKtc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKtc-Bold-fb5e9c059bbb7d34.ttf",
+    "sha256": "fb5e9c059bbb7d3419b0fb7ca4fa9961f2783ac30d48c72a1b90f278a02ec67c",
+    "size": 23740648,
+    "names": [
+      "Bold",
+      "Swei B2 Serif CJK TC",
+      "Swei B2 Serif CJKtc Bold",
+      "SweiB2SerifCJKtc-Bold",
+      "獅尾B2宋朝",
+      "獅尾B2宋朝-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK TC/SweiB2SerifCJKtc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKtc-ExtraLight-8adab9068febf423.ttf",
+    "sha256": "8adab9068febf4232733c84001921640b193086ea8d7dd6b4d7a30953dbff536",
+    "size": 23326680,
+    "names": [
+      "ExtraLight",
+      "Swei B2 Serif CJK TC",
+      "Swei B2 Serif CJKtc ExtraLight",
+      "SweiB2SerifCJKtc-ExtraLight",
+      "獅尾B2宋朝",
+      "獅尾B2宋朝-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK TC/SweiB2SerifCJKtc-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKtc-Light-94b40d3cca3f74b9.ttf",
+    "sha256": "94b40d3cca3f74b91bf08a9bffaf3a934337eccba7f9bd8b1005c9a2dbf6fddf",
+    "size": 23508312,
+    "names": [
+      "Light",
+      "Swei B2 Serif CJK TC",
+      "Swei B2 Serif CJKtc Light",
+      "SweiB2SerifCJKtc-Light",
+      "獅尾B2宋朝",
+      "獅尾B2宋朝-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK TC/SweiB2SerifCJKtc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKtc-Medium-dca4efdf671eb75a.ttf",
+    "sha256": "dca4efdf671eb75a8326778fcfde16adc4564527da290c64ce67145119fd9f68",
+    "size": 24022872,
+    "names": [
+      "Medium",
+      "Swei B2 Serif CJK TC",
+      "Swei B2 Serif CJKtc Medium",
+      "SweiB2SerifCJKtc-Medium",
+      "獅尾B2宋朝",
+      "獅尾B2宋朝-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK TC/SweiB2SerifCJKtc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKtc-Regular-621e83406631e60b.ttf",
+    "sha256": "621e83406631e60b7cffb689ea1088a14348b5d0ec7840e2f7c02b6bce203004",
+    "size": 23788300,
+    "names": [
+      "Regular",
+      "Swei B2 Serif CJK TC",
+      "Swei B2 Serif CJKtc Regular",
+      "SweiB2SerifCJKtc-Regular",
+      "獅尾B2宋朝",
+      "獅尾B2宋朝-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK TC/SweiB2SerifCJKtc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SerifCJKtc-SemiBold-ebba6ea9450b55fe.ttf",
+    "sha256": "ebba6ea9450b55fed9e6c28c6a69e79b0d82fa078f4d7752c814a87013e32391",
+    "size": 23824212,
+    "names": [
+      "SemiBold",
+      "Swei B2 Serif CJK TC",
+      "Swei B2 Serif CJKtc SemiBold",
+      "SweiB2SerifCJKtc-SemiBold",
+      "獅尾B2宋朝",
+      "獅尾B2宋朝-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2宋朝_猫啃网/狮尾B2宋朝/CJK TC/SweiB2SerifCJKtc-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/26d27831d63393e4-____.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SugarCJKsc-Black-9e4edd8475983dc7.ttf",
+    "sha256": "9e4edd8475983dc71e2729f904101fc24943353952cee655300f88b8bf16f3e6",
+    "size": 24911692,
+    "names": [
+      "Black",
+      "Swei B2 Sugar CJK SC",
+      "Swei B2 Sugar CJKsc Black",
+      "SweiB2SugarCJKsc-Black",
+      "獅尾B2加糖宋體SC",
+      "獅尾B2加糖宋體SC-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2加糖宋体1.061(简体版)_猫啃网/狮尾B2加糖宋体1.061/CJK SC/SweiB2SugarCJKsc-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SugarCJKsc-Bold-b7cd4194caa91378.ttf",
+    "sha256": "b7cd4194caa913786e1bfa948ed6aecb569d126fdfd8e90224842de93c446489",
+    "size": 25534936,
+    "names": [
+      "Bold",
+      "Swei B2 Sugar CJK SC",
+      "Swei B2 Sugar CJKsc Bold",
+      "SweiB2SugarCJKsc-Bold",
+      "獅尾B2加糖宋體SC",
+      "獅尾B2加糖宋體SC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2加糖宋体1.061(简体版)_猫啃网/狮尾B2加糖宋体1.061/CJK SC/SweiB2SugarCJKsc-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SugarCJKsc-ExtraLight-78b29d62d2546c4a.ttf",
+    "sha256": "78b29d62d2546c4a9c35d3e2146b0a797918385fe9f5041fdf45f7a4f01a5d79",
+    "size": 23845132,
+    "names": [
+      "ExtraLight",
+      "Swei B2 Sugar CJK SC",
+      "Swei B2 Sugar CJKsc ExtraLight",
+      "SweiB2SugarCJKsc-ExtraLight",
+      "獅尾B2加糖宋體SC",
+      "獅尾B2加糖宋體SC-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2加糖宋体1.061(简体版)_猫啃网/狮尾B2加糖宋体1.061/CJK SC/SweiB2SugarCJKsc-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SugarCJKsc-Light-6e9a63950b60485a.ttf",
+    "sha256": "6e9a63950b60485acb79b708751b4ca29eb2de7f717630ee2ff1e8b81261ef35",
+    "size": 24689480,
+    "names": [
+      "Light",
+      "Swei B2 Sugar CJK SC",
+      "Swei B2 Sugar CJKsc Light",
+      "SweiB2SugarCJKsc-Light",
+      "獅尾B2加糖宋體SC",
+      "獅尾B2加糖宋體SC-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2加糖宋体1.061(简体版)_猫啃网/狮尾B2加糖宋体1.061/CJK SC/SweiB2SugarCJKsc-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SugarCJKsc-Medium-6e1d98dc461d2797.ttf",
+    "sha256": "6e1d98dc461d279787cbbfacb4e3799b950beef7bbe672eda6e1ea995b678356",
+    "size": 25714512,
+    "names": [
+      "Medium",
+      "Swei B2 Sugar CJK SC",
+      "Swei B2 Sugar CJKsc Medium",
+      "SweiB2SugarCJKsc-Medium",
+      "獅尾B2加糖宋體SC",
+      "獅尾B2加糖宋體SC-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2加糖宋体1.061(简体版)_猫啃网/狮尾B2加糖宋体1.061/CJK SC/SweiB2SugarCJKsc-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SugarCJKsc-Regular-1f34094baa78deea.ttf",
+    "sha256": "1f34094baa78deeabebfeef4596a12c6c831802887d4cfe592ee89ef65ad8d72",
+    "size": 25447036,
+    "names": [
+      "Regular",
+      "Swei B2 Sugar CJK SC",
+      "Swei B2 Sugar CJKsc Regular",
+      "SweiB2SugarCJKsc-Regular",
+      "獅尾B2加糖宋體SC",
+      "獅尾B2加糖宋體SC-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2加糖宋体1.061(简体版)_猫啃网/狮尾B2加糖宋体1.061/CJK SC/SweiB2SugarCJKsc-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SweiB2SugarCJKsc-SemiBold-0976640ba4f43c88.ttf",
+    "sha256": "0976640ba4f43c887d688c0397ca451e8fc51991677ce587f6b27dca4c5e7eaa",
+    "size": 25630224,
+    "names": [
+      "SemiBold",
+      "Swei B2 Sugar CJK SC",
+      "Swei B2 Sugar CJKsc SemiBold",
+      "SweiB2SugarCJKsc-SemiBold",
+      "獅尾B2加糖宋體SC",
+      "獅尾B2加糖宋體SC-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/狮尾B2加糖宋体1.061(简体版)_猫啃网/狮尾B2加糖宋体1.061/CJK SC/SweiB2SugarCJKsc-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c2d3baab562bda4b-______.txt",
+      "incoming/maoken-20261104/licenses-exact/7f18ec1ebb6b50e3-_____OFL_.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2JP-B-3d08087317afc3ab.otf",
+    "sha256": "3d08087317afc3abe3030bcd9928a356cd984cdedf8141ea8ce9df35589a2a2c",
+    "size": 16185520,
+    "names": [
+      "B",
+      "GenRyuMin2 JP",
+      "GenRyuMin2 JP B",
+      "GenRyuMin2JP-B",
+      "Regular",
+      "源流明朝",
+      "源流明朝 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2JP-otf/GenRyuMin2JP-B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2JP-EL-04701c2f5a7dae60.otf",
+    "sha256": "04701c2f5a7dae601cda9dd1be44de5c40cc32cc541ba7e61039d794a3518351",
+    "size": 16356544,
+    "names": [
+      "EL",
+      "GenRyuMin2 JP",
+      "GenRyuMin2 JP EL",
+      "GenRyuMin2JP-EL",
+      "Regular",
+      "源流明朝",
+      "源流明朝 EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2JP-otf/GenRyuMin2JP-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2JP-H-47fcc77e7889bfb1.otf",
+    "sha256": "47fcc77e7889bfb17b2b6f06fadd92c2e085d0553bd7c9980641ea414a0fd9ab",
+    "size": 15990100,
+    "names": [
+      "GenRyuMin2 JP",
+      "GenRyuMin2 JP H",
+      "GenRyuMin2JP-H",
+      "H",
+      "Regular",
+      "源流明朝",
+      "源流明朝 H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2JP-otf/GenRyuMin2JP-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2JP-L-9416d40dbe27ca7a.otf",
+    "sha256": "9416d40dbe27ca7a038fff47918c1bca1db7f491d7cb2958b063564b87b4c7cc",
+    "size": 16417748,
+    "names": [
+      "GenRyuMin2 JP",
+      "GenRyuMin2 JP L",
+      "GenRyuMin2JP-L",
+      "L",
+      "Regular",
+      "源流明朝",
+      "源流明朝 L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2JP-otf/GenRyuMin2JP-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2JP-M-068ef590265f6e11.otf",
+    "sha256": "068ef590265f6e11b67e69b2ea1acdffed7cf9983b1efca17a7a6efed1e26a9c",
+    "size": 16372376,
+    "names": [
+      "GenRyuMin2 JP",
+      "GenRyuMin2 JP M",
+      "GenRyuMin2JP-M",
+      "M",
+      "Regular",
+      "源流明朝",
+      "源流明朝 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2JP-otf/GenRyuMin2JP-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2JP-R-fba537e360d6dba2.otf",
+    "sha256": "fba537e360d6dba23855a43ef6f5b64242fb679fd787d458e198a30b00d673b0",
+    "size": 16417256,
+    "names": [
+      "GenRyuMin2 JP",
+      "GenRyuMin2 JP R",
+      "GenRyuMin2JP-R",
+      "R",
+      "Regular",
+      "源流明朝",
+      "源流明朝 R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2JP-otf/GenRyuMin2JP-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2JP-SB-6be25fed51146754.otf",
+    "sha256": "6be25fed51146754027edaade1ca51893f694b4eecb2bfd71a334866c59717ae",
+    "size": 16294492,
+    "names": [
+      "GenRyuMin2 JP",
+      "GenRyuMin2 JP SB",
+      "GenRyuMin2JP-SB",
+      "Regular",
+      "SB",
+      "源流明朝",
+      "源流明朝 SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2JP-otf/GenRyuMin2JP-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2PJP-B-286be00ef2cfe752.otf",
+    "sha256": "286be00ef2cfe7522a6f4a68a8e9237bf35f10437a78abb3c113fad0a3d33ae4",
+    "size": 16183872,
+    "names": [
+      "B",
+      "GenRyuMin2 PJP",
+      "GenRyuMin2 PJP B",
+      "GenRyuMin2PJP-B",
+      "Regular",
+      "源流明朝P",
+      "源流明朝P B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2PJP-otf/GenRyuMin2PJP-B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2PJP-EL-4f852bfa7e9607d9.otf",
+    "sha256": "4f852bfa7e9607d9d70ff6a733b9c90fd267df26320f2ef8b479a8701eba29cb",
+    "size": 16355152,
+    "names": [
+      "EL",
+      "GenRyuMin2 PJP",
+      "GenRyuMin2 PJP EL",
+      "GenRyuMin2PJP-EL",
+      "Regular",
+      "源流明朝P",
+      "源流明朝P EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2PJP-otf/GenRyuMin2PJP-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2PJP-H-a96cba970b1a1ed9.otf",
+    "sha256": "a96cba970b1a1ed92f5a1b8fa386000a1d8025786d8a8c6ec1dfdb0568b16083",
+    "size": 15988456,
+    "names": [
+      "GenRyuMin2 PJP",
+      "GenRyuMin2 PJP H",
+      "GenRyuMin2PJP-H",
+      "H",
+      "Regular",
+      "源流明朝P",
+      "源流明朝P H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2PJP-otf/GenRyuMin2PJP-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2PJP-L-a5a8841d8aeb74e6.otf",
+    "sha256": "a5a8841d8aeb74e62f54065f42863cb62526c2ef132d9cf925abe5e8655ca9e7",
+    "size": 16416360,
+    "names": [
+      "GenRyuMin2 PJP",
+      "GenRyuMin2 PJP L",
+      "GenRyuMin2PJP-L",
+      "L",
+      "Regular",
+      "源流明朝P",
+      "源流明朝P L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2PJP-otf/GenRyuMin2PJP-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2PJP-M-2d2a40b1be5ecc7c.otf",
+    "sha256": "2d2a40b1be5ecc7c05ac38cb5ee46a453b1584301156b7766e7b85292d3b31e9",
+    "size": 16370984,
+    "names": [
+      "GenRyuMin2 PJP",
+      "GenRyuMin2 PJP M",
+      "GenRyuMin2PJP-M",
+      "M",
+      "Regular",
+      "源流明朝P",
+      "源流明朝P M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2PJP-otf/GenRyuMin2PJP-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2PJP-R-40b5006671eebb81.otf",
+    "sha256": "40b5006671eebb81ae6212466fb94bff3679e4b57fdc3fbf878de3ad0adf7e7b",
+    "size": 16415868,
+    "names": [
+      "GenRyuMin2 PJP",
+      "GenRyuMin2 PJP R",
+      "GenRyuMin2PJP-R",
+      "R",
+      "Regular",
+      "源流明朝P",
+      "源流明朝P R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2PJP-otf/GenRyuMin2PJP-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2PJP-SB-812bf95684fd3a9d.otf",
+    "sha256": "812bf95684fd3a9d486ff9531c86ab7841a8d31d22046cf2487d45a877486a1c",
+    "size": 16292852,
+    "names": [
+      "GenRyuMin2 PJP",
+      "GenRyuMin2 PJP SB",
+      "GenRyuMin2PJP-SB",
+      "Regular",
+      "SB",
+      "源流明朝P",
+      "源流明朝P SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2PJP-otf/GenRyuMin2PJP-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2TC-EL-922a6958f5512c16.otf",
+    "sha256": "922a6958f5512c16013ced6d13b5b415ec4ebfa3ee6a5ea755434f3ed2da48cf",
+    "size": 16393840,
+    "names": [
+      "EL",
+      "GenRyuMin2 TC",
+      "GenRyuMin2 TC EL",
+      "GenRyuMin2TC-EL",
+      "Regular",
+      "源流明體丹",
+      "源流明體丹 EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2TC-otf/GenRyuMin2TC-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2TC-H-a3364930bc7e8761.otf",
+    "sha256": "a3364930bc7e8761e39a8f72f1712b4c96c5baa3b878a1b9204d5086bd57db70",
+    "size": 16027364,
+    "names": [
+      "GenRyuMin2 TC",
+      "GenRyuMin2 TC H",
+      "GenRyuMin2TC-H",
+      "H",
+      "Regular",
+      "源流明體丹",
+      "源流明體丹 H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2TC-otf/GenRyuMin2TC-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2TC-L-df80b999bb80db9f.otf",
+    "sha256": "df80b999bb80db9f795919ea12327338ecef912579321a1df67959d1e41b560c",
+    "size": 16455044,
+    "names": [
+      "GenRyuMin2 TC",
+      "GenRyuMin2 TC L",
+      "GenRyuMin2TC-L",
+      "L",
+      "Regular",
+      "源流明體丹",
+      "源流明體丹 L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2TC-otf/GenRyuMin2TC-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
