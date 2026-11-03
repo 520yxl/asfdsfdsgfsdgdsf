@@ -1,0 +1,1335 @@
+[
+  {
+    "font": "incoming/SunghyunSans-Bold-eb0124065be5f3b6.ttf",
+    "sha256": "eb0124065be5f3b6432b475a33ff33f795cb301ab0bd54f73c100f8202566e8f",
+    "size": 716760,
+    "names": [
+      "Bold",
+      "Sunghyun Sans",
+      "Sunghyun Sans Bold",
+      "SunghyunSans-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSans-TTF/SunghyunSans-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSans-ExtraBold-8985a3a81447292b.ttf",
+    "sha256": "8985a3a81447292b3b3d5a768084cce8ac046b4054b232dda4b232e94e9e5448",
+    "size": 724636,
+    "names": [
+      "ExtraBold",
+      "Regular",
+      "Sunghyun Sans",
+      "Sunghyun Sans ExtraBold",
+      "SunghyunSans-ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSans-TTF/SunghyunSans-ExtraBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSans-ExtraLight-b4b5dd77689e0b1f.ttf",
+    "sha256": "b4b5dd77689e0b1fbb5e4f4cdda4b5822e59b24869342fb823b144d5121e3b38",
+    "size": 715404,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Sunghyun Sans",
+      "Sunghyun Sans ExtraLight",
+      "SunghyunSans-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSans-TTF/SunghyunSans-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSans-Light-edaf29b8355246b3.ttf",
+    "sha256": "edaf29b8355246b3326ee2c1dd1bcdb184ec4c036543248ed998425d15f9cc3a",
+    "size": 719684,
+    "names": [
+      "Light",
+      "Regular",
+      "Sunghyun Sans",
+      "Sunghyun Sans Light",
+      "SunghyunSans-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSans-TTF/SunghyunSans-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSans-Medium-7381fe20ec99a3ce.ttf",
+    "sha256": "7381fe20ec99a3ce2502c4962c7486dbf59c594b2897a5cad3814cbb0e6c9eff",
+    "size": 705516,
+    "names": [
+      "Medium",
+      "Regular",
+      "Sunghyun Sans",
+      "Sunghyun Sans Medium",
+      "SunghyunSans-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSans-TTF/SunghyunSans-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSans-Regular-92922cd77839eed6.ttf",
+    "sha256": "92922cd77839eed6e87cae3ad24208e4294d4b7fe716f50058274e895f3ce5dc",
+    "size": 707412,
+    "names": [
+      "Regular",
+      "Sunghyun Sans",
+      "Sunghyun Sans Regular",
+      "SunghyunSans-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSans-TTF/SunghyunSans-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSans-SemiBold-c69abd18eaa2dfdf.ttf",
+    "sha256": "c69abd18eaa2dfdf0f103ca0800cf2dc00f9c8dec29a48f8e6836eab4dea0fb1",
+    "size": 705700,
+    "names": [
+      "Regular",
+      "SemiBold",
+      "Sunghyun Sans",
+      "Sunghyun Sans SemiBold",
+      "SunghyunSans-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSans-TTF/SunghyunSans-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSans-Thin-875c3a41dfc35be2.ttf",
+    "sha256": "875c3a41dfc35be25c44dd1ba3c48cc2c4b7f26105b31e7843976531fbc0dd48",
+    "size": 717764,
+    "names": [
+      "Regular",
+      "Sunghyun Sans",
+      "Sunghyun Sans Thin",
+      "SunghyunSans-Thin",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSans-TTF/SunghyunSans-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-Black-1108f20f3f66831b.ttf",
+    "sha256": "1108f20f3f66831bb1a4ad9f067056b7d4d88835bf814353673f80c3dc263b19",
+    "size": 9086828,
+    "names": [
+      "Black",
+      "Regular",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR Black",
+      "SunghyunSansKR-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-Bold-067cfbcef4ae7a5e.ttf",
+    "sha256": "067cfbcef4ae7a5ed1fae63610eeff0d6497ba080e93dc68cf99f82c6d556e98",
+    "size": 9188732,
+    "names": [
+      "Bold",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR Bold",
+      "SunghyunSansKR-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-ExtraBold-01e7438a1b282370.ttf",
+    "sha256": "01e7438a1b282370b4c5d1d18385300e36532cd6028ec5de68ba0b111cfa0b08",
+    "size": 8990684,
+    "names": [
+      "ExtraBold",
+      "Regular",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR ExtraBold",
+      "SunghyunSansKR-ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-ExtraBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-ExtraLight-9263e492d493dc9f.ttf",
+    "sha256": "9263e492d493dc9f4a37e75d5815d38a48ec42d8c15f3b6fc62167fb6f238889",
+    "size": 9055328,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR ExtraLight",
+      "SunghyunSansKR-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-Light-b12d7af111857eb3.ttf",
+    "sha256": "b12d7af111857eb30b13369dbd48d6febcedbc84b82f2be53f90e4ddc48d1ae4",
+    "size": 9048896,
+    "names": [
+      "Light",
+      "Regular",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR Light",
+      "SunghyunSansKR-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-Medium-d0ccf2c07cf271f4.ttf",
+    "sha256": "d0ccf2c07cf271f4a2c21ac0d7c1f6766132e21287a3623ee48b2c12d4ffc0c4",
+    "size": 9309732,
+    "names": [
+      "Medium",
+      "Regular",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR Medium",
+      "SunghyunSansKR-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-Regular-7bf50853860b1693.ttf",
+    "sha256": "7bf50853860b1693d61a991cf97cd0d9ff4ae7e1cd5839b4809432963180cd5d",
+    "size": 8778180,
+    "names": [
+      "Regular",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR Regular",
+      "SunghyunSansKR-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-SemiBold-0466ceee54d7e437.ttf",
+    "sha256": "0466ceee54d7e43706e580cbb354b85d52be9bc59d8f227c85447361cbea4d42",
+    "size": 9335444,
+    "names": [
+      "Regular",
+      "SemiBold",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR SemiBold",
+      "SunghyunSansKR-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKR-Thin-38781f975160f4ea.ttf",
+    "sha256": "38781f975160f4ea1036c1802412cf7b762bb8e7ca496b39e677cef8badde6eb",
+    "size": 9354160,
+    "names": [
+      "Regular",
+      "Sunghyun Sans KR",
+      "Sunghyun Sans KR Thin",
+      "SunghyunSansKR-Thin",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKR-TTF/SunghyunSansKR-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-Black-acb525d23fe3a37a.ttf",
+    "sha256": "acb525d23fe3a37a86451b1516ef433c2d1cbda592061c50c79425f12d06ba6a",
+    "size": 19080812,
+    "names": [
+      "Black",
+      "Regular",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja Black",
+      "SunghyunSansKRHanja-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-Bold-5ae7b72bcfb33c04.ttf",
+    "sha256": "5ae7b72bcfb33c0424f98fbce6461b00c7afade6e1f5fac39b368c5042787dd5",
+    "size": 19399040,
+    "names": [
+      "Bold",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja Bold",
+      "SunghyunSansKRHanja-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-ExtraBold-79d91a5c8ec7f113.ttf",
+    "sha256": "79d91a5c8ec7f1136149b41c3bf3c9a4af50ef83372e21f8531641db783eea48",
+    "size": 19083624,
+    "names": [
+      "ExtraBold",
+      "Regular",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja ExBold",
+      "Sunghyun Sans KR Hanja ExtraBold",
+      "SunghyunSansKRHanja-ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-ExtraBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-ExtraLight-28ed06ad10cba239.ttf",
+    "sha256": "28ed06ad10cba239bdba6926f6b4a8ff657d65650b3e767adcb93776944bafa0",
+    "size": 19655820,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja ExLight",
+      "Sunghyun Sans KR Hanja ExtraLight",
+      "SunghyunSansKRHanja-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-Light-664d49d19daaa67e.ttf",
+    "sha256": "664d49d19daaa67e7a695c7c7b1116c0c7529100ff2e4b96fcb4fd809ffa249a",
+    "size": 19701096,
+    "names": [
+      "Light",
+      "Regular",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja Light",
+      "SunghyunSansKRHanja-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-Medium-7f2f741afb6b0206.ttf",
+    "sha256": "7f2f741afb6b020623bb255000f2a69dc16bc48da579791a033a880e4867d466",
+    "size": 19718444,
+    "names": [
+      "Medium",
+      "Regular",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja Medium",
+      "SunghyunSansKRHanja-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-Regular-1cb6f22d6797baf9.ttf",
+    "sha256": "1cb6f22d6797baf9a98ffced3debddcb3683972aa0c827e266d7807841da4bf7",
+    "size": 19464288,
+    "names": [
+      "Regular",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja Regular",
+      "SunghyunSansKRHanja-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-SemiBold-0219087e1081aff9.ttf",
+    "sha256": "0219087e1081aff99a24b299e5c966fb2fb73824bb2aad0617291e6cc8535ee4",
+    "size": 19606524,
+    "names": [
+      "Regular",
+      "SemiBold",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja SemiBold",
+      "SunghyunSansKRHanja-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansKRHanja-Thin-23068cb5eb2dc655.ttf",
+    "sha256": "23068cb5eb2dc65568795402a94e1634c993a5fd12e2fd29f179ee15b597f953",
+    "size": 19429128,
+    "names": [
+      "Regular",
+      "Sunghyun Sans KR Hanja",
+      "Sunghyun Sans KR Hanja Thin",
+      "SunghyunSansKRHanja-Thin",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansKRHanja-TTF/SunghyunSansKRHanja-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-Black-504d67a00aec6e16.ttf",
+    "sha256": "504d67a00aec6e16adc4dbe68b318e10bb31469c421ff0c25b690b5ef2c4394f",
+    "size": 19091280,
+    "names": [
+      "Black",
+      "Regular",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP Black",
+      "SunghyunSansJP-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-Bold-8a6b6d9c8b2db201.ttf",
+    "sha256": "8a6b6d9c8b2db201d36a00947b87526e0dad5f785fc056a2f088567e7253fc27",
+    "size": 19415540,
+    "names": [
+      "Bold",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP Bold",
+      "SunghyunSansJP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-ExtraBold-46f756687b74aca8.ttf",
+    "sha256": "46f756687b74aca85a289d247d2b6ab708084f08545dc3187d647037afa8ccaf",
+    "size": 19080656,
+    "names": [
+      "ExtraBold",
+      "Regular",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP ExtraBold",
+      "SunghyunSansJP-ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-ExtraBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-ExtraLight-96dd813ad05783cb.ttf",
+    "sha256": "96dd813ad05783cb893d712cba95d8ceeaf6cba5b2f7a450653ff6b41b9185c2",
+    "size": 19673456,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP ExtraLight",
+      "SunghyunSansJP-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-Light-b61756194f977fa4.ttf",
+    "sha256": "b61756194f977fa4a2856c071a7ed11dded6b3c4d85f3653109c0195291a339b",
+    "size": 19700852,
+    "names": [
+      "Light",
+      "Regular",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP Light",
+      "SunghyunSansJP-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-Medium-a8587881a2f68aa4.ttf",
+    "sha256": "a8587881a2f68aa44caefdea33365491accc87e5c6600d68ad2c83dc2c100aec",
+    "size": 19759980,
+    "names": [
+      "Medium",
+      "Regular",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP Medium",
+      "SunghyunSansJP-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-Regular-d8d068bbbe13a54c.ttf",
+    "sha256": "d8d068bbbe13a54c223ce977a4585e16992bcaecf2940b39c3a4f05a1247a56e",
+    "size": 19501676,
+    "names": [
+      "Regular",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP Regular",
+      "SunghyunSansJP-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-SemiBold-4c68c1d8b998f767.ttf",
+    "sha256": "4c68c1d8b998f767b655c35927ee2b8b5aa4ab1ac854ef53b5dab742ee97c966",
+    "size": 19638500,
+    "names": [
+      "Regular",
+      "SemiBold",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP SemiBold",
+      "SunghyunSansJP-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansJP-Thin-31c8cb4aa0df5c56.ttf",
+    "sha256": "31c8cb4aa0df5c56fa3102c5c3752f7f9d7401cfba46e06ec276fa6e6c8f74e9",
+    "size": 19355104,
+    "names": [
+      "Regular",
+      "Sunghyun Sans JP",
+      "Sunghyun Sans JP Thin",
+      "SunghyunSansJP-Thin",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansJP-TTF/fonts/ttf/SunghyunSansJP-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-Black-840cf6d1cc5292e8.ttf",
+    "sha256": "840cf6d1cc5292e87bc6df41f647056441e425dad2eda4b474647268f923b732",
+    "size": 19376468,
+    "names": [
+      "Black",
+      "Regular",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated Black",
+      "SunghyunSansDisambiguated-Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-Bold-779a1d3d50dc0d68.ttf",
+    "sha256": "779a1d3d50dc0d68087d58ab7f2b51035eb69417019548258cd72f4c2bff6e25",
+    "size": 19737940,
+    "names": [
+      "Bold",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated Bold",
+      "SunghyunSansDisambiguated-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-ExtraBold-f2e002ddd99929bb.ttf",
+    "sha256": "f2e002ddd99929bbe72644f85327382e47957392ca6c0a8cd5766f30989e07e1",
+    "size": 19316280,
+    "names": [
+      "ExtraBold",
+      "Regular",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated ExBd",
+      "Sunghyun Sans Disambiguated ExtraBold",
+      "SunghyunSansDisambiguated-ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-ExtraBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-ExtraLight-2f9ba2c966e300e0.ttf",
+    "sha256": "2f9ba2c966e300e0b1299d02cbe503fa87c3bf8c96d270cfcde9e60696997fb4",
+    "size": 20160820,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated ExLight",
+      "Sunghyun Sans Disambiguated ExtraLight",
+      "SunghyunSansDisambiguated-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-Light-c819d595b70d0396.ttf",
+    "sha256": "c819d595b70d039666d2d8818d5d678718d475fe52a9776e73a2c57acfe5df37",
+    "size": 20225768,
+    "names": [
+      "Light",
+      "Regular",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated Light",
+      "SunghyunSansDisambiguated-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-Medium-0bd77789f48cbd7d.ttf",
+    "sha256": "0bd77789f48cbd7d78bc003c6733454c45e5832aa2f85e8773cfa74c73aef257",
+    "size": 20304240,
+    "names": [
+      "Medium",
+      "Regular",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated Medium",
+      "SunghyunSansDisambiguated-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-Regular-e0fd9868b92a01a0.ttf",
+    "sha256": "e0fd9868b92a01a0b2dd3769ce1bd101316eed5084d3f51b55153a88868f072b",
+    "size": 20039576,
+    "names": [
+      "Regular",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated Regular",
+      "SunghyunSansDisambiguated-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-SemiBold-07c47a2af9f2eea9.ttf",
+    "sha256": "07c47a2af9f2eea97a3a9af37171cdc9ddd47dd7f2c6a602b268415b5b791910",
+    "size": 20021736,
+    "names": [
+      "Regular",
+      "SemiBold",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated SemiBold",
+      "Sunghyun Sans Disambiguated SmBd",
+      "SunghyunSansDisambiguated-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/SunghyunSansDisambiguated-Thin-8c08e990e3a65e22.ttf",
+    "sha256": "8c08e990e3a65e22ea235e9245ae429a96ab0d8a1b0fe8d693c4b8826e5f1078",
+    "size": 19938048,
+    "names": [
+      "Regular",
+      "Sunghyun Sans Disambiguated",
+      "Sunghyun Sans Disambiguated Thin",
+      "SunghyunSansDisambiguated-Thin",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Sunghyun Sans_猫啃网/Sunghyun Sans/SunghyunSansDisambiguated-TTF/fonts/ttf/SunghyunSansDisambiguated-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cef07c4d415bee70-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Silver-7a4818ceb52278e6.ttf",
+    "sha256": "7a4818ceb52278e6774ebefc51f6fccebf795ace6f4b1959dabde8b59a38dd16",
+    "size": 3717480,
+    "names": [
+      "Medium",
+      "Silver"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/Silver1.0_猫啃网/Silver1.0/Silver.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NomNaTong-Regular-a2249cd2828c4a8f.otf",
+    "sha256": "a2249cd2828c4a8f8914f500fed3c8b25939e74e2f7068cc0d7a59a6bea9cde2",
+    "size": 9218800,
+    "names": [
+      "Nom Na Tong",
+      "NomNaTong-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/NomNaTong喃那宋5.03_猫啃网/NomNaTong喃那宋5.03/NomNaTong-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/901350a87227aa34-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NomNaTong-Regular-bc002d58f9309ff5.ttf",
+    "sha256": "bc002d58f9309ff5ad463a780a60dc4cb1a8f33f0a4fd0517b8445d3b775092a",
+    "size": 14284680,
+    "names": [
+      "Nom Na Tong",
+      "NomNaTong-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/NomNaTong喃那宋5.03_猫啃网/NomNaTong喃那宋5.03/NomNaTong-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/901350a87227aa34-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NomNaTongLight-3e7ea6bd3e1d415b.ttf",
+    "sha256": "3e7ea6bd3e1d415bb74780250f402eea4750d847d624784506586cdd2b626fe4",
+    "size": 14284596,
+    "names": [
+      "Nom Na Tong",
+      "NomNaTong",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/NomNaTong喃那宋5.03_猫啃网/NomNaTong喃那宋5.03/NomNaTongLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/901350a87227aa34-LICENSE.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/LanaPixel_BitmapOnly-097d89b904f0174a.ttf",
+    "sha256": "097d89b904f0174ab860c27d2dcc57fe7259f7b04aa8c45570e299c5331bd130",
+    "size": 598404,
+    "names": [
+      "LanaPixel",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/LanaPixel像素体001.005_猫啃网/LanaPixel像素体/lanapixel_bitmaponly/LanaPixel_BitmapOnly.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cce358c85083c25f-LanaPixel_CC-BYLicense.txt",
+      "incoming/maoken-20261104/licenses-exact/a240f50c81746cdd-LanaPixel_OpenFontLicense.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/LanaPixel-eb72a7b59a6c9d6e.ttf",
+    "sha256": "eb72a7b59a6c9d6e2ec46968a4c697ac8eb7936aecaa95c8b560309834bf9e62",
+    "size": 3154436,
+    "names": [
+      "LanaPixel",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/LanaPixel像素体001.005_猫啃网/LanaPixel像素体/lanapixel_everything/LanaPixel.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cce358c85083c25f-LanaPixel_CC-BYLicense.txt",
+      "incoming/maoken-20261104/licenses-exact/a240f50c81746cdd-LanaPixel_OpenFontLicense.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/LanaPixel_NoKorean-70c53029dd520aef.ttf",
+    "sha256": "70c53029dd520aef4723878005547131da6c399a90a5df9cfbade75866640648",
+    "size": 1391608,
+    "names": [
+      "LanaPixel",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/LanaPixel像素体001.005_猫啃网/LanaPixel像素体/lanapixel_nokorean/LanaPixel_NoKorean.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/cce358c85083c25f-LanaPixel_CC-BYLicense.txt",
+      "incoming/maoken-20261104/licenses-exact/a240f50c81746cdd-LanaPixel_OpenFontLicense.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPub_Dotum_Pro_Bold-bf7451696b5e657a.otf",
+    "sha256": "bf7451696b5e657a609c6f284c3052cd97c0b2ede6632bd8831e0f29b33157bd",
+    "size": 2123484,
+    "names": [
+      "Bold",
+      "KoPubDotumPB",
+      "KoPubDotum_Pro",
+      "KoPubDotum_Pro Bold",
+      "KoPub돋움체_Pro",
+      "KoPub돋움체_Pro Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub黑体_猫啃网/KoPub黑体/KoPub2.0/KoPub Dotum_Pro Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPub_Dotum_Pro_Light-ce18a841b49a1e01.otf",
+    "sha256": "ce18a841b49a1e01e17e94fa1947f5ce4b72ebc4bc56beb12c13218e9a1a2c28",
+    "size": 2120316,
+    "names": [
+      "KoPubDotumPL",
+      "KoPubDotum_Pro",
+      "KoPubDotum_Pro Light",
+      "KoPub돋움체_Pro",
+      "KoPub돋움체_Pro Light",
+      "Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub黑体_猫啃网/KoPub黑体/KoPub2.0/KoPub Dotum_Pro Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPub_Dotum_Pro_Medium-6d328d5774736596.otf",
+    "sha256": "6d328d57747365966f07e30e93bb6f9ab6e87fef377ac3420ca118b22b2c0d62",
+    "size": 2144616,
+    "names": [
+      "KoPubDotumPM",
+      "KoPubDotum_Pro",
+      "KoPubDotum_Pro Medium",
+      "KoPub돋움체_Pro",
+      "KoPub돋움체_Pro Medium",
+      "Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub黑体_猫啃网/KoPub黑体/KoPub2.0/KoPub Dotum_Pro Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPubWorld_Dotum_Pro_Bold-650f21fd744674be.otf",
+    "sha256": "650f21fd744674be266f7a40095fc8838a2c2fef05a3f4634362c022d2f81216",
+    "size": 3626892,
+    "names": [
+      "Bold",
+      "KoPubWorldDotumPB",
+      "KoPubWorldDotum_Pro",
+      "KoPubWorldDotum_Pro Bold",
+      "KoPubWorld돋움체_Pro",
+      "KoPubWorld돋움체_Pro Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub黑体_猫啃网/KoPub黑体/KoPubWorld/KoPubWorld Dotum_Pro Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPubWorld_Dotum_Pro_Light-529b2f02b96276d9.otf",
+    "sha256": "529b2f02b96276d9209124a72181fcd7bfc656a567718670d0c3934f6c11adea",
+    "size": 3469160,
+    "names": [
+      "KoPubWorldDotumPL",
+      "KoPubWorldDotum_Pro",
+      "KoPubWorldDotum_Pro Light",
+      "KoPubWorld돋움체_Pro",
+      "KoPubWorld돋움체_Pro Light",
+      "Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub黑体_猫啃网/KoPub黑体/KoPubWorld/KoPubWorld Dotum_Pro Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPubWorld_Dotum_Pro_Medium-073a3426827351e3.otf",
+    "sha256": "073a3426827351e393ba290a59a072aecd830a5daf2e9692828ca20f3d5ff4a0",
+    "size": 3646336,
+    "names": [
+      "KoPubWorldDotumPM",
+      "KoPubWorldDotum_Pro",
+      "KoPubWorldDotum_Pro Medium",
+      "KoPubWorld돋움체_Pro",
+      "KoPubWorld돋움체_Pro Medium",
+      "Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub黑体_猫啃网/KoPub黑体/KoPubWorld/KoPubWorld Dotum_Pro Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPub_Batang_Pro_Bold-4702b19eb654543d.otf",
+    "sha256": "4702b19eb654543dc9eae8ffc0e7b08bf64af1950c77bdef8c737b10e9abb9f4",
+    "size": 4609140,
+    "names": [
+      "Bold",
+      "KoPubBatangPB",
+      "KoPubBatang_Pro",
+      "KoPubBatang_Pro Bold",
+      "KoPub바탕체_Pro",
+      "KoPub바탕체_Pro Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub宋体_猫啃网/KoPub宋体/KoPub2.0/KoPub Batang_Pro Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPub_Batang_Pro_Light-dfe6c1e7d1d8ddb8.otf",
+    "sha256": "dfe6c1e7d1d8ddb88d92508316ebd7c70173014fc9637bf46e2e88fdeab65493",
+    "size": 5740004,
+    "names": [
+      "KoPubBatangPL",
+      "KoPubBatang_Pro",
+      "KoPubBatang_Pro Light",
+      "KoPub바탕체_Pro",
+      "KoPub바탕체_Pro Light",
+      "Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub宋体_猫啃网/KoPub宋体/KoPub2.0/KoPub Batang_Pro Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPub_Batang_Pro_Medium-32ae579064528dcc.otf",
+    "sha256": "32ae579064528dcc9d982bc2286defdd292ffe4c3a6e510ac691b326c3262e5b",
+    "size": 4488448,
+    "names": [
+      "KoPubBatangPM",
+      "KoPubBatang_Pro",
+      "KoPubBatang_Pro Medium",
+      "KoPub바탕체_Pro",
+      "KoPub바탕체_Pro Medium",
+      "Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub宋体_猫啃网/KoPub宋体/KoPub2.0/KoPub Batang_Pro Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPubWorld_Batang_Pro_Bold-e7b2e5ab08d0d39b.otf",
+    "sha256": "e7b2e5ab08d0d39b5a09417a1970fd8e0d7fd5464821339accd40aa61583b4dd",
+    "size": 8037300,
+    "names": [
+      "Bold",
+      "KoPubWorldBatangPB",
+      "KoPubWorldBatang_Pro",
+      "KoPubWorldBatang_Pro Bold",
+      "KoPubWorld바탕체_Pro",
+      "KoPubWorld바탕체_Pro Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub宋体_猫啃网/KoPub宋体/KoPubWorld/KoPubWorld Batang_Pro Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPubWorld_Batang_Pro_Light-895fdc6de0ff0fe2.otf",
+    "sha256": "895fdc6de0ff0fe24b1a63ae16601c174c810b24daa23ade78115b7e134c4c0a",
+    "size": 7780312,
+    "names": [
+      "KoPubWorldBatangPL",
+      "KoPubWorldBatang_Pro",
+      "KoPubWorldBatang_Pro Light",
+      "KoPubWorld바탕체_Pro",
+      "KoPubWorld바탕체_Pro Light",
+      "Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub宋体_猫啃网/KoPub宋体/KoPubWorld/KoPubWorld Batang_Pro Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KoPubWorld_Batang_Pro_Medium-2d385ffbb351f41c.otf",
+    "sha256": "2d385ffbb351f41cbe82d981a0bc10315e01f4e113424a0ed1b7291a801479bb",
+    "size": 8132776,
+    "names": [
+      "KoPubWorldBatangPM",
+      "KoPubWorldBatang_Pro",
+      "KoPubWorldBatang_Pro Medium",
+      "KoPubWorld바탕체_Pro",
+      "KoPubWorld바탕체_Pro Medium",
+      "Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KoPub宋体_猫啃网/KoPub宋体/KoPubWorld/KoPubWorld Batang_Pro Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/8983879562c14348-License.pdf",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KBIZgo_B-b7953bf6dfc488fc.otf",
+    "sha256": "b7953bf6dfc488fc82c67a1e3e8bc023f5c191f1e4e503f35faf14a51a3778f7",
+    "size": 2566120,
+    "names": [
+      "KBIZforSMEsgo B",
+      "KBIZforSMEsgo_B",
+      "KBIZ한마음고딕 B",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/KBIZ黑体_猫啃网/KBIZgo R/KBIZgo B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
