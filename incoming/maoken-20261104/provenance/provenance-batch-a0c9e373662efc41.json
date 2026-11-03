@@ -1,0 +1,549 @@
+[
+  {
+    "font": "incoming/NotoSerifCJKtc-VF-9e63b78b1ece8091.ttf",
+    "sha256": "9e63b78b1ece809121ff29eb880c55e196294ded9d54c0ec4ece9e4fb4daf728",
+    "size": 59898532,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK TC",
+      "NotoSerifCJKtc-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable TTFOTC/Variable/TTF/NotoSerifCJKtc-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifHK-VF-b25df2590ad51448.ttf",
+    "sha256": "b25df2590ad514487eecd1244ce724d32907b533ed00e50cfc80d9e172b2bd97",
+    "size": 16828352,
+    "names": [
+      "ExtraLight",
+      "Noto Serif HK",
+      "NotoSerifHK-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable TTFOTC/Variable/TTF/Subset/NotoSerifHK-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifJP-VF-99999f906b3793c7.ttf",
+    "sha256": "99999f906b3793c7c97661a05ef9d53488d488604683b308c756d084b71df7d1",
+    "size": 13574104,
+    "names": [
+      "ExtraLight",
+      "Noto Serif JP",
+      "NotoSerifJP-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable TTFOTC/Variable/TTF/Subset/NotoSerifJP-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifKR-VF-4c6da64568466ab2.ttf",
+    "sha256": "4c6da64568466ab21d7dabe2338696aee6a5e0314d411e34b8410767e569e12d",
+    "size": 23795168,
+    "names": [
+      "ExtraLight",
+      "Noto Serif KR",
+      "NotoSerifKR-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable TTFOTC/Variable/TTF/Subset/NotoSerifKR-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifSC-VF-5326cfb097e3ab26.ttf",
+    "sha256": "5326cfb097e3ab26fcb39329752b5c0a439bf8d5c4649520e4b492939c352a09",
+    "size": 25125232,
+    "names": [
+      "ExtraLight",
+      "Noto Serif SC",
+      "NotoSerifSC-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable TTFOTC/Variable/TTF/Subset/NotoSerifSC-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifTC-VF-c2f466b741797d91.ttf",
+    "sha256": "c2f466b741797d917aff27089f1c2eba2fe42c46ca410e2dbd39a8e95d0e5e3a",
+    "size": 16851308,
+    "names": [
+      "ExtraLight",
+      "Noto Serif TC",
+      "NotoSerifTC-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable TTFOTC/Variable/TTF/Subset/NotoSerifTC-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKhk-VF-43b50219efce0651.otf",
+    "sha256": "43b50219efce065185d7e854f7f44a65666bc49566c61b6e2801355057869abd",
+    "size": 55370472,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK HK",
+      "NotoSerifCJKhk-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/NotoSerifCJKhk-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKjp-VF-2c13a0a124dfefcb.otf",
+    "sha256": "2c13a0a124dfefcb02f93c30fa0d593aff473261bcffbc0f67d6c723a5e0a739",
+    "size": 55409748,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK JP",
+      "NotoSerifCJKjp-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/NotoSerifCJKjp-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKkr-VF-3dbebb8d3cc7c949.otf",
+    "sha256": "3dbebb8d3cc7c949ad4488b11b5ffe61524958e3fe9a23d5b0f57be21513e306",
+    "size": 55376392,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK KR",
+      "NotoSerifCJKkr-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/NotoSerifCJKkr-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKsc-VF-eff651e003e5b6a9.otf",
+    "sha256": "eff651e003e5b6a9cb40412db7e6618ebb709d4aca6d03f9d150984660860b5d",
+    "size": 55379832,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK SC",
+      "NotoSerifCJKsc-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/NotoSerifCJKsc-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKtc-VF-0ccffda602a3ea48.otf",
+    "sha256": "0ccffda602a3ea48057e7332a931e3d5505b0bafb1798d32e00b16d8d7508913",
+    "size": 55378668,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK TC",
+      "NotoSerifCJKtc-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/NotoSerifCJKtc-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifHK-VF-fa40e983d5004e88.otf",
+    "sha256": "fa40e983d5004e88e08f5beee4177c8edbc72fe21f0f0c999fec3effd3ddccbf",
+    "size": 15147716,
+    "names": [
+      "ExtraLight",
+      "Noto Serif HK",
+      "NotoSerifHK-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/Subset/NotoSerifHK-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifJP-VF-39701fd096bc5120.otf",
+    "sha256": "39701fd096bc51204a8444c6c2659f007b29674a13eb62ddfa470638fe8179cd",
+    "size": 11951236,
+    "names": [
+      "ExtraLight",
+      "Noto Serif JP",
+      "NotoSerifJP-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/Subset/NotoSerifJP-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifKR-VF-0cee38f8fd687c54.otf",
+    "sha256": "0cee38f8fd687c5410089c963492ef39f9b5a64e2b11b85ce4e86105d75e0695",
+    "size": 22596916,
+    "names": [
+      "ExtraLight",
+      "Noto Serif KR",
+      "NotoSerifKR-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/Subset/NotoSerifKR-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifSC-VF-71b4d3ded2d90ff4.otf",
+    "sha256": "71b4d3ded2d90ff43bb75a4e48cdbe170f0b8d5486dc89ff87f2a1728b56da64",
+    "size": 22613272,
+    "names": [
+      "ExtraLight",
+      "Noto Serif SC",
+      "NotoSerifSC-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/Subset/NotoSerifSC-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifTC-VF-20a6ab96b13b433e.otf",
+    "sha256": "20a6ab96b13b433e87019ad0cdf72aa522c0db5d3138acab00d076ccf18e63ef",
+    "size": 15176100,
+    "names": [
+      "ExtraLight",
+      "Noto Serif TC",
+      "NotoSerifTC-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Variable OTFOTC/Variable/OTF/Subset/NotoSerifTC-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKjp-Black-7a8c8b6dd729eddc.otf",
+    "sha256": "7a8c8b6dd729eddc63b021284d1eb4ada9974c84609c5eb4b23f9591795e8e76",
+    "size": 24093784,
+    "names": [
+      "Black",
+      "Noto Serif CJK JP",
+      "Noto Serif CJK JP Black",
+      "NotoSerifCJKjp-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Japanese/NotoSerifCJKjp-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKjp-Bold-861a2b2c0e24b237.otf",
+    "sha256": "861a2b2c0e24b23745c262be8c3fdef63f12628f0492fb120ee51aa55c503af8",
+    "size": 25552244,
+    "names": [
+      "Bold",
+      "Noto Serif CJK JP",
+      "Noto Serif CJK JP Bold",
+      "NotoSerifCJKjp-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Japanese/NotoSerifCJKjp-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKjp-ExtraLight-0d04c8b4903f830d.otf",
+    "sha256": "0d04c8b4903f830dac91f67fb34ed6cdb34bfde8ebd3b238375f977190757446",
+    "size": 21436856,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK JP",
+      "Noto Serif CJK JP ExtraLight",
+      "NotoSerifCJKjp-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Japanese/NotoSerifCJKjp-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKjp-Light-a282724dfa90f37b.otf",
+    "sha256": "a282724dfa90f37ba6f7b2c88d2c946294c3a1578385942c0dcd27f1d2cc8260",
+    "size": 24531812,
+    "names": [
+      "Light",
+      "Noto Serif CJK JP",
+      "Noto Serif CJK JP Light",
+      "NotoSerifCJKjp-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Japanese/NotoSerifCJKjp-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKjp-Medium-362c6a30210c0607.otf",
+    "sha256": "362c6a30210c0607288b4bca98e20b8f01998e2779585899737503bcad779478",
+    "size": 24836092,
+    "names": [
+      "Medium",
+      "Noto Serif CJK JP",
+      "Noto Serif CJK JP Medium",
+      "NotoSerifCJKjp-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Japanese/NotoSerifCJKjp-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKjp-Regular-d9854c7a8ef170b5.otf",
+    "sha256": "d9854c7a8ef170b5a7932558856fd64eb8de0b007cd823fed6f9f514ad2803d3",
+    "size": 24573864,
+    "names": [
+      "Noto Serif CJK JP",
+      "NotoSerifCJKjp-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Japanese/NotoSerifCJKjp-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKjp-SemiBold-14618550f2b4c169.otf",
+    "sha256": "14618550f2b4c1696b82c1a7bb7735102195bdbe00bad0b0f0aa8e6c8d8e020c",
+    "size": 24731040,
+    "names": [
+      "Noto Serif CJK JP",
+      "Noto Serif CJK JP SemiBold",
+      "NotoSerifCJKjp-SemiBold",
+      "Regular",
+      "SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Japanese/NotoSerifCJKjp-SemiBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKkr-Black-b818be36894c02e7.otf",
+    "sha256": "b818be36894c02e75a6d094418498a52c3c6320783c7a5e82c1aa2c421794a91",
+    "size": 24059560,
+    "names": [
+      "Black",
+      "Noto Serif CJK KR",
+      "Noto Serif CJK KR Black",
+      "NotoSerifCJKkr-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Korean/NotoSerifCJKkr-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKkr-Bold-10cc03741178ad6d.otf",
+    "sha256": "10cc03741178ad6d2747df8497d911e34b167d0474a826fb9d866c402cbe3d8f",
+    "size": 25518020,
+    "names": [
+      "Bold",
+      "Noto Serif CJK KR",
+      "Noto Serif CJK KR Bold",
+      "NotoSerifCJKkr-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Korean/NotoSerifCJKkr-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKkr-ExtraLight-6dc9bb8a55eecaee.otf",
+    "sha256": "6dc9bb8a55eecaee08434fd97330523766979fb654005b27112cc35f5306ee68",
+    "size": 21402632,
+    "names": [
+      "ExtraLight",
+      "Noto Serif CJK KR",
+      "Noto Serif CJK KR ExtraLight",
+      "NotoSerifCJKkr-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Korean/NotoSerifCJKkr-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSerifCJKkr-Light-addde644501b8adf.otf",
+    "sha256": "addde644501b8adfdceed026dc2d629c3460c2e213aba7eca9c301075dba9438",
+    "size": 24497588,
+    "names": [
+      "Light",
+      "Noto Serif CJK KR",
+      "Noto Serif CJK KR Light",
+      "NotoSerifCJKkr-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源宋体(谷歌完整版2.003)_猫啃网/思源宋体(谷歌完整版2.003)/2.003NotoSerifCJK-All Static Language Specific OTFs/OTF/Korean/NotoSerifCJKkr-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
