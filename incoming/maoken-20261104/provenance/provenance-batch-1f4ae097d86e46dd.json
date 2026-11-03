@@ -1,0 +1,791 @@
+[
+  {
+    "font": "incoming/vivoSans-Light-ede439720c726051.ttf",
+    "sha256": "ede439720c726051e505f2ea2f6a44afe67d1ad99c90694b1e2dd82b0fc4e7bc",
+    "size": 7796588,
+    "names": [
+      "Light",
+      "Regular",
+      "vivo Sans",
+      "vivo Sans Light",
+      "vivoSans-Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/vivo Sans_猫啃网/vivo Sans/vivo Sans简体正式版/vivoSans-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3589289a7f073e6e-vivo_Sans__________.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/vivoSans-Medium-66b7d15d289856fd.ttf",
+    "sha256": "66b7d15d289856fd95153035a24543b7ada7abc0cd5e77f33babd5610f5cc53f",
+    "size": 7776188,
+    "names": [
+      "Medium",
+      "Regular",
+      "vivo Sans",
+      "vivo Sans Medium",
+      "vivoSans-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/vivo Sans_猫啃网/vivo Sans/vivo Sans简体正式版/vivoSans-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3589289a7f073e6e-vivo_Sans__________.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/vivoSans-Regular-e18a429e049616b6.ttf",
+    "sha256": "e18a429e049616b6fb53f5ad3117afd21d17bb84612bd7812a8a5a2af0c8b725",
+    "size": 7786748,
+    "names": [
+      "Regular",
+      "vivo Sans",
+      "vivoSans-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/vivo Sans_猫啃网/vivo Sans/vivo Sans简体正式版/vivoSans-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3589289a7f073e6e-vivo_Sans__________.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/vivoSans-Thin-c68ca84ea7c4f82a.ttf",
+    "sha256": "c68ca84ea7c4f82aec84b79d78a66eba3793e10583b6fa9d8354372b7b63203c",
+    "size": 7841436,
+    "names": [
+      "Regular",
+      "Thin",
+      "vivo Sans",
+      "vivo Sans Thin",
+      "vivoSans-Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/vivo Sans_猫啃网/vivo Sans/vivo Sans简体正式版/vivoSans-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3589289a7f073e6e-vivo_Sans__________.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/TRWUDMincho-Regular-8586170e42a22ed4.ttf",
+    "sha256": "8586170e42a22ed4270c628d4be8770a62eca9f7313ffc3764f49a2f1668df87",
+    "size": 6675564,
+    "names": [
+      "Regular",
+      "TRW UDMincho",
+      "TRW UD明朝",
+      "TRWUDMincho-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/TRW UD 明朝1.070_猫啃网/TRW UD 明朝1.001/TRWUDMincho-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/0fac78a235c98d64-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/PF______PFanHuTuTi_0.680-b4c40d1e9261af60.ttf",
+    "sha256": "b4c40d1e9261af609eaa7e2d6b4c7203ed69fc6707ca6e4f5b26c161e89d7db4",
+    "size": 10544736,
+    "names": [
+      "PFanHuTuTi",
+      "PFanHuTuTi Regular",
+      "PFanHuTuTi-Regular",
+      "PF频凡胡涂体",
+      "PF频凡胡涂体 Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/PF频凡胡涂体0.680_猫啃网/PF频凡胡涂体0.680/PF频凡胡涂体 PFanHuTuTi 0.680.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/92ce9cb7e9ac4198-PF_________.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/OPPOSans20-Bold-751637e8bf6b915d.ttf",
+    "sha256": "751637e8bf6b915d0cc2ffed1fb105b92630a191f2a1fd1f5ad36ec1db22b644",
+    "size": 9942552,
+    "names": [
+      "Bold",
+      "OPPOSans 2.0",
+      "OPPOSans 2.0 Bold",
+      "OPPOSans20-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/OPPO Sans2.00_猫啃网/OPPO Sans2.00/OPPOSans20/OPPOSans20-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/OPPOSans20-ExtraLight-540b3e3d5e876158.ttf",
+    "sha256": "540b3e3d5e87615877957f753f4f95dd24e77e799b87d9e417e4d5f4ce0d6bcd",
+    "size": 10241076,
+    "names": [
+      "ExtraLight",
+      "OPPOSans 2.0",
+      "OPPOSans 2.0 ExtLt",
+      "OPPOSans 2.0 ExtraLight",
+      "OPPOSans20-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/OPPO Sans2.00_猫啃网/OPPO Sans2.00/OPPOSans20/OPPOSans20-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/OPPOSans20-Light-bcd7196e8e6cb099.ttf",
+    "sha256": "bcd7196e8e6cb09915d15b7879259ed4e302d772fa28ae7281ed4bc725154315",
+    "size": 10166828,
+    "names": [
+      "Light",
+      "OPPOSans 2.0",
+      "OPPOSans 2.0 Light",
+      "OPPOSans20-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/OPPO Sans2.00_猫啃网/OPPO Sans2.00/OPPOSans20/OPPOSans20-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/OPPOSans20-Medium-dd3ea57979075fba.ttf",
+    "sha256": "dd3ea57979075fbad1ea9c175ca369e3fbeec94cd41b04dc59e897d02b3adb91",
+    "size": 10029804,
+    "names": [
+      "Medium",
+      "OPPOSans 2.0",
+      "OPPOSans 2.0 Med",
+      "OPPOSans 2.0 Medium",
+      "OPPOSans20-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/OPPO Sans2.00_猫啃网/OPPO Sans2.00/OPPOSans20/OPPOSans20-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/OPPOSans20-Regular-2eab2a51b4a80613.ttf",
+    "sha256": "2eab2a51b4a806138b828cf58067783deab08e9fc548a88bb080b858b4f67be2",
+    "size": 10104592,
+    "names": [
+      "OPPOSans 2.0",
+      "OPPOSans 2.0 Regular",
+      "OPPOSans20-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/OPPO Sans2.00_猫啃网/OPPO Sans2.00/OPPOSans20/OPPOSans20-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/OPPOSans4.0-VF-87058feef9b1b2bd.ttf",
+    "sha256": "87058feef9b1b2bda91f8ca8b5b30072ded9449edd1bfd1b0188a2e98ada1619",
+    "size": 4923396,
+    "names": [
+      "OPPO Sans 4.0",
+      "OPPOSans40",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/OPPO Sans 4.0_猫啃网/OPPOsans4.0/OPPOSans4.0-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b013f80fa2fa6f6d-OPPO_Sans_4.0_License_Notice.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-77a38b636098880b.ttf",
+    "sha256": "77a38b636098880bc1b820b5e2c52e58370abd19c06a94f6ece756317ab54d7a",
+    "size": 2871980,
+    "names": [
+      "Regular",
+      "mplus_hzk_12"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/mplus_hzk中文像素字体_猫啃网/mplus_hzk中文像素字体/中文像素字体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Bold-250fb5c8d4657f10.ttf",
+    "sha256": "250fb5c8d4657f103e332b0b948a995e45f2c159beb8d0528424e2d32ae421be",
+    "size": 7804780,
+    "names": [
+      "Bold",
+      "MiSans",
+      "MiSans Bold",
+      "MiSans-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Demibold-402d3ded24120a65.ttf",
+    "sha256": "402d3ded24120a657916ab0c0253dfe1a2a21c8b4a6cb59be992c8a3288dcae4",
+    "size": 7846136,
+    "names": [
+      "Demibold",
+      "MiSans",
+      "MiSans Demibold",
+      "MiSans-Demibold",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Demibold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-ExtraLight-94108947e487d361.ttf",
+    "sha256": "94108947e487d361ecf00a1fcdf73efedae02b7015f79e1fbd0918589156a398",
+    "size": 8024904,
+    "names": [
+      "ExtraLight",
+      "MiSans",
+      "MiSans ExtraLight",
+      "MiSans-ExtraLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Heavy-b739206dff2673c5.ttf",
+    "sha256": "b739206dff2673c5d7d401cc847e0fc86d840e0f1be77c84503c069bc9fdad86",
+    "size": 7785296,
+    "names": [
+      "Heavy",
+      "MiSans",
+      "MiSans Heavy",
+      "MiSans-Heavy",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Light-4e6d58f0b53457d0.ttf",
+    "sha256": "4e6d58f0b53457d05c2fc3d49d98cff449262628bf59ab24cf74baa3493ec3fc",
+    "size": 7977480,
+    "names": [
+      "Light",
+      "MiSans",
+      "MiSans Light",
+      "MiSans-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Medium-93528275ee67039c.ttf",
+    "sha256": "93528275ee67039c1daeb2ef700625bcf72abab2d3f97e1b6afae6273b579fc1",
+    "size": 7876052,
+    "names": [
+      "Medium",
+      "MiSans",
+      "MiSans Medium",
+      "MiSans-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Normal-fe0adb56147299e5.ttf",
+    "sha256": "fe0adb56147299e53d5b208a561d6ca7fe4ce5c727a5ead38ad9827b26024f3a",
+    "size": 7943504,
+    "names": [
+      "MiSans",
+      "MiSans Normal",
+      "MiSans-Normal",
+      "Normal",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Normal.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Regular-7172aa1b5c703780.ttf",
+    "sha256": "7172aa1b5c703780ee12df3fe4c50481dde01f3b125a045a398000a88d032ae5",
+    "size": 7924400,
+    "names": [
+      "MiSans",
+      "MiSans Regular",
+      "MiSans-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Semibold-7143f0160b52fa63.ttf",
+    "sha256": "7143f0160b52fa639c464f8dc904f01e1c1d28a6c514dd8d1fb99fcf28886258",
+    "size": 7824000,
+    "names": [
+      "MiSans",
+      "MiSans Semibold",
+      "MiSans-Semibold",
+      "Regular",
+      "Semibold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Semibold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MiSans-Thin-07147c4b98931f9e.ttf",
+    "sha256": "07147c4b98931f9e3a4b2dd8649f0cc7691a822b67572eba99b3ca5c1e3efa73",
+    "size": 8058540,
+    "names": [
+      "MiSans",
+      "MiSans Thin",
+      "MiSans-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/MiSans2.000_猫啃网/MiSans2.000/MiSans-Thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/M_200630-767deea4794438ae.otf",
+    "sha256": "767deea4794438aedb300ad00c543a3b46c25ac42bb891022be244eb1029868a",
+    "size": 2849504,
+    "names": [
+      "Light",
+      "M+ CHS 1p2p NJC Light",
+      "M+CHS1p2pNJCLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/M+ CHS 1p2p NJC_猫啃网/M+ CHS 1p2p NJC/OTF/M+200630.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/fcbe61c6e10dbda0-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/M_b201026-67ad4b48b2f0946b.otf",
+    "sha256": "67ad4b48b2f0946bb46900e18d70e85f3462909e12c0846a8d21980047dd782a",
+    "size": 4748672,
+    "names": [
+      "Bold",
+      "M+ CHS 1p2p NJC",
+      "M+ CHS 1p2p NJC Bold",
+      "M+CHS1p2pNJCBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/M+ CHS 1p2p NJC_猫啃网/M+ CHS 1p2p NJC/OTF/M+b201026.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/fcbe61c6e10dbda0-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/M_reg200630-83932fa28368a5d8.otf",
+    "sha256": "83932fa28368a5d810d4b807be0db191830155285e02b671d4e9dfb35acf8362",
+    "size": 2861996,
+    "names": [
+      "M+ CHS 1p2p NJC",
+      "M+CHS1p2pNJC",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/M+ CHS 1p2p NJC_猫啃网/M+ CHS 1p2p NJC/OTF/M+reg200630.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/fcbe61c6e10dbda0-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Leefont-655e659f296f90aa.ttf",
+    "sha256": "655e659f296f90aa814f968a735688b11f8c1709a2bbadd102f80f81bae3a51d",
+    "size": 4820272,
+    "names": [
+      "LEEFONTMENGHEI",
+      "LeeFont蒙黑体",
+      "LeeFont蒙黑体 Regular",
+      "Regular",
+      "leefontmenghei"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/LeeFont蒙黑体_猫啃网/LeeFont蒙黑体/Leefont蒙黑体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/EMPOSANS1_wght-91e5a9a6a6314d75.ttf",
+    "sha256": "91e5a9a6a6314d750aa140d7aed58aed798dd4dc17d79e9cc7ce265e48fea4f0",
+    "size": 8695096,
+    "names": [
+      "Empo Sans 1",
+      "Empo Sans 1 Thin",
+      "EmpoSans1-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/Empo Sans 3.1_猫啃网/Empo Sans 3.1/fonts/ttf/EMPOSANS1[wght].ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/598574da368bbb5c-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/EMPOSANS2_wght-8c2d102e428b8e4c.ttf",
+    "sha256": "8c2d102e428b8e4c0dd210ea6fdbf1dff18b3ddcfd60e29c6be20ed4844288e4",
+    "size": 8699784,
+    "names": [
+      "Empo Sans 2",
+      "Empo Sans 2 Thin",
+      "EmpoSans2-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/Empo Sans 3.1_猫啃网/Empo Sans 3.1/fonts/ttf/EMPOSANS2[wght].ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/598574da368bbb5c-OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Code2003-33ee9d79861e1154.ttf",
+    "sha256": "33ee9d79861e115402c6c68bddb6a2867e3e8c29252bfdab1d2ceafbfddcee8f",
+    "size": 23943188,
+    "names": [
+      "Arrunta",
+      "Code2003",
+      "Navadno",
+      "Normaali",
+      "Normal",
+      "Normalan",
+      "Normale",
+      "Normalny",
+      "Normál",
+      "Normálne",
+      "Regular",
+      "Standaard",
+      "Standard",
+      "normal",
+      "obyčejné",
+      "thường",
+      "Κανονικά",
+      "Обычный"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/Code2003_猫啃网/Code2003/Code2003.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AI-1ef0c9fe2686690b.ttf",
+    "sha256": "1ef0c9fe2686690b6cc8afa0d218dbb9228f131b72fc21f1916f67a07c6b949b",
+    "size": 4959636,
+    "names": [
+      "AIshenbisuchaoti",
+      "AI神笔苏超体",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/AI神笔苏超体_猫啃网/AI神笔苏超体/AI神笔苏超体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/712e5398534136ec-____.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AI-10a88a56853469d1.ttf",
+    "sha256": "10a88a56853469d1ab78a5e54f4142e3661721a932fb63f5266c0282200ab65c",
+    "size": 9016648,
+    "names": [
+      "AI",
+      "AIaoyunziti",
+      "AI奥运字体",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/AI奥运字体_猫啃网/AI奥运字体/AI奥运字体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Acy-Bold-55ff0b1a98b02321.otf",
+    "sha256": "55ff0b1a98b02321334891de3711041287231087da5e05860126aae65433f7ee",
+    "size": 47514064,
+    "names": [
+      "Acy",
+      "Acy Bold",
+      "Acy-Bold",
+      "Bold",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/Acy手写体1.6_猫啃网/Acy手写体/Acy-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Acy-Medium-7c3b9d8fb75f0951.otf",
+    "sha256": "7c3b9d8fb75f0951df0a15f15693bf0e996d33ab38d70601daee3b96597b2242",
+    "size": 49866896,
+    "names": [
+      "Acy",
+      "Acy Medium",
+      "Acy-Medium",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/Acy手写体1.6_猫啃网/Acy手写体/Acy-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Acy-Regular-d87306542d56e585.otf",
+    "sha256": "d87306542d56e585f78b90d55f55049409ab2d14b9e988a366014983bcdf97bb",
+    "size": 47426188,
+    "names": [
+      "Acy",
+      "Acy Regular",
+      "Acy-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/Acy手写体1.6_猫啃网/Acy手写体/Acy-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Aa-86a94029e7eb01d6.ttf",
+    "sha256": "86a94029e7eb01d655ef856331697a0ff208d99ca67efe4bfab1c2f9ee63f51c",
+    "size": 1825116,
+    "names": [
+      "AaHouDiHei",
+      "Aa厚底黑",
+      "Regular",
+      "常规"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/Aa厚底黑1.00_猫啃网/Aa厚底黑1.00/Aa厚底黑.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/deee4f0092c90e73-Aa__________.PDF",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/851LakeusNightWriting-Regular-73cf4b062e3af371.ttf",
+    "sha256": "73cf4b062e3af3711b3b33d230401e215ec6ace00498d8dc645e80f69f000ba9",
+    "size": 28880528,
+    "names": [
+      "851LakeusNightWriting",
+      "851远星夜行手写体",
+      "851远星夜行手写体 ",
+      "851遠星夜行手寫體",
+      "851遠星夜行手寫體 ",
+      "851遠星夜行手書体",
+      "851遠星夜行手書体 Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/851远星夜行手写体0.902_猫啃网/851远星夜行手写体0.902/851LakeusNightWriting-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/851_GBai-e7c1061dc95aee27.ttf",
+    "sha256": "e7c1061dc95aee274bb7982fb0235b79cd3ebc747f96867c499773d60b36ed0b",
+    "size": 10816200,
+    "names": [
+      "851 GBai Marker",
+      "851 GBai Marker Regular",
+      "851 GBai 记号笔",
+      "851 GBai 记号笔 Regular",
+      "851GBaiMarker-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/851 GBai 马克笔体_猫啃网/851 GBai 马克笔体/851 GBai 马克笔体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/x12y16MyMaruMonica-2026-3-3-79aa8184c13f1ea3.ttf",
+    "sha256": "79aa8184c13f1ea32a8be58950af23ac5011d9ff09930ec1da8f9deaecdd90f8",
+    "size": 2197628,
+    "names": [
+      "12×16莫妮卡圆像素",
+      "2026",
+      "x12y16MyMaruMonica",
+      "x12y16px莫妮卡圆像素"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/12×16莫妮卡圆像素2026-3-3_猫啃网/12×16莫妮卡圆像素2026-3-3/x12y16MyMaruMonica-2026-3-3.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/c65c7e65dc515460-x12y16MyMaruMonica_Readme2611.txt",
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
