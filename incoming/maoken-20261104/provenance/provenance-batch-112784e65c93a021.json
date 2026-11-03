@@ -1,0 +1,1307 @@
+[
+  {
+    "font": "incoming/font-0519a7964b6c6ba0.ttf",
+    "sha256": "0519a7964b6c6ba00a659eb1daf3d276219eaa09b550a19450b75cd3a47cb31f",
+    "size": 4487612,
+    "names": [
+      "Regular",
+      "masonhandwriting",
+      "メイソンの手書き"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/梅森笔迹_猫啃网/梅森笔迹/メイソンの手書き.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ume-pmo3-3e9f0583077c99f8.ttf",
+    "sha256": "3e9f0583077c99f8aa423a5d4ff3120e7e4f10947276f0c959910834cba8ae86",
+    "size": 5563124,
+    "names": [
+      "Regular",
+      "Ume P Mincho",
+      "Ume-P-Mincho",
+      "梅P明朝"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/梅明朝_猫啃网/梅明朝/ume-pmo3.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/88d5d5a1bf928ff3-license.html"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ume-pms3-3d82845646b15a8d.ttf",
+    "sha256": "3d82845646b15a8d9116dc4ce128903b9b4c10c9606b8ff6d193a1b22c7337ea",
+    "size": 5554012,
+    "names": [
+      "Regular",
+      "Ume P Mincho S3",
+      "Ume-P-Mincho",
+      "梅P明朝S3"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/梅明朝_猫啃网/梅明朝/ume-pms3.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/88d5d5a1bf928ff3-license.html"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ume-tmo3-d64794f37d3e467f.ttf",
+    "sha256": "d64794f37d3e467f3144387fca45736d618cfacbf9ad5f9fc6dd7afecea446b2",
+    "size": 5501352,
+    "names": [
+      "Regular",
+      "Ume Mincho",
+      "Ume-Mincho",
+      "梅明朝"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/梅明朝_猫啃网/梅明朝/ume-tmo3.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/88d5d5a1bf928ff3-license.html"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ume-tms3-73723ef91f567384.ttf",
+    "sha256": "73723ef91f567384c136170dfb952f4cbcb18dedff081863a544d1262f835698",
+    "size": 5492222,
+    "names": [
+      "Regular",
+      "Ume Mincho S3",
+      "Ume-Mincho",
+      "梅明朝S3"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/梅明朝_猫啃网/梅明朝/ume-tms3.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/88d5d5a1bf928ff3-license.html"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-a50a71e768cf1c42.ttf",
+    "sha256": "a50a71e768cf1c42e8542bd0d87835a981aee9ef256117637f314d6582db45f9",
+    "size": 5141704,
+    "names": [
+      "umeboshi",
+      "梅干フォント"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/梅干手写体_猫啃网/梅干手写体/梅干手写体_猫啃网.ttf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KURIYAMAKOUCHIFONT_N-bb99b22be941877d.ttf",
+    "sha256": "bb99b22be941877d8d2eb3a2273c9dfc08c67e51230ee13134e55f93ae1abd46",
+    "size": 22602380,
+    "names": [
+      "KURIYAMAKOUCHIFONT_N",
+      "Regular",
+      "栗山巧緻フォント_N"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/栗山巧緻フォント1.0.1_猫啃网/栗山巧緻フォント1.0.1/KURIYAMAKOUCHIFONT_N.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/4c3f0cf657897b7e-License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KURIYAMAKOUCHIFONT_S-21ce32bf7e8ed101.ttf",
+    "sha256": "21ce32bf7e8ed10124f8f97b3f6c1ade2190bb9809b206fae1dda482f6a4cf1e",
+    "size": 22829188,
+    "names": [
+      "KURIYAMAKOUCHIFONT_S",
+      "Regular",
+      "栗山巧緻フォント_S"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/栗山巧緻フォント1.0.1_猫啃网/栗山巧緻フォント1.0.1/KURIYAMAKOUCHIFONT_S.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/4c3f0cf657897b7e-License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KURIYAMAKOUCHIFONT_N-29de23e2339ec4d5.ttf",
+    "sha256": "29de23e2339ec4d55a48e0935a8ad41c95462d5240dacabf18871b5f4104e6c1",
+    "size": 22517008,
+    "names": [
+      "KURIYAMAKOUCHIFONT_N",
+      "Regular",
+      "栗山巧緻フォント_N"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/栗山巧緻フォント1.0.0_猫啃网/栗山巧緻フォント/KURIYAMAKOUCHIFONT_N.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/4c3f0cf657897b7e-License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/KURIYAMAKOUCHIFONT_S-3e5b58927ca9abfd.ttf",
+    "sha256": "3e5b58927ca9abfd77f825d4987eece5736d951673d317a17ef30e1dc3323e30",
+    "size": 22743800,
+    "names": [
+      "KURIYAMAKOUCHIFONT_S",
+      "Regular",
+      "栗山巧緻フォント_S"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/栗山巧緻フォント1.0.0_猫啃网/栗山巧緻フォント/KURIYAMAKOUCHIFONT_S.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/4c3f0cf657897b7e-License.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-60bf4605624aaa95.ttf",
+    "sha256": "60bf4605624aaa95ada269bdcd920e60c98b26180b9d1dd5a06f7adc143678b4",
+    "size": 6623868,
+    "names": [
+      "kanaa",
+      "kanaaratame",
+      "yuzuno",
+      "yuzunoki-font",
+      "yuzunoki-k",
+      "yuzunoki-kanaaratame",
+      "ゆずの木楷書・かな改め"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/柚子楷书_猫啃网/柚子楷书/ゆずの木楷書.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AozoraMincho-bold-370f4c27ac03cc02.ttf",
+    "sha256": "370f4c27ac03cc02e60f34f14f0785791e49e687bb5b3e1bcb8078bdaf11b1a1",
+    "size": 8674932,
+    "names": [
+      "Aozora Mincho",
+      "Aozora Mincho bold",
+      "AozoraMincho-bold",
+      "Bold",
+      "bold",
+      "あおぞら明朝",
+      "あおぞら明朝 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/晴空明朝_猫啃网/晴空明朝/AozoraMincho-bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8526311a31a12f4d-licence.txt",
+      "incoming/maoken-20261104/licenses-exact/5d0fd0062a1315b6-readme.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AozoraMincho-thin-049e0bd160643d42.ttf",
+    "sha256": "049e0bd160643d42de4d508333c016db604981100d5b388ed195e5c8df3a4969",
+    "size": 7588420,
+    "names": [
+      "Aozora Mincho",
+      "Aozora Mincho thin",
+      "AozoraMincho-thin",
+      "Thin",
+      "thin",
+      "あおぞら明朝",
+      "あおぞら明朝 thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/晴空明朝_猫啃网/晴空明朝/AozoraMincho-thin.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8526311a31a12f4d-licence.txt",
+      "incoming/maoken-20261104/licenses-exact/5d0fd0062a1315b6-readme.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AozoraMinchoBlack-2d643fdb0d20f67b.ttf",
+    "sha256": "2d643fdb0d20f67bbd8fcab179e66edbb26a4127f2c9ce35d139d77743fbf20e",
+    "size": 8230748,
+    "names": [
+      "Aozora Mincho",
+      "Aozora Mincho Black",
+      "AozoraMinchoBlack",
+      "Black",
+      "あおぞら明朝",
+      "あおぞら明朝 Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/晴空明朝_猫啃网/晴空明朝/AozoraMinchoBlack.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8526311a31a12f4d-licence.txt",
+      "incoming/maoken-20261104/licenses-exact/5d0fd0062a1315b6-readme.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AozoraMinchoHeavy-240f9e02ee99f0f8.ttf",
+    "sha256": "240f9e02ee99f0f82e7c9b855f1c495395f494a3cc5ef2204d3ccac536f88eb1",
+    "size": 8768156,
+    "names": [
+      "Aozora Mincho",
+      "Aozora Mincho Heavy",
+      "AozoraMinchoHeavy",
+      "Heavy",
+      "あおぞら明朝",
+      "あおぞら明朝 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/晴空明朝_猫啃网/晴空明朝/AozoraMinchoHeavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8526311a31a12f4d-licence.txt",
+      "incoming/maoken-20261104/licenses-exact/5d0fd0062a1315b6-readme.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AozoraMinchoLight-5e2e499ab0a77285.ttf",
+    "sha256": "5e2e499ab0a7728524f166b04dcd414dbc8dee12f0998844685b6ca296f4730a",
+    "size": 7814836,
+    "names": [
+      "Aozora Mincho",
+      "Aozora Mincho Light",
+      "AozoraMinchoLight",
+      "Light",
+      "あおぞら明朝",
+      "あおぞら明朝 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/晴空明朝_猫啃网/晴空明朝/AozoraMinchoLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8526311a31a12f4d-licence.txt",
+      "incoming/maoken-20261104/licenses-exact/5d0fd0062a1315b6-readme.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AozoraMinchoMedium-0980748c2ab69567.ttf",
+    "sha256": "0980748c2ab695675f4bcd7802f4347be6c98e2db29031b58071e9ceb058c372",
+    "size": 7854564,
+    "names": [
+      "Aozora Mincho",
+      "Aozora Mincho Medium",
+      "AozoraMinchoMedium",
+      "Medium",
+      "あおぞら明朝",
+      "あおぞら明朝 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/晴空明朝_猫啃网/晴空明朝/AozoraMinchoMedium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8526311a31a12f4d-licence.txt",
+      "incoming/maoken-20261104/licenses-exact/5d0fd0062a1315b6-readme.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/AozoraMinchoRegular-33b7ec22e74e5c76.ttf",
+    "sha256": "33b7ec22e74e5c762b5ac53ad9d9221dc89c1577b5be093e9af5b92ca7979ad0",
+    "size": 7924460,
+    "names": [
+      "Aozora Mincho",
+      "Aozora Mincho Regular",
+      "AozoraMinchoRegular",
+      "Regular",
+      "あおぞら明朝",
+      "あおぞら明朝 Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/晴空明朝_猫啃网/晴空明朝/AozoraMinchoRegular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/8526311a31a12f4d-licence.txt",
+      "incoming/maoken-20261104/licenses-exact/5d0fd0062a1315b6-readme.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MOBO-Bold-5baf70a6f82f3713.otf",
+    "sha256": "5baf70a6f82f3713bbb3f708bcfe47ea31f6bf5d99ded4f19f27e72482cc25b5",
+    "size": 4901684,
+    "names": [
+      "MOBO-Bold",
+      "Regular",
+      "モボ-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/时髦公子黑1.01_猫啃网/时髦公子黑_猫啃网/モボ/MOBO-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE_OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/62a63a5f21518f65-ReadMe.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MOBO-ExtraLight-ac1f48c71c761bd9.otf",
+    "sha256": "ac1f48c71c761bd977cac66b50b450d2eabf281ddd36e381e3ff3c673c454454",
+    "size": 6399676,
+    "names": [
+      "MOBO-ExtraLight",
+      "Regular",
+      "モボ-ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/时髦公子黑1.01_猫啃网/时髦公子黑_猫啃网/モボ/MOBO-ExtraLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE_OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/62a63a5f21518f65-ReadMe.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MOBO-Regular-34d64096b6b5d518.otf",
+    "sha256": "34d64096b6b5d518626bdba54fc986f27cc795efc777d40ba4cb87786f381308",
+    "size": 6389380,
+    "names": [
+      "MOBO-Regular",
+      "Regular",
+      "モボ-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/时髦公子黑1.01_猫啃网/时髦公子黑_猫啃网/モボ/MOBO-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE_OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/62a63a5f21518f65-ReadMe.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MOBO-SemiBold-403a9de053319941.otf",
+    "sha256": "403a9de053319941e76a40651329ac074043e000bc2c6613f2e31a7d3e3229ec",
+    "size": 7819768,
+    "names": [
+      "MOBO-SemiBold",
+      "Regular",
+      "モボ-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/时髦公子黑1.01_猫啃网/时髦公子黑_猫啃网/モボ/MOBO-SemiBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/130b55d0f6564114-SIL_Open_Font_License.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE_OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/62a63a5f21518f65-ReadMe.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/sawarabi-gothic-medium-aaa36706f9247fa3.otf",
+    "sha256": "aaa36706f9247fa3b86c903fc2df70db63d584a985fe3418f3f12fe8d21c5678",
+    "size": 2087536,
+    "names": [
+      "M",
+      "Medium",
+      "Sawarabi Gothic",
+      "SawarabiGothic-Medium",
+      "さわらびゴシック"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/早蕨黑体(さわらび ゴシックが)_猫啃网/早蕨黑体_猫啃网/早蕨黑体/sawarabi-gothic-medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a399d8c1ccbfbed4-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/sawarabi-mincho-medium-6269d0d8f54dad98.otf",
+    "sha256": "6269d0d8f54dad98866b22a585fcbec103399ec0f1a70b157432f4cddc525591",
+    "size": 5506284,
+    "names": [
+      "M",
+      "Medium",
+      "Sawarabi Mincho",
+      "Sawarabi Mincho Medium",
+      "SawarabiMincho-Medium",
+      "さわらび明朝",
+      "さわらび明朝 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/早蕨明朝(さわらび明朝が)_猫啃网/早蕨明朝_猫啃网/早蕨明朝/sawarabi-mincho-medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a399d8c1ccbfbed4-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-3e0ebd3012d93bf6.ttf",
+    "sha256": "3e0ebd3012d93bf639efcfbf8c1bd0fdf54c109b4e2a16b2168f30eae3752cfa",
+    "size": 3418384,
+    "names": [
+      "ElmerFont",
+      "Regular",
+      "えるまー"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/日系豆豆字体_猫啃网/日系豆豆字体/豆豆字体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/d21f63c728c6cba7-____.txt",
+      "incoming/maoken-20261104/licenses-exact/069faf8118c0d7a9-license.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/P-2c042b7e258b73d8.ttf",
+    "sha256": "2c042b7e258b73d810473554871801cf5a1367ad20b2d1d1e0ae131b1814ef3b",
+    "size": 3418284,
+    "names": [
+      "ElmerPFont",
+      "Elmer_P Font",
+      "Regular",
+      "えるまーP",
+      "えるまーの隠れ家"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/日系豆豆字体_猫啃网/日系豆豆字体/豆豆字体P.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/d21f63c728c6cba7-____.txt",
+      "incoming/maoken-20261104/licenses-exact/069faf8118c0d7a9-license.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/HigureGothic-Black-8aa344cc9487b123.ttf",
+    "sha256": "8aa344cc9487b1230c313868986fcaa5fff0954f689a1c1adc0b15fb4295a0eb",
+    "size": 7406544,
+    "names": [
+      "Black",
+      "Higure Gothic",
+      "Higure Gothic Black",
+      "HigureGothic-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/日暮黑体(ひぐれゴシック)_猫啃网/日暮黑体(ひぐれゴシック)/HigureGothic-Black.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a399d8c1ccbfbed4-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/HigureGothic-Bold-7a883e2e5787f852.ttf",
+    "sha256": "7a883e2e5787f8521c93ba49e8a1bcd120cc9a8963a731a5cb2e93e261a9f075",
+    "size": 7442666,
+    "names": [
+      "Bold",
+      "Higure Gothic",
+      "Higure Gothic Bold",
+      "HigureGothic-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/日暮黑体(ひぐれゴシック)_猫啃网/日暮黑体(ひぐれゴシック)/HigureGothic-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a399d8c1ccbfbed4-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/HigureGothic-Light-762379e25d77e8d8.ttf",
+    "sha256": "762379e25d77e8d8088470033275e249f6664d5b6adeca4313dc8d1cec340207",
+    "size": 6633466,
+    "names": [
+      "Higure Gothic",
+      "Higure Gothic Light",
+      "HigureGothic-Light",
+      "Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/日暮黑体(ひぐれゴシック)_猫啃网/日暮黑体(ひぐれゴシック)/HigureGothic-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a399d8c1ccbfbed4-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/HigureGothic-Medium-f87ec0ae5dd7b59a.ttf",
+    "sha256": "f87ec0ae5dd7b59ad49876dd5fc785c806cd660b916c6e3da4c8da74e2587fb7",
+    "size": 7408722,
+    "names": [
+      "Higure Gothic",
+      "Higure Gothic Medium",
+      "HigureGothic-Medium",
+      "Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/日暮黑体(ひぐれゴシック)_猫啃网/日暮黑体(ひぐれゴシック)/HigureGothic-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a399d8c1ccbfbed4-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/HigureGothic-Regular-fcf042dde392e09d.ttf",
+    "sha256": "fcf042dde392e09d1f2a313a610ea4a5d77f5d2db6774e9ab8a38e6ec4231882",
+    "size": 7036054,
+    "names": [
+      "Higure Gothic",
+      "Higure Gothic Regular",
+      "HigureGothic-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/日暮黑体(ひぐれゴシック)_猫啃网/日暮黑体(ひぐれゴシック)/HigureGothic-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a399d8c1ccbfbed4-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-61ee17cb6098f325.otf",
+    "sha256": "61ee17cb6098f325dae0478e7a74941ab4cfed9bc89bf284a43f2d381b704a97",
+    "size": 4055324,
+    "names": [
+      "Mushin",
+      "Regular",
+      "無心"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/无心手写体_猫啃网/无心手写体/无心手写体.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/wapuro-mincho-tate2x-50efc49089e9fafe.otf",
+    "sha256": "50efc49089e9fafea8fcadea0ab75ebea0857b8f6dbaf01a8ff670b645a64ce6",
+    "size": 1185776,
+    "names": [
+      "Regular",
+      "TateBaikaku",
+      "Wapuro Mincho",
+      "Wapuro Mincho TateBaikaku",
+      "WapuroMincho-TateBaikaku",
+      "ワープロ明朝",
+      "ワープロ明朝 縦倍角",
+      "縦倍角"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/文字处理机明朝(ワープロ明朝)_猫啃网/文字处理机明朝(ワープロ明朝)/wapuro-mincho-tate2x.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/569f7060410556cc-README.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/wapuro-mincho-yoko2x-e848ef052c2f4256.otf",
+    "sha256": "e848ef052c2f425608a13d9d8313356f51245860616799ebb164f5a3dff46c50",
+    "size": 1177876,
+    "names": [
+      "Regular",
+      "Wapuro Mincho",
+      "Wapuro Mincho YokoBaikaku",
+      "WapuroMincho-YokoBaikaku",
+      "YokoBaikaku",
+      "ワープロ明朝",
+      "ワープロ明朝 横倍角",
+      "横倍角"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/文字处理机明朝(ワープロ明朝)_猫啃网/文字处理机明朝(ワープロ明朝)/wapuro-mincho-yoko2x.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/569f7060410556cc-README.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/wapuro-mincho-1b3003b682f9af1d.otf",
+    "sha256": "1b3003b682f9af1d17aab8edb416b128d6feb162de6ae989538a0981ba862346",
+    "size": 1155460,
+    "names": [
+      "Regular",
+      "Wapuro Mincho",
+      "Wapuro Mincho Regular",
+      "WapuroMincho-Regular",
+      "ワープロ明朝"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/文字处理机明朝(ワープロ明朝)_猫啃网/文字处理机明朝(ワープロ明朝)/wapuro-mincho.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/569f7060410556cc-README.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/One-ab333d1f5fe72a6c.ttf",
+    "sha256": "ab333d1f5fe72a6ca4547eff808f0d09ee88355f2f6f50acd77e166567898245",
+    "size": 2682876,
+    "names": [
+      "Regular",
+      "RocknRoll One",
+      "RocknRoll One Regular",
+      "RocknRollOne-Regular",
+      "ロックンロール One"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/摇滚乐One1.100_猫啃网/摇滚乐One1.100/摇滚乐 One.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Togalite-Black-7e364d1fb107248e.otf",
+    "sha256": "7e364d1fb107248e23b0aa288ad73908315b862275030bd3c0e281ae27359796",
+    "size": 3363576,
+    "names": [
+      "Black",
+      "Regular",
+      "Togalite",
+      "Togalite Black",
+      "Togalite-Black",
+      "トガリテ",
+      "トガリテ Black"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/托加里特体_猫啃网/托加里特体トガリテ_猫啃网/Togalite-Black.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Togalite-Bold-ee64cb8405a246f1.otf",
+    "sha256": "ee64cb8405a246f1e6685e41b86d559480e5160a37f78ac719289ab60d448260",
+    "size": 3453188,
+    "names": [
+      "Bold",
+      "Regular",
+      "Togalite",
+      "Togalite Bold",
+      "Togalite-Bold",
+      "トガリテ"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/托加里特体_猫啃网/托加里特体トガリテ_猫啃网/Togalite-Bold.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Togalite-Heavy-d23e02af7e22a98d.otf",
+    "sha256": "d23e02af7e22a98d2a74463f7ca26b6967c7e3a10e47a70cd0d27ee31f8b9b96",
+    "size": 3515676,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Togalite",
+      "Togalite Heavy",
+      "Togalite-Heavy",
+      "トガリテ",
+      "トガリテ Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/托加里特体_猫啃网/托加里特体トガリテ_猫啃网/Togalite-Heavy.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Togalite-Light-7e6b986f0559be83.otf",
+    "sha256": "7e6b986f0559be83ff8f1eb506df950c62827645f30dc68a25e43f37157939da",
+    "size": 3062908,
+    "names": [
+      "Light",
+      "Regular",
+      "Togalite",
+      "Togalite Light",
+      "Togalite-Light",
+      "トガリテ",
+      "トガリテ Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/托加里特体_猫啃网/托加里特体トガリテ_猫啃网/Togalite-Light.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Togalite-Medium-d8093fb070807baa.otf",
+    "sha256": "d8093fb070807baa3147c65cb5efbb7e34f3014d9d6f786f29ec2d458f9cd699",
+    "size": 3288608,
+    "names": [
+      "Medium",
+      "Regular",
+      "Togalite",
+      "Togalite Medium",
+      "Togalite-Medium",
+      "トガリテ",
+      "トガリテ Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/托加里特体_猫啃网/托加里特体トガリテ_猫啃网/Togalite-Medium.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Togalite-Regular-bfd5abfe30bfedf9.otf",
+    "sha256": "bfd5abfe30bfedf900f5facc4cc502f852b75912970f882b68b04a6818685f1f",
+    "size": 3237232,
+    "names": [
+      "Regular",
+      "Togalite",
+      "Togalite-Regular",
+      "トガリテ"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/托加里特体_猫啃网/托加里特体トガリテ_猫啃网/Togalite-Regular.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Togalite-Thin-7ab315422116177d.otf",
+    "sha256": "7ab315422116177dadd7fff74bc28067eff8bf2605fcada12d1611fbdbbce9f8",
+    "size": 2546236,
+    "names": [
+      "Regular",
+      "Thin",
+      "Togalite",
+      "Togalite Thin",
+      "Togalite-Thin",
+      "トガリテ",
+      "トガリテ Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/托加里特体_猫啃网/托加里特体トガリテ_猫啃网/Togalite-Thin.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-878a57efaf9f9aeb.otf",
+    "sha256": "878a57efaf9f9aeb15a242e30cbab39465760ffa463f93158101723b8774b9f0",
+    "size": 8813048,
+    "names": [
+      "07ReallyScaryMinchotai",
+      "07ふぉんとうは怖い明朝体",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/恐怖明朝体_猫啃网/恐怖明朝体/恐怖明朝体(ふぉんとうは怖い)_猫啃网.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MRT-d0564469e8ffa3ff.ttf",
+    "sha256": "d0564469e8ffa3ff5c98cd3ccd3be34c6b4f3c761322e2a81021eb9c3aefdf58",
+    "size": 11592228,
+    "names": [
+      "MRT-Marukoias-alpha-KO",
+      "MRT-Marukoias-alpha-KO Normal",
+      "MRT-まるこいあすα かなのみ",
+      "MRTMarukoiasalphaKO-Normal",
+      "Normal",
+      "Regular",
+      "まるこいあす"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/恋星圆体(まるこいあす)2.1_猫啃网/恋星圆体2.1/MRT-まるこいあす  かなのみ.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/484498bb23e047f9-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/MRT-e68b0d85bca81165.ttf",
+    "sha256": "e68b0d85bca81165853cdd5cf8a9f5df5c3e77cedd2e7acc79ae6a154bc62b0a",
+    "size": 11579052,
+    "names": [
+      "MRT-Marukoias-alpha",
+      "MRT-Marukoias-alpha Normal",
+      "MRT-まるこいあすα",
+      "MRTMarukoiasalpha-Normal",
+      "Normal",
+      "Regular",
+      "まるこいあす"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/恋星圆体(まるこいあす)2.1_猫啃网/恋星圆体2.1/MRT-まるこいあすα.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/484498bb23e047f9-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Kokoro-d0e06423e469754a.otf",
+    "sha256": "d0e06423e469754aa0483398a4fa02ea9e26b3104c0c6dbe7331d40b7804c8f3",
+    "size": 4082644,
+    "names": [
+      "KokoroMinchoutai",
+      "Regular",
+      "こころ明朝体"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/心明朝体(こころ明朝体)_猫啃网/心明朝体(こころ明朝体)/Kokoro.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/4c84dd528ec30446-IPA_Font_License_Agreement_v1.0.txt",
+      "incoming/maoken-20261104/licenses-exact/d2d581871faf804a-ReadMe.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DelaGothicOne-Regular-f73c81ed56ca9d07.ttf",
+    "sha256": "f73c81ed56ca9d07b796228f7f0f7e8f0117b64dcb54da7246f1001ace5c6d19",
+    "size": 5469244,
+    "names": [
+      "Dela Gothic One",
+      "Dela Gothic One Regular",
+      "DelaGothicOne-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/德拉黑体(デラゴシック)1.004_猫啃网/德拉黑体(デラゴシック)1.004/DelaGothicOne-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/fc4c10042252a247-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/DelaMaruGothic-755d9848273b97c6.ttf",
+    "sha256": "755d9848273b97c625758feb5c6c54ae5c4ff766623dbd59e767ae048661fbd2",
+    "size": 7269020,
+    "names": [
+      "Book",
+      "DelaMaruGothic",
+      "DelaMaruGothic One Regular",
+      "Regular",
+      "デラまるゴシック"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/德拉圆体(デラまるゴシック)_猫啃网/德拉圆体/DelaMaruGothic.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/e298381300dc2403-readme.pdf"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Rwi-d9815fadbad9b117.ttf",
+    "sha256": "d9815fadbad9b1177b42573c0e43cb05d98a522fc900ad27bee4614657d70b7d",
+    "size": 1994896,
+    "names": [
+      "Otesei-Rwi-Font C (v3.0)",
+      "Otesei-Rwi-Font-C--v3.0-",
+      "Regular",
+      "お手製Rwiフォント C (v3.0)"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/御手制Rwi体_猫啃网/お手製Rwiフォント3.00_猫啃网/お手製Rwiフォント/お手製Rwiフォント.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/b119a12c1fafdb83-readme.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Isemin-0a2b2937bd9b29c4.otf",
+    "sha256": "0a2b2937bd9b29c435c0b8c062dd146ed3b03bc71ed8f3a2bb63151013b5a538",
+    "size": 10492064,
+    "names": [
+      "Isemin",
+      "Regular",
+      "異世明"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/异世明_猫啃网/異世明/Isemin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE_OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3700f326f69929b0-ReadMe.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/Isego-b1bea8b24cf09753.otf",
+    "sha256": "b1bea8b24cf09753cc97bdae5f0467e2e9b3cdd7adf154009bdbadea05cf70e9",
+    "size": 10112340,
+    "names": [
+      "Isego",
+      "Regular",
+      "異世ゴ"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/异世哥_猫啃网/异世哥/Isego.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE_OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/3700f326f69929b0-ReadMe.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-c336c38c430d0394.otf",
+    "sha256": "c336c38c430d0394a37434fb9b3213677a43a2b085676b55f0f3aa3193d0df0b",
+    "size": 831356,
+    "names": [
+      "Kaiso",
+      "Kaiso-Next-B",
+      "Next B",
+      "Regular",
+      "ネクスト B",
+      "廻想体",
+      "廻想体 ネクスト B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/廻想体(ネクスト ユーピー)_猫啃网/廻想体(ネクスト ユーピー)/廻想体.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-9bf26ebd2e9e0ca5.otf",
+    "sha256": "9bf26ebd2e9e0ca526f06af2e0bec7f460c33b9a3d1a10b9cfd61e3c114fba1a",
+    "size": 38833436,
+    "names": [
+      "Regular",
+      "emotion-japan",
+      "廻募-エモ"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/廻募_猫啃网/廻募/廻募（エモ）.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-e9976a1d9983be47.otf",
+    "sha256": "e9976a1d9983be4725d9e8eeaf82d225b1be56a2ceddf2571d59d732e0f7d024",
+    "size": 11226696,
+    "names": [
+      "MaboroshinoNijimiMincho",
+      "Regular",
+      "幻ノにじみ明朝"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/幻影明朝(幻ノにじみ明朝)_猫啃网/幻影明朝/幻ノにじみ明朝.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE_OFL.txt",
+      "incoming/maoken-20261104/licenses-exact/6a6a85db527fd331-ReadMe.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMincho-Bold-dc24ebb821000ab9.ttf",
+    "sha256": "dc24ebb821000ab9ab2fbe34e358657969d16ce757248f2813abf17888dfe678",
+    "size": 18796428,
+    "names": [
+      "Bold",
+      "Shippori Mincho",
+      "Shippori Mincho Bold",
+      "ShipporiMincho-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMincho-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMincho-ExtraBold-9ed4c60a075c93e2.ttf",
+    "sha256": "9ed4c60a075c93e2a2d5049f6360ea6964806e026d343d9bbfc783503f24547b",
+    "size": 18800900,
+    "names": [
+      "ExtraBold",
+      "Regular",
+      "Shippori Mincho",
+      "Shippori Mincho ExtraBold",
+      "ShipporiMincho-ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMincho-ExtraBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMincho-Medium-3899e0e5f30388ae.ttf",
+    "sha256": "3899e0e5f30388ae7280fc4ebe9590f63d5edb379b016f0f0e97658c42b67700",
+    "size": 19600020,
+    "names": [
+      "Medium",
+      "Regular",
+      "Shippori Mincho",
+      "Shippori Mincho Medium",
+      "ShipporiMincho-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMincho-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMincho-Regular-9cb454a44774a14a.ttf",
+    "sha256": "9cb454a44774a14af8afe2df138691a968a4f5d5d58bb72809a1b407acf9fbeb",
+    "size": 19504836,
+    "names": [
+      "Regular",
+      "Shippori Mincho",
+      "Shippori Mincho Regular",
+      "ShipporiMincho-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMincho-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMincho-SemiBold-6e421ca87ba38362.ttf",
+    "sha256": "6e421ca87ba3836277ab1c66e47a21856c54688fb8d7b364f0419ea487253e9f",
+    "size": 19472096,
+    "names": [
+      "Regular",
+      "SemiBold",
+      "Shippori Mincho",
+      "Shippori Mincho SemiBold",
+      "ShipporiMincho-SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMincho-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMinchoB1-Bold-fdcf9f46ff6e24aa.ttf",
+    "sha256": "fdcf9f46ff6e24aa3510118b26de7a5d5db4dab7bef626c7766eb6c109ec3197",
+    "size": 31473432,
+    "names": [
+      "Bold",
+      "Shippori Mincho B1",
+      "Shippori Mincho B1 Bold",
+      "ShipporiMinchoB1-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMinchoB1-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMinchoB1-ExtraBold-f79a980485cc3a73.ttf",
+    "sha256": "f79a980485cc3a73f04d95bb055ad959f9d6a8270a181182dfc1248587d28001",
+    "size": 31488064,
+    "names": [
+      "ExtraBold",
+      "Regular",
+      "Shippori Mincho B1",
+      "Shippori Mincho B1 ExtraBold",
+      "ShipporiMinchoB1-ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMinchoB1-ExtraBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMinchoB1-Medium-f5c509c8639b3a63.ttf",
+    "sha256": "f5c509c8639b3a637cd76314d3d758ab73f9bf58a093c1b46421f9340abefd2b",
+    "size": 33153716,
+    "names": [
+      "Medium",
+      "Regular",
+      "Shippori Mincho B1",
+      "Shippori Mincho B1 Medium",
+      "ShipporiMinchoB1-Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMinchoB1-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShipporiMinchoB1-Regular-314a1d8545b59b05.ttf",
+    "sha256": "314a1d8545b59b054ce61b76091886f37f7a44ae7a3727885f94c331b26dd004",
+    "size": 33597276,
+    "names": [
+      "Regular",
+      "Shippori Mincho B1",
+      "Shippori Mincho B1 Regular",
+      "ShipporiMinchoB1-Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "日本汉字/尾巴明朝(しっぽり明朝)_猫啃网/尾巴明朝(しっぽり明朝)/ShipporiMinchoB1-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/ce518cdf08c0c561-OFL.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
