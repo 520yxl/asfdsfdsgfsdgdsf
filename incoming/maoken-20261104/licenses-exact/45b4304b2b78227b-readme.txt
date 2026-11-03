@@ -1,0 +1,29 @@
+
+1.
+下载地址debian sources: fonts-android_4.4.4r2.orig.tar.xz
+https://mirrors.ustc.edu.cn/debian/pool/main/f/fonts-android/
+DroidSansFallback.ttf    2.55b        未覆盖cjk-a，有bug
+DroidSansFallbackFull.ttf    1.00c    覆盖cjk-a，未覆盖Hangul Syllables
+
+
+2.
+下载地址fedora29 sources: google-droid-fonts-20120715-14.fc29.src.rpm
+https://mirrors.ustc.edu.cn/fedora/releases/29/Everything/source/tree/Packages/g/
+DroidSansFallbackFull.ttf    2.56    覆盖cjk-a，但断开了参考，有bug，覆盖Hangul Syllables
+
+提取1.00c版本中的cjk-a字符；
+修正1.00c版本中的cjk-a字符的bug；
+
+提取2.56版本中的Hangul Syllables字符；
+
+以上两者并入2.55b
+
+根据2013年发布的通用规范汉字表8105字，增加199个字符
+
+更改版本号为2.60c
+
+
+to otf
+em size 256 to 1024
+
+
