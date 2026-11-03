@@ -1,0 +1,1243 @@
+[
+  {
+    "font": "incoming/NotoSansSC-VF-d68bafcb48a27077.ttf",
+    "sha256": "d68bafcb48a2707749396aa12bbbd833cb70401f3a9a689fd2902c7e0d295964",
+    "size": 17773132,
+    "names": [
+      "Noto Sans SC",
+      "NotoSansSC-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/TTF/Subset/NotoSansSC-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-VF-ac091cc8cd19e848.ttf",
+    "sha256": "ac091cc8cd19e848202afc8fe6d3809b4526c8fdbdb4be82da20c4f785949591",
+    "size": 11942800,
+    "names": [
+      "Noto Sans TC",
+      "NotoSansTC-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/TTF/Subset/NotoSansTC-VF.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansMonoCJKhk-VF-386251bee65e5580.otf",
+    "sha256": "386251bee65e5580de7f92959e6e1eceb9a4f0f226994f3af208b6179396fca7",
+    "size": 30259040,
+    "names": [
+      "Noto Sans Mono CJK HK",
+      "NotoSansMonoCJKhk-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Mono/NotoSansMonoCJKhk-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansMonoCJKjp-VF-2a902655742b40d0.otf",
+    "sha256": "2a902655742b40d05a0192a97ee3fa347a4ca9b91d283b34e768c1362293d698",
+    "size": 30298296,
+    "names": [
+      "Noto Sans Mono CJK JP",
+      "NotoSansMonoCJKjp-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Mono/NotoSansMonoCJKjp-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansMonoCJKkr-VF-f8f3222cb6fb6863.otf",
+    "sha256": "f8f3222cb6fb68637c82b1b1fa764755d3d153f5e5f3977f377550e89ca0775c",
+    "size": 30264528,
+    "names": [
+      "Noto Sans Mono CJK KR",
+      "NotoSansMonoCJKkr-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Mono/NotoSansMonoCJKkr-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansMonoCJKsc-VF-abb74b8cddf47c82.otf",
+    "sha256": "abb74b8cddf47c8267fd4948eb2b9f275218206f6cea8490d9305bb1b085bc7f",
+    "size": 30268836,
+    "names": [
+      "Noto Sans Mono CJK SC",
+      "NotoSansMonoCJKsc-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Mono/NotoSansMonoCJKsc-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansMonoCJKtc-VF-74ce929d6bec3bc5.otf",
+    "sha256": "74ce929d6bec3bc5d69319c757502ee0940f7914ff09696f287a3fd45c126100",
+    "size": 30267328,
+    "names": [
+      "Noto Sans Mono CJK TC",
+      "NotoSansMonoCJKtc-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Mono/NotoSansMonoCJKtc-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansHK-VF-3432530bc55e0943.otf",
+    "sha256": "3432530bc55e0943f878a3b18bb062e7954654c04e9d66c2ae80b6eb62d176c6",
+    "size": 10087192,
+    "names": [
+      "Noto Sans HK",
+      "NotoSansHK-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Subset/NotoSansHK-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansJP-VF-85e5ef353081175f.otf",
+    "sha256": "85e5ef353081175fb9f764f037c550dd4b5ad913cb030c0de98a5d4d4018014b",
+    "size": 8128756,
+    "names": [
+      "Noto Sans JP",
+      "NotoSansJP-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Subset/NotoSansJP-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansKR-VF-e647f53b18a48236.otf",
+    "sha256": "e647f53b18a4823647a51bcbdac866617701a4dd8ce495bac2db5ecea88d8f21",
+    "size": 8698600,
+    "names": [
+      "Noto Sans KR",
+      "NotoSansKR-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Subset/NotoSansKR-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansSC-VF-d13ed01ec8aa45d6.otf",
+    "sha256": "d13ed01ec8aa45d6178999b648e96fb92150683e9f8e2a581f2acf208dcbe44b",
+    "size": 15054748,
+    "names": [
+      "Noto Sans SC",
+      "NotoSansSC-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Subset/NotoSansSC-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-VF-a080726eee9d78ec.otf",
+    "sha256": "a080726eee9d78ec74fd95184a79c58c3085f10713e26876aab0130f543e9120",
+    "size": 10119544,
+    "names": [
+      "Noto Sans TC",
+      "NotoSansTC-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/Variable/OTF/Subset/NotoSansTC-VF.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansHK-Black-cdb973b4e65176b7.otf",
+    "sha256": "cdb973b4e65176b72d533578e178ed87507c71fcfce8c817a97d9537d314c9a0",
+    "size": 6072180,
+    "names": [
+      "Black",
+      "Noto Sans HK",
+      "Noto Sans HK Black",
+      "NotoSansHK-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/HK/NotoSansHK-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansHK-Bold-9b62ec5ffa3c7d3a.otf",
+    "sha256": "9b62ec5ffa3c7d3a94bfdd7087af94056f8a1fd0f5a3d08b224ae3eb74051619",
+    "size": 5840928,
+    "names": [
+      "Bold",
+      "Noto Sans HK",
+      "Noto Sans HK Bold",
+      "NotoSansHK-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/HK/NotoSansHK-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansHK-DemiLight-beb49dd3dedeec62.otf",
+    "sha256": "beb49dd3dedeec6252b060aa2e942d4a304ba5292935114c8c6db2da8b59ee75",
+    "size": 5683528,
+    "names": [
+      "DemiLight",
+      "Noto Sans HK",
+      "Noto Sans HK DemiLight",
+      "NotoSansHK-DemiLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/HK/NotoSansHK-DemiLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansHK-Light-d285d1ebf339f582.otf",
+    "sha256": "d285d1ebf339f58220f1ce1b23a1f02742fc3ddc102cb043a5450ad91946a206",
+    "size": 5668004,
+    "names": [
+      "Light",
+      "Noto Sans HK",
+      "Noto Sans HK Light",
+      "NotoSansHK-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/HK/NotoSansHK-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansHK-Medium-a1e8b4e81b6aa432.otf",
+    "sha256": "a1e8b4e81b6aa4320269899e38952be827f9287e4c862077c72b8de38de6d5d9",
+    "size": 5698556,
+    "names": [
+      "Medium",
+      "Noto Sans HK",
+      "Noto Sans HK Medium",
+      "NotoSansHK-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/HK/NotoSansHK-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansHK-Regular-6b13c3f82148bc13.otf",
+    "sha256": "6b13c3f82148bc13db82220ddecdae8ea8c65ae86cf6a6495132d3d42ed695b4",
+    "size": 5688384,
+    "names": [
+      "Noto Sans HK",
+      "NotoSansHK-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/HK/NotoSansHK-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansHK-Thin-e4029a265ad2d7de.otf",
+    "sha256": "e4029a265ad2d7de9a5ad7a9adc42e62cdebefe3b3163e234fd826719d28d718",
+    "size": 5233872,
+    "names": [
+      "Noto Sans HK",
+      "Noto Sans HK Thin",
+      "NotoSansHK-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/HK/NotoSansHK-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansJP-Black-2f1e2ee75827108e.otf",
+    "sha256": "2f1e2ee75827108ef8f8205e3d5fea71e7b1e90a270ffe630be962fb09c47872",
+    "size": 4855212,
+    "names": [
+      "Black",
+      "Noto Sans JP",
+      "Noto Sans JP Black",
+      "NotoSansJP-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/JP/NotoSansJP-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansJP-Bold-60a1176f6acd4ff8.otf",
+    "sha256": "60a1176f6acd4ff8ef52c8a15ed96d859edbe81b7c4b72d29550cb1e2bcd44df",
+    "size": 4656448,
+    "names": [
+      "Bold",
+      "Noto Sans JP",
+      "Noto Sans JP Bold",
+      "NotoSansJP-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/JP/NotoSansJP-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansJP-DemiLight-40d24e0e7a40b56a.otf",
+    "sha256": "40d24e0e7a40b56a633d521afa79fd1d8efda9b5ef2328e26a2bdf58396ee5fe",
+    "size": 4529440,
+    "names": [
+      "DemiLight",
+      "Noto Sans JP",
+      "Noto Sans JP DemiLight",
+      "NotoSansJP-DemiLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/JP/NotoSansJP-DemiLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansJP-Light-11eae5ccac83d5b7.otf",
+    "sha256": "11eae5ccac83d5b77a08cabca8b84e24a228f5b558bcbf23cdbfa72c4352e563",
+    "size": 4513968,
+    "names": [
+      "Light",
+      "Noto Sans JP",
+      "Noto Sans JP Light",
+      "NotoSansJP-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/JP/NotoSansJP-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansJP-Medium-1a59ec31669bfe07.otf",
+    "sha256": "1a59ec31669bfe07886fa553f25e21db2af9197e0195de0990cd9637dd3d9509",
+    "size": 4549132,
+    "names": [
+      "Medium",
+      "Noto Sans JP",
+      "Noto Sans JP Medium",
+      "NotoSansJP-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/JP/NotoSansJP-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansJP-Regular-f9b822eccf1c6bf7.otf",
+    "sha256": "f9b822eccf1c6bf7912b2e97b9e1b30cb2fc6ca3069d511dc90beb7aa854b7bc",
+    "size": 4533028,
+    "names": [
+      "Noto Sans JP",
+      "NotoSansJP-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/JP/NotoSansJP-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansJP-Thin-4b4042815844bc01.otf",
+    "sha256": "4b4042815844bc0165b9a79355b83c04e1803e924303b6f4e2ee55e1d31b8efd",
+    "size": 4234984,
+    "names": [
+      "Noto Sans JP",
+      "Noto Sans JP Thin",
+      "NotoSansJP-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/JP/NotoSansJP-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansKR-Black-5a1b1846a2563591.otf",
+    "sha256": "5a1b1846a2563591ec93ab799ea7bcd5e30590af435a6ea52fd0d092eb702b52",
+    "size": 5033248,
+    "names": [
+      "Black",
+      "Noto Sans KR",
+      "Noto Sans KR Black",
+      "NotoSansKR-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/KR/NotoSansKR-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansKR-Bold-bed5fd31af3fcde1.otf",
+    "sha256": "bed5fd31af3fcde1ad98ec57d8011e016a13d4ee70b2a73edd31dc004d5f9c7f",
+    "size": 4816044,
+    "names": [
+      "Bold",
+      "Noto Sans KR",
+      "Noto Sans KR Bold",
+      "NotoSansKR-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/KR/NotoSansKR-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansKR-DemiLight-544ff9dd918a916d.otf",
+    "sha256": "544ff9dd918a916dd0e27c64f85dbf32e6f6bdc83f253715a7fc663242d0e4dd",
+    "size": 4651712,
+    "names": [
+      "DemiLight",
+      "Noto Sans KR",
+      "Noto Sans KR DemiLight",
+      "NotoSansKR-DemiLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/KR/NotoSansKR-DemiLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansKR-Light-9b741e89eeac4a92.otf",
+    "sha256": "9b741e89eeac4a92952b9a02fb1a7ee5c2da9acd25438645445ad6242d3b6e2b",
+    "size": 4629056,
+    "names": [
+      "Light",
+      "Noto Sans KR",
+      "Noto Sans KR Light",
+      "NotoSansKR-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/KR/NotoSansKR-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansKR-Medium-da2d9ff116520169.otf",
+    "sha256": "da2d9ff116520169a9cefc39f2e555876454f7e271fe986a71a05d58c2fa4704",
+    "size": 4669816,
+    "names": [
+      "Medium",
+      "Noto Sans KR",
+      "Noto Sans KR Medium",
+      "NotoSansKR-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/KR/NotoSansKR-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansKR-Regular-eb2be3bdf4cf1af4.otf",
+    "sha256": "eb2be3bdf4cf1af478033262e54cd190b4dbbc49bae7f14dee32a92899854ca0",
+    "size": 4644748,
+    "names": [
+      "Noto Sans KR",
+      "NotoSansKR-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/KR/NotoSansKR-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansKR-Thin-fafd3f3b5da8a069.otf",
+    "sha256": "fafd3f3b5da8a0697eaae7336bcc65312d2147b16de2a2e4c04fd8b094dcdb70",
+    "size": 4254020,
+    "names": [
+      "Noto Sans KR",
+      "Noto Sans KR Thin",
+      "NotoSansKR-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/KR/NotoSansKR-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansSC-Black-f050c0752aca1d99.otf",
+    "sha256": "f050c0752aca1d99f71f5af9cef61cda62c8cd2e6d13447a2446da495e5894a4",
+    "size": 8855916,
+    "names": [
+      "Black",
+      "Noto Sans SC",
+      "Noto Sans SC Black",
+      "NotoSansSC-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/SC/NotoSansSC-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansSC-Bold-b016ec10fd069332.otf",
+    "sha256": "b016ec10fd069332baa937ba46c7f47518ad4bac4589853842f7a0238f46a4bd",
+    "size": 8543168,
+    "names": [
+      "Bold",
+      "Noto Sans SC",
+      "Noto Sans SC Bold",
+      "NotoSansSC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/SC/NotoSansSC-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansSC-DemiLight-45517a2243f82b03.otf",
+    "sha256": "45517a2243f82b032d95a493dae82f1a89f29abe9c09e1df2089d26680267978",
+    "size": 8325948,
+    "names": [
+      "DemiLight",
+      "Noto Sans SC",
+      "Noto Sans SC DemiLight",
+      "NotoSansSC-DemiLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/SC/NotoSansSC-DemiLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansSC-Light-020a7982b0e8f2cb.otf",
+    "sha256": "020a7982b0e8f2cbd3e24bfdbccb35062d04d5f2428487b24b5de2b74eda9dbb",
+    "size": 8299104,
+    "names": [
+      "Light",
+      "Noto Sans SC",
+      "Noto Sans SC Light",
+      "NotoSansSC-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/SC/NotoSansSC-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansSC-Medium-3375ae39dacfc1f3.otf",
+    "sha256": "3375ae39dacfc1f3446c5bdaec586c95e30536a26e194dbe73aeb1d061af32d0",
+    "size": 8345436,
+    "names": [
+      "Medium",
+      "Noto Sans SC",
+      "Noto Sans SC Medium",
+      "NotoSansSC-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/SC/NotoSansSC-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansSC-Regular-16a4d13376f3eac1.otf",
+    "sha256": "16a4d13376f3eac1f4cccec5482210a1a1541de824dc8a73294d29daddfec2ec",
+    "size": 8331336,
+    "names": [
+      "Noto Sans SC",
+      "NotoSansSC-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/SC/NotoSansSC-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansSC-Thin-cf335b9152de0f44.otf",
+    "sha256": "cf335b9152de0f44e328ba9d10c00d0719e1c03595ab7e772550a8f9ffa493ef",
+    "size": 7574608,
+    "names": [
+      "Noto Sans SC",
+      "Noto Sans SC Thin",
+      "NotoSansSC-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/SC/NotoSansSC-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-Black-5e4c29e34a8be0f1.otf",
+    "sha256": "5e4c29e34a8be0f1e781504bd8ad3738a0bf137d157857907a24186322f5ef0d",
+    "size": 6068396,
+    "names": [
+      "Black",
+      "Noto Sans TC",
+      "Noto Sans TC Black",
+      "NotoSansTC-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/TC/NotoSansTC-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-Bold-d48a3cbf7b03e777.otf",
+    "sha256": "d48a3cbf7b03e777809d012d97ec4241fdd37adbfb29bc5ebf7e5c799a52e5dd",
+    "size": 5839984,
+    "names": [
+      "Bold",
+      "Noto Sans TC",
+      "Noto Sans TC Bold",
+      "NotoSansTC-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/TC/NotoSansTC-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-DemiLight-71a3b61eb089b282.otf",
+    "sha256": "71a3b61eb089b282927e858f2a2bb0247120c1b8cec81d4e4467e2e63643915d",
+    "size": 5679036,
+    "names": [
+      "DemiLight",
+      "Noto Sans TC",
+      "Noto Sans TC DemiLight",
+      "NotoSansTC-DemiLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/TC/NotoSansTC-DemiLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-Light-92c30fd7c3256b7e.otf",
+    "sha256": "92c30fd7c3256b7e081d44abc00303cea2769f738dbab0cb5820b6405d7a2d98",
+    "size": 5661696,
+    "names": [
+      "Light",
+      "Noto Sans TC",
+      "Noto Sans TC Light",
+      "NotoSansTC-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/TC/NotoSansTC-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-Medium-9284e5f5e6d2d78e.otf",
+    "sha256": "9284e5f5e6d2d78eadd7a0f5c0d40bd5ae921811c92799c149805b532497eb26",
+    "size": 5695756,
+    "names": [
+      "Medium",
+      "Noto Sans TC",
+      "Noto Sans TC Medium",
+      "NotoSansTC-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/TC/NotoSansTC-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-Regular-c09ce4416ed5aafb.otf",
+    "sha256": "c09ce4416ed5aafb7804afe4bcdd26a78ba2f04adcb78dd3bc72bea7fb0d8aa2",
+    "size": 5683380,
+    "names": [
+      "Noto Sans TC",
+      "NotoSansTC-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/TC/NotoSansTC-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansTC-Thin-3381f33edc7e6cde.otf",
+    "sha256": "3381f33edc7e6cde0988cdc8b40c9fe09555635fb25917f1a231f17160fe92d8",
+    "size": 5215644,
+    "names": [
+      "Noto Sans TC",
+      "Noto Sans TC Thin",
+      "NotoSansTC-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/SubsetOTF/TC/NotoSansTC-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKjp-Black-b133775915ed9117.otf",
+    "sha256": "b133775915ed911732e8e4a27655ad97d0c3b63861a83491c18b5d14815de9b7",
+    "size": 17828280,
+    "names": [
+      "Black",
+      "Noto Sans CJK JP",
+      "Noto Sans CJK JP Black",
+      "NotoSansCJKjp-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Japanese/NotoSansCJKjp-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKjp-Bold-0773aaec175f6399.otf",
+    "sha256": "0773aaec175f6399649034b1f2cc1836c9f526365cf7b9839ca55a235a42772e",
+    "size": 17032620,
+    "names": [
+      "Bold",
+      "Noto Sans CJK JP",
+      "Noto Sans CJK JP Bold",
+      "NotoSansCJKjp-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Japanese/NotoSansCJKjp-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKjp-DemiLight-1c75600a636f4ca8.otf",
+    "sha256": "1c75600a636f4ca8f5b6fd4e46e8e980e9cd3961ccbb4a3845b81ea3823dc5d2",
+    "size": 16445132,
+    "names": [
+      "DemiLight",
+      "Noto Sans CJK JP",
+      "Noto Sans CJK JP DemiLight",
+      "NotoSansCJKjp-DemiLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Japanese/NotoSansCJKjp-DemiLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKjp-Light-b97dcb6892e6ff73.otf",
+    "sha256": "b97dcb6892e6ff73f58e14294ab1b65f83355a2757f36243673603cff703b4b6",
+    "size": 16360020,
+    "names": [
+      "Light",
+      "Noto Sans CJK JP",
+      "Noto Sans CJK JP Light",
+      "NotoSansCJKjp-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Japanese/NotoSansCJKjp-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKjp-Medium-616a02afade309d6.otf",
+    "sha256": "616a02afade309d6b1046a8d9b0cde2752671fe427f22e7ddd83f5c777161b47",
+    "size": 16554004,
+    "names": [
+      "Medium",
+      "Noto Sans CJK JP",
+      "Noto Sans CJK JP Medium",
+      "NotoSansCJKjp-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Japanese/NotoSansCJKjp-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKjp-Regular-b187b58f52baf72a.otf",
+    "sha256": "b187b58f52baf72a9f71f2cb94ee10331d86bb4bca29e9490fceefdb55ffce35",
+    "size": 16467736,
+    "names": [
+      "Noto Sans CJK JP",
+      "NotoSansCJKjp-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Japanese/NotoSansCJKjp-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKjp-Thin-49b9b78563f7dd21.otf",
+    "sha256": "49b9b78563f7dd21b7947fd6c91cf0af7ddbe53449d1593666b37f64098b9c3e",
+    "size": 14927060,
+    "names": [
+      "Noto Sans CJK JP",
+      "Noto Sans CJK JP Thin",
+      "NotoSansCJKjp-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Japanese/NotoSansCJKjp-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKkr-Black-ae0563535455cabf.otf",
+    "sha256": "ae0563535455cabf4d93ac401168fb100a5e2da759308b985b485d0d6828cea2",
+    "size": 17793656,
+    "names": [
+      "Black",
+      "Noto Sans CJK KR",
+      "Noto Sans CJK KR Black",
+      "NotoSansCJKkr-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Korean/NotoSansCJKkr-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKkr-Bold-68c557ac4511d034.otf",
+    "sha256": "68c557ac4511d0347aa17db2a1cc21819bcb2112d408d73f1ae840e7ffd4a9cb",
+    "size": 16997996,
+    "names": [
+      "Bold",
+      "Noto Sans CJK KR",
+      "Noto Sans CJK KR Bold",
+      "NotoSansCJKkr-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Korean/NotoSansCJKkr-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKkr-DemiLight-deafd44c3d82129c.otf",
+    "sha256": "deafd44c3d82129c141799379158f165bce05e5618d120474ba091f854696faf",
+    "size": 16410508,
+    "names": [
+      "DemiLight",
+      "Noto Sans CJK KR",
+      "Noto Sans CJK KR DemiLight",
+      "NotoSansCJKkr-DemiLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Korean/NotoSansCJKkr-DemiLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKkr-Light-91c9038a5c02710f.otf",
+    "sha256": "91c9038a5c02710f8f32288c561bd594b1b0b9ebb191c29b7980834ae3db533b",
+    "size": 16325396,
+    "names": [
+      "Light",
+      "Noto Sans CJK KR",
+      "Noto Sans CJK KR Light",
+      "NotoSansCJKkr-Light",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Korean/NotoSansCJKkr-Light.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKkr-Medium-4285737320d70da7.otf",
+    "sha256": "4285737320d70da7b870e650464fa226d26dfb3b9619354b73642188e18b1b5a",
+    "size": 16519380,
+    "names": [
+      "Medium",
+      "Noto Sans CJK KR",
+      "Noto Sans CJK KR Medium",
+      "NotoSansCJKkr-Medium",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Korean/NotoSansCJKkr-Medium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKkr-Regular-dcc814c66e8724ce.otf",
+    "sha256": "dcc814c66e8724ce0336826cb67592c566aa345767f51e96a74e300054cd82cd",
+    "size": 16433112,
+    "names": [
+      "Noto Sans CJK KR",
+      "NotoSansCJKkr-Regular",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Korean/NotoSansCJKkr-Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKkr-Thin-cd347cbce839d8b8.otf",
+    "sha256": "cd347cbce839d8b8204a7a003de0f76fa7f7b1cd19b7e171bcb732a49987c4fb",
+    "size": 14892436,
+    "names": [
+      "Noto Sans CJK KR",
+      "Noto Sans CJK KR Thin",
+      "NotoSansCJKkr-Thin",
+      "Regular",
+      "Thin"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/Korean/NotoSansCJKkr-Thin.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKsc-Black-3817d1201883e252.otf",
+    "sha256": "3817d1201883e2527d98da8bf632c4edf33562c5fa405b4cdd43fcb269b06de0",
+    "size": 17797908,
+    "names": [
+      "Black",
+      "Noto Sans CJK SC",
+      "Noto Sans CJK SC Black",
+      "NotoSansCJKsc-Black",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/SimplifiedChinese/NotoSansCJKsc-Black.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKsc-Bold-795ab9612cdd9aca.otf",
+    "sha256": "795ab9612cdd9acac7332b5eaf44e0fc0f7643f91d2ad5fc9dda3368cfc21e23",
+    "size": 17002248,
+    "names": [
+      "Bold",
+      "Noto Sans CJK SC",
+      "Noto Sans CJK SC Bold",
+      "NotoSansCJKsc-Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/SimplifiedChinese/NotoSansCJKsc-Bold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/NotoSansCJKsc-DemiLight-4883f9343857db1e.otf",
+    "sha256": "4883f9343857db1eec10751575b0dbca66a47eba799729382bf30fcd2564ec0e",
+    "size": 16414760,
+    "names": [
+      "DemiLight",
+      "Noto Sans CJK SC",
+      "Noto Sans CJK SC DemiLight",
+      "NotoSansCJKsc-DemiLight",
+      "Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "其它国家/思源黑体(谷歌完整版2.004)/OTF/SimplifiedChinese/NotoSansCJKsc-DemiLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/6a73f9541c2de741-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
