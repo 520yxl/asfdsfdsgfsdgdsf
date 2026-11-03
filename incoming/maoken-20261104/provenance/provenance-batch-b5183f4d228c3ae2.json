@@ -1,0 +1,881 @@
+[
+  {
+    "font": "incoming/ShangguSerif-Heavy-920f098babc49254.ttf",
+    "sha256": "920f098babc49254075eb01508e44aacb792405063795a5608e6a3cd5df02811",
+    "size": 23700176,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Shanggu Serif",
+      "Shanggu Serif Heavy",
+      "ShangguSerif-Heavy",
+      "尙古明体",
+      "尙古明体 Heavy",
+      "尙古明體",
+      "尙古明體 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古明体_猫啃网/尚古明体/ShangguSerif-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguSerif-Light-ed9299e7aa605ff6.ttf",
+    "sha256": "ed9299e7aa605ff6a69efa29b2a8185503a4965e978e037f6ff158d07fb78eef",
+    "size": 23699344,
+    "names": [
+      "Light",
+      "Regular",
+      "Shanggu Serif",
+      "Shanggu Serif Light",
+      "ShangguSerif-Light",
+      "尙古明体",
+      "尙古明体 Light",
+      "尙古明體",
+      "尙古明體 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古明体_猫啃网/尚古明体/ShangguSerif-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguSerif-Medium-d57525576273a026.ttf",
+    "sha256": "d57525576273a026bcb892c96ad4381efd15e77884b73329ed282829738cf1bb",
+    "size": 23699476,
+    "names": [
+      "Medium",
+      "Regular",
+      "Shanggu Serif",
+      "Shanggu Serif Medium",
+      "ShangguSerif-Medium",
+      "尙古明体",
+      "尙古明体 Medium",
+      "尙古明體",
+      "尙古明體 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古明体_猫啃网/尚古明体/ShangguSerif-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguSerif-Regular-ca8ab23e25b3dc1e.ttf",
+    "sha256": "ca8ab23e25b3dc1e9adc759308584e752b1e1e802ae6d492ea892a4cc1935830",
+    "size": 23703852,
+    "names": [
+      "Regular",
+      "Shanggu Serif",
+      "Shanggu Serif Regular",
+      "ShangguSerif-Regular",
+      "尙古明体",
+      "尙古明体 Regular",
+      "尙古明體",
+      "尙古明體 Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古明体_猫啃网/尚古明体/ShangguSerif-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguSerif-SemiBold-cbf208056c47faeb.ttf",
+    "sha256": "cbf208056c47faeb92a7a31cd6d3ddd85457f7184ba015687fa73b5b552e2a98",
+    "size": 23703760,
+    "names": [
+      "Regular",
+      "SemiBold",
+      "Shanggu Serif",
+      "Shanggu Serif SemiBold",
+      "ShangguSerif-SemiBold",
+      "尙古明体",
+      "尙古明体 SemiBold",
+      "尙古明體",
+      "尙古明體 SemiBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古明体_猫啃网/尚古明体/ShangguSerif-SemiBold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguRound-Bold-00dbf2cee6a031cb.ttf",
+    "sha256": "00dbf2cee6a031cb2d4bf1bef0ac9020ac213cceada7ba29c9497f81d30c1ae7",
+    "size": 19984300,
+    "names": [
+      "Bold",
+      "Shanggu Round",
+      "Shanggu Round Bold",
+      "ShangguRound-Bold",
+      "尙古圆体",
+      "尙古圆体 Bold",
+      "尙古圓體",
+      "尙古圓體 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古圆体_猫啃网/尚古圆体/ShangguRound-Bold.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguRound-ExtraLight-e5113a50eef8fa5b.ttf",
+    "sha256": "e5113a50eef8fa5b718a7d9865f2bbbc622a5095dbb0d396ee77b105941e6466",
+    "size": 22357964,
+    "names": [
+      "ExtraLight",
+      "Regular",
+      "Shanggu Round",
+      "Shanggu Round ExtraLight",
+      "ShangguRound-ExtraLight",
+      "尙古圆体",
+      "尙古圆体 ExtraLight",
+      "尙古圓體",
+      "尙古圓體 ExtraLight"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古圆体_猫啃网/尚古圆体/ShangguRound-ExtraLight.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguRound-Heavy-889832ce41ca2691.ttf",
+    "sha256": "889832ce41ca2691ef7ed5d35e2a2df56caa3384b734b135e1dcfd17f46e0511",
+    "size": 20522648,
+    "names": [
+      "Heavy",
+      "Regular",
+      "Shanggu Round",
+      "Shanggu Round Heavy",
+      "ShangguRound-Heavy",
+      "尙古圆体",
+      "尙古圆体 Heavy",
+      "尙古圓體",
+      "尙古圓體 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古圆体_猫啃网/尚古圆体/ShangguRound-Heavy.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguRound-Light-94ed5b96fe7d1371.ttf",
+    "sha256": "94ed5b96fe7d13710be2538a642afcd55c0e641e316cce16e0846eff3219b916",
+    "size": 21980300,
+    "names": [
+      "Light",
+      "Regular",
+      "Shanggu Round",
+      "Shanggu Round Light",
+      "ShangguRound-Light",
+      "尙古圆体",
+      "尙古圆体 Light",
+      "尙古圓體",
+      "尙古圓體 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古圆体_猫啃网/尚古圆体/ShangguRound-Light.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguRound-Medium-b909052112effed3.ttf",
+    "sha256": "b909052112effed3b951d08af98483206fbda95de8c9e6d33ad1442f542e9f58",
+    "size": 20763440,
+    "names": [
+      "Medium",
+      "Regular",
+      "Shanggu Round",
+      "Shanggu Round Medium",
+      "ShangguRound-Medium",
+      "尙古圆体",
+      "尙古圆体 Medium",
+      "尙古圓體",
+      "尙古圓體 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古圆体_猫啃网/尚古圆体/ShangguRound-Medium.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguRound-Normal-fa5f87000881156c.ttf",
+    "sha256": "fa5f87000881156c722778a7120a04d4ae18400e33a885d09f1c7e967ed776a6",
+    "size": 21427716,
+    "names": [
+      "Normal",
+      "Regular",
+      "Shanggu Round",
+      "Shanggu Round Normal",
+      "ShangguRound-Normal",
+      "尙古圆体",
+      "尙古圆体 Normal",
+      "尙古圓體",
+      "尙古圓體 Normal"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古圆体_猫啃网/尚古圆体/ShangguRound-Normal.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ShangguRound-Regular-d2225a8e296d7372.ttf",
+    "sha256": "d2225a8e296d737255d911ea09602d3d56ead05a9b8685426115b3d1d29d7cc3",
+    "size": 21209616,
+    "names": [
+      "Regular",
+      "Shanggu Round",
+      "Shanggu Round Regular",
+      "ShangguRound-Regular",
+      "尙古圆体",
+      "尙古圆体 Regular",
+      "尙古圓體",
+      "尙古圓體 Regular"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/尚古圆体_猫啃网/尚古圆体/ShangguRound-Regular.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-545da6caa6fdca53.ttf",
+    "sha256": "545da6caa6fdca5385b1e9b5fd6391749fbe674be99adf42481d3a2b593aca7c",
+    "size": 6244180,
+    "names": [
+      "HongLeiXiaozhitiao",
+      "Regular",
+      "________ ",
+      "regular",
+      "常规",
+      "鸿雷小纸条青春体",
+      "鸿雷小纸条青春体 "
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/小纸条青春体1.001_猫啃网/小纸条青春体1.001/鸿雷小纸条青春体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-26a62c48005a0fb6.ttf",
+    "sha256": "26a62c48005a0fb69d1c630693a026df6a6aec81877fa84df75935adf812dd16",
+    "size": 10707360,
+    "names": [
+      "",
+      "-",
+      "Regular",
+      "小箱子荣耀体",
+      "常规"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/小箱子荣耀体_猫啃网/小箱子荣耀体/小箱子荣耀体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-0e3be254f96a929e.ttf",
+    "sha256": "0e3be254f96a929e4ea5af422d7329e222b816a9cd5c873510b88c6b22748455",
+    "size": 6127304,
+    "names": [
+      "Regular",
+      "SyaoranThenKhung",
+      "SyaoranThenKhung-Regular",
+      "____",
+      "小狼天穹"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/小狼天穹_猫啃网/小狼天穹/小狼天穹.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/3c17a8394f32ef59-LICENSE.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-1e9bb17c77d96bf0.ttf",
+    "sha256": "1e9bb17c77d96bf0b141f2e53ba69c602cd5120230c158ea1c38779253b31d97",
+    "size": 4713876,
+    "names": [
+      "Reg",
+      "Regular",
+      "ZQK",
+      "ZQKNLT",
+      "ZQKNLT ",
+      "ZQKNLT Regular",
+      "ZQKNLT-",
+      "ZQKNLT-Regular",
+      "小可奶酪体 商用免费@庆科字体",
+      "常规"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/小可奶酪体_猫啃网/小可奶酪体/小可奶酪体.ttf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/font-f2f413e1716d1e98.otf",
+    "sha256": "f2f413e1716d1e98429f63716c2fe4af85490324c9ff988d95331e9292ba0401",
+    "size": 9909328,
+    "names": [
+      "Chill G Sans",
+      "Chill G Sans Medium",
+      "ChillGSans",
+      "Medium",
+      "Regular",
+      "_____",
+      "寒蝉高黑体",
+      "寒蟬高黑體"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉高黑体1.100_猫啃网 -/寒蝉高黑体/寒蝉高黑体.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/697383c6addd5dd1-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongBold-7302546612441815.otf",
+    "sha256": "7302546612441815342005e4f1934bdfd62d27a0553b42b5ed6dd1e9f8b820b2",
+    "size": 24341872,
+    "names": [
+      "Bold",
+      "ChillJinshuSongBold",
+      "Regular",
+      "_____Bold",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Bold",
+      "寒蝉锦书宋Bold",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongBold.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongCompactExtraBold-60887cf0ea49af47.otf",
+    "sha256": "60887cf0ea49af47c6bb6c4815a3f21cdc42f1ad64891c2dc6ebf66f6aebbdc6",
+    "size": 23884628,
+    "names": [
+      "ChillJinshuSongCompactExtraBold",
+      "ExtraBold",
+      "Regular",
+      "_____CompactExtraBold",
+      "寒蝉锦书宋Compact",
+      "寒蝉锦书宋Compact ExtraBold",
+      "寒蝉锦书宋CompactExtraBold",
+      "寒蟬錦書宋 Compact",
+      "寒蟬錦書宋 Compact ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongCompactExtraBold.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongCompactLight-db8abf5064d620ce.otf",
+    "sha256": "db8abf5064d620cea56dcff690eda5bdbf193694b222e64fe1eb6bfb6bc08098",
+    "size": 24541340,
+    "names": [
+      "ChillJinshuSongCompactLight",
+      "Light",
+      "Regular",
+      "_____CompactLight",
+      "寒蝉锦书宋Compact",
+      "寒蝉锦书宋Compact Light",
+      "寒蝉锦书宋CompactLight",
+      "寒蟬錦書宋 Compact",
+      "寒蟬錦書宋 Compact Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongCompactLight.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongCompactRegular-bfc97f6d884cf8d1.otf",
+    "sha256": "bfc97f6d884cf8d18f90896c2580fbc2da8b3f97c418e95544476317ea4d71e8",
+    "size": 24454572,
+    "names": [
+      "ChillJinshuSongCompactRegular",
+      "Regular",
+      "_____CompactRegular",
+      "寒蝉锦书宋Compact",
+      "寒蝉锦书宋CompactRegular",
+      "寒蟬錦書宋 Compact"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongCompactRegular.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongHeavy-9f276ce6232a8a80.otf",
+    "sha256": "9f276ce6232a8a801840baf405066537c701ec9951477aadc1820a1f42a89670",
+    "size": 23783860,
+    "names": [
+      "ChillJinshuSongHeavy",
+      "Heavy",
+      "Regular",
+      "_____Heavy",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Heavy",
+      "寒蝉锦书宋Heavy",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongHeavy.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongLight-afd63c8674ee41e5.otf",
+    "sha256": "afd63c8674ee41e5b7e6ea2d44bae25aad4fe979a31704e11e8a7504a51cfd0c",
+    "size": 25382560,
+    "names": [
+      "ChillJinshuSongLight",
+      "Light",
+      "Regular",
+      "_____Light",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Light",
+      "寒蝉锦书宋Light",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongLight.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongMedium-bc1d938e727096f9.otf",
+    "sha256": "bc1d938e727096f9a140046d988489e6816652b886a7fdca02f629445629baa5",
+    "size": 24825552,
+    "names": [
+      "ChillJinshuSongMedium",
+      "Medium",
+      "Regular",
+      "_____Medium",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Medium",
+      "寒蝉锦书宋Medium",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongMedium.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongRegular-413f6ed710e632a9.otf",
+    "sha256": "413f6ed710e632a94b3f02d241e9c176e97251032480711b3cdecccb22ab1195",
+    "size": 25087860,
+    "names": [
+      "ChillJinshuSongRegular",
+      "Regular",
+      "_____Regular",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋Regular",
+      "寒蟬錦書宋"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongRegular.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongTextMedium-162333e46e840207.otf",
+    "sha256": "162333e46e840207506c3988de01c7c0b526d5cf414e4548f7bf8b6f48285624",
+    "size": 24434132,
+    "names": [
+      "ChillJinshuSongTextMedium",
+      "Medium",
+      "Regular",
+      "_____TextMedium",
+      "寒蝉锦书宋Text",
+      "寒蝉锦书宋Text Medium",
+      "寒蝉锦书宋TextMedium",
+      "寒蟬錦書宋 Text",
+      "寒蟬錦書宋 Text Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongTextMedium.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongTextRegular-e2e531040b86b66d.otf",
+    "sha256": "e2e531040b86b66d94016707a044f3f2658f81eb9fef358c8b0ddf1ebb628090",
+    "size": 25012564,
+    "names": [
+      "ChillJinshuSongTextRegular",
+      "Regular",
+      "_____TextRegular",
+      "寒蝉锦书宋Text",
+      "寒蝉锦书宋TextRegular",
+      "寒蟬錦書宋 Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongTextRegular.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongWideExtraBold-ad99de998cd3b7f0.otf",
+    "sha256": "ad99de998cd3b7f0625fb8d723d6b8e62136e71510018cab0764dcb82a42a5b3",
+    "size": 24026284,
+    "names": [
+      "ChillJinshuSongWideExtraBold",
+      "ExtraBold",
+      "Regular",
+      "_____WideExtraBold",
+      "寒蝉锦书宋Wide",
+      "寒蝉锦书宋Wide ExtraBold",
+      "寒蝉锦书宋WideExtraBold",
+      "寒蟬錦書宋Wide",
+      "寒蟬錦書宋Wide ExtraBold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongWideExtraBold.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongWideRegular-a7c348d5c3e0cb71.otf",
+    "sha256": "a7c348d5c3e0cb71372366b9749c57aa2c97514f538b12c178284805d7747fad",
+    "size": 24689952,
+    "names": [
+      "ChillJinshuSongWideRegular",
+      "Regular",
+      "_____WideRegular",
+      "寒蝉锦书宋Wide",
+      "寒蝉锦书宋WideRegular",
+      "寒蟬錦書宋Wide"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋Pro_v1.7/寒蝉锦书宋Pro_v1.7/ChillJinshuSongWideRegular.otf"
+    ],
+    "license_documents": [],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongPro_Italic-8b1934b550a488bf.otf",
+    "sha256": "8b1934b550a488bf5c044350af5e6ae6497a5bfb51480f8b4133b78082234138",
+    "size": 25800948,
+    "names": [
+      "ChillJinshuSongPro_Italic",
+      "Italic",
+      "_____Pro_Italic",
+      "寒蝉锦书宋Pro",
+      "寒蝉锦书宋Pro_Italic",
+      "寒蟬錦書宋Pro"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋Pro/ChillJinshuSongPro_Italic.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongPro_Regular-c21b75df0b328b17.otf",
+    "sha256": "c21b75df0b328b1773f9023b5625e026d023a32ee85786f869f8827627f61e33",
+    "size": 28309680,
+    "names": [
+      "ChillJinshuSongPro_Regular",
+      "Regular",
+      "_____Pro_Regular",
+      "寒蝉锦书宋Pro",
+      "寒蝉锦书宋Pro_Regular",
+      "寒蟬錦書宋Pro"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋Pro/ChillJinshuSongPro_Regular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongPro_Soft-c353b5d4661c315a.otf",
+    "sha256": "c353b5d4661c315a379c09b620be892c3f88fe283a5893b561fddcfe65c35665",
+    "size": 33096048,
+    "names": [
+      "ChillJinshuSongPro_Soft",
+      "Regular",
+      "Soft",
+      "_____Pro_Soft",
+      "寒蝉锦书宋Pro",
+      "寒蝉锦书宋Pro Soft",
+      "寒蝉锦书宋Pro_Soft",
+      "寒蟬錦書宋Pro",
+      "寒蟬錦書宋Pro Soft"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋Pro/ChillJinshuSongPro_Soft.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongBold-81db47be8461689a.otf",
+    "sha256": "81db47be8461689a4fd69212dc44d9106c6c98986a9fcecf135d125d2df19608",
+    "size": 15651488,
+    "names": [
+      "Bold",
+      "ChillJinshuSongBold",
+      "Regular",
+      "_____Bold",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Bold",
+      "寒蝉锦书宋Bold",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Bold"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋GB/otf/ChillJinshuSongBold.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongHeavy-ef82c300b96641b6.otf",
+    "sha256": "ef82c300b96641b676681646f46762a46db914b0108d0b49cabd487198fdc1dd",
+    "size": 15342340,
+    "names": [
+      "ChillJinshuSongHeavy",
+      "Heavy",
+      "Regular",
+      "_____Heavy",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Heavy",
+      "寒蝉锦书宋Heavy",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Heavy"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋GB/otf/ChillJinshuSongHeavy.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongLight-4ccdeac80cf5cf40.otf",
+    "sha256": "4ccdeac80cf5cf40a1d7dee39d8251925684af71dba539bc85847948f7edb405",
+    "size": 16466876,
+    "names": [
+      "ChillJinshuSongLight",
+      "Light",
+      "Regular",
+      "_____Light",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Light",
+      "寒蝉锦书宋Light",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Light"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋GB/otf/ChillJinshuSongLight.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongMedium-063eada4b1ba2228.otf",
+    "sha256": "063eada4b1ba2228480c1577222ea8cc09821839eac12c518575261f17814db5",
+    "size": 16024064,
+    "names": [
+      "ChillJinshuSongMedium",
+      "Medium",
+      "Regular",
+      "_____Medium",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Medium",
+      "寒蝉锦书宋Medium",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Medium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋GB/otf/ChillJinshuSongMedium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongRegular-ef86011355601fd1.otf",
+    "sha256": "ef86011355601fd158bc8800870e5946e3158cc1650691580627e9b45980bdb2",
+    "size": 16188244,
+    "names": [
+      "ChillJinshuSongRegular",
+      "Regular",
+      "_____Regular",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋Regular",
+      "寒蟬錦書宋"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋GB/otf/ChillJinshuSongRegular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongTextMedium-839b2a9a0267e051.otf",
+    "sha256": "839b2a9a0267e051f2cd606d5c91b17cbf609d7a37afed8e092e328a5293d8ec",
+    "size": 15901176,
+    "names": [
+      "ChillJinshuSongTextMedium",
+      "Regular",
+      "TextMedium",
+      "_____TextMedium",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 TextMedium",
+      "寒蝉锦书宋TextMedium",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 TextMedium"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋GB/otf/ChillJinshuSongTextMedium.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/ChillJinshuSongTextRegular-05b37c02ceb3172c.otf",
+    "sha256": "05b37c02ceb3172cf6cdad6a333025ba348d6d120b81465854b6b1af55b7ba10",
+    "size": 16349540,
+    "names": [
+      "ChillJinshuSongTextRegular",
+      "Regular",
+      "TextRegular",
+      "_____TextRegular",
+      "寒蝉锦书宋",
+      "寒蝉锦书宋 Text",
+      "寒蝉锦书宋TextRegular",
+      "寒蟬錦書宋",
+      "寒蟬錦書宋 Text"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国大陆/寒蝉锦书宋2.0_猫啃网/寒蝉锦书宋2.0/寒蝉锦书宋GB/otf/ChillJinshuSongTextRegular.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
