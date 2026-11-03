@@ -1,0 +1,1198 @@
+[
+  {
+    "font": "incoming/GenRyuMin2TC-M-4b5006c22df84031.otf",
+    "sha256": "4b5006c22df84031181378b6f4af7dfea40e7704c7c8e144de45e44a51f9a425",
+    "size": 16409676,
+    "names": [
+      "GenRyuMin2 TC",
+      "GenRyuMin2 TC M",
+      "GenRyuMin2TC-M",
+      "M",
+      "Regular",
+      "源流明體丹",
+      "源流明體丹 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2TC-otf/GenRyuMin2TC-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenRyuMin2TC-SB-4d1f18a5e05423cd.otf",
+    "sha256": "4d1f18a5e05423cdb8f54e2f2e22015b4b4da79ab8fb9c5501871f5bdd77538f",
+    "size": 16331776,
+    "names": [
+      "GenRyuMin2 TC",
+      "GenRyuMin2 TC SB",
+      "GenRyuMin2TC-SB",
+      "Regular",
+      "SB",
+      "源流明體丹",
+      "源流明體丹 SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源流明体2.100_猫啃网/源流明体2.100/GenRyuMin2TC-otf/GenRyuMin2TC-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2JP-B-84c6ed022b4a8d41.otf",
+    "sha256": "84c6ed022b4a8d415229fae6f8b4aaeb1121868bec547675523b4e759428c86e",
+    "size": 13415784,
+    "names": [
+      "B",
+      "GenKiMin2 JP",
+      "GenKiMin2 JP B",
+      "GenKiMin2JP-B",
+      "Regular",
+      "源起明朝",
+      "源起明朝 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenKiMin2JP-B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2JP-EL-ecdc373b67054442.otf",
+    "sha256": "ecdc373b670544422176de64baa4c6d55de526dd4ce41c75200434da5bfc0f23",
+    "size": 13445372,
+    "names": [
+      "EL",
+      "GenKiMin2 JP",
+      "GenKiMin2 JP EL",
+      "GenKiMin2JP-EL",
+      "Regular",
+      "源起明朝",
+      "源起明朝 EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenKiMin2JP-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2JP-H-371c9b6e0ac1d9a2.otf",
+    "sha256": "371c9b6e0ac1d9a2d79a2f11db112380e186c97392c74bd4cf2d686c26a11dcc",
+    "size": 13457840,
+    "names": [
+      "GenKiMin2 JP",
+      "GenKiMin2 JP H",
+      "GenKiMin2JP-H",
+      "H",
+      "Regular",
+      "源起明朝",
+      "源起明朝 H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenKiMin2JP-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2JP-L-b41a8cb0750cfc80.otf",
+    "sha256": "b41a8cb0750cfc8077678b9d880ac23c174a0df20c4305a2616c462d909e156d",
+    "size": 13421476,
+    "names": [
+      "GenKiMin2 JP",
+      "GenKiMin2 JP L",
+      "GenKiMin2JP-L",
+      "L",
+      "Regular",
+      "源起明朝",
+      "源起明朝 L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenKiMin2JP-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2JP-M-58efc3941e528e48.otf",
+    "sha256": "58efc3941e528e48bd43d7b6ff5f4641c6396118075ad73d2397bf0b4252a554",
+    "size": 13404328,
+    "names": [
+      "GenKiMin2 JP",
+      "GenKiMin2 JP M",
+      "GenKiMin2JP-M",
+      "M",
+      "Regular",
+      "源起明朝",
+      "源起明朝 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenKiMin2JP-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2JP-R-64a2bf99e7ca970e.otf",
+    "sha256": "64a2bf99e7ca970e7a032a872d14266e4d61c2a804f62a57cf9281f6bfeee18c",
+    "size": 13397608,
+    "names": [
+      "GenKiMin2 JP",
+      "GenKiMin2 JP R",
+      "GenKiMin2JP-R",
+      "R",
+      "Regular",
+      "源起明朝",
+      "源起明朝 R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenKiMin2JP-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2JP-SB-7d4a48daa2896e75.otf",
+    "sha256": "7d4a48daa2896e754c4ff25cf6202b764e40edc3c05dd8dc98358f1b6c361ee4",
+    "size": 13397040,
+    "names": [
+      "GenKiMin2 JP",
+      "GenKiMin2 JP SB",
+      "GenKiMin2JP-SB",
+      "Regular",
+      "SB",
+      "源起明朝",
+      "源起明朝 SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenKiMin2JP-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2JP-B-d47fa2db278ae09b.otf",
+    "sha256": "d47fa2db278ae09b104569c40c86baa761ffc5221a0d0a7ba4ad9399db15e662",
+    "size": 16466780,
+    "names": [
+      "B",
+      "GenYoMin2 JP",
+      "GenYoMin2 JP B",
+      "GenYoMin2JP-B",
+      "Regular",
+      "源様明朝",
+      "源様明朝 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenYoMin2JP-B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2JP-EL-ad88f3b71ee0603d.otf",
+    "sha256": "ad88f3b71ee0603d10a515e29eb2bd0dee991a674f088f70e76cd8d266af11b6",
+    "size": 16109176,
+    "names": [
+      "EL",
+      "GenYoMin2 JP",
+      "GenYoMin2 JP EL",
+      "GenYoMin2JP-EL",
+      "Regular",
+      "源様明朝",
+      "源様明朝 EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenYoMin2JP-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2JP-H-c8c6a574183fb994.otf",
+    "sha256": "c8c6a574183fb994293c8a4fb61102330f438ec2e1b909fad67be3d113d998fb",
+    "size": 16798412,
+    "names": [
+      "GenYoMin2 JP",
+      "GenYoMin2 JP H",
+      "GenYoMin2JP-H",
+      "H",
+      "Regular",
+      "源様明朝",
+      "源様明朝 H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenYoMin2JP-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2JP-L-b2ba79fba4ca6ef3.otf",
+    "sha256": "b2ba79fba4ca6ef31e8e2c1ff7db5203bcfd8d9bab806d9e5912ebf32861dbe3",
+    "size": 16158880,
+    "names": [
+      "GenYoMin2 JP",
+      "GenYoMin2 JP L",
+      "GenYoMin2JP-L",
+      "L",
+      "Regular",
+      "源様明朝",
+      "源様明朝 L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenYoMin2JP-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2JP-M-e655e9779b942f98.otf",
+    "sha256": "e655e9779b942f9819bb76980a78b13c435553e95e835b98ecc32a65df573bbd",
+    "size": 16236176,
+    "names": [
+      "GenYoMin2 JP",
+      "GenYoMin2 JP M",
+      "GenYoMin2JP-M",
+      "M",
+      "Regular",
+      "源様明朝",
+      "源様明朝 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenYoMin2JP-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2JP-R-bc9066c96202b978.otf",
+    "sha256": "bc9066c96202b97815a1b9c867c0fc5228d2aa165d0343a341734c738f16dab9",
+    "size": 16188988,
+    "names": [
+      "GenYoMin2 JP",
+      "GenYoMin2 JP R",
+      "GenYoMin2JP-R",
+      "R",
+      "Regular",
+      "源様明朝",
+      "源様明朝 R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenYoMin2JP-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2JP-SB-114a30ccef0c79f3.otf",
+    "sha256": "114a30ccef0c79f3100aeda66e9ef64b94cbfad7141eb41442ca69c21cf888e1",
+    "size": 16294204,
+    "names": [
+      "GenYoMin2 JP",
+      "GenYoMin2 JP SB",
+      "GenYoMin2JP-SB",
+      "Regular",
+      "SB",
+      "源様明朝",
+      "源様明朝 SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/JP/GenYoMin2JP-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2PJP-B-4c631b0558bfbf24.otf",
+    "sha256": "4c631b0558bfbf244d9dcf1b498efaa8337414934464d426dd542f76631d4048",
+    "size": 13414140,
+    "names": [
+      "B",
+      "GenKiMin2 PJP",
+      "GenKiMin2 PJP B",
+      "GenKiMin2PJP-B",
+      "Regular",
+      "源起明朝P",
+      "源起明朝P B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenKiMin2PJP-B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2PJP-EL-fb6da99e0a4eb133.otf",
+    "sha256": "fb6da99e0a4eb133ab8512e6c25c76469dc9af2285d4b656cbaa35c1f7d1113f",
+    "size": 13443984,
+    "names": [
+      "EL",
+      "GenKiMin2 PJP",
+      "GenKiMin2 PJP EL",
+      "GenKiMin2PJP-EL",
+      "Regular",
+      "源起明朝P",
+      "源起明朝P EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenKiMin2PJP-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2PJP-H-e744e07591de9108.otf",
+    "sha256": "e744e07591de910896ccc433d82793f19d3ac6f16fa5e09a71a3658ace1ec208",
+    "size": 13456200,
+    "names": [
+      "GenKiMin2 PJP",
+      "GenKiMin2 PJP H",
+      "GenKiMin2PJP-H",
+      "H",
+      "Regular",
+      "源起明朝P",
+      "源起明朝P H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenKiMin2PJP-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2PJP-L-d387e0f41595aa98.otf",
+    "sha256": "d387e0f41595aa98a6dd98ee1671d9d3ae892d6d5de2fc050dff11a60ce5d318",
+    "size": 13420084,
+    "names": [
+      "GenKiMin2 PJP",
+      "GenKiMin2 PJP L",
+      "GenKiMin2PJP-L",
+      "L",
+      "Regular",
+      "源起明朝P",
+      "源起明朝P L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenKiMin2PJP-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2PJP-M-694f94bc99146b12.otf",
+    "sha256": "694f94bc99146b1283dab2169218e3e8710bfafdb4400fcb7b9b2badc003910a",
+    "size": 13402940,
+    "names": [
+      "GenKiMin2 PJP",
+      "GenKiMin2 PJP M",
+      "GenKiMin2PJP-M",
+      "M",
+      "Regular",
+      "源起明朝P",
+      "源起明朝P M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenKiMin2PJP-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2PJP-R-8be18c6226d15400.otf",
+    "sha256": "8be18c6226d15400a672b4b3bdd44fc7b53b677e70d9b0f6b5a7677c51b9b70f",
+    "size": 13396216,
+    "names": [
+      "GenKiMin2 PJP",
+      "GenKiMin2 PJP R",
+      "GenKiMin2PJP-R",
+      "R",
+      "Regular",
+      "源起明朝P",
+      "源起明朝P R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenKiMin2PJP-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2PJP-SB-547bb7c8a447b4b1.otf",
+    "sha256": "547bb7c8a447b4b17f30bc9de0b3226e37647d67c2e3177b16d11a22cba6061c",
+    "size": 13395400,
+    "names": [
+      "GenKiMin2 PJP",
+      "GenKiMin2 PJP SB",
+      "GenKiMin2PJP-SB",
+      "Regular",
+      "SB",
+      "源起明朝P",
+      "源起明朝P SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenKiMin2PJP-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2PJP-B-a3f47f6bcde54f55.otf",
+    "sha256": "a3f47f6bcde54f5577773df02f073a8399f42c40830d6bcb0d63d45653ec93a0",
+    "size": 16465132,
+    "names": [
+      "B",
+      "GenYoMin2 PJP",
+      "GenYoMin2 PJP B",
+      "GenYoMin2PJP-B",
+      "Regular",
+      "源様明朝P",
+      "源様明朝P B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenYoMin2PJP-B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2PJP-EL-c6519091b2601667.otf",
+    "sha256": "c6519091b2601667e33e74ff0916405f92e109a772faa24a9974fda639767687",
+    "size": 16107784,
+    "names": [
+      "EL",
+      "GenYoMin2 PJP",
+      "GenYoMin2 PJP EL",
+      "GenYoMin2PJP-EL",
+      "Regular",
+      "源様明朝P",
+      "源様明朝P EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenYoMin2PJP-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2PJP-H-853380dc19749a37.otf",
+    "sha256": "853380dc19749a3759951f5b361438501727beeb2aaabe7066096c1cf4897d6a",
+    "size": 16796772,
+    "names": [
+      "GenYoMin2 PJP",
+      "GenYoMin2 PJP H",
+      "GenYoMin2PJP-H",
+      "H",
+      "Regular",
+      "源様明朝P",
+      "源様明朝P H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenYoMin2PJP-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2PJP-L-1539ee4afc92d588.otf",
+    "sha256": "1539ee4afc92d58819a0ca6f3d7c1d52a38c517079e4b9ccf75e902755bb5bcd",
+    "size": 16157492,
+    "names": [
+      "GenYoMin2 PJP",
+      "GenYoMin2 PJP L",
+      "GenYoMin2PJP-L",
+      "L",
+      "Regular",
+      "源様明朝P",
+      "源様明朝P L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenYoMin2PJP-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2PJP-M-bbad50143caa127c.otf",
+    "sha256": "bbad50143caa127c30806ad9a8c3f69ec51ad66fe8be85509f5c465047fe3bdc",
+    "size": 16234788,
+    "names": [
+      "GenYoMin2 PJP",
+      "GenYoMin2 PJP M",
+      "GenYoMin2PJP-M",
+      "M",
+      "Regular",
+      "源様明朝P",
+      "源様明朝P M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenYoMin2PJP-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2PJP-R-e2ff44741d524caa.otf",
+    "sha256": "e2ff44741d524caadd501bd6c82a0179b890260a427b438779fc78f9d9794d2f",
+    "size": 16187600,
+    "names": [
+      "GenYoMin2 PJP",
+      "GenYoMin2 PJP R",
+      "GenYoMin2PJP-R",
+      "R",
+      "Regular",
+      "源様明朝P",
+      "源様明朝P R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenYoMin2PJP-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2PJP-SB-e6af918a36028a0b.otf",
+    "sha256": "e6af918a36028a0b18ab3a59b0778111d7286cac9752d24e6280bef4d8e34900",
+    "size": 16292564,
+    "names": [
+      "GenYoMin2 PJP",
+      "GenYoMin2 PJP SB",
+      "GenYoMin2PJP-SB",
+      "Regular",
+      "SB",
+      "源様明朝P",
+      "源様明朝P SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/PJP/GenYoMin2PJP-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TC-B-900f2d1343f5c569.otf",
+    "sha256": "900f2d1343f5c5698d17bbb19abafc9f11124642ad2fe4d780c2483e2b32f6be",
+    "size": 13453048,
+    "names": [
+      "B",
+      "GenKiMin2 TC",
+      "GenKiMin2 TC B",
+      "GenKiMin2TC-B",
+      "Regular",
+      "源起明體丹",
+      "源起明體丹 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenKiMin2TC-B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TC-EL-cbb47870f03942ca.otf",
+    "sha256": "cbb47870f03942cacc445ab78636c24b320e3a74fd82a478e64631c114438ead",
+    "size": 13482668,
+    "names": [
+      "EL",
+      "GenKiMin2 TC",
+      "GenKiMin2 TC EL",
+      "GenKiMin2TC-EL",
+      "Regular",
+      "源起明體丹",
+      "源起明體丹 EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenKiMin2TC-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TC-H-e0e025e7a25525a5.otf",
+    "sha256": "e0e025e7a25525a5c41b40cb14fa9f133a7b3f69904fdc9e82e89c27c7d5b5ae",
+    "size": 13495104,
+    "names": [
+      "GenKiMin2 TC",
+      "GenKiMin2 TC H",
+      "GenKiMin2TC-H",
+      "H",
+      "Regular",
+      "源起明體丹",
+      "源起明體丹 H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenKiMin2TC-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TC-L-aaeb39733bdf4145.otf",
+    "sha256": "aaeb39733bdf4145c78124459889d46598c0795e75991cbd50127375f43d3e44",
+    "size": 13458772,
+    "names": [
+      "GenKiMin2 TC",
+      "GenKiMin2 TC L",
+      "GenKiMin2TC-L",
+      "L",
+      "Regular",
+      "源起明體丹",
+      "源起明體丹 L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenKiMin2TC-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TC-M-20566af30c10d782.otf",
+    "sha256": "20566af30c10d782022f5ad1826fad2ca98d325f9d222ebeeba6f5fa258e0a12",
+    "size": 13441628,
+    "names": [
+      "GenKiMin2 TC",
+      "GenKiMin2 TC M",
+      "GenKiMin2TC-M",
+      "M",
+      "Regular",
+      "源起明體丹",
+      "源起明體丹 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenKiMin2TC-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TC-R-3c8873896d94723d.otf",
+    "sha256": "3c8873896d94723d241ab974b4c86bc03374ebaf3134c3b48c462ad5bea449ce",
+    "size": 13434908,
+    "names": [
+      "GenKiMin2 TC",
+      "GenKiMin2 TC R",
+      "GenKiMin2TC-R",
+      "R",
+      "Regular",
+      "源起明體丹",
+      "源起明體丹 R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenKiMin2TC-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TC-SB-a0b65097406428c8.otf",
+    "sha256": "a0b65097406428c89ddd24d26018992eb217f75b1d461cde8ddca2e4e3d2c06a",
+    "size": 13434324,
+    "names": [
+      "GenKiMin2 TC",
+      "GenKiMin2 TC SB",
+      "GenKiMin2TC-SB",
+      "Regular",
+      "SB",
+      "源起明體丹",
+      "源起明體丹 SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenKiMin2TC-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2TC-EL-5eee344ded008cca.otf",
+    "sha256": "5eee344ded008ccab7dccf3db86144ac519b73c31db58878810be137a9470e3b",
+    "size": 16146472,
+    "names": [
+      "EL",
+      "GenYoMin2 TC",
+      "GenYoMin2 TC EL",
+      "GenYoMin2TC-EL",
+      "Regular",
+      "源樣明體丹",
+      "源樣明體丹 EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenYoMin2TC-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2TC-H-3f694f36d8cf1bf5.otf",
+    "sha256": "3f694f36d8cf1bf56ae1181c9b976ff37c7d1dfa88cab4b0905538bd1ce3c0f4",
+    "size": 16835676,
+    "names": [
+      "GenYoMin2 TC",
+      "GenYoMin2 TC H",
+      "GenYoMin2TC-H",
+      "H",
+      "Regular",
+      "源樣明體丹",
+      "源樣明體丹 H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenYoMin2TC-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2TC-L-18f79ceab59e6b5d.otf",
+    "sha256": "18f79ceab59e6b5d5f6245da1ab72b437e8bbf74278b67b7c573de0f255074c4",
+    "size": 16196176,
+    "names": [
+      "GenYoMin2 TC",
+      "GenYoMin2 TC L",
+      "GenYoMin2TC-L",
+      "L",
+      "Regular",
+      "源樣明體丹",
+      "源樣明體丹 L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenYoMin2TC-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2TC-M-8562a0d716007497.otf",
+    "sha256": "8562a0d7160074977aa2bcb66adce84742db4208c6cdedbac96c2701aa47bb78",
+    "size": 16273476,
+    "names": [
+      "GenYoMin2 TC",
+      "GenYoMin2 TC M",
+      "GenYoMin2TC-M",
+      "M",
+      "Regular",
+      "源樣明體丹",
+      "源樣明體丹 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenYoMin2TC-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenYoMin2TC-SB-bb89f34371d62476.otf",
+    "sha256": "bb89f34371d624761505f06e99b7a4ef9f57ce75e0448b4cd61e39ddd6c2c27b",
+    "size": 16331488,
+    "names": [
+      "GenYoMin2 TC",
+      "GenYoMin2 TC SB",
+      "GenYoMin2TC-SB",
+      "Regular",
+      "SB",
+      "源樣明體丹",
+      "源樣明體丹 SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TC/GenYoMin2TC-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TW-B-43636d58783bac57.otf",
+    "sha256": "43636d58783bac57eaa835243d719697f1e065ab63ff7794ee84ca2e5d744d98",
+    "size": 13447780,
+    "names": [
+      "B",
+      "GenKiMin2 TW",
+      "GenKiMin2 TW B",
+      "GenKiMin2TW-B",
+      "Regular",
+      "源起明體月",
+      "源起明體月 B"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TW/GenKiMin2TW-B.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TW-EL-2615d57b3675c0d8.otf",
+    "sha256": "2615d57b3675c0d8c3016a45084511fa06aca48515366d3a0acf08a627a1c9ab",
+    "size": 13477400,
+    "names": [
+      "EL",
+      "GenKiMin2 TW",
+      "GenKiMin2 TW EL",
+      "GenKiMin2TW-EL",
+      "Regular",
+      "源起明體月",
+      "源起明體月 EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TW/GenKiMin2TW-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TW-H-3f675717cd39c7a3.otf",
+    "sha256": "3f675717cd39c7a30061ef5c7bb930201aaa2cd8aba9dc5a660e41f487670555",
+    "size": 13489836,
+    "names": [
+      "GenKiMin2 TW",
+      "GenKiMin2 TW H",
+      "GenKiMin2TW-H",
+      "H",
+      "Regular",
+      "源起明體月",
+      "源起明體月 H"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TW/GenKiMin2TW-H.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TW-L-46dabe8d66bdf70d.otf",
+    "sha256": "46dabe8d66bdf70d28c11585b5ef9ffb4eecacb998d823762ff2145507ed95ee",
+    "size": 13453504,
+    "names": [
+      "GenKiMin2 TW",
+      "GenKiMin2 TW L",
+      "GenKiMin2TW-L",
+      "L",
+      "Regular",
+      "源起明體月",
+      "源起明體月 L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TW/GenKiMin2TW-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TW-M-296092765aea0a24.otf",
+    "sha256": "296092765aea0a242a106c0ebb9cf97feff56fb27327c56533eb88438c053044",
+    "size": 13436360,
+    "names": [
+      "GenKiMin2 TW",
+      "GenKiMin2 TW M",
+      "GenKiMin2TW-M",
+      "M",
+      "Regular",
+      "源起明體月",
+      "源起明體月 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TW/GenKiMin2TW-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TW-R-f5a8157a99b4403a.otf",
+    "sha256": "f5a8157a99b4403a0d5d3e1d36b0154c7e80b4f12baf728866323cacb968cbab",
+    "size": 13429640,
+    "names": [
+      "GenKiMin2 TW",
+      "GenKiMin2 TW R",
+      "GenKiMin2TW-R",
+      "R",
+      "Regular",
+      "源起明體月",
+      "源起明體月 R"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TW/GenKiMin2TW-R.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenKiMin2TW-SB-aa37bf6388120a22.otf",
+    "sha256": "aa37bf6388120a223637c5c3e62bc801cda4cae93757cc1c7bb6d3d348f5f543",
+    "size": 13429056,
+    "names": [
+      "GenKiMin2 TW",
+      "GenKiMin2 TW SB",
+      "GenKiMin2TW-SB",
+      "Regular",
+      "SB",
+      "源起明體月",
+      "源起明體月 SB"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源样明朝2.100_猫啃网/源样明朝2.100/otf/TW/GenKiMin2TW-SB.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/629014a9c4b2d479-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenWanMin2JP-EL-3833bdbc7d42d30c.otf",
+    "sha256": "3833bdbc7d42d30cc04d1c324902febaea83fb535cdf1ce41c65e865a1536e04",
+    "size": 22868352,
+    "names": [
+      "EL",
+      "GenWanMin2 JP",
+      "GenWanMin2 JP EL",
+      "GenWanMin2JP-EL",
+      "Regular",
+      "源雲明朝",
+      "源雲明朝 EL"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源云明体2.100_猫啃网/源云明体2.100/GenWanMin2JP-otf/GenWanMin2JP-EL.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenWanMin2JP-L-d1b3eee6f680b119.otf",
+    "sha256": "d1b3eee6f680b119e0b41a13ac5d53db3718d88d51bb28e9931dbc0d9b5efe36",
+    "size": 22809404,
+    "names": [
+      "GenWanMin2 JP",
+      "GenWanMin2 JP L",
+      "GenWanMin2JP-L",
+      "L",
+      "Regular",
+      "源雲明朝",
+      "源雲明朝 L"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源云明体2.100_猫啃网/源云明体2.100/GenWanMin2JP-otf/GenWanMin2JP-L.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  },
+  {
+    "font": "incoming/GenWanMin2JP-M-2188de838954c1b9.otf",
+    "sha256": "2188de838954c1b9d7d91ba91335d040c04a9e0e8e8a545928b7175e81ab7311",
+    "size": 22678224,
+    "names": [
+      "GenWanMin2 JP",
+      "GenWanMin2 JP M",
+      "GenWanMin2JP-M",
+      "M",
+      "Regular",
+      "源雲明朝",
+      "源雲明朝 M"
+    ],
+    "collection": "猫啃网字体大全2026.08.12",
+    "source_relative_paths": [
+      "中国港台/源云明体2.100_猫啃网/源云明体2.100/GenWanMin2JP-otf/GenWanMin2JP-M.otf"
+    ],
+    "license_documents": [
+      "incoming/maoken-20261104/licenses-exact/3c824e0c8b47590f-______.txt",
+      "incoming/maoken-20261104/licenses-exact/a6e4f868df1b9eec-SIL_Open_Font_License_1.1.txt"
+    ],
+    "note": "Accompanying documents are preserved as supplied; collection membership does not assert a new redistribution or commercial-use grant."
+  }
+]
