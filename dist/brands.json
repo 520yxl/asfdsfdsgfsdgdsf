@@ -47,7 +47,7 @@
   {
     "id": "adobe",
     "name": "Adobe",
-    "count": 187
+    "count": 454
   },
   {
     "id": "adobe-systems-incorporated",
@@ -112,7 +112,7 @@
   {
     "id": "alexander-tseng",
     "name": "Alexander Tseng",
-    "count": 1
+    "count": 2
   },
   {
     "id": "alexei-vanyashin",
@@ -137,7 +137,7 @@
   {
     "id": "alibaba",
     "name": "Alibaba Design",
-    "count": 129
+    "count": 130
   },
   {
     "id": "alif-type",
@@ -148,6 +148,11 @@
     "id": "alina-sava",
     "name": "Alina Sava",
     "count": 1
+  },
+  {
+    "id": "amusementclub",
+    "name": "AmusementClub",
+    "count": 5
   },
   {
     "id": "ana-paula-megda",
@@ -275,9 +280,14 @@
     "count": 4
   },
   {
+    "id": "aratakana",
+    "name": "aratakana",
+    "count": 1
+  },
+  {
     "id": "arphic",
     "name": "Arphic Technology Co., Ltd.",
-    "count": 4
+    "count": 7
   },
   {
     "id": "arrow-type",
@@ -292,7 +302,7 @@
   {
     "id": "ascender-corporation",
     "name": "Ascender Corporation",
-    "count": 1
+    "count": 5
   },
   {
     "id": "ascender-corporation-yanek-iontef",
@@ -328,6 +338,11 @@
     "id": "atelieranchor",
     "name": "atelierAnchor",
     "count": 3
+  },
+  {
+    "id": "babelstone",
+    "name": "BabelStone",
+    "count": 1
   },
   {
     "id": "bailu-font",
@@ -457,7 +472,7 @@
   {
     "id": "buttaiwan",
     "name": "",
-    "count": 25
+    "count": 63
   },
   {
     "id": "cadson-demak",
@@ -540,9 +555,14 @@
     "count": 33
   },
   {
+    "id": "chengdu-ziku-planet-technology-co-ltd",
+    "name": "Chengdu Ziku Planet Technology Co., Ltd.",
+    "count": 1
+  },
+  {
     "id": "chill",
     "name": "",
-    "count": 25
+    "count": 207
   },
   {
     "id": "chris-simpson",
@@ -567,7 +587,7 @@
   {
     "id": "cjkfonts-io",
     "name": "cjkfonts.io",
-    "count": 1
+    "count": 2
   },
   {
     "id": "claus-eggers-s-rensen",
@@ -617,7 +637,7 @@
   {
     "id": "copyright-c-2025-thoms-liu",
     "name": "Copyright (c) 2025 Thoms Liu",
-    "count": 1
+    "count": 3
   },
   {
     "id": "corey-hu",
@@ -632,7 +652,7 @@
   {
     "id": "coverted-to-truetype-by-wkpark-kldp-org",
     "name": "Coverted to TrueType by wkpark@kldp.org",
-    "count": 23
+    "count": 28
   },
   {
     "id": "craig-rozynski",
@@ -660,6 +680,11 @@
     "count": 42
   },
   {
+    "id": "cyano-hao",
+    "name": "Cyano Hao",
+    "count": 7
+  },
+  {
     "id": "cyreal",
     "name": "Cyreal",
     "count": 28
@@ -682,7 +707,7 @@
   {
     "id": "dalton-maag-ltd",
     "name": "Dalton Maag Ltd",
-    "count": 89
+    "count": 129
   },
   {
     "id": "dan-reynolds",
@@ -765,6 +790,11 @@
     "count": 34
   },
   {
+    "id": "dejima",
+    "name": "Dejima",
+    "count": 1
+  },
+  {
     "id": "delve-fonts-llc",
     "name": "Delve Fonts LLC",
     "count": 3
@@ -777,7 +807,7 @@
   {
     "id": "des-magmeta-fontworks-inc",
     "name": "Des-Magmeta, Fontworks Inc.",
-    "count": 1
+    "count": 6
   },
   {
     "id": "designed-by-takis-katsoulidis-and-george-d-matthiopoulos",
@@ -822,7 +852,7 @@
   {
     "id": "do-font-cpbyes",
     "name": "Do-Font & CPBYes",
-    "count": 1
+    "count": 2
   },
   {
     "id": "dominik-j-ger",
@@ -835,9 +865,14 @@
     "count": 7
   },
   {
+    "id": "douyufont",
+    "name": "DOUYUFont",
+    "count": 1
+  },
+  {
     "id": "droit-vision-敬",
     "name": "Droit Vision\n敬",
-    "count": 3
+    "count": 6
   },
   {
     "id": "duarte-pinto",
@@ -848,6 +883,11 @@
     "id": "dunwich-type-founders",
     "name": "Dunwich Type Founders",
     "count": 2
+  },
+  {
+    "id": "dwnfonts",
+    "name": "DWNfonts",
+    "count": 7
   },
   {
     "id": "dxkorea",
@@ -940,6 +980,11 @@
     "count": 18
   },
   {
+    "id": "ershou-xiaoxi-press",
+    "name": "Ershou Xiaoxi Press",
+    "count": 2
+  },
+  {
     "id": "etcetera-type-co",
     "name": "Etcetera Type Co",
     "count": 6
@@ -975,6 +1020,16 @@
     "count": 2
   },
   {
+    "id": "fancytype-foundry-字言字型",
+    "name": "Fancytype Foundry 字言字型",
+    "count": 10
+  },
+  {
+    "id": "fashionbitmap16-字言字型-fancytype-foundry-kh-dot-kabutochou-16-http-hp-vector-co-jp-authors-v",
+    "name": "[FashionBitmap16]\r\n字言字型 Fancytype Foundry\r\n[KH-Dot-Kabutochou-16]\r\nhttp://hp.vector.co.jp/authors/VA000874/",
+    "count": 1
+  },
+  {
     "id": "fernando-caro",
     "name": "Fernando Caro",
     "count": 1
@@ -987,6 +1042,16 @@
   {
     "id": "fi",
     "name": "±±æ©±±¥Û∑Ω’˝µÁ◊””–œﬁπ´Àæ",
+    "count": 28
+  },
+  {
+    "id": "fitzgerald-p-k-fitzgerald-yu",
+    "name": "Fitzgerald P. K. (Fitzgerald Yu / ··)",
+    "count": 4
+  },
+  {
+    "id": "flop-design-ipa-information-technology-promotion-agency-japan",
+    "name": "FLOP DESIGN / IPA(Information-technology Promotion Agency, Japan )",
     "count": 1
   },
   {
@@ -1032,11 +1097,16 @@
   {
     "id": "fontdasu-google-inc-but-adobe",
     "name": "FONTDASU / Google Inc. / but / Adobe",
-    "count": 12
+    "count": 10
   },
   {
     "id": "fontef",
     "name": "Fontef",
+    "count": 1
+  },
+  {
+    "id": "fontree",
+    "name": "fontree",
     "count": 1
   },
   {
@@ -1052,7 +1122,12 @@
   {
     "id": "fontworks-inc",
     "name": "Fontworks Inc.",
-    "count": 20
+    "count": 27
+  },
+  {
+    "id": "fontworks-inc-yzdnn",
+    "name": "Fontworks Inc. & yzdnn",
+    "count": 1
   },
   {
     "id": "fonty-pl",
@@ -1062,7 +1137,7 @@
   {
     "id": "founder",
     "name": "北京北大方正电子有限公司",
-    "count": 4
+    "count": 39
   },
   {
     "id": "foundry5",
@@ -1073,6 +1148,11 @@
     "id": "fragtype",
     "name": "fragTYPE",
     "count": 15
+  },
+  {
+    "id": "free-software-foundation",
+    "name": "Free Software Foundation",
+    "count": 1
   },
   {
     "id": "frere-jones-type-llc",
@@ -1121,8 +1201,8 @@
   },
   {
     "id": "google",
-    "name": "FONTDASU / Google Inc. / but / Adobe",
-    "count": 412
+    "name": "Google",
+    "count": 625
   },
   {
     "id": "google-for-education",
@@ -1165,6 +1245,11 @@
     "count": 1
   },
   {
+    "id": "h-s-s-nanofont",
+    "name": "H.S.S. - NANOFONT",
+    "count": 3
+  },
+  {
     "id": "hagilda",
     "name": "Hagilda",
     "count": 4
@@ -1185,6 +1270,11 @@
     "count": 6
   },
   {
+    "id": "hanghai-tiannai-network-design-center",
+    "name": "hanghai Tiannai Network Design Center",
+    "count": 1
+  },
+  {
     "id": "hanghzou-huoshi",
     "name": "hanghzou huoshi",
     "count": 1
@@ -1197,7 +1287,7 @@
   {
     "id": "hanmeihutong-xiamen-technology-co-ltd",
     "name": "HanMeiHutong (XiaMen) Technology Co.Ltd.",
-    "count": 2
+    "count": 3
   },
   {
     "id": "hanyang-i-c-co-ltd",
@@ -1207,12 +1297,12 @@
   {
     "id": "hanyi",
     "name": "Hanyi Fonts",
-    "count": 134
+    "count": 144
   },
   {
     "id": "hanzi-type-archaeo",
     "name": "Hanzi Type Archaeo",
-    "count": 1
+    "count": 3
   },
   {
     "id": "hector-gatti",
@@ -1225,13 +1315,28 @@
     "count": 8
   },
   {
+    "id": "high-logic-made-with-fontcreator",
+    "name": "High-Logic / Made with FontCreator",
+    "count": 1
+  },
+  {
     "id": "honglei",
     "name": "SlideFont",
-    "count": 5
+    "count": 10
   },
   {
     "id": "houzun",
     "name": "Houzun",
+    "count": 2
+  },
+  {
+    "id": "howlingfounts",
+    "name": "howlingFounts",
+    "count": 25
+  },
+  {
+    "id": "hss-nanofont",
+    "name": "HSS - NANOFONT",
     "count": 1
   },
   {
@@ -1277,7 +1382,7 @@
   {
     "id": "huiwen",
     "name": "",
-    "count": 4
+    "count": 6
   },
   {
     "id": "huxiaobo",
@@ -1292,7 +1397,7 @@
   {
     "id": "ibm",
     "name": "Bold Monday",
-    "count": 226
+    "count": 452
   },
   {
     "id": "igino-marini",
@@ -1350,6 +1455,11 @@
     "count": 10
   },
   {
+    "id": "james-kass",
+    "name": "James Kass",
+    "count": 1
+  },
+  {
     "id": "jamo",
     "name": "JAMO",
     "count": 10
@@ -1382,7 +1492,7 @@
   {
     "id": "jeffreyx-gmail-com-cjkfonts-io",
     "name": "jeffreyx@gmail.com, cjkFonts.io",
-    "count": 1
+    "count": 2
   },
   {
     "id": "jens-kutilek",
@@ -1480,6 +1590,11 @@
     "count": 20
   },
   {
+    "id": "jt-foundry",
+    "name": "JT Foundry",
+    "count": 4
+  },
+  {
     "id": "juan-montoreano",
     "name": "Juan Montoreano",
     "count": 1
@@ -1530,6 +1645,11 @@
     "count": 1
   },
   {
+    "id": "k99xmas",
+    "name": "K99Xmas",
+    "count": 1
+  },
+  {
     "id": "kanon-foundry",
     "name": "Kanon Foundry",
     "count": 2
@@ -1540,13 +1660,23 @@
     "count": 1
   },
   {
+    "id": "kazuki-kimura",
+    "name": "Kazuki Kimura",
+    "count": 3
+  },
+  {
     "id": "kazuo-kanai",
     "name": "KAZUO KANAI",
-    "count": 23
+    "count": 36
   },
   {
     "id": "kazuo-kanai-moonlit-owen",
     "name": "Kazuo Kanai, Moonlit Owen",
+    "count": 4
+  },
+  {
+    "id": "kazuo-kanai-moonlit-owen-tsao-tung",
+    "name": "Kazuo Kanai, Moonlit Owen, Tsao Tung",
     "count": 1
   },
   {
@@ -1567,7 +1697,7 @@
   {
     "id": "keynoteart",
     "name": "Keynoteart",
-    "count": 5
+    "count": 6
   },
   {
     "id": "keynoteart-x-qiuyeppt",
@@ -1613,6 +1743,11 @@
     "id": "koci",
     "name": "Koci",
     "count": 1
+  },
+  {
+    "id": "korea-publisher-society",
+    "name": "Korea Publisher Society",
+    "count": 12
   },
   {
     "id": "kostas-bartsokas",
@@ -1665,6 +1800,16 @@
     "count": 3
   },
   {
+    "id": "lemi-creation-lemi-font",
+    "name": "Lemi Creation;Lemi Font",
+    "count": 1
+  },
+  {
+    "id": "lemi-creation-lemi-fonts",
+    "name": "Lemi Creation;Lemi Fonts",
+    "count": 7
+  },
+  {
     "id": "lettersoup",
     "name": "lettersoup",
     "count": 8
@@ -1710,6 +1855,16 @@
     "count": 2
   },
   {
+    "id": "logosc",
+    "name": "LogoSC",
+    "count": 4
+  },
+  {
+    "id": "lorchin-sans",
+    "name": "Lorchin Sans",
+    "count": 2
+  },
+  {
     "id": "loudifier",
     "name": "Loudifier",
     "count": 4
@@ -1735,14 +1890,29 @@
     "count": 12
   },
   {
+    "id": "lxfly2000",
+    "name": "lxfly2000",
+    "count": 3
+  },
+  {
     "id": "lxgw",
     "name": "LXGW / Fontworks Inc.",
-    "count": 70
+    "count": 130
   },
   {
     "id": "lxgw-fontworks-inc",
     "name": "LXGW / Fontworks Inc.",
-    "count": 9
+    "count": 6
+  },
+  {
+    "id": "made-by-h-s-s",
+    "name": "Made by H.S.S.",
+    "count": 1
+  },
+  {
+    "id": "made-with-bits-n-picas-by-kreative-software",
+    "name": "Made with Bits'n'Picas by Kreative Software",
+    "count": 19
   },
   {
     "id": "madtype",
@@ -1783,6 +1953,11 @@
     "id": "mant0u-artakana",
     "name": "Mant0u / artakana",
     "count": 1
+  },
+  {
+    "id": "maoken",
+    "name": "Maoken",
+    "count": 5
   },
   {
     "id": "maoken-nfsl2001",
@@ -1840,6 +2015,11 @@
     "count": 6
   },
   {
+    "id": "max-everyday",
+    "name": "Max-Everyday",
+    "count": 20
+  },
+  {
     "id": "mckl",
     "name": "MCKL",
     "count": 76
@@ -1885,6 +2065,16 @@
     "count": 1
   },
   {
+    "id": "mingdamingda-fonts",
+    "name": "MingdaMingda Fonts",
+    "count": 1
+  },
+  {
+    "id": "ministry-of-education-r-o-c-all-rights-reserved",
+    "name": "Ministry of Education, R.O.C. All rights reserved.",
+    "count": 1
+  },
+  {
     "id": "mobile-telecommunications-company-zain-2024",
     "name": "Mobile Telecommunications Company (Zain), 2024",
     "count": 8
@@ -1902,7 +2092,7 @@
   {
     "id": "monotype-imaging-inc",
     "name": "Monotype Imaging Inc.",
-    "count": 377
+    "count": 383
   },
   {
     "id": "monotype-imaging-inc-delve-fonts-llc",
@@ -1927,12 +2117,12 @@
   {
     "id": "moonlit-owen",
     "name": "Moonlit Owen",
-    "count": 2
+    "count": 4
   },
   {
     "id": "morisawa-inc",
     "name": "Morisawa Inc.",
-    "count": 16
+    "count": 23
   },
   {
     "id": "mota-italic",
@@ -1947,7 +2137,7 @@
   {
     "id": "myil",
     "name": "MYIL",
-    "count": 3
+    "count": 18
   },
   {
     "id": "naima-ben-ayed-anton-koovit",
@@ -1977,7 +2167,7 @@
   {
     "id": "nanofont",
     "name": "NANOFONT",
-    "count": 2
+    "count": 3
   },
   {
     "id": "natalia-raices",
@@ -2032,7 +2222,7 @@
   {
     "id": "nhn-corporation",
     "name": "NHN Corporation",
-    "count": 20
+    "count": 36
   },
   {
     "id": "nicolas-silva-and-jonh-vargas",
@@ -2072,7 +2262,7 @@
   {
     "id": "nontynet",
     "name": "Nontynet",
-    "count": 2
+    "count": 3
   },
   {
     "id": "noponies",
@@ -2082,7 +2272,7 @@
   {
     "id": "nowar-typeface",
     "name": "Nowar Typeface",
-    "count": 50
+    "count": 70
   },
   {
     "id": "octavio-pardo",
@@ -2125,6 +2315,11 @@
     "count": 22
   },
   {
+    "id": "onestore",
+    "name": "ONESTORE",
+    "count": 3
+  },
+  {
     "id": "onur-yaz-c-gil",
     "name": "Onur Yazõcõgil",
     "count": 1
@@ -2157,7 +2352,7 @@
   {
     "id": "pablo-impallari",
     "name": "Pablo Impallari",
-    "count": 24
+    "count": 25
   },
   {
     "id": "pablo-impallari-brenda-gallo",
@@ -2210,9 +2405,19 @@
     "count": 2
   },
   {
+    "id": "pal3love",
+    "name": "Pal3love",
+    "count": 270
+  },
+  {
     "id": "pangmenzhengdao",
-    "name": "ÅÓ",
-    "count": 5
+    "name": "",
+    "count": 7
+  },
+  {
+    "id": "paperwaveovo",
+    "name": "PaperWaveOvO",
+    "count": 1
   },
   {
     "id": "paratype-ltd",
@@ -2250,6 +2455,16 @@
     "count": 7
   },
   {
+    "id": "pkj-l",
+    "name": "pkj-l",
+    "count": 2
+  },
+  {
+    "id": "plangothic-project",
+    "name": "Plangothic Project",
+    "count": 2
+  },
+  {
     "id": "plomb-type",
     "name": "Plomb Type",
     "count": 2
@@ -2260,14 +2475,34 @@
     "count": 4
   },
   {
+    "id": "poppy-works",
+    "name": "Poppy Works",
+    "count": 1
+  },
+  {
     "id": "positype",
     "name": "Positype",
-    "count": 59
+    "count": 79
   },
   {
     "id": "production-type",
     "name": "Production Type",
     "count": 74
+  },
+  {
+    "id": "project-on-chinese-character-studies",
+    "name": "Project on Chinese Character Studies",
+    "count": 5
+  },
+  {
+    "id": "pyj-typolab-inc",
+    "name": "PYJ&TYPOLAB Inc.",
+    "count": 2
+  },
+  {
+    "id": "qianqian-fang",
+    "name": "Qianqian Fang",
+    "count": 2
   },
   {
     "id": "quote-unquote-apps",
@@ -2307,7 +2542,7 @@
   {
     "id": "ramega",
     "name": "Ramega",
-    "count": 1
+    "count": 2
   },
   {
     "id": "raoul-audouin",
@@ -2318,6 +2553,16 @@
     "id": "raph-levien-cyreal-google",
     "name": "Raph Levien, Cyreal, Google",
     "count": 83
+  },
+  {
+    "id": "raptortype",
+    "name": "RAPTORTYPE",
+    "count": 13
+  },
+  {
+    "id": "rareearth",
+    "name": "RareEarth",
+    "count": 4
   },
   {
     "id": "reddit",
@@ -2395,6 +2640,11 @@
     "count": 2
   },
   {
+    "id": "sa3m",
+    "name": "sa3m",
+    "count": 7
+  },
+  {
     "id": "saber-rastikerdar",
     "name": "Saber Rastikerdar",
     "count": 1
@@ -2417,22 +2667,22 @@
   {
     "id": "saja-typeworks",
     "name": "Saja Typeworks",
-    "count": 174
+    "count": 177
   },
   {
     "id": "sandoll-communications-inc",
     "name": "Sandoll Communications Inc.",
-    "count": 3
+    "count": 4
   },
   {
     "id": "sandoll-inc",
     "name": "Sandoll Inc.",
-    "count": 20
+    "count": 26
   },
   {
     "id": "sanjizixing",
     "name": "",
-    "count": 4
+    "count": 5
   },
   {
     "id": "santiago-orozco",
@@ -2442,7 +2692,7 @@
   {
     "id": "satsuyako",
     "name": "satsuyako",
-    "count": 3
+    "count": 4
   },
   {
     "id": "saurabh-sharma",
@@ -2475,6 +2725,11 @@
     "count": 1
   },
   {
+    "id": "senty-workshop",
+    "name": "Senty Workshop",
+    "count": 1
+  },
+  {
     "id": "sergej-lebedev",
     "name": "Sergej Lebedev",
     "count": 1
@@ -2492,11 +2747,16 @@
   {
     "id": "shanghai-pintu-network-technology-co-ltd",
     "name": "Shanghai PinTu Network Technology Co.,Ltd.",
-    "count": 4
+    "count": 5
   },
   {
     "id": "shanghai-zoomlacms-co-ltd",
     "name": "Shanghai ZoomlaCMS co.,LTD",
+    "count": 1
+  },
+  {
+    "id": "shimada-mizuki",
+    "name": "Shimada Mizuki",
     "count": 1
   },
   {
@@ -2615,6 +2875,21 @@
     "count": 2
   },
   {
+    "id": "steve-yuu-fontworks-inc",
+    "name": "Steve Yuu / Fontworks Inc.",
+    "count": 4
+  },
+  {
+    "id": "steveyuu-fontworks-inc",
+    "name": "SteveYuu, Fontworks Inc.",
+    "count": 1
+  },
+  {
+    "id": "stick-fontworks-inc",
+    "name": "[Stick] Fontworks Inc.",
+    "count": 1
+  },
+  {
     "id": "studio-drama",
     "name": "Studio DRAMA",
     "count": 5
@@ -2643,6 +2918,11 @@
     "id": "sucaijishi-com",
     "name": "sucaijishi.com",
     "count": 1
+  },
+  {
+    "id": "sunghyun-cho",
+    "name": "Sunghyun Cho",
+    "count": 45
   },
   {
     "id": "supernotes",
@@ -2692,12 +2972,12 @@
   {
     "id": "takushun-wu",
     "name": "Takushun Wu",
-    "count": 6
+    "count": 58
   },
   {
     "id": "takwolf",
     "name": "TakWolf",
-    "count": 24
+    "count": 78
   },
   {
     "id": "tall-chai",
@@ -2717,6 +2997,11 @@
   {
     "id": "tavatake",
     "name": "TaVaTake",
+    "count": 1
+  },
+  {
+    "id": "terra-marks-systems-inc",
+    "name": "TERRA Marks & Systems, Inc.",
     "count": 1
   },
   {
@@ -2743,6 +3028,11 @@
     "id": "the-fontpad-ltd",
     "name": "The Fontpad Ltd",
     "count": 1
+  },
+  {
+    "id": "the-frex-sans-project-authors",
+    "name": "The Frex Sans Project Authors",
+    "count": 17
   },
   {
     "id": "the-graphic-ant",
@@ -2780,9 +3070,19 @@
     "count": 2
   },
   {
+    "id": "the-vietnamese-nom-preservation-foundation-nom-na-group",
+    "name": "The Vietnamese Nom Preservation Foundation — Nom Na Group",
+    "count": 3
+  },
+  {
     "id": "thomas-junold",
     "name": "Thomas Junold",
     "count": 1
+  },
+  {
+    "id": "ticketmonster",
+    "name": "TICKETMONSTER",
+    "count": 2
   },
   {
     "id": "tinghao-hu",
@@ -2805,6 +3105,11 @@
     "count": 28
   },
   {
+    "id": "tlab-inc",
+    "name": "Tlab Inc.",
+    "count": 4
+  },
+  {
     "id": "tokotype",
     "name": "Tokotype",
     "count": 20
@@ -2812,7 +3117,7 @@
   {
     "id": "toneoz",
     "name": "ToneOZ",
-    "count": 8
+    "count": 24
   },
   {
     "id": "toshi-omagari",
@@ -2825,9 +3130,24 @@
     "count": 126
   },
   {
+    "id": "trionestype",
+    "name": "TrionesType",
+    "count": 1
+  },
+  {
     "id": "tsanger",
     "name": "Beijing Tsanger Character Technology Co., Ltd.",
     "count": 27
+  },
+  {
+    "id": "tsao-tung-fontworks-inc",
+    "name": "Tsao Tung / Fontworks Inc.",
+    "count": 1
+  },
+  {
+    "id": "tuniu",
+    "name": "tuniu",
+    "count": 1
   },
   {
     "id": "tyler-finck",
@@ -2853,6 +3173,11 @@
     "id": "typecalism-foundryline",
     "name": "Typecalism Foundryline",
     "count": 1
+  },
+  {
+    "id": "typeface-cn",
+    "name": "Typeface.cn",
+    "count": 2
   },
   {
     "id": "typeland",
@@ -2905,6 +3230,11 @@
     "count": 34
   },
   {
+    "id": "u-0c7553d42261",
+    "name": "조선일보사",
+    "count": 1
+  },
+  {
     "id": "u-20cbc476bb16",
     "name": "ìÖÂÒ",
     "count": 1
@@ -2945,6 +3275,11 @@
     "count": 9
   },
   {
+    "id": "umihotaru",
+    "name": "Umihotaru",
+    "count": 1
+  },
+  {
     "id": "uncut-wtf",
     "name": "UNCUT.wtf",
     "count": 1
@@ -2952,7 +3287,7 @@
   {
     "id": "underforest-design",
     "name": "UNDERFOREST DESIGN",
-    "count": 165
+    "count": 200
   },
   {
     "id": "universal-thirst-ehf",
@@ -2967,7 +3302,7 @@
   {
     "id": "unknown",
     "name": "",
-    "count": 1230
+    "count": 3052
   },
   {
     "id": "vectro-type-foundry",
@@ -3040,9 +3375,14 @@
     "count": 1
   },
   {
+    "id": "www-chuangkit-com",
+    "name": "www.chuangkit.com",
+    "count": 1
+  },
+  {
     "id": "www-ckt-cn",
     "name": "www.ckt.cn",
-    "count": 1
+    "count": 3
   },
   {
     "id": "www-sorkintype-com",
@@ -3052,7 +3392,7 @@
   {
     "id": "xiangcui",
     "name": "",
-    "count": 11
+    "count": 14
   },
   {
     "id": "xiaoyuan-gao",
@@ -3068,6 +3408,11 @@
     "id": "xo-type-co",
     "name": "XO Type Co",
     "count": 15
+  },
+  {
+    "id": "y-ozvox",
+    "name": "Y.OzVox",
+    "count": 2
   },
   {
     "id": "yang-shuang",
@@ -3095,14 +3440,29 @@
     "count": 40
   },
   {
+    "id": "yoondesign-group",
+    "name": "Yoondesign group",
+    "count": 2
+  },
+  {
     "id": "yoondesign-inc",
     "name": "YoonDesign Inc.",
     "count": 7
   },
   {
+    "id": "yoondesign-the-korean-tex-society",
+    "name": "YoonDesign; The Korean TeX Society",
+    "count": 4
+  },
+  {
     "id": "youshe-design-team",
     "name": "YouShe Design Team",
     "count": 1
+  },
+  {
+    "id": "yufan",
+    "name": "YuFan",
+    "count": 4
   },
   {
     "id": "yulya-zhdanova-ivan-petrov",
@@ -3112,6 +3472,11 @@
   {
     "id": "yusei-magic-project",
     "name": "Yusei Magic Project",
+    "count": 3
+  },
+  {
+    "id": "yuu-positype",
+    "name": "YUU,Positype",
     "count": 2
   },
   {
@@ -3130,6 +3495,11 @@
     "count": 1
   },
   {
+    "id": "z-labs-design",
+    "name": "Z Labs Design",
+    "count": 12
+  },
+  {
     "id": "zarko-banovic",
     "name": "Zarko Banovic",
     "count": 1
@@ -3137,7 +3507,7 @@
   {
     "id": "zcool",
     "name": "ZCOOL",
-    "count": 12
+    "count": 14
   },
   {
     "id": "zesstype",
@@ -3150,24 +3520,34 @@
     "count": 1
   },
   {
+    "id": "zfont-cn",
+    "name": "ZFONT.CN",
+    "count": 2
+  },
+  {
     "id": "zhengqingke",
     "name": "zhengqingke",
-    "count": 1
+    "count": 2
+  },
+  {
+    "id": "zhengqingke-qq-com",
+    "name": "zhengqingke@qq.com",
+    "count": 4
   },
   {
     "id": "zhongqi",
     "name": "ZhongQi",
-    "count": 8
+    "count": 10
   },
   {
     "id": "zi-hi-com-fontworks-inc",
     "name": "zi-hi.com / Fontworks Inc.",
-    "count": 2
+    "count": 3
   },
   {
     "id": "zihun",
-    "name": "Shanghai ZiHun Network Technology Co.,Ltd.",
-    "count": 1
+    "name": "上海字魂网络科技有限公司",
+    "count": 3
   },
   {
     "id": "zizhiqu",
@@ -3177,12 +3557,22 @@
   {
     "id": "zojitype",
     "name": "Zojitype",
-    "count": 5
+    "count": 9
+  },
+  {
+    "id": "上海义启信息科技有限公司",
+    "name": "上海义启信息科技有限公司",
+    "count": 1
+  },
+  {
+    "id": "上海包图网络科技有限公司",
+    "name": "上海包图网络科技有限公司",
+    "count": 1
   },
   {
     "id": "云峰字库",
     "name": "云峰字库",
-    "count": 1
+    "count": 3
   },
   {
     "id": "余繁",
@@ -3200,9 +3590,24 @@
     "count": 1
   },
   {
+    "id": "四川光良酒业有限公司",
+    "name": "四川光良酒业有限公司",
+    "count": 1
+  },
+  {
     "id": "奇文云海-设计顾问",
     "name": "奇文云海 设计顾问",
     "count": 4
+  },
+  {
+    "id": "字制区",
+    "name": "字制区",
+    "count": 1
+  },
+  {
+    "id": "字言字語",
+    "name": "字言字語",
+    "count": 11
   },
   {
     "id": "山东兵克字库设计有限公司",
@@ -3242,7 +3647,12 @@
   {
     "id": "未知品牌",
     "name": "未知品牌",
-    "count": 519
+    "count": 515
+  },
+  {
+    "id": "栗壳字库",
+    "name": "栗壳字库",
+    "count": 1
   },
   {
     "id": "深圳文道信息科技有限公司",
@@ -3250,9 +3660,24 @@
     "count": 1
   },
   {
+    "id": "爱点视觉",
+    "name": "爱点视觉",
+    "count": 1
+  },
+  {
     "id": "特里字藝",
     "name": "特里字藝",
-    "count": 5
+    "count": 10
+  },
+  {
+    "id": "猫啃网",
+    "name": "猫啃网",
+    "count": 1
+  },
+  {
+    "id": "荆南字坊tm",
+    "name": "荆南字坊™",
+    "count": 2
   },
   {
     "id": "蓝色共鸣",

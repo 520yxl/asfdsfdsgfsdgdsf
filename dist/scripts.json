@@ -2,36 +2,36 @@
   {
     "code": "Hebrew",
     "name": "希伯来字母",
-    "count": 554
+    "count": 916
   },
   {
     "code": "Latin",
     "name": "拉丁字母",
-    "count": 10641
+    "count": 14504
   },
   {
     "code": "Hiragana-Katakana",
     "name": "日文假名",
-    "count": 1298
+    "count": 4723
   },
   {
     "code": "Han",
     "name": "汉字",
-    "count": 1607
+    "count": 5223
   },
   {
     "code": "Cyrillic",
     "name": "西里尔字母",
-    "count": 4071
+    "count": 7501
   },
   {
     "code": "Arabic",
     "name": "阿拉伯字母",
-    "count": 426
+    "count": 550
   },
   {
     "code": "Hangul",
     "name": "韩文",
-    "count": 428
+    "count": 1918
   }
 ]

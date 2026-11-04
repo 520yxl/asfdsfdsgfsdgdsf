@@ -1,10 +1,10 @@
 {
   "source": "google-fonts",
-  "upstream_commit": "2fe1e8c6b137fb13041a7cfca6fdcd8a910ea4dc",
+  "upstream_commit": "8c3ea249848f15b7ff6092b3e16d44ef91771cad",
   "desktop_files": 3913,
   "unique_blobs": 3905,
-  "added": 3781,
-  "index_count": 10210,
+  "added": 3749,
+  "index_count": 14088,
   "formats": [
     "ttf",
     "otf"
