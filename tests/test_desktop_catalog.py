@@ -165,5 +165,41 @@ class OrganizerRegressionTests(unittest.TestCase):
             self.assertEqual(len(json.loads((root / "dist/fonts.json").read_text(encoding="utf-8"))), 1)
 
 
+class ShardedCatalogTests(unittest.TestCase):
+    def test_byte_and_record_bounded_shards_preserve_all_metadata(self):
+        import shard_catalog as shards
+        with tempfile.TemporaryDirectory() as folder:
+            dist = Path(folder)
+            fonts = [{"id": str(i), "format": "ttf", "license": "许可全文" * 15} for i in range(9)]
+            (dist / "fonts.json").write_text(json.dumps(fonts), encoding="utf-8")
+            (dist / "brands.json").write_text('[{"id":"test"}]')
+            (dist / "manifest.json").write_text('{"schema_version":1}')
+            with patch.object(shards, "TARGET_BYTES", 700), patch.object(shards, "MAX_RECORDS", 2):
+                manifest = shards.publish(dist)
+            restored = []
+            for part in manifest["fonts_shards"]:
+                rows = json.loads((dist / Path(part["path"]).name).read_bytes())
+                self.assertLessEqual(len(rows), 2)
+                restored.extend(rows)
+            self.assertEqual(restored, fonts)
+            target = dist / Path(manifest["fonts_shards"][0]["path"]).name
+            target.write_bytes(b"[]")
+            with self.assertRaises(ValueError):
+                shards.validate(dist)
+
+    def test_shards_handle_catalog_larger_than_single_file_limit(self):
+        import shard_catalog as shards
+        with tempfile.TemporaryDirectory() as folder:
+            dist = Path(folder)
+            fonts = [{"id": str(i), "format": "otf", "license": "x" * (2 * 1024 * 1024)} for i in range(13)]
+            (dist / "fonts.json").write_bytes(shards.encode(fonts))
+            (dist / "brands.json").write_text('[{"id":"test"}]')
+            (dist / "manifest.json").write_text('{}')
+            self.assertGreater((dist / "fonts.json").stat().st_size, 24 * 1024 * 1024)
+            manifest = shards.publish(dist)
+            self.assertEqual(manifest["catalog_count"], 13)
+            self.assertTrue(all(p["size"] < shards.MAX_BYTES for p in manifest["fonts_shards"]))
+
+
 if __name__ == "__main__":
     unittest.main()
