@@ -9,10 +9,26 @@ from unittest.mock import patch
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 import desktop_upstream as upstream
 import build_index
-from filter_usable_fonts import usable_font
+from filter_usable_fonts import usable_font, compact_catalog
 
 
 class DesktopCatalogTests(unittest.TestCase):
+    def test_compact_catalog_preserves_face_values_and_original_input(self):
+        font = {"family": "Example", "style": "Regular", "license": "License text",
+                "language_tags": ["en"], "commercial_use": False,
+                "faces": [{"family": "Example", "style": "Regular", "license": "License text",
+                           "language_tags": ["en"], "commercial_use": False},
+                          {"family": "Alternate", "style": "Bold", "language_tags": ["zh"],
+                           "license": "Different license", "commercial_use": True}]}
+        original = json.loads(json.dumps(font))
+        result = compact_catalog([font])
+        self.assertEqual(len(result), 1)
+        for old, new in zip(font["faces"], result[0]["faces"]):
+            for key, value in old.items():
+                self.assertEqual(new.get(key, result[0].get(key)), value)
+        self.assertEqual(font, original)
+        self.assertNotIn("license", result[0]["faces"][0])
+
     def test_brand_prefix_language_and_english_boundaries(self):
         rules = [
             {'id': 'founder', 'name': '方正', 'keywords': ['方正', 'Founder'], 'abbreviations': ['FZ']},

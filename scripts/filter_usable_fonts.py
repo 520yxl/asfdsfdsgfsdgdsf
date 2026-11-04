@@ -11,8 +11,28 @@ ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
 DESKTOP_FORMATS = {"ttf", "otf"}
 
+def compact_catalog(fonts):
+    """Omit inherited face fields; desktop readers fall back to item metadata."""
+    result = []
+    for font in fonts:
+        item = dict(font)
+        if "faces" in font:
+            item["faces"] = [
+                {key: value for key, value in face.items()
+                 if key in {"family", "style", "manufacturer", "full_name"}
+                 or key not in font or value != font[key]}
+                for face in font["faces"]
+            ]
+        result.append(item)
+    return result
+
+
 def emit(name, data):
-    (DIST / name).write_text(json.dumps(data, ensure_ascii=False, indent=None if name == "fonts.json" else 2) + "\n", encoding="utf-8")
+    if name == "fonts.json":
+        text = json.dumps(compact_catalog(data), ensure_ascii=False, separators=(",", ":"))
+    else:
+        text = json.dumps(data, ensure_ascii=False, indent=2)
+    (DIST / name).write_text(text + "\n", encoding="utf-8")
 
 def usable_font(font):
     fmt = str(font.get("format", "")).lower().lstrip(".")
