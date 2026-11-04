@@ -91,5 +91,63 @@ class DesktopCatalogTests(unittest.TestCase):
                     upstream.inspect_blob("google/fonts", "a" * 40, {**item, "sha": "b" * 40})
 
 
+class OrganizerRegressionTests(unittest.TestCase):
+    def run_repository(self, root, inspector):
+        with patch.multiple(build_index, ROOT=root, FONTS=root / "fonts", INCOMING=root / "incoming", DIST=root / "dist"), patch.object(build_index, "inspect", side_effect=inspector) as parser:
+            build_index.main()
+            return parser.call_count
+
+    @staticmethod
+    def face(family):
+        return [{"family": family, "style": "Regular", "full_name": family,
+                 "manufacturer": "", "license": ""}]
+
+    def test_rename_cycle_cache_and_reclassification(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            a = root / "fonts/未知品牌/alpha/font.ttf"
+            b = root / "fonts/未知品牌/beta/font.ttf"
+            for path, payload in ((a, b"beta"), (b, b"alpha")):
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_bytes(payload)
+            inode = {p.read_bytes(): p.stat().st_ino for p in (a, b)}
+            self.assertEqual(self.run_repository(root, lambda p: self.face(p.read_text())), 2)
+            for path in (a, b):
+                self.assertEqual(path.stat().st_ino, inode[path.read_bytes()])
+            self.assertEqual(a.read_bytes(), b"alpha")
+            (root / "metadata").mkdir()
+            (root / "metadata/overrides.json").write_text(json.dumps({"font.ttf": {"family": "New family"}}))
+            self.assertEqual(self.run_repository(root, lambda p: self.fail("Warm cache reparsed font")), 0)
+            catalog = json.loads((root / "dist/fonts.json").read_text(encoding="utf-8"))
+            self.assertEqual(len(catalog), 2)
+            self.assertTrue(all(f["family"] == "New family" for f in catalog))
+            self.assertEqual({p.read_bytes() for p in (root / "fonts").rglob("*.ttf")}, {b"alpha", b"beta"})
+
+    def test_invalid_input_leaves_files_and_catalog_untouched(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            (root / "incoming").mkdir()
+            font = root / "incoming/bad.ttf"
+            font.write_bytes(b"bad")
+            (root / "dist").mkdir()
+            catalog = root / "dist/fonts.json"
+            catalog.write_text("[]")
+            with self.assertRaises(RuntimeError):
+                self.run_repository(root, lambda p: (_ for _ in ()).throw(ValueError("Invalid font")))
+            self.assertEqual(font.read_bytes(), b"bad")
+            self.assertEqual(catalog.read_text(), "[]")
+
+    def test_duplicate_content_inspected_once(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            (root / "incoming/a").mkdir(parents=True)
+            (root / "incoming/b").mkdir()
+            for parent in ("a", "b"):
+                (root / "incoming" / parent / "font.ttf").write_bytes(b"same")
+            self.assertEqual(self.run_repository(root, lambda p: self.face("Example")), 1)
+            self.assertEqual(len(list((root / "fonts").rglob("*.ttf"))), 1)
+            self.assertEqual(len(json.loads((root / "dist/fonts.json").read_text(encoding="utf-8"))), 1)
+
+
 if __name__ == "__main__":
     unittest.main()

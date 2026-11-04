@@ -4,7 +4,6 @@ import hashlib
 import json
 import os
 import re
-import shutil
 import tempfile
 import unicodedata
 from pathlib import Path
@@ -253,76 +252,78 @@ def main():
     errors = []
     sources = [p for folder in (FONTS, INCOMING) for p in folder.rglob("*")
                if p.is_file() and p.suffix.lower() in EXTENSIONS]
-    # Re-evaluate metadata for every font, including previously archived files.
-    with tempfile.TemporaryDirectory(prefix="moxyi-stage-") as stage:
-        planned = []
-        occupied = {}
-        for index, path in enumerate(sorted(sources)):
-            try:
-                info = inspect(path)[0]
-                override = overrides.get(path.name, {})
-                brand_id, brand_name = brand_for(info, rules, override)
-                family_id = safe_id(override.get("family", info["family"]))
-                brand_folder = safe_id(brand_name)
-                target = FONTS / brand_folder / family_id / path.name
-                sha = digest(path)
-                if target in occupied and occupied[target] != sha:
-                    target = target.with_name(target.stem + "-" + sha[:10] + target.suffix)
-                occupied[target] = sha
-                temporary = Path(stage) / str(index)
-                shutil.copy2(path, temporary)
-                planned.append((temporary, target, sha))
-            except Exception as exc:
-                errors.append({"path": path.relative_to(ROOT).as_posix(), "error": str(exc)})
-        if not errors:
-            for temporary, target, sha in planned:
-                target.parent.mkdir(parents=True, exist_ok=True)
-                if not target.exists() or digest(target) != sha:
-                    shutil.copy2(temporary, target)
-            keep = {target for _, target, _ in planned}
-            for path in sources:
-                if path not in keep:
-                    path.unlink()
-            for folder in (FONTS, INCOMING):
-                for directory in sorted((p for p in folder.rglob("*") if p.is_dir()),
-                                        key=lambda p: len(p.parts), reverse=True):
-                    if not any(directory.iterdir()):
-                        directory.rmdir()
-    for path in []:
-        if not path.is_file() or path.suffix.lower() not in EXTENSIONS:
-            continue
-        try:
-            info = inspect(path)[0]
-            override = overrides.get(path.name, {})
-            brand_id, brand_name = brand_for(info, rules, override)
-            family_name = override.get("family", info["family"])
-            family_id = safe_id(family_name)
-            brand_folder = safe_id(brand_name)
-            target = FONTS / brand_folder / family_id / path.name
-            target.parent.mkdir(parents=True, exist_ok=True)
-            if target.exists():
-                if digest(target) == digest(path):
-                    path.unlink()
-                    continue
-                target = target.with_name(target.stem + "-" + digest(path)[:10] + target.suffix)
-            shutil.move(str(path), str(target))
-        except Exception as exc:
-            errors.append({"path": path.relative_to(ROOT).as_posix(), "error": str(exc)})
-    fonts, brands, hashes = [], {}, {}
-    categories = {label: 0 for label in CATEGORIES}
-    for path in sorted(FONTS.rglob("*")):
-        if not path.is_file() or path.suffix.lower() not in EXTENSIONS:
-            continue
-        relative = path.relative_to(ROOT)
+    # Cache only raw parser results: classification rules are applied on every run.
+    cache = ROOT / ".cache/local-fonts-v1"
+    cache.mkdir(parents=True, exist_ok=True)
+    planned, occupied, parsed = [], {}, {}
+    for index, path in enumerate(sorted(sources)):
         try:
             sha = digest(path)
-            if sha in hashes:
-                errors.append({"path": relative.as_posix(), "warning": "Duplicate of " + hashes[sha]})
-                continue
-            hashes[sha] = relative.as_posix()
-            faces = inspect(path)
+            if sha not in parsed:
+                entry = cache / (sha + ".json")
+                try:
+                    faces = read_json(entry, None)
+                    if not isinstance(faces, list) or not faces or not isinstance(faces[0], dict):
+                        raise ValueError("Invalid parser cache")
+                except (ValueError, OSError):
+                    faces = None
+                if faces is None:
+                    faces = inspect(path)
+                    entry.write_text(json.dumps(faces, ensure_ascii=False), encoding="utf-8")
+                parsed[sha] = faces
+            faces = parsed[sha]
             info = faces[0]
             override = overrides.get(path.name, {})
+            _, brand_name = brand_for(info, rules, override)
+            family_id = safe_id(override.get("family", info["family"]))
+            target = FONTS / safe_id(brand_name) / family_id / path.name
+            original = target
+            suffix = 0
+            while target in occupied and occupied[target] != sha:
+                suffix += 1
+                target = original.with_name(original.stem + "-" + sha + ("-" + str(suffix) if suffix > 1 else "") + original.suffix)
+            occupied[target] = sha
+            planned.append((path, target, sha, faces, override))
+        except Exception as exc:
+            errors.append({"path": path.relative_to(ROOT).as_posix(), "error": str(exc)})
+        if (index + 1) % 100 == 0 or index + 1 == len(sources):
+            print(f"Inspected {index + 1}/{len(sources)} files ({len(parsed)} unique contents)", flush=True)
+    if errors:
+        emit("errors.json", errors)
+        raise RuntimeError(f"Cannot organize fonts: {len(errors)} files failed inspection; source files unchanged")
+
+    # Rename on the same filesystem, including cycles. Never duplicate the corpus.
+    # On interruption the stage stays inside incoming, so the next run recovers it.
+    stage = Path(tempfile.mkdtemp(prefix=".organize-", dir=INCOMING))
+    staged = []
+    for index, (path, target, sha, faces, override) in enumerate(planned):
+        if path == target:
+            continue
+        temporary = stage / str(index) / path.name
+        temporary.parent.mkdir(parents=True)
+        path.rename(temporary)
+        staged.append((temporary, target))
+    for temporary, target in staged:
+        target.parent.mkdir(parents=True, exist_ok=True)
+        if target.exists():
+            # Only identical-content duplicate sources can share a planned target.
+            temporary.unlink()
+        else:
+            temporary.rename(target)
+    for folder in (FONTS, INCOMING):
+        for directory in sorted((p for p in folder.rglob("*") if p.is_dir()),
+                                key=lambda p: len(p.parts), reverse=True):
+            if not any(directory.iterdir()):
+                directory.rmdir()
+    fonts, brands, hashes = [], {}, {}
+    categories = {label: 0 for label in CATEGORIES}
+    for _, path, sha, faces, override in sorted(planned, key=lambda item: str(item[1])):
+        relative = path.relative_to(ROOT)
+        try:
+            if sha in hashes:
+                continue
+            hashes[sha] = relative.as_posix()
+            info = faces[0]
             brand_id, brand_name = brand_for(info, rules, override)
             family_id = safe_id(override.get("family", info["family"]))
             category_names = " ".join([info["family"]] + info.get("family_zh", []) + info.get("full_name_zh", []))

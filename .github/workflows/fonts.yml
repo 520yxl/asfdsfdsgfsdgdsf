@@ -17,22 +17,26 @@ concurrency:
 jobs:
   index:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 120
+    env:
+      PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
-          fetch-depth: 0
+          fetch-depth: 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - name: Install font parsing dependencies
         run: python -m pip install --upgrade pip && pip install -r requirements.txt
-      - uses: actions/cache@v4
+      - uses: actions/cache/restore@v4
         with:
-          path: .cache/desktop-fonts-v1
-          key: desktop-fonts-v1-${{ github.run_id }}
-          restore-keys: desktop-fonts-v1-
+          path: |
+            .cache/desktop-fonts-v1
+            .cache/local-fonts-v1
+          key: font-metadata-v2-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: font-metadata-v2-
       - name: Validate desktop catalog rules
         run: python -m unittest discover -s tests -p 'test_desktop_catalog.py'
       - name: Sort fonts and build index
@@ -47,6 +51,14 @@ jobs:
         run: python scripts/fontsource_catalog.py
       - name: Exclude fonts unavailable for desktop design software
         run: python scripts/filter_usable_fonts.py
+      - name: Save font metadata cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            .cache/desktop-fonts-v1
+            .cache/local-fonts-v1
+          key: font-metadata-v2-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Check catalog size and formats
         run: |
           python -c "import json,pathlib; p=pathlib.Path('dist/fonts.json'); a=json.loads(p.read_text()); assert a and p.stat().st_size<24*1024*1024; assert all(x['format'] in ('ttf','otf') for x in a)"
