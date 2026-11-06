@@ -19,7 +19,7 @@
     {
       "code": "en",
       "name": "英语",
-      "count": 14544
+      "count": 14545
     },
     {
       "code": "ko",
@@ -36,7 +36,7 @@
     {
       "code": "Latin",
       "name": "拉丁字母",
-      "count": 14504
+      "count": 14505
     },
     {
       "code": "Hiragana-Katakana",
@@ -79,7 +79,7 @@
     },
     {
       "name": "宋体",
-      "count": 1236
+      "count": 1237
     },
     {
       "name": "手写体",
@@ -3786,6 +3786,11 @@
     {
       "id": "woowa-brothers-corporation",
       "name": "WOOWA BROTHERS Corporation.",
+      "count": 1
+    },
+    {
+      "id": "wordmark-vercel-mark-davis-andr-s-briganti",
+      "name": "WORDMARK, Vercel, Mark Davis, Andrés Briganti",
       "count": 1
     },
     {
