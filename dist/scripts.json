@@ -2,27 +2,27 @@
   {
     "code": "Hebrew",
     "name": "希伯来字母",
-    "count": 916
+    "count": 923
   },
   {
     "code": "Latin",
     "name": "拉丁字母",
-    "count": 14505
+    "count": 14512
   },
   {
     "code": "Hiragana-Katakana",
     "name": "日文假名",
-    "count": 4723
+    "count": 4730
   },
   {
     "code": "Han",
     "name": "汉字",
-    "count": 5223
+    "count": 5230
   },
   {
     "code": "Cyrillic",
     "name": "西里尔字母",
-    "count": 7501
+    "count": 7508
   },
   {
     "code": "Arabic",
