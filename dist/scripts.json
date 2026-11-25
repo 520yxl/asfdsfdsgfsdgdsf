@@ -7,22 +7,22 @@
   {
     "code": "Latin",
     "name": "拉丁字母",
-    "count": 14515
+    "count": 14511
   },
   {
     "code": "Hiragana-Katakana",
     "name": "日文假名",
-    "count": 4730
+    "count": 4726
   },
   {
     "code": "Han",
     "name": "汉字",
-    "count": 5230
+    "count": 5226
   },
   {
     "code": "Cyrillic",
     "name": "西里尔字母",
-    "count": 7508
+    "count": 7504
   },
   {
     "code": "Arabic",
